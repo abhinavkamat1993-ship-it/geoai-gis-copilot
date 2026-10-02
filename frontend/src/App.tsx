@@ -12,10 +12,13 @@ function App() {
 
       <main className="app-main">
         <section className="map-area">
-          <div className="map-placeholder">
-            <h2>GIS Map</h2>
-            <p>Interactive map will appear here.</p>
-          </div>
+          <arcgis-map
+            basemap="osm"
+            center="72.5714,23.0225"
+            zoom={12}
+          >
+            <arcgis-zoom slot="top-left"></arcgis-zoom>
+          </arcgis-map>
         </section>
 
         <section className="chat-area">
