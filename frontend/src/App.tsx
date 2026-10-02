@@ -1,6 +1,35 @@
+import { useEffect } from 'react'
 import './App.css'
+import GeoJSONLayer from '@arcgis/core/layers/GeoJSONLayer'
 
 function App() {
+  useEffect(() => {
+    const mapElement = document.querySelector('arcgis-map')
+
+    if (!mapElement) {
+      return
+    }
+
+    const handleMapReady = () => {
+      const layer = new GeoJSONLayer({
+        url: '/data/midstream-assets.geojson',
+        title: 'Midstream Assets',
+      })
+
+      if (!mapElement.map) {
+  return
+}
+
+mapElement.map.add(layer)
+    }
+
+    mapElement.addEventListener('arcgisViewReadyChange', handleMapReady)
+
+    return () => {
+      mapElement.removeEventListener('arcgisViewReadyChange', handleMapReady)
+    }
+  }, [])
+
   return (
     <div className="app">
       <header className="app-header">
