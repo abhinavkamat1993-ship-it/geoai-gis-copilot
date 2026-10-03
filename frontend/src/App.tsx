@@ -6,6 +6,7 @@ import Graphic from '@arcgis/core/Graphic'
 import * as geodesicBufferOperator from '@arcgis/core/geometry/operators/geodesicBufferOperator'
 
 function App() {
+  const [question, setQuestion] = useState('')
     const [showAssets, setShowAssets] = useState(true)
     const [selectedPoint, setSelectedPoint] = useState<{
   longitude: number
@@ -232,13 +233,41 @@ mapElement.addEventListener('arcgisViewClick', handleMapClick)
   </label>
 </div>
           <input
-            type="text"
-            placeholder="Ask a GIS question..."
-          />
+  type="text"
+  placeholder="Ask a GIS question..."
+  value={question}
+  onChange={(event) => setQuestion(event.target.value)}
+/>
 
-          <button type="button">
-            Send
-          </button>
+          <button
+  type="button"
+onClick={() => {
+  const normalizedQuestion = question.toLowerCase().trim()
+
+  if (
+    normalizedQuestion.includes('within') &&
+    normalizedQuestion.includes('2 km')
+  ) {
+    console.log('GIS INTENT:', {
+      operation: 'WITHIN_DISTANCE',
+      distance: 2,
+      unit: 'kilometers',
+      layer: 'Midstream Assets',
+    })
+
+    if (!selectedPoint) {
+      console.log('No reference point selected')
+      return
+    }
+
+    console.log('REFERENCE POINT:', selectedPoint)
+  } else {
+    console.log('GIS INTENT: Not recognized')
+  }
+}}
+>
+  Send
+</button>
         </section>
       </main>
     </div>
