@@ -3,6 +3,7 @@ import './App.css'
 import GeoJSONLayer from '@arcgis/core/layers/GeoJSONLayer'
 import GraphicsLayer from '@arcgis/core/layers/GraphicsLayer'
 import Graphic from '@arcgis/core/Graphic'
+import Point from '@arcgis/core/geometry/Point'
 import * as geodesicBufferOperator from '@arcgis/core/geometry/operators/geodesicBufferOperator'
 
 function App() {
@@ -15,6 +16,67 @@ function App() {
 const [queryResults, setQueryResults] = useState<Graphic[]>([])
   const assetLayerRef = useRef<GeoJSONLayer | null>(null)
   const selectedPointLayerRef = useRef<GraphicsLayer | null>(null)
+  const runWithinDistance = async (
+  mapPoint: Parameters<typeof geodesicBufferOperator.execute>[0],
+  distanceKm: number,
+) => {
+  if (!assetLayerRef.current || !selectedPointLayerRef.current) {
+    return
+  }
+
+  if (!geodesicBufferOperator.isLoaded()) {
+    await geodesicBufferOperator.load()
+  }
+
+  const buffer = geodesicBufferOperator.execute(mapPoint, distanceKm, {
+    unit: 'kilometers',
+  })
+
+  console.log(`${distanceKm} KM BUFFER:`, buffer)
+
+  const bufferGraphic = new Graphic({
+    geometry: buffer,
+    symbol: {
+      type: 'simple-fill',
+      color: [255, 0, 0, 0.15],
+      outline: {
+        color: 'red',
+        width: 2,
+      },
+    },
+  })
+
+  selectedPointLayerRef.current.add(bufferGraphic)
+
+  const result = await assetLayerRef.current.queryFeatures({
+    geometry: buffer,
+    spatialRelationship: 'intersects',
+    returnGeometry: true,
+    outFields: ['*'],
+  })
+
+  console.log(`ASSETS WITHIN ${distanceKm} KM:`, result.features)
+
+  setQueryResults(result.features)
+
+  result.features.forEach((feature) => {
+    const resultGraphic = new Graphic({
+      geometry: feature.geometry,
+      symbol: {
+        type: 'simple-marker',
+        style: 'diamond',
+        color: 'blue',
+        size: '16px',
+        outline: {
+          color: 'white',
+          width: 2,
+        },
+      },
+    })
+
+    selectedPointLayerRef.current?.add(resultGraphic)
+  })
+}
   useEffect(() => {
     const mapElement = document.querySelector('arcgis-map')
 
@@ -66,6 +128,7 @@ selectedPointLayerRef.current = selectedPointLayer
 mapElement.map.add(selectedPointLayer)
 
 const handleMapClick = async (event: CustomEvent) => {
+  
   console.log('MAP CLICK DETECTED', event)
 
   const { mapPoint } = event.detail
@@ -74,72 +137,28 @@ const handleMapClick = async (event: CustomEvent) => {
     longitude: mapPoint.longitude,
     latitude: mapPoint.latitude,
   })
+
   if (selectedPointLayerRef.current) {
-  selectedPointLayerRef.current.removeAll()
+    selectedPointLayerRef.current.removeAll()
 
-  const graphic = new Graphic({
-    geometry: mapPoint,
-    symbol: {
-      type: 'simple-marker',
-      style: 'circle',
-      color: 'red',
-      size: '14px',
-      outline: {
-        color: 'white',
-        width: 2,
+    const graphic = new Graphic({
+      geometry: mapPoint,
+      symbol: {
+        type: 'simple-marker',
+        style: 'circle',
+        color: 'red',
+        size: '14px',
+        outline: {
+          color: 'white',
+          width: 2,
+        },
       },
-    },
-  })
+    })
 
-  selectedPointLayerRef.current.add(graphic)
-}
-if (!geodesicBufferOperator.isLoaded()) {
-  await geodesicBufferOperator.load()
-}
-const buffer = geodesicBufferOperator.execute(mapPoint, 2, {
-  unit: 'kilometers',
-})
+    selectedPointLayerRef.current.add(graphic)
+  }
 
-console.log('2 KM BUFFER:', buffer)
-const bufferGraphic = new Graphic({
-  geometry: buffer,
-  symbol: {
-    type: 'simple-fill',
-    color: [255, 0, 0, 0.15],
-    outline: {
-      color: 'red',
-      width: 2,
-    },
-  },
-})
-
-selectedPointLayerRef.current?.add(bufferGraphic)
-const result = await layer.queryFeatures({
-  geometry: buffer,
-  spatialRelationship: 'intersects',
-  returnGeometry: true,
-  outFields: ['*'],
-})
-
-console.log('ASSETS WITHIN 2 KM:', result.features)
-setQueryResults(result.features)
-result.features.forEach((feature) => {
-  const resultGraphic = new Graphic({
-    geometry: feature.geometry,
-    symbol: {
-      type: 'simple-marker',
-      style: 'diamond',
-      color: 'blue',
-      size: '16px',
-      outline: {
-        color: 'white',
-        width: 2,
-      },
-    },
-  })
-
-  selectedPointLayerRef.current?.add(resultGraphic)
-})
+  await runWithinDistance(mapPoint, 2)
 }
 
 mapElement.addEventListener('arcgisViewClick', handleMapClick)
@@ -242,6 +261,7 @@ mapElement.addEventListener('arcgisViewClick', handleMapClick)
           <button
   type="button"
 onClick={() => {
+  
   const normalizedQuestion = question.toLowerCase().trim()
 
   if (
@@ -261,6 +281,23 @@ onClick={() => {
     }
 
     console.log('REFERENCE POINT:', selectedPoint)
+
+    const mapElement = document.querySelector('arcgis-map')
+
+    if (!mapElement) {
+      return
+    }
+
+  runWithinDistance(
+  new Point({
+    longitude: selectedPoint.longitude,
+    latitude: selectedPoint.latitude,
+    spatialReference: {
+      wkid: 4326,
+    },
+  }),
+  2,
+)
   } else {
     console.log('GIS INTENT: Not recognized')
   }
