@@ -8,6 +8,7 @@ import * as geodesicBufferOperator from '@arcgis/core/geometry/operators/geodesi
 
 function App() {
   const [question, setQuestion] = useState('')
+  const [queryLabel, setQueryLabel] = useState('Assets within 2 km')
     const [showAssets, setShowAssets] = useState(true)
     const [selectedPoint, setSelectedPoint] = useState<{
   longitude: number
@@ -16,14 +17,20 @@ function App() {
 const [queryResults, setQueryResults] = useState<Graphic[]>([])
   const assetLayerRef = useRef<GeoJSONLayer | null>(null)
   const selectedPointLayerRef = useRef<GraphicsLayer | null>(null)
-  const runWithinDistance = async (
+ 
+ const runWithinDistance = async (
   mapPoint: Parameters<typeof geodesicBufferOperator.execute>[0],
   distanceKm: number,
+  assetType: string | null,
 ) => {
   if (!assetLayerRef.current || !selectedPointLayerRef.current) {
     return
   }
-
+setQueryLabel(
+  assetType
+    ? `${assetType}s within ${distanceKm} km`
+    : `Assets within ${distanceKm} km`,
+)
   if (!geodesicBufferOperator.isLoaded()) {
     await geodesicBufferOperator.load()
   }
@@ -48,12 +55,15 @@ const [queryResults, setQueryResults] = useState<Graphic[]>([])
 
   selectedPointLayerRef.current.add(bufferGraphic)
 
-  const result = await assetLayerRef.current.queryFeatures({
-    geometry: buffer,
-    spatialRelationship: 'intersects',
-    returnGeometry: true,
-    outFields: ['*'],
-  })
+const result = await assetLayerRef.current.queryFeatures({
+  geometry: buffer,
+  spatialRelationship: 'intersects',
+  where: assetType
+    ? `asset_type = '${assetType}'`
+    : '1=1',
+  returnGeometry: true,
+  outFields: ['*'],
+})
 
   console.log(`ASSETS WITHIN ${distanceKm} KM:`, result.features)
 
@@ -158,7 +168,7 @@ const handleMapClick = async (event: CustomEvent) => {
     selectedPointLayerRef.current.add(graphic)
   }
 
-  await runWithinDistance(mapPoint, 2)
+ await runWithinDistance(mapPoint, 2, null)
 }
 
 mapElement.addEventListener('arcgisViewClick', handleMapClick)
@@ -203,7 +213,7 @@ mapElement.addEventListener('arcgisViewClick', handleMapClick)
 
         <section className="chat-area">
           <div className="results-panel">
-  <h3>Assets within 2 km</h3>
+<h3>{queryLabel}</h3>
 
   <p>{queryResults.length} asset(s) found</p>
 
@@ -260,17 +270,37 @@ mapElement.addEventListener('arcgisViewClick', handleMapClick)
 
           <button
   type="button"
-onClick={() => {
+onClick={async () => {
   
   const normalizedQuestion = question.toLowerCase().trim()
 
-  if (
-    normalizedQuestion.includes('within') &&
-    normalizedQuestion.includes('2 km')
-  ) {
+ const distanceMatch = normalizedQuestion.match(/within\s+(\d+(?:\.\d+)?)\s*km/)
+
+if (distanceMatch) {
+  const distanceKm = Number(distanceMatch[1])
+  
+  let assetType: string | null = null
+
+if (normalizedQuestion.includes('valve')) {
+  assetType = 'Valve'
+} else if (normalizedQuestion.includes('pump station')) {
+  assetType = 'Pump Station'
+} else if (normalizedQuestion.includes('facility')) {
+  assetType = 'Facility'
+}
+
+
+setQueryLabel(
+  assetType
+    ? `${assetType}s within ${distanceKm} km`
+    : `Assets within ${distanceKm} km`,
+)
+if (!geodesicBufferOperator.isLoaded()) {
+    await geodesicBufferOperator.load()
+  }
     console.log('GIS INTENT:', {
       operation: 'WITHIN_DISTANCE',
-      distance: 2,
+      distance: distanceKm,
       unit: 'kilometers',
       layer: 'Midstream Assets',
     })
@@ -288,7 +318,7 @@ onClick={() => {
       return
     }
 
-  runWithinDistance(
+ runWithinDistance(
   new Point({
     longitude: selectedPoint.longitude,
     latitude: selectedPoint.latitude,
@@ -296,7 +326,8 @@ onClick={() => {
       wkid: 4326,
     },
   }),
-  2,
+  distanceKm,
+  assetType,
 )
   } else {
     console.log('GIS INTENT: Not recognized')
