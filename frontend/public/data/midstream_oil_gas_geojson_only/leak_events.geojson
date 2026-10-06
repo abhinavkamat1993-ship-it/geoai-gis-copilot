@@ -1,0 +1,1505 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.410647,
+          31.879194
+        ]
+      },
+      "properties": {
+        "event_date": "2021-05-16",
+        "product": "Crude Oil",
+        "severity": "Major",
+        "estimated_volume": 4761,
+        "volume_unit": "MCF",
+        "cause": "Valve Failure",
+        "response_status": "Remediation",
+        "asset_id": "LEAK-0001"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.447552,
+          31.227986
+        ]
+      },
+      "properties": {
+        "event_date": "2024-12-27",
+        "product": "Crude Oil",
+        "severity": "Major",
+        "estimated_volume": 4199,
+        "volume_unit": "GAL",
+        "cause": "Valve Failure",
+        "response_status": "Closed",
+        "asset_id": "LEAK-0002"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.222138,
+          31.890746
+        ]
+      },
+      "properties": {
+        "event_date": "2021-03-11",
+        "product": "Condensate",
+        "severity": "Moderate",
+        "estimated_volume": 2928,
+        "volume_unit": "BBL",
+        "cause": "Corrosion",
+        "response_status": "Under Investigation",
+        "asset_id": "LEAK-0003"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.84198,
+          31.23399
+        ]
+      },
+      "properties": {
+        "event_date": "2023-01-10",
+        "product": "NGL",
+        "severity": "Minor",
+        "estimated_volume": 4210,
+        "volume_unit": "BBL",
+        "cause": "Third Party Damage",
+        "response_status": "Closed",
+        "asset_id": "LEAK-0004"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.482696,
+          31.018057
+        ]
+      },
+      "properties": {
+        "event_date": "2023-06-27",
+        "product": "NGL",
+        "severity": "Major",
+        "estimated_volume": 2970,
+        "volume_unit": "BBL",
+        "cause": "Valve Failure",
+        "response_status": "Under Investigation",
+        "asset_id": "LEAK-0005"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.552712,
+          31.309559
+        ]
+      },
+      "properties": {
+        "event_date": "2025-05-12",
+        "product": "Condensate",
+        "severity": "Critical",
+        "estimated_volume": 2788,
+        "volume_unit": "BBL",
+        "cause": "Corrosion",
+        "response_status": "Closed",
+        "asset_id": "LEAK-0006"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.322544,
+          31.671326
+        ]
+      },
+      "properties": {
+        "event_date": "2022-09-20",
+        "product": "Crude Oil",
+        "severity": "Critical",
+        "estimated_volume": 3773,
+        "volume_unit": "BBL",
+        "cause": "Corrosion",
+        "response_status": "Closed",
+        "asset_id": "LEAK-0007"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.664168,
+          31.040263
+        ]
+      },
+      "properties": {
+        "event_date": "2023-12-12",
+        "product": "Natural Gas",
+        "severity": "Critical",
+        "estimated_volume": 4896,
+        "volume_unit": "GAL",
+        "cause": "Equipment Failure",
+        "response_status": "Closed",
+        "asset_id": "LEAK-0008"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.230225,
+          31.594727
+        ]
+      },
+      "properties": {
+        "event_date": "2021-04-05",
+        "product": "Natural Gas",
+        "severity": "Moderate",
+        "estimated_volume": 2519,
+        "volume_unit": "BBL",
+        "cause": "Third Party Damage",
+        "response_status": "Closed",
+        "asset_id": "LEAK-0009"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.531112,
+          31.718871
+        ]
+      },
+      "properties": {
+        "event_date": "2021-02-01",
+        "product": "Condensate",
+        "severity": "Critical",
+        "estimated_volume": 349,
+        "volume_unit": "BBL",
+        "cause": "Corrosion",
+        "response_status": "Closed",
+        "asset_id": "LEAK-0010"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.548207,
+          32.288137
+        ]
+      },
+      "properties": {
+        "event_date": "2021-08-04",
+        "product": "NGL",
+        "severity": "Minor",
+        "estimated_volume": 543,
+        "volume_unit": "MCF",
+        "cause": "Corrosion",
+        "response_status": "Closed",
+        "asset_id": "LEAK-0011"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.281933,
+          31.486971
+        ]
+      },
+      "properties": {
+        "event_date": "2022-10-07",
+        "product": "Natural Gas",
+        "severity": "Major",
+        "estimated_volume": 240,
+        "volume_unit": "BBL",
+        "cause": "Third Party Damage",
+        "response_status": "Under Investigation",
+        "asset_id": "LEAK-0012"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.654701,
+          32.349969
+        ]
+      },
+      "properties": {
+        "event_date": "2022-09-25",
+        "product": "Natural Gas",
+        "severity": "Minor",
+        "estimated_volume": 812,
+        "volume_unit": "GAL",
+        "cause": "Corrosion",
+        "response_status": "Closed",
+        "asset_id": "LEAK-0013"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.682987,
+          31.259176
+        ]
+      },
+      "properties": {
+        "event_date": "2022-09-01",
+        "product": "Crude Oil",
+        "severity": "Moderate",
+        "estimated_volume": 4131,
+        "volume_unit": "GAL",
+        "cause": "Unknown",
+        "response_status": "Under Investigation",
+        "asset_id": "LEAK-0014"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.147875,
+          32.065973
+        ]
+      },
+      "properties": {
+        "event_date": "2026-02-06",
+        "product": "NGL",
+        "severity": "Critical",
+        "estimated_volume": 3475,
+        "volume_unit": "BBL",
+        "cause": "Valve Failure",
+        "response_status": "Closed",
+        "asset_id": "LEAK-0015"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.668403,
+          31.691198
+        ]
+      },
+      "properties": {
+        "event_date": "2023-02-15",
+        "product": "Crude Oil",
+        "severity": "Moderate",
+        "estimated_volume": 4062,
+        "volume_unit": "MCF",
+        "cause": "Equipment Failure",
+        "response_status": "Closed",
+        "asset_id": "LEAK-0016"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.22406,
+          31.599146
+        ]
+      },
+      "properties": {
+        "event_date": "2024-05-15",
+        "product": "NGL",
+        "severity": "Critical",
+        "estimated_volume": 1851,
+        "volume_unit": "GAL",
+        "cause": "Unknown",
+        "response_status": "Under Investigation",
+        "asset_id": "LEAK-0017"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.165808,
+          31.731727
+        ]
+      },
+      "properties": {
+        "event_date": "2021-08-22",
+        "product": "NGL",
+        "severity": "Moderate",
+        "estimated_volume": 105,
+        "volume_unit": "GAL",
+        "cause": "Unknown",
+        "response_status": "Closed",
+        "asset_id": "LEAK-0018"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.613709,
+          32.249399
+        ]
+      },
+      "properties": {
+        "event_date": "2026-02-04",
+        "product": "Natural Gas",
+        "severity": "Critical",
+        "estimated_volume": 3282,
+        "volume_unit": "GAL",
+        "cause": "Valve Failure",
+        "response_status": "Closed",
+        "asset_id": "LEAK-0019"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.427409,
+          31.594586
+        ]
+      },
+      "properties": {
+        "event_date": "2022-02-12",
+        "product": "Natural Gas",
+        "severity": "Major",
+        "estimated_volume": 1641,
+        "volume_unit": "GAL",
+        "cause": "Unknown",
+        "response_status": "Closed",
+        "asset_id": "LEAK-0020"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.219963,
+          31.71598
+        ]
+      },
+      "properties": {
+        "event_date": "2024-05-25",
+        "product": "NGL",
+        "severity": "Critical",
+        "estimated_volume": 2918,
+        "volume_unit": "MCF",
+        "cause": "Valve Failure",
+        "response_status": "Remediation",
+        "asset_id": "LEAK-0021"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.752442,
+          32.032918
+        ]
+      },
+      "properties": {
+        "event_date": "2022-08-04",
+        "product": "Crude Oil",
+        "severity": "Major",
+        "estimated_volume": 4009,
+        "volume_unit": "MCF",
+        "cause": "Third Party Damage",
+        "response_status": "Closed",
+        "asset_id": "LEAK-0022"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.315596,
+          31.872526
+        ]
+      },
+      "properties": {
+        "event_date": "2021-08-22",
+        "product": "Crude Oil",
+        "severity": "Moderate",
+        "estimated_volume": 3135,
+        "volume_unit": "GAL",
+        "cause": "Equipment Failure",
+        "response_status": "Closed",
+        "asset_id": "LEAK-0023"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.992328,
+          31.759413
+        ]
+      },
+      "properties": {
+        "event_date": "2021-11-25",
+        "product": "Condensate",
+        "severity": "Critical",
+        "estimated_volume": 1655,
+        "volume_unit": "MCF",
+        "cause": "Unknown",
+        "response_status": "Remediation",
+        "asset_id": "LEAK-0024"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.435401,
+          31.619579
+        ]
+      },
+      "properties": {
+        "event_date": "2025-09-01",
+        "product": "Crude Oil",
+        "severity": "Critical",
+        "estimated_volume": 976,
+        "volume_unit": "MCF",
+        "cause": "Unknown",
+        "response_status": "Under Investigation",
+        "asset_id": "LEAK-0025"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.654843,
+          31.682437
+        ]
+      },
+      "properties": {
+        "event_date": "2021-01-06",
+        "product": "NGL",
+        "severity": "Moderate",
+        "estimated_volume": 4027,
+        "volume_unit": "MCF",
+        "cause": "Third Party Damage",
+        "response_status": "Under Investigation",
+        "asset_id": "LEAK-0026"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.173784,
+          31.692568
+        ]
+      },
+      "properties": {
+        "event_date": "2021-10-22",
+        "product": "Condensate",
+        "severity": "Critical",
+        "estimated_volume": 3899,
+        "volume_unit": "GAL",
+        "cause": "Third Party Damage",
+        "response_status": "Closed",
+        "asset_id": "LEAK-0027"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.594883,
+          31.512974
+        ]
+      },
+      "properties": {
+        "event_date": "2024-10-22",
+        "product": "NGL",
+        "severity": "Major",
+        "estimated_volume": 2626,
+        "volume_unit": "BBL",
+        "cause": "Corrosion",
+        "response_status": "Closed",
+        "asset_id": "LEAK-0028"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.140913,
+          31.079029
+        ]
+      },
+      "properties": {
+        "event_date": "2026-10-01",
+        "product": "NGL",
+        "severity": "Critical",
+        "estimated_volume": 798,
+        "volume_unit": "MCF",
+        "cause": "Equipment Failure",
+        "response_status": "Under Investigation",
+        "asset_id": "LEAK-0029"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.528353,
+          31.753784
+        ]
+      },
+      "properties": {
+        "event_date": "2022-04-08",
+        "product": "NGL",
+        "severity": "Minor",
+        "estimated_volume": 537,
+        "volume_unit": "MCF",
+        "cause": "Corrosion",
+        "response_status": "Under Investigation",
+        "asset_id": "LEAK-0030"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.222776,
+          31.528833
+        ]
+      },
+      "properties": {
+        "event_date": "2021-08-22",
+        "product": "Condensate",
+        "severity": "Critical",
+        "estimated_volume": 2185,
+        "volume_unit": "BBL",
+        "cause": "Unknown",
+        "response_status": "Closed",
+        "asset_id": "LEAK-0031"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.00523,
+          32.13604
+        ]
+      },
+      "properties": {
+        "event_date": "2024-06-19",
+        "product": "Crude Oil",
+        "severity": "Critical",
+        "estimated_volume": 820,
+        "volume_unit": "GAL",
+        "cause": "Third Party Damage",
+        "response_status": "Under Investigation",
+        "asset_id": "LEAK-0032"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.455391,
+          31.750168
+        ]
+      },
+      "properties": {
+        "event_date": "2026-06-06",
+        "product": "NGL",
+        "severity": "Major",
+        "estimated_volume": 3572,
+        "volume_unit": "BBL",
+        "cause": "Unknown",
+        "response_status": "Closed",
+        "asset_id": "LEAK-0033"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.853017,
+          31.382711
+        ]
+      },
+      "properties": {
+        "event_date": "2023-05-02",
+        "product": "NGL",
+        "severity": "Critical",
+        "estimated_volume": 1851,
+        "volume_unit": "GAL",
+        "cause": "Corrosion",
+        "response_status": "Closed",
+        "asset_id": "LEAK-0034"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.107343,
+          31.755927
+        ]
+      },
+      "properties": {
+        "event_date": "2025-09-16",
+        "product": "Condensate",
+        "severity": "Moderate",
+        "estimated_volume": 2846,
+        "volume_unit": "BBL",
+        "cause": "Equipment Failure",
+        "response_status": "Under Investigation",
+        "asset_id": "LEAK-0035"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.877051,
+          31.298134
+        ]
+      },
+      "properties": {
+        "event_date": "2022-07-13",
+        "product": "NGL",
+        "severity": "Critical",
+        "estimated_volume": 4486,
+        "volume_unit": "BBL",
+        "cause": "Corrosion",
+        "response_status": "Closed",
+        "asset_id": "LEAK-0036"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.56361,
+          31.210662
+        ]
+      },
+      "properties": {
+        "event_date": "2026-08-09",
+        "product": "Condensate",
+        "severity": "Minor",
+        "estimated_volume": 4279,
+        "volume_unit": "BBL",
+        "cause": "Equipment Failure",
+        "response_status": "Remediation",
+        "asset_id": "LEAK-0037"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.372904,
+          31.401862
+        ]
+      },
+      "properties": {
+        "event_date": "2026-05-28",
+        "product": "Condensate",
+        "severity": "Critical",
+        "estimated_volume": 2611,
+        "volume_unit": "BBL",
+        "cause": "Third Party Damage",
+        "response_status": "Remediation",
+        "asset_id": "LEAK-0038"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.755673,
+          32.115863
+        ]
+      },
+      "properties": {
+        "event_date": "2022-05-22",
+        "product": "Natural Gas",
+        "severity": "Critical",
+        "estimated_volume": 1954,
+        "volume_unit": "BBL",
+        "cause": "Third Party Damage",
+        "response_status": "Closed",
+        "asset_id": "LEAK-0039"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.581711,
+          31.361756
+        ]
+      },
+      "properties": {
+        "event_date": "2023-08-16",
+        "product": "Condensate",
+        "severity": "Critical",
+        "estimated_volume": 304,
+        "volume_unit": "BBL",
+        "cause": "Third Party Damage",
+        "response_status": "Under Investigation",
+        "asset_id": "LEAK-0040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.297752,
+          31.417171
+        ]
+      },
+      "properties": {
+        "event_date": "2023-11-18",
+        "product": "Natural Gas",
+        "severity": "Minor",
+        "estimated_volume": 3981,
+        "volume_unit": "BBL",
+        "cause": "Corrosion",
+        "response_status": "Closed",
+        "asset_id": "LEAK-0041"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.964868,
+          32.160574
+        ]
+      },
+      "properties": {
+        "event_date": "2021-07-12",
+        "product": "Crude Oil",
+        "severity": "Critical",
+        "estimated_volume": 1152,
+        "volume_unit": "BBL",
+        "cause": "Corrosion",
+        "response_status": "Closed",
+        "asset_id": "LEAK-0042"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.468265,
+          32.032131
+        ]
+      },
+      "properties": {
+        "event_date": "2025-05-16",
+        "product": "Crude Oil",
+        "severity": "Moderate",
+        "estimated_volume": 4914,
+        "volume_unit": "BBL",
+        "cause": "Equipment Failure",
+        "response_status": "Under Investigation",
+        "asset_id": "LEAK-0043"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.248122,
+          31.615266
+        ]
+      },
+      "properties": {
+        "event_date": "2026-12-08",
+        "product": "Condensate",
+        "severity": "Moderate",
+        "estimated_volume": 1182,
+        "volume_unit": "BBL",
+        "cause": "Third Party Damage",
+        "response_status": "Closed",
+        "asset_id": "LEAK-0044"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.040233,
+          31.344885
+        ]
+      },
+      "properties": {
+        "event_date": "2023-10-02",
+        "product": "Condensate",
+        "severity": "Major",
+        "estimated_volume": 926,
+        "volume_unit": "MCF",
+        "cause": "Valve Failure",
+        "response_status": "Remediation",
+        "asset_id": "LEAK-0045"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.453643,
+          31.927113
+        ]
+      },
+      "properties": {
+        "event_date": "2023-03-12",
+        "product": "Condensate",
+        "severity": "Major",
+        "estimated_volume": 2525,
+        "volume_unit": "BBL",
+        "cause": "Valve Failure",
+        "response_status": "Closed",
+        "asset_id": "LEAK-0046"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.354949,
+          31.959348
+        ]
+      },
+      "properties": {
+        "event_date": "2021-12-26",
+        "product": "Natural Gas",
+        "severity": "Major",
+        "estimated_volume": 4528,
+        "volume_unit": "MCF",
+        "cause": "Equipment Failure",
+        "response_status": "Under Investigation",
+        "asset_id": "LEAK-0047"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.655599,
+          32.151791
+        ]
+      },
+      "properties": {
+        "event_date": "2025-04-28",
+        "product": "Condensate",
+        "severity": "Critical",
+        "estimated_volume": 65,
+        "volume_unit": "MCF",
+        "cause": "Equipment Failure",
+        "response_status": "Under Investigation",
+        "asset_id": "LEAK-0048"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.361542,
+          31.112132
+        ]
+      },
+      "properties": {
+        "event_date": "2022-05-07",
+        "product": "Natural Gas",
+        "severity": "Critical",
+        "estimated_volume": 2599,
+        "volume_unit": "GAL",
+        "cause": "Unknown",
+        "response_status": "Closed",
+        "asset_id": "LEAK-0049"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.989865,
+          31.492599
+        ]
+      },
+      "properties": {
+        "event_date": "2024-08-24",
+        "product": "Condensate",
+        "severity": "Major",
+        "estimated_volume": 3461,
+        "volume_unit": "BBL",
+        "cause": "Third Party Damage",
+        "response_status": "Under Investigation",
+        "asset_id": "LEAK-0050"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.534369,
+          31.190529
+        ]
+      },
+      "properties": {
+        "event_date": "2025-12-27",
+        "product": "NGL",
+        "severity": "Critical",
+        "estimated_volume": 225,
+        "volume_unit": "BBL",
+        "cause": "Third Party Damage",
+        "response_status": "Remediation",
+        "asset_id": "LEAK-0051"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.400634,
+          31.99899
+        ]
+      },
+      "properties": {
+        "event_date": "2024-04-21",
+        "product": "NGL",
+        "severity": "Major",
+        "estimated_volume": 4718,
+        "volume_unit": "BBL",
+        "cause": "Corrosion",
+        "response_status": "Closed",
+        "asset_id": "LEAK-0052"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.522434,
+          31.830229
+        ]
+      },
+      "properties": {
+        "event_date": "2026-03-28",
+        "product": "Condensate",
+        "severity": "Major",
+        "estimated_volume": 3699,
+        "volume_unit": "MCF",
+        "cause": "Third Party Damage",
+        "response_status": "Under Investigation",
+        "asset_id": "LEAK-0053"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.288389,
+          32.238078
+        ]
+      },
+      "properties": {
+        "event_date": "2023-05-07",
+        "product": "Crude Oil",
+        "severity": "Critical",
+        "estimated_volume": 3012,
+        "volume_unit": "BBL",
+        "cause": "Unknown",
+        "response_status": "Remediation",
+        "asset_id": "LEAK-0054"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.720347,
+          31.865206
+        ]
+      },
+      "properties": {
+        "event_date": "2022-01-01",
+        "product": "Natural Gas",
+        "severity": "Minor",
+        "estimated_volume": 3789,
+        "volume_unit": "BBL",
+        "cause": "Equipment Failure",
+        "response_status": "Closed",
+        "asset_id": "LEAK-0055"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.650267,
+          31.609222
+        ]
+      },
+      "properties": {
+        "event_date": "2025-05-05",
+        "product": "Crude Oil",
+        "severity": "Major",
+        "estimated_volume": 1394,
+        "volume_unit": "GAL",
+        "cause": "Corrosion",
+        "response_status": "Closed",
+        "asset_id": "LEAK-0056"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.605691,
+          31.534903
+        ]
+      },
+      "properties": {
+        "event_date": "2024-11-16",
+        "product": "Crude Oil",
+        "severity": "Moderate",
+        "estimated_volume": 1665,
+        "volume_unit": "BBL",
+        "cause": "Equipment Failure",
+        "response_status": "Under Investigation",
+        "asset_id": "LEAK-0057"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.532058,
+          31.040282
+        ]
+      },
+      "properties": {
+        "event_date": "2024-04-20",
+        "product": "Natural Gas",
+        "severity": "Major",
+        "estimated_volume": 1552,
+        "volume_unit": "MCF",
+        "cause": "Third Party Damage",
+        "response_status": "Remediation",
+        "asset_id": "LEAK-0058"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.783488,
+          31.186487
+        ]
+      },
+      "properties": {
+        "event_date": "2023-04-20",
+        "product": "Condensate",
+        "severity": "Moderate",
+        "estimated_volume": 3029,
+        "volume_unit": "GAL",
+        "cause": "Unknown",
+        "response_status": "Closed",
+        "asset_id": "LEAK-0059"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.683111,
+          31.7798
+        ]
+      },
+      "properties": {
+        "event_date": "2023-12-13",
+        "product": "Natural Gas",
+        "severity": "Critical",
+        "estimated_volume": 3468,
+        "volume_unit": "GAL",
+        "cause": "Valve Failure",
+        "response_status": "Under Investigation",
+        "asset_id": "LEAK-0060"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.791422,
+          31.706359
+        ]
+      },
+      "properties": {
+        "event_date": "2021-06-08",
+        "product": "Condensate",
+        "severity": "Major",
+        "estimated_volume": 4968,
+        "volume_unit": "GAL",
+        "cause": "Valve Failure",
+        "response_status": "Closed",
+        "asset_id": "LEAK-0061"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.383533,
+          31.705245
+        ]
+      },
+      "properties": {
+        "event_date": "2024-05-13",
+        "product": "NGL",
+        "severity": "Moderate",
+        "estimated_volume": 4584,
+        "volume_unit": "BBL",
+        "cause": "Valve Failure",
+        "response_status": "Closed",
+        "asset_id": "LEAK-0062"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.613053,
+          31.061827
+        ]
+      },
+      "properties": {
+        "event_date": "2023-08-05",
+        "product": "Crude Oil",
+        "severity": "Major",
+        "estimated_volume": 4346,
+        "volume_unit": "MCF",
+        "cause": "Third Party Damage",
+        "response_status": "Under Investigation",
+        "asset_id": "LEAK-0063"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.972844,
+          31.610086
+        ]
+      },
+      "properties": {
+        "event_date": "2022-08-28",
+        "product": "NGL",
+        "severity": "Major",
+        "estimated_volume": 3524,
+        "volume_unit": "MCF",
+        "cause": "Equipment Failure",
+        "response_status": "Under Investigation",
+        "asset_id": "LEAK-0064"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.497728,
+          31.076394
+        ]
+      },
+      "properties": {
+        "event_date": "2022-06-24",
+        "product": "Condensate",
+        "severity": "Moderate",
+        "estimated_volume": 4553,
+        "volume_unit": "GAL",
+        "cause": "Unknown",
+        "response_status": "Closed",
+        "asset_id": "LEAK-0065"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.734733,
+          31.499128
+        ]
+      },
+      "properties": {
+        "event_date": "2022-01-16",
+        "product": "NGL",
+        "severity": "Moderate",
+        "estimated_volume": 3827,
+        "volume_unit": "MCF",
+        "cause": "Corrosion",
+        "response_status": "Remediation",
+        "asset_id": "LEAK-0066"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.240633,
+          31.285227
+        ]
+      },
+      "properties": {
+        "event_date": "2026-09-16",
+        "product": "Condensate",
+        "severity": "Critical",
+        "estimated_volume": 922,
+        "volume_unit": "GAL",
+        "cause": "Third Party Damage",
+        "response_status": "Closed",
+        "asset_id": "LEAK-0067"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.866324,
+          32.360278
+        ]
+      },
+      "properties": {
+        "event_date": "2023-03-27",
+        "product": "Natural Gas",
+        "severity": "Major",
+        "estimated_volume": 4615,
+        "volume_unit": "GAL",
+        "cause": "Valve Failure",
+        "response_status": "Closed",
+        "asset_id": "LEAK-0068"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.758461,
+          31.953837
+        ]
+      },
+      "properties": {
+        "event_date": "2025-10-06",
+        "product": "Condensate",
+        "severity": "Minor",
+        "estimated_volume": 2017,
+        "volume_unit": "MCF",
+        "cause": "Corrosion",
+        "response_status": "Under Investigation",
+        "asset_id": "LEAK-0069"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.063627,
+          31.990789
+        ]
+      },
+      "properties": {
+        "event_date": "2026-02-13",
+        "product": "NGL",
+        "severity": "Minor",
+        "estimated_volume": 2651,
+        "volume_unit": "BBL",
+        "cause": "Corrosion",
+        "response_status": "Closed",
+        "asset_id": "LEAK-0070"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.280135,
+          32.024163
+        ]
+      },
+      "properties": {
+        "event_date": "2024-08-21",
+        "product": "NGL",
+        "severity": "Minor",
+        "estimated_volume": 2699,
+        "volume_unit": "BBL",
+        "cause": "Valve Failure",
+        "response_status": "Remediation",
+        "asset_id": "LEAK-0071"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.92455,
+          31.843208
+        ]
+      },
+      "properties": {
+        "event_date": "2026-10-05",
+        "product": "Natural Gas",
+        "severity": "Minor",
+        "estimated_volume": 2318,
+        "volume_unit": "MCF",
+        "cause": "Corrosion",
+        "response_status": "Closed",
+        "asset_id": "LEAK-0072"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.539295,
+          32.09129
+        ]
+      },
+      "properties": {
+        "event_date": "2021-07-09",
+        "product": "Natural Gas",
+        "severity": "Moderate",
+        "estimated_volume": 3268,
+        "volume_unit": "BBL",
+        "cause": "Corrosion",
+        "response_status": "Closed",
+        "asset_id": "LEAK-0073"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.354025,
+          31.844919
+        ]
+      },
+      "properties": {
+        "event_date": "2023-11-25",
+        "product": "Natural Gas",
+        "severity": "Minor",
+        "estimated_volume": 2446,
+        "volume_unit": "MCF",
+        "cause": "Unknown",
+        "response_status": "Under Investigation",
+        "asset_id": "LEAK-0074"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.370433,
+          31.840477
+        ]
+      },
+      "properties": {
+        "event_date": "2023-11-04",
+        "product": "NGL",
+        "severity": "Moderate",
+        "estimated_volume": 4011,
+        "volume_unit": "MCF",
+        "cause": "Unknown",
+        "response_status": "Remediation",
+        "asset_id": "LEAK-0075"
+      }
+    }
+  ]
+}

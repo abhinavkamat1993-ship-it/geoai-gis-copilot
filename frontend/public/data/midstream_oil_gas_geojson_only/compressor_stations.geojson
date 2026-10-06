@@ -1,0 +1,1215 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.032969,
+          32.217263
+        ]
+      },
+      "properties": {
+        "station_name": "Compressor Station 01",
+        "fuel": "Electric",
+        "units": 4,
+        "capacity_mmscfd": 1479,
+        "discharge_pressure_psi": 1319,
+        "status": "Active",
+        "region": "North",
+        "operator": "PrairieLink Energy",
+        "emissions_monitoring": "Enabled",
+        "asset_id": "CS-0001"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.686998,
+          31.985276
+        ]
+      },
+      "properties": {
+        "station_name": "Compressor Station 02",
+        "fuel": "Electric",
+        "units": 3,
+        "capacity_mmscfd": 131,
+        "discharge_pressure_psi": 916,
+        "status": "Active",
+        "region": "North",
+        "operator": "BlueMesa Gathering",
+        "emissions_monitoring": "Enabled",
+        "asset_id": "CS-0002"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.306524,
+          31.503502
+        ]
+      },
+      "properties": {
+        "station_name": "Compressor Station 03",
+        "fuel": "Electric",
+        "units": 2,
+        "capacity_mmscfd": 1230,
+        "discharge_pressure_psi": 1029,
+        "status": "Active",
+        "region": "West",
+        "operator": "BlueMesa Gathering",
+        "emissions_monitoring": "Required",
+        "asset_id": "CS-0003"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.299325,
+          31.064002
+        ]
+      },
+      "properties": {
+        "station_name": "Compressor Station 04",
+        "fuel": "Electric",
+        "units": 4,
+        "capacity_mmscfd": 301,
+        "discharge_pressure_psi": 1439,
+        "status": "Maintenance",
+        "region": "South",
+        "operator": "PrairieLink Energy",
+        "emissions_monitoring": "Required",
+        "asset_id": "CS-0004"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.486093,
+          31.322026
+        ]
+      },
+      "properties": {
+        "station_name": "Compressor Station 05",
+        "fuel": "Natural Gas",
+        "units": 6,
+        "capacity_mmscfd": 398,
+        "discharge_pressure_psi": 716,
+        "status": "Active",
+        "region": "West",
+        "operator": "RedRock Pipeline",
+        "emissions_monitoring": "Enabled",
+        "asset_id": "CS-0005"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.062674,
+          32.025881
+        ]
+      },
+      "properties": {
+        "station_name": "Compressor Station 06",
+        "fuel": "Dual Fuel",
+        "units": 2,
+        "capacity_mmscfd": 1122,
+        "discharge_pressure_psi": 1263,
+        "status": "Active",
+        "region": "South",
+        "operator": "BlueMesa Gathering",
+        "emissions_monitoring": "Maintenance",
+        "asset_id": "CS-0006"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.45749,
+          31.104063
+        ]
+      },
+      "properties": {
+        "station_name": "Compressor Station 07",
+        "fuel": "Electric",
+        "units": 2,
+        "capacity_mmscfd": 386,
+        "discharge_pressure_psi": 1437,
+        "status": "Maintenance",
+        "region": "Central",
+        "operator": "NorthStar Midstream",
+        "emissions_monitoring": "Enabled",
+        "asset_id": "CS-0007"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.785374,
+          31.708026
+        ]
+      },
+      "properties": {
+        "station_name": "Compressor Station 08",
+        "fuel": "Dual Fuel",
+        "units": 1,
+        "capacity_mmscfd": 113,
+        "discharge_pressure_psi": 1122,
+        "status": "Active",
+        "region": "Central",
+        "operator": "NorthStar Midstream",
+        "emissions_monitoring": "Enabled",
+        "asset_id": "CS-0008"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.94846,
+          31.575874
+        ]
+      },
+      "properties": {
+        "station_name": "Compressor Station 09",
+        "fuel": "Electric",
+        "units": 1,
+        "capacity_mmscfd": 1365,
+        "discharge_pressure_psi": 1353,
+        "status": "Maintenance",
+        "region": "West",
+        "operator": "NorthStar Midstream",
+        "emissions_monitoring": "Enabled",
+        "asset_id": "CS-0009"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.628774,
+          31.134839
+        ]
+      },
+      "properties": {
+        "station_name": "Compressor Station 10",
+        "fuel": "Natural Gas",
+        "units": 5,
+        "capacity_mmscfd": 1579,
+        "discharge_pressure_psi": 981,
+        "status": "Active",
+        "region": "North",
+        "operator": "BlueMesa Gathering",
+        "emissions_monitoring": "Enabled",
+        "asset_id": "CS-0010"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.673569,
+          32.343017
+        ]
+      },
+      "properties": {
+        "station_name": "Compressor Station 11",
+        "fuel": "Natural Gas",
+        "units": 2,
+        "capacity_mmscfd": 493,
+        "discharge_pressure_psi": 1334,
+        "status": "Active",
+        "region": "South",
+        "operator": "RedRock Pipeline",
+        "emissions_monitoring": "Maintenance",
+        "asset_id": "CS-0011"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.650399,
+          31.53097
+        ]
+      },
+      "properties": {
+        "station_name": "Compressor Station 12",
+        "fuel": "Electric",
+        "units": 5,
+        "capacity_mmscfd": 598,
+        "discharge_pressure_psi": 1413,
+        "status": "Active",
+        "region": "South",
+        "operator": "NorthStar Midstream",
+        "emissions_monitoring": "Enabled",
+        "asset_id": "CS-0012"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.447472,
+          31.90287
+        ]
+      },
+      "properties": {
+        "station_name": "Compressor Station 13",
+        "fuel": "Dual Fuel",
+        "units": 4,
+        "capacity_mmscfd": 214,
+        "discharge_pressure_psi": 1352,
+        "status": "Active",
+        "region": "Central",
+        "operator": "NorthStar Midstream",
+        "emissions_monitoring": "Maintenance",
+        "asset_id": "CS-0013"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.366248,
+          32.293823
+        ]
+      },
+      "properties": {
+        "station_name": "Compressor Station 14",
+        "fuel": "Electric",
+        "units": 5,
+        "capacity_mmscfd": 295,
+        "discharge_pressure_psi": 1240,
+        "status": "Active",
+        "region": "Central",
+        "operator": "PrairieLink Energy",
+        "emissions_monitoring": "Maintenance",
+        "asset_id": "CS-0014"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.261649,
+          31.821851
+        ]
+      },
+      "properties": {
+        "station_name": "Compressor Station 15",
+        "fuel": "Dual Fuel",
+        "units": 3,
+        "capacity_mmscfd": 1212,
+        "discharge_pressure_psi": 1277,
+        "status": "Active",
+        "region": "Central",
+        "operator": "RedRock Pipeline",
+        "emissions_monitoring": "Enabled",
+        "asset_id": "CS-0015"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.185846,
+          32.035643
+        ]
+      },
+      "properties": {
+        "station_name": "Compressor Station 16",
+        "fuel": "Dual Fuel",
+        "units": 4,
+        "capacity_mmscfd": 257,
+        "discharge_pressure_psi": 1006,
+        "status": "Active",
+        "region": "Central",
+        "operator": "BlueMesa Gathering",
+        "emissions_monitoring": "Required",
+        "asset_id": "CS-0016"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.42857,
+          31.106426
+        ]
+      },
+      "properties": {
+        "station_name": "Compressor Station 17",
+        "fuel": "Dual Fuel",
+        "units": 6,
+        "capacity_mmscfd": 260,
+        "discharge_pressure_psi": 1212,
+        "status": "Active",
+        "region": "North",
+        "operator": "NorthStar Midstream",
+        "emissions_monitoring": "Maintenance",
+        "asset_id": "CS-0017"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.015034,
+          31.498136
+        ]
+      },
+      "properties": {
+        "station_name": "Compressor Station 18",
+        "fuel": "Dual Fuel",
+        "units": 5,
+        "capacity_mmscfd": 1319,
+        "discharge_pressure_psi": 1106,
+        "status": "Active",
+        "region": "North",
+        "operator": "RedRock Pipeline",
+        "emissions_monitoring": "Maintenance",
+        "asset_id": "CS-0018"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.659026,
+          31.114853
+        ]
+      },
+      "properties": {
+        "station_name": "Compressor Station 19",
+        "fuel": "Electric",
+        "units": 4,
+        "capacity_mmscfd": 480,
+        "discharge_pressure_psi": 1396,
+        "status": "Maintenance",
+        "region": "North",
+        "operator": "RedRock Pipeline",
+        "emissions_monitoring": "Enabled",
+        "asset_id": "CS-0019"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.629519,
+          31.007273
+        ]
+      },
+      "properties": {
+        "station_name": "Compressor Station 20",
+        "fuel": "Natural Gas",
+        "units": 4,
+        "capacity_mmscfd": 1557,
+        "discharge_pressure_psi": 1349,
+        "status": "Active",
+        "region": "West",
+        "operator": "RedRock Pipeline",
+        "emissions_monitoring": "Required",
+        "asset_id": "CS-0020"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.110433,
+          31.779779
+        ]
+      },
+      "properties": {
+        "station_name": "Compressor Station 21",
+        "fuel": "Electric",
+        "units": 4,
+        "capacity_mmscfd": 837,
+        "discharge_pressure_psi": 976,
+        "status": "Active",
+        "region": "Central",
+        "operator": "NorthStar Midstream",
+        "emissions_monitoring": "Enabled",
+        "asset_id": "CS-0021"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.418051,
+          31.017277
+        ]
+      },
+      "properties": {
+        "station_name": "Compressor Station 22",
+        "fuel": "Dual Fuel",
+        "units": 4,
+        "capacity_mmscfd": 311,
+        "discharge_pressure_psi": 726,
+        "status": "Active",
+        "region": "South",
+        "operator": "NorthStar Midstream",
+        "emissions_monitoring": "Required",
+        "asset_id": "CS-0022"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.577856,
+          31.421584
+        ]
+      },
+      "properties": {
+        "station_name": "Compressor Station 23",
+        "fuel": "Electric",
+        "units": 4,
+        "capacity_mmscfd": 273,
+        "discharge_pressure_psi": 1442,
+        "status": "Active",
+        "region": "Central",
+        "operator": "BlueMesa Gathering",
+        "emissions_monitoring": "Enabled",
+        "asset_id": "CS-0023"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.02523,
+          31.10769
+        ]
+      },
+      "properties": {
+        "station_name": "Compressor Station 24",
+        "fuel": "Electric",
+        "units": 2,
+        "capacity_mmscfd": 229,
+        "discharge_pressure_psi": 871,
+        "status": "Maintenance",
+        "region": "South",
+        "operator": "BlueMesa Gathering",
+        "emissions_monitoring": "Required",
+        "asset_id": "CS-0024"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.583217,
+          31.009474
+        ]
+      },
+      "properties": {
+        "station_name": "Compressor Station 25",
+        "fuel": "Electric",
+        "units": 2,
+        "capacity_mmscfd": 1576,
+        "discharge_pressure_psi": 1340,
+        "status": "Maintenance",
+        "region": "Central",
+        "operator": "BlueMesa Gathering",
+        "emissions_monitoring": "Enabled",
+        "asset_id": "CS-0025"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.495239,
+          32.203312
+        ]
+      },
+      "properties": {
+        "station_name": "Compressor Station 26",
+        "fuel": "Electric",
+        "units": 3,
+        "capacity_mmscfd": 1370,
+        "discharge_pressure_psi": 1089,
+        "status": "Active",
+        "region": "West",
+        "operator": "RedRock Pipeline",
+        "emissions_monitoring": "Maintenance",
+        "asset_id": "CS-0026"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.256681,
+          32.356215
+        ]
+      },
+      "properties": {
+        "station_name": "Compressor Station 27",
+        "fuel": "Dual Fuel",
+        "units": 2,
+        "capacity_mmscfd": 715,
+        "discharge_pressure_psi": 1028,
+        "status": "Active",
+        "region": "West",
+        "operator": "RedRock Pipeline",
+        "emissions_monitoring": "Enabled",
+        "asset_id": "CS-0027"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.35152,
+          32.100213
+        ]
+      },
+      "properties": {
+        "station_name": "Compressor Station 28",
+        "fuel": "Electric",
+        "units": 6,
+        "capacity_mmscfd": 1523,
+        "discharge_pressure_psi": 1348,
+        "status": "Maintenance",
+        "region": "Central",
+        "operator": "RedRock Pipeline",
+        "emissions_monitoring": "Maintenance",
+        "asset_id": "CS-0028"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.098472,
+          31.407864
+        ]
+      },
+      "properties": {
+        "station_name": "Compressor Station 29",
+        "fuel": "Electric",
+        "units": 1,
+        "capacity_mmscfd": 1254,
+        "discharge_pressure_psi": 904,
+        "status": "Active",
+        "region": "North",
+        "operator": "BlueMesa Gathering",
+        "emissions_monitoring": "Enabled",
+        "asset_id": "CS-0029"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.395709,
+          31.215801
+        ]
+      },
+      "properties": {
+        "station_name": "Compressor Station 30",
+        "fuel": "Dual Fuel",
+        "units": 1,
+        "capacity_mmscfd": 937,
+        "discharge_pressure_psi": 1389,
+        "status": "Maintenance",
+        "region": "Central",
+        "operator": "RedRock Pipeline",
+        "emissions_monitoring": "Enabled",
+        "asset_id": "CS-0030"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.534847,
+          31.503341
+        ]
+      },
+      "properties": {
+        "station_name": "Compressor Station 31",
+        "fuel": "Electric",
+        "units": 4,
+        "capacity_mmscfd": 251,
+        "discharge_pressure_psi": 1159,
+        "status": "Maintenance",
+        "region": "West",
+        "operator": "BlueMesa Gathering",
+        "emissions_monitoring": "Enabled",
+        "asset_id": "CS-0031"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.7648,
+          31.062015
+        ]
+      },
+      "properties": {
+        "station_name": "Compressor Station 32",
+        "fuel": "Dual Fuel",
+        "units": 5,
+        "capacity_mmscfd": 1406,
+        "discharge_pressure_psi": 787,
+        "status": "Active",
+        "region": "Central",
+        "operator": "RedRock Pipeline",
+        "emissions_monitoring": "Enabled",
+        "asset_id": "CS-0032"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.64223,
+          31.310802
+        ]
+      },
+      "properties": {
+        "station_name": "Compressor Station 33",
+        "fuel": "Dual Fuel",
+        "units": 6,
+        "capacity_mmscfd": 1424,
+        "discharge_pressure_psi": 1109,
+        "status": "Active",
+        "region": "West",
+        "operator": "NorthStar Midstream",
+        "emissions_monitoring": "Enabled",
+        "asset_id": "CS-0033"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.059099,
+          31.951378
+        ]
+      },
+      "properties": {
+        "station_name": "Compressor Station 34",
+        "fuel": "Dual Fuel",
+        "units": 5,
+        "capacity_mmscfd": 1242,
+        "discharge_pressure_psi": 1294,
+        "status": "Active",
+        "region": "West",
+        "operator": "RedRock Pipeline",
+        "emissions_monitoring": "Maintenance",
+        "asset_id": "CS-0034"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.134439,
+          32.346419
+        ]
+      },
+      "properties": {
+        "station_name": "Compressor Station 35",
+        "fuel": "Dual Fuel",
+        "units": 5,
+        "capacity_mmscfd": 408,
+        "discharge_pressure_psi": 1053,
+        "status": "Active",
+        "region": "West",
+        "operator": "NorthStar Midstream",
+        "emissions_monitoring": "Required",
+        "asset_id": "CS-0035"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.966216,
+          31.48762
+        ]
+      },
+      "properties": {
+        "station_name": "Compressor Station 36",
+        "fuel": "Natural Gas",
+        "units": 6,
+        "capacity_mmscfd": 390,
+        "discharge_pressure_psi": 1056,
+        "status": "Active",
+        "region": "South",
+        "operator": "BlueMesa Gathering",
+        "emissions_monitoring": "Enabled",
+        "asset_id": "CS-0036"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.728507,
+          31.995091
+        ]
+      },
+      "properties": {
+        "station_name": "Compressor Station 37",
+        "fuel": "Natural Gas",
+        "units": 4,
+        "capacity_mmscfd": 1578,
+        "discharge_pressure_psi": 1413,
+        "status": "Maintenance",
+        "region": "South",
+        "operator": "NorthStar Midstream",
+        "emissions_monitoring": "Required",
+        "asset_id": "CS-0037"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.270417,
+          31.596917
+        ]
+      },
+      "properties": {
+        "station_name": "Compressor Station 38",
+        "fuel": "Natural Gas",
+        "units": 3,
+        "capacity_mmscfd": 1427,
+        "discharge_pressure_psi": 811,
+        "status": "Active",
+        "region": "Central",
+        "operator": "PrairieLink Energy",
+        "emissions_monitoring": "Enabled",
+        "asset_id": "CS-0038"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.753292,
+          31.85975
+        ]
+      },
+      "properties": {
+        "station_name": "Compressor Station 39",
+        "fuel": "Electric",
+        "units": 2,
+        "capacity_mmscfd": 929,
+        "discharge_pressure_psi": 1344,
+        "status": "Active",
+        "region": "Central",
+        "operator": "BlueMesa Gathering",
+        "emissions_monitoring": "Maintenance",
+        "asset_id": "CS-0039"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.354648,
+          31.985264
+        ]
+      },
+      "properties": {
+        "station_name": "Compressor Station 40",
+        "fuel": "Natural Gas",
+        "units": 4,
+        "capacity_mmscfd": 1312,
+        "discharge_pressure_psi": 1139,
+        "status": "Maintenance",
+        "region": "North",
+        "operator": "PrairieLink Energy",
+        "emissions_monitoring": "Enabled",
+        "asset_id": "CS-0040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.067919,
+          31.367295
+        ]
+      },
+      "properties": {
+        "station_name": "Compressor Station 41",
+        "fuel": "Natural Gas",
+        "units": 5,
+        "capacity_mmscfd": 308,
+        "discharge_pressure_psi": 1249,
+        "status": "Active",
+        "region": "South",
+        "operator": "RedRock Pipeline",
+        "emissions_monitoring": "Enabled",
+        "asset_id": "CS-0041"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.236824,
+          31.641005
+        ]
+      },
+      "properties": {
+        "station_name": "Compressor Station 42",
+        "fuel": "Electric",
+        "units": 5,
+        "capacity_mmscfd": 1408,
+        "discharge_pressure_psi": 1020,
+        "status": "Maintenance",
+        "region": "West",
+        "operator": "NorthStar Midstream",
+        "emissions_monitoring": "Required",
+        "asset_id": "CS-0042"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.418284,
+          31.163728
+        ]
+      },
+      "properties": {
+        "station_name": "Compressor Station 43",
+        "fuel": "Natural Gas",
+        "units": 6,
+        "capacity_mmscfd": 1545,
+        "discharge_pressure_psi": 1004,
+        "status": "Active",
+        "region": "Central",
+        "operator": "RedRock Pipeline",
+        "emissions_monitoring": "Enabled",
+        "asset_id": "CS-0043"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.123138,
+          31.681338
+        ]
+      },
+      "properties": {
+        "station_name": "Compressor Station 44",
+        "fuel": "Electric",
+        "units": 6,
+        "capacity_mmscfd": 389,
+        "discharge_pressure_psi": 1223,
+        "status": "Maintenance",
+        "region": "West",
+        "operator": "PrairieLink Energy",
+        "emissions_monitoring": "Maintenance",
+        "asset_id": "CS-0044"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.500642,
+          32.178779
+        ]
+      },
+      "properties": {
+        "station_name": "Compressor Station 45",
+        "fuel": "Dual Fuel",
+        "units": 6,
+        "capacity_mmscfd": 1421,
+        "discharge_pressure_psi": 877,
+        "status": "Active",
+        "region": "West",
+        "operator": "RedRock Pipeline",
+        "emissions_monitoring": "Enabled",
+        "asset_id": "CS-0045"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.257873,
+          31.707613
+        ]
+      },
+      "properties": {
+        "station_name": "Compressor Station 46",
+        "fuel": "Dual Fuel",
+        "units": 1,
+        "capacity_mmscfd": 835,
+        "discharge_pressure_psi": 709,
+        "status": "Maintenance",
+        "region": "Central",
+        "operator": "PrairieLink Energy",
+        "emissions_monitoring": "Maintenance",
+        "asset_id": "CS-0046"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.667727,
+          31.043205
+        ]
+      },
+      "properties": {
+        "station_name": "Compressor Station 47",
+        "fuel": "Electric",
+        "units": 4,
+        "capacity_mmscfd": 1502,
+        "discharge_pressure_psi": 1203,
+        "status": "Maintenance",
+        "region": "West",
+        "operator": "BlueMesa Gathering",
+        "emissions_monitoring": "Enabled",
+        "asset_id": "CS-0047"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.894959,
+          32.081567
+        ]
+      },
+      "properties": {
+        "station_name": "Compressor Station 48",
+        "fuel": "Natural Gas",
+        "units": 3,
+        "capacity_mmscfd": 166,
+        "discharge_pressure_psi": 981,
+        "status": "Active",
+        "region": "South",
+        "operator": "PrairieLink Energy",
+        "emissions_monitoring": "Maintenance",
+        "asset_id": "CS-0048"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.583993,
+          31.617913
+        ]
+      },
+      "properties": {
+        "station_name": "Compressor Station 49",
+        "fuel": "Electric",
+        "units": 5,
+        "capacity_mmscfd": 1146,
+        "discharge_pressure_psi": 815,
+        "status": "Active",
+        "region": "South",
+        "operator": "RedRock Pipeline",
+        "emissions_monitoring": "Enabled",
+        "asset_id": "CS-0049"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.379496,
+          32.207079
+        ]
+      },
+      "properties": {
+        "station_name": "Compressor Station 50",
+        "fuel": "Natural Gas",
+        "units": 4,
+        "capacity_mmscfd": 309,
+        "discharge_pressure_psi": 1369,
+        "status": "Active",
+        "region": "South",
+        "operator": "NorthStar Midstream",
+        "emissions_monitoring": "Maintenance",
+        "asset_id": "CS-0050"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.814158,
+          32.098789
+        ]
+      },
+      "properties": {
+        "station_name": "Compressor Station 51",
+        "fuel": "Natural Gas",
+        "units": 4,
+        "capacity_mmscfd": 340,
+        "discharge_pressure_psi": 942,
+        "status": "Active",
+        "region": "South",
+        "operator": "BlueMesa Gathering",
+        "emissions_monitoring": "Enabled",
+        "asset_id": "CS-0051"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.337067,
+          31.37428
+        ]
+      },
+      "properties": {
+        "station_name": "Compressor Station 52",
+        "fuel": "Natural Gas",
+        "units": 1,
+        "capacity_mmscfd": 1267,
+        "discharge_pressure_psi": 1059,
+        "status": "Active",
+        "region": "Central",
+        "operator": "RedRock Pipeline",
+        "emissions_monitoring": "Required",
+        "asset_id": "CS-0052"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.677718,
+          31.185767
+        ]
+      },
+      "properties": {
+        "station_name": "Compressor Station 53",
+        "fuel": "Dual Fuel",
+        "units": 6,
+        "capacity_mmscfd": 295,
+        "discharge_pressure_psi": 838,
+        "status": "Maintenance",
+        "region": "North",
+        "operator": "RedRock Pipeline",
+        "emissions_monitoring": "Enabled",
+        "asset_id": "CS-0053"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.795499,
+          31.525241
+        ]
+      },
+      "properties": {
+        "station_name": "Compressor Station 54",
+        "fuel": "Natural Gas",
+        "units": 6,
+        "capacity_mmscfd": 759,
+        "discharge_pressure_psi": 953,
+        "status": "Maintenance",
+        "region": "West",
+        "operator": "PrairieLink Energy",
+        "emissions_monitoring": "Required",
+        "asset_id": "CS-0054"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.276337,
+          31.003462
+        ]
+      },
+      "properties": {
+        "station_name": "Compressor Station 55",
+        "fuel": "Natural Gas",
+        "units": 6,
+        "capacity_mmscfd": 290,
+        "discharge_pressure_psi": 1112,
+        "status": "Active",
+        "region": "South",
+        "operator": "BlueMesa Gathering",
+        "emissions_monitoring": "Maintenance",
+        "asset_id": "CS-0055"
+      }
+    }
+  ]
+}

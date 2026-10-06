@@ -1,0 +1,1335 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.387308,
+          31.867628
+        ]
+      },
+      "properties": {
+        "facility_name": "Midstream Facility 001",
+        "facility_type": "Pump Facility",
+        "throughput": 2122,
+        "throughput_unit": "BBL/D",
+        "security_level": "Critical",
+        "status": "Active",
+        "asset_id": "FAC-0001"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.746737,
+          31.754539
+        ]
+      },
+      "properties": {
+        "facility_name": "Midstream Facility 002",
+        "facility_type": "Terminal",
+        "throughput": 1028,
+        "throughput_unit": "BBL/D",
+        "security_level": "Critical",
+        "status": "Active",
+        "asset_id": "FAC-0002"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.819137,
+          31.45164
+        ]
+      },
+      "properties": {
+        "facility_name": "Midstream Facility 003",
+        "facility_type": "Dehydration Plant",
+        "throughput": 827,
+        "throughput_unit": "BBL/D",
+        "security_level": "Critical",
+        "status": "Active",
+        "asset_id": "FAC-0003"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.729956,
+          32.312919
+        ]
+      },
+      "properties": {
+        "facility_name": "Midstream Facility 004",
+        "facility_type": "Compressor Facility",
+        "throughput": 1369,
+        "throughput_unit": "MMSCFD",
+        "security_level": "Standard",
+        "status": "Active",
+        "asset_id": "FAC-0004"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.493413,
+          31.044544
+        ]
+      },
+      "properties": {
+        "facility_name": "Midstream Facility 005",
+        "facility_type": "Processing Plant",
+        "throughput": 178,
+        "throughput_unit": "MMSCFD",
+        "security_level": "Standard",
+        "status": "Maintenance",
+        "asset_id": "FAC-0005"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.721463,
+          31.309012
+        ]
+      },
+      "properties": {
+        "facility_name": "Midstream Facility 006",
+        "facility_type": "Compressor Facility",
+        "throughput": 1641,
+        "throughput_unit": "BBL/D",
+        "security_level": "Critical",
+        "status": "Active",
+        "asset_id": "FAC-0006"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.314554,
+          32.164909
+        ]
+      },
+      "properties": {
+        "facility_name": "Midstream Facility 007",
+        "facility_type": "Compressor Facility",
+        "throughput": 340,
+        "throughput_unit": "MMSCFD",
+        "security_level": "Standard",
+        "status": "Maintenance",
+        "asset_id": "FAC-0007"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.484758,
+          32.111949
+        ]
+      },
+      "properties": {
+        "facility_name": "Midstream Facility 008",
+        "facility_type": "Dehydration Plant",
+        "throughput": 298,
+        "throughput_unit": "BBL/D",
+        "security_level": "Critical",
+        "status": "Maintenance",
+        "asset_id": "FAC-0008"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.46487,
+          31.10911
+        ]
+      },
+      "properties": {
+        "facility_name": "Midstream Facility 009",
+        "facility_type": "Gathering Hub",
+        "throughput": 1138,
+        "throughput_unit": "MMSCFD",
+        "security_level": "Critical",
+        "status": "Active",
+        "asset_id": "FAC-0009"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.949342,
+          31.265245
+        ]
+      },
+      "properties": {
+        "facility_name": "Midstream Facility 010",
+        "facility_type": "Processing Plant",
+        "throughput": 2177,
+        "throughput_unit": "MMSCFD",
+        "security_level": "Standard",
+        "status": "Active",
+        "asset_id": "FAC-0010"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.606227,
+          32.072797
+        ]
+      },
+      "properties": {
+        "facility_name": "Midstream Facility 011",
+        "facility_type": "Fractionation Plant",
+        "throughput": 1068,
+        "throughput_unit": "MMSCFD",
+        "security_level": "Critical",
+        "status": "Maintenance",
+        "asset_id": "FAC-0011"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.387482,
+          31.233533
+        ]
+      },
+      "properties": {
+        "facility_name": "Midstream Facility 012",
+        "facility_type": "Fractionation Plant",
+        "throughput": 1516,
+        "throughput_unit": "BBL/D",
+        "security_level": "Critical",
+        "status": "Maintenance",
+        "asset_id": "FAC-0012"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.747949,
+          31.747461
+        ]
+      },
+      "properties": {
+        "facility_name": "Midstream Facility 013",
+        "facility_type": "Processing Plant",
+        "throughput": 2302,
+        "throughput_unit": "BBL/D",
+        "security_level": "Critical",
+        "status": "Active",
+        "asset_id": "FAC-0013"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.448234,
+          31.577281
+        ]
+      },
+      "properties": {
+        "facility_name": "Midstream Facility 014",
+        "facility_type": "Fractionation Plant",
+        "throughput": 1864,
+        "throughput_unit": "BBL/D",
+        "security_level": "Enhanced",
+        "status": "Active",
+        "asset_id": "FAC-0014"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.898968,
+          31.299499
+        ]
+      },
+      "properties": {
+        "facility_name": "Midstream Facility 015",
+        "facility_type": "Compressor Facility",
+        "throughput": 1813,
+        "throughput_unit": "BBL/D",
+        "security_level": "Critical",
+        "status": "Active",
+        "asset_id": "FAC-0015"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.084,
+          31.555927
+        ]
+      },
+      "properties": {
+        "facility_name": "Midstream Facility 016",
+        "facility_type": "Pump Facility",
+        "throughput": 2303,
+        "throughput_unit": "BBL/D",
+        "security_level": "Enhanced",
+        "status": "Maintenance",
+        "asset_id": "FAC-0016"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.971825,
+          32.390777
+        ]
+      },
+      "properties": {
+        "facility_name": "Midstream Facility 017",
+        "facility_type": "Compressor Facility",
+        "throughput": 191,
+        "throughput_unit": "BBL/D",
+        "security_level": "Critical",
+        "status": "Active",
+        "asset_id": "FAC-0017"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.430847,
+          31.030382
+        ]
+      },
+      "properties": {
+        "facility_name": "Midstream Facility 018",
+        "facility_type": "Terminal",
+        "throughput": 76,
+        "throughput_unit": "BBL/D",
+        "security_level": "Standard",
+        "status": "Active",
+        "asset_id": "FAC-0018"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.063408,
+          31.21855
+        ]
+      },
+      "properties": {
+        "facility_name": "Midstream Facility 019",
+        "facility_type": "Pump Facility",
+        "throughput": 1180,
+        "throughput_unit": "MMSCFD",
+        "security_level": "Standard",
+        "status": "Active",
+        "asset_id": "FAC-0019"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.502281,
+          31.128667
+        ]
+      },
+      "properties": {
+        "facility_name": "Midstream Facility 020",
+        "facility_type": "Terminal",
+        "throughput": 1553,
+        "throughput_unit": "MMSCFD",
+        "security_level": "Standard",
+        "status": "Active",
+        "asset_id": "FAC-0020"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.642271,
+          32.110066
+        ]
+      },
+      "properties": {
+        "facility_name": "Midstream Facility 021",
+        "facility_type": "Dehydration Plant",
+        "throughput": 2380,
+        "throughput_unit": "MMSCFD",
+        "security_level": "Critical",
+        "status": "Active",
+        "asset_id": "FAC-0021"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.740205,
+          32.131678
+        ]
+      },
+      "properties": {
+        "facility_name": "Midstream Facility 022",
+        "facility_type": "Processing Plant",
+        "throughput": 2049,
+        "throughput_unit": "MMSCFD",
+        "security_level": "Critical",
+        "status": "Active",
+        "asset_id": "FAC-0022"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.392332,
+          31.608026
+        ]
+      },
+      "properties": {
+        "facility_name": "Midstream Facility 023",
+        "facility_type": "Dehydration Plant",
+        "throughput": 371,
+        "throughput_unit": "MMSCFD",
+        "security_level": "Enhanced",
+        "status": "Active",
+        "asset_id": "FAC-0023"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.785781,
+          31.885071
+        ]
+      },
+      "properties": {
+        "facility_name": "Midstream Facility 024",
+        "facility_type": "Pump Facility",
+        "throughput": 543,
+        "throughput_unit": "MMSCFD",
+        "security_level": "Critical",
+        "status": "Active",
+        "asset_id": "FAC-0024"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.277069,
+          31.976876
+        ]
+      },
+      "properties": {
+        "facility_name": "Midstream Facility 025",
+        "facility_type": "Gathering Hub",
+        "throughput": 1298,
+        "throughput_unit": "MMSCFD",
+        "security_level": "Enhanced",
+        "status": "Active",
+        "asset_id": "FAC-0025"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.444663,
+          31.405696
+        ]
+      },
+      "properties": {
+        "facility_name": "Midstream Facility 026",
+        "facility_type": "Processing Plant",
+        "throughput": 256,
+        "throughput_unit": "BBL/D",
+        "security_level": "Enhanced",
+        "status": "Active",
+        "asset_id": "FAC-0026"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.038633,
+          32.043441
+        ]
+      },
+      "properties": {
+        "facility_name": "Midstream Facility 027",
+        "facility_type": "Dehydration Plant",
+        "throughput": 656,
+        "throughput_unit": "MMSCFD",
+        "security_level": "Enhanced",
+        "status": "Active",
+        "asset_id": "FAC-0027"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.997083,
+          32.083355
+        ]
+      },
+      "properties": {
+        "facility_name": "Midstream Facility 028",
+        "facility_type": "Fractionation Plant",
+        "throughput": 1685,
+        "throughput_unit": "BBL/D",
+        "security_level": "Standard",
+        "status": "Maintenance",
+        "asset_id": "FAC-0028"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.019422,
+          31.913148
+        ]
+      },
+      "properties": {
+        "facility_name": "Midstream Facility 029",
+        "facility_type": "Processing Plant",
+        "throughput": 602,
+        "throughput_unit": "BBL/D",
+        "security_level": "Critical",
+        "status": "Active",
+        "asset_id": "FAC-0029"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.373989,
+          31.602092
+        ]
+      },
+      "properties": {
+        "facility_name": "Midstream Facility 030",
+        "facility_type": "Processing Plant",
+        "throughput": 2348,
+        "throughput_unit": "MMSCFD",
+        "security_level": "Standard",
+        "status": "Active",
+        "asset_id": "FAC-0030"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.122335,
+          31.487631
+        ]
+      },
+      "properties": {
+        "facility_name": "Midstream Facility 031",
+        "facility_type": "Compressor Facility",
+        "throughput": 2409,
+        "throughput_unit": "MMSCFD",
+        "security_level": "Standard",
+        "status": "Maintenance",
+        "asset_id": "FAC-0031"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.219757,
+          31.862709
+        ]
+      },
+      "properties": {
+        "facility_name": "Midstream Facility 032",
+        "facility_type": "Terminal",
+        "throughput": 1461,
+        "throughput_unit": "MMSCFD",
+        "security_level": "Enhanced",
+        "status": "Active",
+        "asset_id": "FAC-0032"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.321259,
+          31.326885
+        ]
+      },
+      "properties": {
+        "facility_name": "Midstream Facility 033",
+        "facility_type": "Pump Facility",
+        "throughput": 1861,
+        "throughput_unit": "MMSCFD",
+        "security_level": "Enhanced",
+        "status": "Active",
+        "asset_id": "FAC-0033"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.620205,
+          31.076353
+        ]
+      },
+      "properties": {
+        "facility_name": "Midstream Facility 034",
+        "facility_type": "Compressor Facility",
+        "throughput": 1581,
+        "throughput_unit": "MMSCFD",
+        "security_level": "Critical",
+        "status": "Active",
+        "asset_id": "FAC-0034"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.689928,
+          31.155789
+        ]
+      },
+      "properties": {
+        "facility_name": "Midstream Facility 035",
+        "facility_type": "Fractionation Plant",
+        "throughput": 654,
+        "throughput_unit": "BBL/D",
+        "security_level": "Standard",
+        "status": "Active",
+        "asset_id": "FAC-0035"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.615979,
+          31.296625
+        ]
+      },
+      "properties": {
+        "facility_name": "Midstream Facility 036",
+        "facility_type": "Dehydration Plant",
+        "throughput": 1979,
+        "throughput_unit": "MMSCFD",
+        "security_level": "Enhanced",
+        "status": "Active",
+        "asset_id": "FAC-0036"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.803133,
+          32.389223
+        ]
+      },
+      "properties": {
+        "facility_name": "Midstream Facility 037",
+        "facility_type": "Fractionation Plant",
+        "throughput": 2193,
+        "throughput_unit": "BBL/D",
+        "security_level": "Critical",
+        "status": "Maintenance",
+        "asset_id": "FAC-0037"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.39127,
+          31.084154
+        ]
+      },
+      "properties": {
+        "facility_name": "Midstream Facility 038",
+        "facility_type": "Compressor Facility",
+        "throughput": 125,
+        "throughput_unit": "BBL/D",
+        "security_level": "Critical",
+        "status": "Active",
+        "asset_id": "FAC-0038"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.693444,
+          31.924522
+        ]
+      },
+      "properties": {
+        "facility_name": "Midstream Facility 039",
+        "facility_type": "Processing Plant",
+        "throughput": 1161,
+        "throughput_unit": "MMSCFD",
+        "security_level": "Enhanced",
+        "status": "Active",
+        "asset_id": "FAC-0039"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.412143,
+          31.909176
+        ]
+      },
+      "properties": {
+        "facility_name": "Midstream Facility 040",
+        "facility_type": "Compressor Facility",
+        "throughput": 1525,
+        "throughput_unit": "MMSCFD",
+        "security_level": "Standard",
+        "status": "Active",
+        "asset_id": "FAC-0040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.413164,
+          31.744185
+        ]
+      },
+      "properties": {
+        "facility_name": "Midstream Facility 041",
+        "facility_type": "Processing Plant",
+        "throughput": 1609,
+        "throughput_unit": "MMSCFD",
+        "security_level": "Enhanced",
+        "status": "Maintenance",
+        "asset_id": "FAC-0041"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.736396,
+          32.291178
+        ]
+      },
+      "properties": {
+        "facility_name": "Midstream Facility 042",
+        "facility_type": "Processing Plant",
+        "throughput": 864,
+        "throughput_unit": "BBL/D",
+        "security_level": "Critical",
+        "status": "Active",
+        "asset_id": "FAC-0042"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.770604,
+          31.958036
+        ]
+      },
+      "properties": {
+        "facility_name": "Midstream Facility 043",
+        "facility_type": "Terminal",
+        "throughput": 1416,
+        "throughput_unit": "BBL/D",
+        "security_level": "Enhanced",
+        "status": "Active",
+        "asset_id": "FAC-0043"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.500971,
+          31.876109
+        ]
+      },
+      "properties": {
+        "facility_name": "Midstream Facility 044",
+        "facility_type": "Terminal",
+        "throughput": 1288,
+        "throughput_unit": "MMSCFD",
+        "security_level": "Critical",
+        "status": "Active",
+        "asset_id": "FAC-0044"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.253142,
+          31.549985
+        ]
+      },
+      "properties": {
+        "facility_name": "Midstream Facility 045",
+        "facility_type": "Dehydration Plant",
+        "throughput": 170,
+        "throughput_unit": "BBL/D",
+        "security_level": "Standard",
+        "status": "Active",
+        "asset_id": "FAC-0045"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.132267,
+          31.802058
+        ]
+      },
+      "properties": {
+        "facility_name": "Midstream Facility 046",
+        "facility_type": "Processing Plant",
+        "throughput": 409,
+        "throughput_unit": "BBL/D",
+        "security_level": "Critical",
+        "status": "Active",
+        "asset_id": "FAC-0046"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.469188,
+          31.194007
+        ]
+      },
+      "properties": {
+        "facility_name": "Midstream Facility 047",
+        "facility_type": "Dehydration Plant",
+        "throughput": 1329,
+        "throughput_unit": "BBL/D",
+        "security_level": "Enhanced",
+        "status": "Active",
+        "asset_id": "FAC-0047"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.111897,
+          32.272603
+        ]
+      },
+      "properties": {
+        "facility_name": "Midstream Facility 048",
+        "facility_type": "Fractionation Plant",
+        "throughput": 878,
+        "throughput_unit": "MMSCFD",
+        "security_level": "Enhanced",
+        "status": "Active",
+        "asset_id": "FAC-0048"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.908256,
+          32.328042
+        ]
+      },
+      "properties": {
+        "facility_name": "Midstream Facility 049",
+        "facility_type": "Pump Facility",
+        "throughput": 644,
+        "throughput_unit": "MMSCFD",
+        "security_level": "Enhanced",
+        "status": "Active",
+        "asset_id": "FAC-0049"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.575304,
+          32.232185
+        ]
+      },
+      "properties": {
+        "facility_name": "Midstream Facility 050",
+        "facility_type": "Gathering Hub",
+        "throughput": 804,
+        "throughput_unit": "BBL/D",
+        "security_level": "Standard",
+        "status": "Active",
+        "asset_id": "FAC-0050"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.556869,
+          31.263107
+        ]
+      },
+      "properties": {
+        "facility_name": "Midstream Facility 051",
+        "facility_type": "Dehydration Plant",
+        "throughput": 1734,
+        "throughput_unit": "BBL/D",
+        "security_level": "Enhanced",
+        "status": "Active",
+        "asset_id": "FAC-0051"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.831033,
+          31.857307
+        ]
+      },
+      "properties": {
+        "facility_name": "Midstream Facility 052",
+        "facility_type": "Processing Plant",
+        "throughput": 806,
+        "throughput_unit": "MMSCFD",
+        "security_level": "Critical",
+        "status": "Active",
+        "asset_id": "FAC-0052"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.225182,
+          31.963398
+        ]
+      },
+      "properties": {
+        "facility_name": "Midstream Facility 053",
+        "facility_type": "Fractionation Plant",
+        "throughput": 1001,
+        "throughput_unit": "MMSCFD",
+        "security_level": "Critical",
+        "status": "Active",
+        "asset_id": "FAC-0053"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.505638,
+          31.542444
+        ]
+      },
+      "properties": {
+        "facility_name": "Midstream Facility 054",
+        "facility_type": "Dehydration Plant",
+        "throughput": 599,
+        "throughput_unit": "BBL/D",
+        "security_level": "Critical",
+        "status": "Active",
+        "asset_id": "FAC-0054"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.748433,
+          32.070354
+        ]
+      },
+      "properties": {
+        "facility_name": "Midstream Facility 055",
+        "facility_type": "Dehydration Plant",
+        "throughput": 613,
+        "throughput_unit": "MMSCFD",
+        "security_level": "Standard",
+        "status": "Active",
+        "asset_id": "FAC-0055"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.587557,
+          31.092591
+        ]
+      },
+      "properties": {
+        "facility_name": "Midstream Facility 056",
+        "facility_type": "Gathering Hub",
+        "throughput": 1155,
+        "throughput_unit": "BBL/D",
+        "security_level": "Standard",
+        "status": "Active",
+        "asset_id": "FAC-0056"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.115911,
+          32.086701
+        ]
+      },
+      "properties": {
+        "facility_name": "Midstream Facility 057",
+        "facility_type": "Dehydration Plant",
+        "throughput": 2056,
+        "throughput_unit": "BBL/D",
+        "security_level": "Enhanced",
+        "status": "Active",
+        "asset_id": "FAC-0057"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.966961,
+          31.632253
+        ]
+      },
+      "properties": {
+        "facility_name": "Midstream Facility 058",
+        "facility_type": "Fractionation Plant",
+        "throughput": 1608,
+        "throughput_unit": "BBL/D",
+        "security_level": "Enhanced",
+        "status": "Active",
+        "asset_id": "FAC-0058"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.225871,
+          31.054952
+        ]
+      },
+      "properties": {
+        "facility_name": "Midstream Facility 059",
+        "facility_type": "Pump Facility",
+        "throughput": 223,
+        "throughput_unit": "MMSCFD",
+        "security_level": "Critical",
+        "status": "Maintenance",
+        "asset_id": "FAC-0059"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.096714,
+          32.238157
+        ]
+      },
+      "properties": {
+        "facility_name": "Midstream Facility 060",
+        "facility_type": "Dehydration Plant",
+        "throughput": 2164,
+        "throughput_unit": "MMSCFD",
+        "security_level": "Standard",
+        "status": "Active",
+        "asset_id": "FAC-0060"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.328928,
+          32.286646
+        ]
+      },
+      "properties": {
+        "facility_name": "Midstream Facility 061",
+        "facility_type": "Pump Facility",
+        "throughput": 1221,
+        "throughput_unit": "BBL/D",
+        "security_level": "Standard",
+        "status": "Maintenance",
+        "asset_id": "FAC-0061"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.655295,
+          31.700921
+        ]
+      },
+      "properties": {
+        "facility_name": "Midstream Facility 062",
+        "facility_type": "Compressor Facility",
+        "throughput": 2167,
+        "throughput_unit": "MMSCFD",
+        "security_level": "Enhanced",
+        "status": "Maintenance",
+        "asset_id": "FAC-0062"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.282463,
+          31.034877
+        ]
+      },
+      "properties": {
+        "facility_name": "Midstream Facility 063",
+        "facility_type": "Processing Plant",
+        "throughput": 2447,
+        "throughput_unit": "MMSCFD",
+        "security_level": "Enhanced",
+        "status": "Maintenance",
+        "asset_id": "FAC-0063"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.399868,
+          31.968404
+        ]
+      },
+      "properties": {
+        "facility_name": "Midstream Facility 064",
+        "facility_type": "Dehydration Plant",
+        "throughput": 2467,
+        "throughput_unit": "MMSCFD",
+        "security_level": "Enhanced",
+        "status": "Active",
+        "asset_id": "FAC-0064"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.670037,
+          31.887701
+        ]
+      },
+      "properties": {
+        "facility_name": "Midstream Facility 065",
+        "facility_type": "Compressor Facility",
+        "throughput": 721,
+        "throughput_unit": "MMSCFD",
+        "security_level": "Standard",
+        "status": "Active",
+        "asset_id": "FAC-0065"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.194114,
+          31.53285
+        ]
+      },
+      "properties": {
+        "facility_name": "Midstream Facility 066",
+        "facility_type": "Gathering Hub",
+        "throughput": 2195,
+        "throughput_unit": "BBL/D",
+        "security_level": "Critical",
+        "status": "Active",
+        "asset_id": "FAC-0066"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.540601,
+          31.20245
+        ]
+      },
+      "properties": {
+        "facility_name": "Midstream Facility 067",
+        "facility_type": "Pump Facility",
+        "throughput": 749,
+        "throughput_unit": "BBL/D",
+        "security_level": "Critical",
+        "status": "Active",
+        "asset_id": "FAC-0067"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.631741,
+          32.345353
+        ]
+      },
+      "properties": {
+        "facility_name": "Midstream Facility 068",
+        "facility_type": "Pump Facility",
+        "throughput": 260,
+        "throughput_unit": "BBL/D",
+        "security_level": "Enhanced",
+        "status": "Active",
+        "asset_id": "FAC-0068"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.794347,
+          32.071554
+        ]
+      },
+      "properties": {
+        "facility_name": "Midstream Facility 069",
+        "facility_type": "Terminal",
+        "throughput": 790,
+        "throughput_unit": "MMSCFD",
+        "security_level": "Standard",
+        "status": "Active",
+        "asset_id": "FAC-0069"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.827226,
+          31.690854
+        ]
+      },
+      "properties": {
+        "facility_name": "Midstream Facility 070",
+        "facility_type": "Gathering Hub",
+        "throughput": 1928,
+        "throughput_unit": "BBL/D",
+        "security_level": "Enhanced",
+        "status": "Active",
+        "asset_id": "FAC-0070"
+      }
+    }
+  ]
+}

@@ -1,0 +1,1685 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -101.671269,
+            31.643495
+          ],
+          [
+            -101.577991,
+            31.680443
+          ],
+          [
+            -101.484713,
+            31.717391
+          ]
+        ]
+      },
+      "properties": {
+        "row_width_ft": 120,
+        "easement_type": "Permanent",
+        "land_use": "Industrial",
+        "encroachment": "Confirmed",
+        "inspection_status": "Due",
+        "asset_id": "ROW-0001"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -101.321807,
+            31.546147
+          ],
+          [
+            -101.459438,
+            31.593358
+          ],
+          [
+            -101.597069,
+            31.640568
+          ]
+        ]
+      },
+      "properties": {
+        "row_width_ft": 60,
+        "easement_type": "Access Road",
+        "land_use": "Agriculture",
+        "encroachment": "Potential",
+        "inspection_status": "Current",
+        "asset_id": "ROW-0002"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -101.742883,
+            31.03551
+          ],
+          [
+            -101.569149,
+            31.017755
+          ],
+          [
+            -101.395415,
+            31.0
+          ]
+        ]
+      },
+      "properties": {
+        "row_width_ft": 80,
+        "easement_type": "Permanent",
+        "land_use": "Residential Edge",
+        "encroachment": "None",
+        "inspection_status": "Current",
+        "asset_id": "ROW-0003"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -100.945696,
+            32.16795
+          ],
+          [
+            -100.963438,
+            32.283975
+          ],
+          [
+            -100.981181,
+            32.4
+          ]
+        ]
+      },
+      "properties": {
+        "row_width_ft": 80,
+        "easement_type": "Permanent",
+        "land_use": "Public Land",
+        "encroachment": "None",
+        "inspection_status": "Overdue",
+        "asset_id": "ROW-0004"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -101.151187,
+            31.296349
+          ],
+          [
+            -101.09734,
+            31.302129
+          ],
+          [
+            -101.043492,
+            31.307909
+          ]
+        ]
+      },
+      "properties": {
+        "row_width_ft": 50,
+        "easement_type": "Temporary",
+        "land_use": "Agriculture",
+        "encroachment": "None",
+        "inspection_status": "Current",
+        "asset_id": "ROW-0005"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -100.320295,
+            31.051629
+          ],
+          [
+            -100.445738,
+            31.090087
+          ],
+          [
+            -100.571182,
+            31.128545
+          ]
+        ]
+      },
+      "properties": {
+        "row_width_ft": 120,
+        "easement_type": "Access Road",
+        "land_use": "Rangeland",
+        "encroachment": "Confirmed",
+        "inspection_status": "Current",
+        "asset_id": "ROW-0006"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -101.777016,
+            31.885726
+          ],
+          [
+            -101.635384,
+            31.965911
+          ],
+          [
+            -101.493752,
+            32.046096
+          ]
+        ]
+      },
+      "properties": {
+        "row_width_ft": 80,
+        "easement_type": "Access Road",
+        "land_use": "Agriculture",
+        "encroachment": "None",
+        "inspection_status": "Current",
+        "asset_id": "ROW-0007"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -100.49152,
+            31.148864
+          ],
+          [
+            -100.49252,
+            31.223658
+          ],
+          [
+            -100.49352,
+            31.298452
+          ]
+        ]
+      },
+      "properties": {
+        "row_width_ft": 50,
+        "easement_type": "Temporary",
+        "land_use": "Public Land",
+        "encroachment": "None",
+        "inspection_status": "Current",
+        "asset_id": "ROW-0008"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -100.501566,
+            32.37507
+          ],
+          [
+            -100.439127,
+            32.331129
+          ],
+          [
+            -100.376688,
+            32.287187
+          ]
+        ]
+      },
+      "properties": {
+        "row_width_ft": 60,
+        "easement_type": "Permanent",
+        "land_use": "Rangeland",
+        "encroachment": "Potential",
+        "inspection_status": "Due",
+        "asset_id": "ROW-0009"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -100.461717,
+            32.110342
+          ],
+          [
+            -100.369237,
+            32.133613
+          ],
+          [
+            -100.276757,
+            32.156885
+          ]
+        ]
+      },
+      "properties": {
+        "row_width_ft": 120,
+        "easement_type": "Access Road",
+        "land_use": "Public Land",
+        "encroachment": "None",
+        "inspection_status": "Due",
+        "asset_id": "ROW-0010"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -100.58792,
+            31.235271
+          ],
+          [
+            -100.633445,
+            31.151523
+          ],
+          [
+            -100.678971,
+            31.067774
+          ]
+        ]
+      },
+      "properties": {
+        "row_width_ft": 75,
+        "easement_type": "Permanent",
+        "land_use": "Agriculture",
+        "encroachment": "None",
+        "inspection_status": "Current",
+        "asset_id": "ROW-0011"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -100.534316,
+            31.885072
+          ],
+          [
+            -100.57767,
+            31.79951
+          ],
+          [
+            -100.621024,
+            31.713949
+          ]
+        ]
+      },
+      "properties": {
+        "row_width_ft": 60,
+        "easement_type": "Access Road",
+        "land_use": "Agriculture",
+        "encroachment": "None",
+        "inspection_status": "Current",
+        "asset_id": "ROW-0012"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -100.318181,
+            31.989438
+          ],
+          [
+            -100.285375,
+            31.935371
+          ],
+          [
+            -100.25257,
+            31.881304
+          ]
+        ]
+      },
+      "properties": {
+        "row_width_ft": 80,
+        "easement_type": "Permanent",
+        "land_use": "Agriculture",
+        "encroachment": "None",
+        "inspection_status": "Current",
+        "asset_id": "ROW-0013"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -100.776279,
+            31.732322
+          ],
+          [
+            -100.807068,
+            31.841844
+          ],
+          [
+            -100.837857,
+            31.951367
+          ]
+        ]
+      },
+      "properties": {
+        "row_width_ft": 120,
+        "easement_type": "Temporary",
+        "land_use": "Rangeland",
+        "encroachment": "None",
+        "inspection_status": "Current",
+        "asset_id": "ROW-0014"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -100.652482,
+            31.85687
+          ],
+          [
+            -100.796675,
+            31.938491
+          ],
+          [
+            -100.940867,
+            32.020112
+          ]
+        ]
+      },
+      "properties": {
+        "row_width_ft": 100,
+        "easement_type": "Access Road",
+        "land_use": "Agriculture",
+        "encroachment": "Confirmed",
+        "inspection_status": "Current",
+        "asset_id": "ROW-0015"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -101.492955,
+            32.381245
+          ],
+          [
+            -101.326078,
+            32.390622
+          ],
+          [
+            -101.159201,
+            32.4
+          ]
+        ]
+      },
+      "properties": {
+        "row_width_ft": 75,
+        "easement_type": "Temporary",
+        "land_use": "Residential Edge",
+        "encroachment": "None",
+        "inspection_status": "Current",
+        "asset_id": "ROW-0016"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -101.357717,
+            31.271207
+          ],
+          [
+            -101.253902,
+            31.317518
+          ],
+          [
+            -101.150088,
+            31.363829
+          ]
+        ]
+      },
+      "properties": {
+        "row_width_ft": 100,
+        "easement_type": "Access Road",
+        "land_use": "Rangeland",
+        "encroachment": "Potential",
+        "inspection_status": "Current",
+        "asset_id": "ROW-0017"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -101.713556,
+            31.50987
+          ],
+          [
+            -101.756778,
+            31.447715
+          ],
+          [
+            -101.8,
+            31.385561
+          ]
+        ]
+      },
+      "properties": {
+        "row_width_ft": 80,
+        "easement_type": "Temporary",
+        "land_use": "Rangeland",
+        "encroachment": "None",
+        "inspection_status": "Current",
+        "asset_id": "ROW-0018"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -100.320222,
+            31.246243
+          ],
+          [
+            -100.260111,
+            31.242508
+          ],
+          [
+            -100.2,
+            31.238774
+          ]
+        ]
+      },
+      "properties": {
+        "row_width_ft": 100,
+        "easement_type": "Temporary",
+        "land_use": "Agriculture",
+        "encroachment": "None",
+        "inspection_status": "Current",
+        "asset_id": "ROW-0019"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -101.129494,
+            32.045921
+          ],
+          [
+            -100.990064,
+            31.978437
+          ],
+          [
+            -100.850633,
+            31.910953
+          ]
+        ]
+      },
+      "properties": {
+        "row_width_ft": 50,
+        "easement_type": "Permanent",
+        "land_use": "Rangeland",
+        "encroachment": "Potential",
+        "inspection_status": "Due",
+        "asset_id": "ROW-0020"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -100.619603,
+            32.217841
+          ],
+          [
+            -100.663167,
+            32.148007
+          ],
+          [
+            -100.70673,
+            32.078172
+          ]
+        ]
+      },
+      "properties": {
+        "row_width_ft": 50,
+        "easement_type": "Temporary",
+        "land_use": "Rangeland",
+        "encroachment": "None",
+        "inspection_status": "Current",
+        "asset_id": "ROW-0021"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -101.568094,
+            32.299042
+          ],
+          [
+            -101.583847,
+            32.270875
+          ],
+          [
+            -101.5996,
+            32.242707
+          ]
+        ]
+      },
+      "properties": {
+        "row_width_ft": 80,
+        "easement_type": "Access Road",
+        "land_use": "Residential Edge",
+        "encroachment": "None",
+        "inspection_status": "Overdue",
+        "asset_id": "ROW-0022"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -101.476463,
+            31.178096
+          ],
+          [
+            -101.409189,
+            31.089048
+          ],
+          [
+            -101.341916,
+            31.0
+          ]
+        ]
+      },
+      "properties": {
+        "row_width_ft": 60,
+        "easement_type": "Temporary",
+        "land_use": "Rangeland",
+        "encroachment": "None",
+        "inspection_status": "Due",
+        "asset_id": "ROW-0023"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -101.526078,
+            31.481006
+          ],
+          [
+            -101.390835,
+            31.506915
+          ],
+          [
+            -101.255592,
+            31.532824
+          ]
+        ]
+      },
+      "properties": {
+        "row_width_ft": 60,
+        "easement_type": "Permanent",
+        "land_use": "Residential Edge",
+        "encroachment": "Potential",
+        "inspection_status": "Overdue",
+        "asset_id": "ROW-0024"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -101.661641,
+            32.199763
+          ],
+          [
+            -101.665416,
+            32.299881
+          ],
+          [
+            -101.669192,
+            32.4
+          ]
+        ]
+      },
+      "properties": {
+        "row_width_ft": 120,
+        "easement_type": "Access Road",
+        "land_use": "Rangeland",
+        "encroachment": "Confirmed",
+        "inspection_status": "Current",
+        "asset_id": "ROW-0025"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -100.631972,
+            32.03065
+          ],
+          [
+            -100.720643,
+            31.987474
+          ],
+          [
+            -100.809314,
+            31.944298
+          ]
+        ]
+      },
+      "properties": {
+        "row_width_ft": 100,
+        "easement_type": "Temporary",
+        "land_use": "Residential Edge",
+        "encroachment": "None",
+        "inspection_status": "Current",
+        "asset_id": "ROW-0026"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -101.131565,
+            31.061914
+          ],
+          [
+            -100.959619,
+            31.120283
+          ],
+          [
+            -100.787674,
+            31.178652
+          ]
+        ]
+      },
+      "properties": {
+        "row_width_ft": 100,
+        "easement_type": "Permanent",
+        "land_use": "Public Land",
+        "encroachment": "None",
+        "inspection_status": "Current",
+        "asset_id": "ROW-0027"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -101.033169,
+            32.117225
+          ],
+          [
+            -100.920717,
+            32.105335
+          ],
+          [
+            -100.808265,
+            32.093446
+          ]
+        ]
+      },
+      "properties": {
+        "row_width_ft": 100,
+        "easement_type": "Permanent",
+        "land_use": "Residential Edge",
+        "encroachment": "Confirmed",
+        "inspection_status": "Overdue",
+        "asset_id": "ROW-0028"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -100.280106,
+            31.185797
+          ],
+          [
+            -100.351579,
+            31.222707
+          ],
+          [
+            -100.423053,
+            31.259617
+          ]
+        ]
+      },
+      "properties": {
+        "row_width_ft": 60,
+        "easement_type": "Permanent",
+        "land_use": "Public Land",
+        "encroachment": "None",
+        "inspection_status": "Overdue",
+        "asset_id": "ROW-0029"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -100.674713,
+            32.201091
+          ],
+          [
+            -100.588163,
+            32.082194
+          ],
+          [
+            -100.501612,
+            31.963298
+          ]
+        ]
+      },
+      "properties": {
+        "row_width_ft": 50,
+        "easement_type": "Permanent",
+        "land_use": "Residential Edge",
+        "encroachment": "None",
+        "inspection_status": "Current",
+        "asset_id": "ROW-0030"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -100.536226,
+            31.518589
+          ],
+          [
+            -100.548722,
+            31.55194
+          ],
+          [
+            -100.561219,
+            31.58529
+          ]
+        ]
+      },
+      "properties": {
+        "row_width_ft": 80,
+        "easement_type": "Temporary",
+        "land_use": "Rangeland",
+        "encroachment": "Potential",
+        "inspection_status": "Current",
+        "asset_id": "ROW-0031"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -101.325456,
+            32.054043
+          ],
+          [
+            -101.256137,
+            32.082168
+          ],
+          [
+            -101.186818,
+            32.110294
+          ]
+        ]
+      },
+      "properties": {
+        "row_width_ft": 120,
+        "easement_type": "Permanent",
+        "land_use": "Residential Edge",
+        "encroachment": "None",
+        "inspection_status": "Current",
+        "asset_id": "ROW-0032"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -100.622783,
+            31.076736
+          ],
+          [
+            -100.46692,
+            31.120399
+          ],
+          [
+            -100.311057,
+            31.164062
+          ]
+        ]
+      },
+      "properties": {
+        "row_width_ft": 100,
+        "easement_type": "Permanent",
+        "land_use": "Agriculture",
+        "encroachment": "Confirmed",
+        "inspection_status": "Due",
+        "asset_id": "ROW-0033"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -100.809386,
+            31.5118
+          ],
+          [
+            -100.923042,
+            31.526498
+          ],
+          [
+            -101.036699,
+            31.541195
+          ]
+        ]
+      },
+      "properties": {
+        "row_width_ft": 50,
+        "easement_type": "Permanent",
+        "land_use": "Residential Edge",
+        "encroachment": "None",
+        "inspection_status": "Overdue",
+        "asset_id": "ROW-0034"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -101.418188,
+            31.158981
+          ],
+          [
+            -101.425715,
+            31.268768
+          ],
+          [
+            -101.433243,
+            31.378555
+          ]
+        ]
+      },
+      "properties": {
+        "row_width_ft": 50,
+        "easement_type": "Access Road",
+        "land_use": "Rangeland",
+        "encroachment": "None",
+        "inspection_status": "Due",
+        "asset_id": "ROW-0035"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -101.235661,
+            31.374301
+          ],
+          [
+            -101.172582,
+            31.318587
+          ],
+          [
+            -101.109502,
+            31.262874
+          ]
+        ]
+      },
+      "properties": {
+        "row_width_ft": 100,
+        "easement_type": "Access Road",
+        "land_use": "Rangeland",
+        "encroachment": "None",
+        "inspection_status": "Due",
+        "asset_id": "ROW-0036"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -100.99768,
+            32.161384
+          ],
+          [
+            -101.008123,
+            32.16936
+          ],
+          [
+            -101.018565,
+            32.177336
+          ]
+        ]
+      },
+      "properties": {
+        "row_width_ft": 50,
+        "easement_type": "Temporary",
+        "land_use": "Industrial",
+        "encroachment": "Potential",
+        "inspection_status": "Overdue",
+        "asset_id": "ROW-0037"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -100.520154,
+            32.323511
+          ],
+          [
+            -100.412075,
+            32.361756
+          ],
+          [
+            -100.303997,
+            32.4
+          ]
+        ]
+      },
+      "properties": {
+        "row_width_ft": 100,
+        "easement_type": "Temporary",
+        "land_use": "Residential Edge",
+        "encroachment": "Confirmed",
+        "inspection_status": "Due",
+        "asset_id": "ROW-0038"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -101.174908,
+            31.250337
+          ],
+          [
+            -101.014518,
+            31.144574
+          ],
+          [
+            -100.854128,
+            31.038811
+          ]
+        ]
+      },
+      "properties": {
+        "row_width_ft": 50,
+        "easement_type": "Permanent",
+        "land_use": "Residential Edge",
+        "encroachment": "None",
+        "inspection_status": "Current",
+        "asset_id": "ROW-0039"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -101.559203,
+            31.285959
+          ],
+          [
+            -101.400966,
+            31.166632
+          ],
+          [
+            -101.24273,
+            31.047304
+          ]
+        ]
+      },
+      "properties": {
+        "row_width_ft": 60,
+        "easement_type": "Temporary",
+        "land_use": "Agriculture",
+        "encroachment": "None",
+        "inspection_status": "Overdue",
+        "asset_id": "ROW-0040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -101.24528,
+            31.621404
+          ],
+          [
+            -101.19464,
+            31.569283
+          ],
+          [
+            -101.144001,
+            31.517162
+          ]
+        ]
+      },
+      "properties": {
+        "row_width_ft": 80,
+        "easement_type": "Access Road",
+        "land_use": "Public Land",
+        "encroachment": "None",
+        "inspection_status": "Overdue",
+        "asset_id": "ROW-0041"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -101.141293,
+            31.479909
+          ],
+          [
+            -101.090175,
+            31.436486
+          ],
+          [
+            -101.039057,
+            31.393062
+          ]
+        ]
+      },
+      "properties": {
+        "row_width_ft": 50,
+        "easement_type": "Permanent",
+        "land_use": "Rangeland",
+        "encroachment": "Confirmed",
+        "inspection_status": "Due",
+        "asset_id": "ROW-0042"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -101.067189,
+            31.794152
+          ],
+          [
+            -100.92779,
+            31.745776
+          ],
+          [
+            -100.788392,
+            31.6974
+          ]
+        ]
+      },
+      "properties": {
+        "row_width_ft": 100,
+        "easement_type": "Access Road",
+        "land_use": "Public Land",
+        "encroachment": "Confirmed",
+        "inspection_status": "Overdue",
+        "asset_id": "ROW-0043"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -100.5684,
+            31.066247
+          ],
+          [
+            -100.619808,
+            31.055229
+          ],
+          [
+            -100.671215,
+            31.04421
+          ]
+        ]
+      },
+      "properties": {
+        "row_width_ft": 75,
+        "easement_type": "Permanent",
+        "land_use": "Residential Edge",
+        "encroachment": "None",
+        "inspection_status": "Due",
+        "asset_id": "ROW-0044"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -101.508351,
+            31.245503
+          ],
+          [
+            -101.435512,
+            31.346681
+          ],
+          [
+            -101.362673,
+            31.447859
+          ]
+        ]
+      },
+      "properties": {
+        "row_width_ft": 60,
+        "easement_type": "Access Road",
+        "land_use": "Rangeland",
+        "encroachment": "Confirmed",
+        "inspection_status": "Due",
+        "asset_id": "ROW-0045"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -100.209963,
+            31.804335
+          ],
+          [
+            -100.230652,
+            31.771753
+          ],
+          [
+            -100.251341,
+            31.739171
+          ]
+        ]
+      },
+      "properties": {
+        "row_width_ft": 60,
+        "easement_type": "Permanent",
+        "land_use": "Rangeland",
+        "encroachment": "None",
+        "inspection_status": "Current",
+        "asset_id": "ROW-0046"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -101.563289,
+            31.627801
+          ],
+          [
+            -101.396876,
+            31.636212
+          ],
+          [
+            -101.230463,
+            31.644622
+          ]
+        ]
+      },
+      "properties": {
+        "row_width_ft": 60,
+        "easement_type": "Access Road",
+        "land_use": "Agriculture",
+        "encroachment": "None",
+        "inspection_status": "Due",
+        "asset_id": "ROW-0047"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -100.283538,
+            32.298936
+          ],
+          [
+            -100.403919,
+            32.349468
+          ],
+          [
+            -100.524301,
+            32.4
+          ]
+        ]
+      },
+      "properties": {
+        "row_width_ft": 50,
+        "easement_type": "Permanent",
+        "land_use": "Residential Edge",
+        "encroachment": "Potential",
+        "inspection_status": "Current",
+        "asset_id": "ROW-0048"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -100.366436,
+            32.357448
+          ],
+          [
+            -100.283218,
+            32.378724
+          ],
+          [
+            -100.2,
+            32.4
+          ]
+        ]
+      },
+      "properties": {
+        "row_width_ft": 100,
+        "easement_type": "Access Road",
+        "land_use": "Industrial",
+        "encroachment": "None",
+        "inspection_status": "Overdue",
+        "asset_id": "ROW-0049"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -100.697365,
+            32.024297
+          ],
+          [
+            -100.557304,
+            31.934153
+          ],
+          [
+            -100.417243,
+            31.844009
+          ]
+        ]
+      },
+      "properties": {
+        "row_width_ft": 120,
+        "easement_type": "Permanent",
+        "land_use": "Public Land",
+        "encroachment": "Potential",
+        "inspection_status": "Due",
+        "asset_id": "ROW-0050"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -100.811965,
+            31.308511
+          ],
+          [
+            -100.861877,
+            31.265103
+          ],
+          [
+            -100.91179,
+            31.221694
+          ]
+        ]
+      },
+      "properties": {
+        "row_width_ft": 100,
+        "easement_type": "Permanent",
+        "land_use": "Industrial",
+        "encroachment": "None",
+        "inspection_status": "Overdue",
+        "asset_id": "ROW-0051"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -100.549947,
+            32.073933
+          ],
+          [
+            -100.656447,
+            31.96983
+          ],
+          [
+            -100.762946,
+            31.865728
+          ]
+        ]
+      },
+      "properties": {
+        "row_width_ft": 100,
+        "easement_type": "Access Road",
+        "land_use": "Rangeland",
+        "encroachment": "Confirmed",
+        "inspection_status": "Current",
+        "asset_id": "ROW-0052"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -101.48888,
+            31.444861
+          ],
+          [
+            -101.452103,
+            31.555712
+          ],
+          [
+            -101.415326,
+            31.666562
+          ]
+        ]
+      },
+      "properties": {
+        "row_width_ft": 80,
+        "easement_type": "Access Road",
+        "land_use": "Agriculture",
+        "encroachment": "Confirmed",
+        "inspection_status": "Overdue",
+        "asset_id": "ROW-0053"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -101.208592,
+            31.521964
+          ],
+          [
+            -101.283964,
+            31.484803
+          ],
+          [
+            -101.359337,
+            31.447642
+          ]
+        ]
+      },
+      "properties": {
+        "row_width_ft": 120,
+        "easement_type": "Temporary",
+        "land_use": "Residential Edge",
+        "encroachment": "None",
+        "inspection_status": "Overdue",
+        "asset_id": "ROW-0054"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -100.613556,
+            31.581854
+          ],
+          [
+            -100.633679,
+            31.497802
+          ],
+          [
+            -100.653803,
+            31.413749
+          ]
+        ]
+      },
+      "properties": {
+        "row_width_ft": 80,
+        "easement_type": "Access Road",
+        "land_use": "Agriculture",
+        "encroachment": "None",
+        "inspection_status": "Overdue",
+        "asset_id": "ROW-0055"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -101.570177,
+            31.424524
+          ],
+          [
+            -101.399243,
+            31.430849
+          ],
+          [
+            -101.228309,
+            31.437175
+          ]
+        ]
+      },
+      "properties": {
+        "row_width_ft": 120,
+        "easement_type": "Temporary",
+        "land_use": "Residential Edge",
+        "encroachment": "None",
+        "inspection_status": "Current",
+        "asset_id": "ROW-0056"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -101.78941,
+            31.894328
+          ],
+          [
+            -101.794705,
+            31.813051
+          ],
+          [
+            -101.8,
+            31.731775
+          ]
+        ]
+      },
+      "properties": {
+        "row_width_ft": 75,
+        "easement_type": "Permanent",
+        "land_use": "Public Land",
+        "encroachment": "Potential",
+        "inspection_status": "Current",
+        "asset_id": "ROW-0057"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -101.50239,
+            31.534477
+          ],
+          [
+            -101.483537,
+            31.420035
+          ],
+          [
+            -101.464683,
+            31.305593
+          ]
+        ]
+      },
+      "properties": {
+        "row_width_ft": 80,
+        "easement_type": "Access Road",
+        "land_use": "Public Land",
+        "encroachment": "None",
+        "inspection_status": "Current",
+        "asset_id": "ROW-0058"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -101.440768,
+            32.107707
+          ],
+          [
+            -101.56186,
+            32.057749
+          ],
+          [
+            -101.682951,
+            32.007792
+          ]
+        ]
+      },
+      "properties": {
+        "row_width_ft": 75,
+        "easement_type": "Access Road",
+        "land_use": "Industrial",
+        "encroachment": "Potential",
+        "inspection_status": "Overdue",
+        "asset_id": "ROW-0059"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -101.132549,
+            31.688641
+          ],
+          [
+            -101.066804,
+            31.624829
+          ],
+          [
+            -101.001059,
+            31.561016
+          ]
+        ]
+      },
+      "properties": {
+        "row_width_ft": 120,
+        "easement_type": "Access Road",
+        "land_use": "Residential Edge",
+        "encroachment": "None",
+        "inspection_status": "Due",
+        "asset_id": "ROW-0060"
+      }
+    }
+  ]
+}

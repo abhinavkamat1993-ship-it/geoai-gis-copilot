@@ -1,0 +1,107 @@
+[
+  {
+    "file": "cathodic_protection.geojson",
+    "feature_count": 65,
+    "geometry_types": [
+      "Point"
+    ]
+  },
+  {
+    "file": "compressor_stations.geojson",
+    "feature_count": 55,
+    "geometry_types": [
+      "Point"
+    ]
+  },
+  {
+    "file": "environmental_sites.geojson",
+    "feature_count": 55,
+    "geometry_types": [
+      "Point"
+    ]
+  },
+  {
+    "file": "facilities.geojson",
+    "feature_count": 70,
+    "geometry_types": [
+      "Point"
+    ]
+  },
+  {
+    "file": "inspections.geojson",
+    "feature_count": 100,
+    "geometry_types": [
+      "Point"
+    ]
+  },
+  {
+    "file": "leak_events.geojson",
+    "feature_count": 75,
+    "geometry_types": [
+      "Point"
+    ]
+  },
+  {
+    "file": "meter_stations.geojson",
+    "feature_count": 60,
+    "geometry_types": [
+      "Point"
+    ]
+  },
+  {
+    "file": "pipeline_crossings.geojson",
+    "feature_count": 80,
+    "geometry_types": [
+      "Point"
+    ]
+  },
+  {
+    "file": "pipelines.geojson",
+    "feature_count": 100,
+    "geometry_types": [
+      "LineString"
+    ]
+  },
+  {
+    "file": "pump_stations.geojson",
+    "feature_count": 55,
+    "geometry_types": [
+      "Point"
+    ]
+  },
+  {
+    "file": "right_of_way.geojson",
+    "feature_count": 60,
+    "geometry_types": [
+      "LineString"
+    ]
+  },
+  {
+    "file": "storage_tanks.geojson",
+    "feature_count": 100,
+    "geometry_types": [
+      "Point"
+    ]
+  },
+  {
+    "file": "tank_farms.geojson",
+    "feature_count": 50,
+    "geometry_types": [
+      "Point"
+    ]
+  },
+  {
+    "file": "valves.geojson",
+    "feature_count": 75,
+    "geometry_types": [
+      "Point"
+    ]
+  },
+  {
+    "file": "work_orders.geojson",
+    "feature_count": 100,
+    "geometry_types": [
+      "Point"
+    ]
+  }
+]

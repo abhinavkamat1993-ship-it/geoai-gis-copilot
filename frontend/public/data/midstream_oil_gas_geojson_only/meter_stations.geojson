@@ -1,0 +1,1205 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.523508,
+          31.300603
+        ]
+      },
+      "properties": {
+        "meter_type": "Coriolis",
+        "product": "Condensate",
+        "flow_rate": 1667,
+        "flow_unit": "BBL/D",
+        "accuracy_pct": 0.13,
+        "calibration_due": "2027-11",
+        "status": "Maintenance",
+        "asset_id": "MTR-0001"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.764355,
+          31.698448
+        ]
+      },
+      "properties": {
+        "meter_type": "Coriolis",
+        "product": "NGL",
+        "flow_rate": 1196,
+        "flow_unit": "BBL/D",
+        "accuracy_pct": 0.9,
+        "calibration_due": "2027-01",
+        "status": "Active",
+        "asset_id": "MTR-0002"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.771756,
+          32.116077
+        ]
+      },
+      "properties": {
+        "meter_type": "Orifice",
+        "product": "Crude Oil",
+        "flow_rate": 409,
+        "flow_unit": "BBL/D",
+        "accuracy_pct": 0.44,
+        "calibration_due": "2027-07",
+        "status": "Active",
+        "asset_id": "MTR-0003"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.249545,
+          31.791912
+        ]
+      },
+      "properties": {
+        "meter_type": "Coriolis",
+        "product": "Crude Oil",
+        "flow_rate": 1616,
+        "flow_unit": "GPM",
+        "accuracy_pct": 0.42,
+        "calibration_due": "2027-09",
+        "status": "Maintenance",
+        "asset_id": "MTR-0004"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.753114,
+          32.134965
+        ]
+      },
+      "properties": {
+        "meter_type": "Turbine",
+        "product": "Condensate",
+        "flow_rate": 1157,
+        "flow_unit": "MMSCFD",
+        "accuracy_pct": 0.12,
+        "calibration_due": "2027-10",
+        "status": "Active",
+        "asset_id": "MTR-0005"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.241632,
+          31.140188
+        ]
+      },
+      "properties": {
+        "meter_type": "Turbine",
+        "product": "Crude Oil",
+        "flow_rate": 1982,
+        "flow_unit": "GPM",
+        "accuracy_pct": 0.42,
+        "calibration_due": "2027-10",
+        "status": "Active",
+        "asset_id": "MTR-0006"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.232313,
+          32.174911
+        ]
+      },
+      "properties": {
+        "meter_type": "Coriolis",
+        "product": "NGL",
+        "flow_rate": 2235,
+        "flow_unit": "GPM",
+        "accuracy_pct": 0.15,
+        "calibration_due": "2027-04",
+        "status": "Maintenance",
+        "asset_id": "MTR-0007"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.337632,
+          31.039489
+        ]
+      },
+      "properties": {
+        "meter_type": "Coriolis",
+        "product": "Natural Gas",
+        "flow_rate": 1018,
+        "flow_unit": "GPM",
+        "accuracy_pct": 0.39,
+        "calibration_due": "2027-12",
+        "status": "Active",
+        "asset_id": "MTR-0008"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.519109,
+          31.053149
+        ]
+      },
+      "properties": {
+        "meter_type": "Turbine",
+        "product": "Natural Gas",
+        "flow_rate": 2356,
+        "flow_unit": "MMSCFD",
+        "accuracy_pct": 0.85,
+        "calibration_due": "2027-08",
+        "status": "Active",
+        "asset_id": "MTR-0009"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.331366,
+          31.28205
+        ]
+      },
+      "properties": {
+        "meter_type": "Ultrasonic",
+        "product": "Natural Gas",
+        "flow_rate": 946,
+        "flow_unit": "MMSCFD",
+        "accuracy_pct": 0.57,
+        "calibration_due": "2027-01",
+        "status": "Active",
+        "asset_id": "MTR-0010"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.561014,
+          32.185073
+        ]
+      },
+      "properties": {
+        "meter_type": "Coriolis",
+        "product": "NGL",
+        "flow_rate": 776,
+        "flow_unit": "BBL/D",
+        "accuracy_pct": 0.15,
+        "calibration_due": "2027-03",
+        "status": "Active",
+        "asset_id": "MTR-0011"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.261502,
+          31.451644
+        ]
+      },
+      "properties": {
+        "meter_type": "Turbine",
+        "product": "Crude Oil",
+        "flow_rate": 1580,
+        "flow_unit": "GPM",
+        "accuracy_pct": 0.95,
+        "calibration_due": "2027-07",
+        "status": "Active",
+        "asset_id": "MTR-0012"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.44282,
+          31.82453
+        ]
+      },
+      "properties": {
+        "meter_type": "Coriolis",
+        "product": "Condensate",
+        "flow_rate": 2045,
+        "flow_unit": "GPM",
+        "accuracy_pct": 0.39,
+        "calibration_due": "2027-12",
+        "status": "Active",
+        "asset_id": "MTR-0013"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.63387,
+          32.328303
+        ]
+      },
+      "properties": {
+        "meter_type": "Coriolis",
+        "product": "Condensate",
+        "flow_rate": 1306,
+        "flow_unit": "GPM",
+        "accuracy_pct": 0.72,
+        "calibration_due": "2027-03",
+        "status": "Active",
+        "asset_id": "MTR-0014"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.776565,
+          31.145754
+        ]
+      },
+      "properties": {
+        "meter_type": "Orifice",
+        "product": "Crude Oil",
+        "flow_rate": 795,
+        "flow_unit": "GPM",
+        "accuracy_pct": 0.39,
+        "calibration_due": "2027-10",
+        "status": "Active",
+        "asset_id": "MTR-0015"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.53138,
+          32.239448
+        ]
+      },
+      "properties": {
+        "meter_type": "Orifice",
+        "product": "Natural Gas",
+        "flow_rate": 1406,
+        "flow_unit": "GPM",
+        "accuracy_pct": 0.17,
+        "calibration_due": "2027-06",
+        "status": "Active",
+        "asset_id": "MTR-0016"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.23923,
+          32.101828
+        ]
+      },
+      "properties": {
+        "meter_type": "Ultrasonic",
+        "product": "NGL",
+        "flow_rate": 1879,
+        "flow_unit": "MMSCFD",
+        "accuracy_pct": 0.34,
+        "calibration_due": "2027-04",
+        "status": "Active",
+        "asset_id": "MTR-0017"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.011069,
+          31.530198
+        ]
+      },
+      "properties": {
+        "meter_type": "Ultrasonic",
+        "product": "Crude Oil",
+        "flow_rate": 1630,
+        "flow_unit": "BBL/D",
+        "accuracy_pct": 0.76,
+        "calibration_due": "2027-03",
+        "status": "Maintenance",
+        "asset_id": "MTR-0018"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.53975,
+          31.103193
+        ]
+      },
+      "properties": {
+        "meter_type": "Orifice",
+        "product": "Crude Oil",
+        "flow_rate": 2013,
+        "flow_unit": "GPM",
+        "accuracy_pct": 0.69,
+        "calibration_due": "2027-11",
+        "status": "Active",
+        "asset_id": "MTR-0019"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.253107,
+          32.243104
+        ]
+      },
+      "properties": {
+        "meter_type": "Ultrasonic",
+        "product": "NGL",
+        "flow_rate": 132,
+        "flow_unit": "BBL/D",
+        "accuracy_pct": 0.34,
+        "calibration_due": "2027-02",
+        "status": "Active",
+        "asset_id": "MTR-0020"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.672793,
+          31.603853
+        ]
+      },
+      "properties": {
+        "meter_type": "Coriolis",
+        "product": "Crude Oil",
+        "flow_rate": 2290,
+        "flow_unit": "MMSCFD",
+        "accuracy_pct": 0.4,
+        "calibration_due": "2027-10",
+        "status": "Maintenance",
+        "asset_id": "MTR-0021"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.145152,
+          31.775757
+        ]
+      },
+      "properties": {
+        "meter_type": "Coriolis",
+        "product": "Condensate",
+        "flow_rate": 693,
+        "flow_unit": "MMSCFD",
+        "accuracy_pct": 0.19,
+        "calibration_due": "2027-04",
+        "status": "Active",
+        "asset_id": "MTR-0022"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.554256,
+          31.50516
+        ]
+      },
+      "properties": {
+        "meter_type": "Turbine",
+        "product": "NGL",
+        "flow_rate": 1268,
+        "flow_unit": "MMSCFD",
+        "accuracy_pct": 0.19,
+        "calibration_due": "2027-07",
+        "status": "Maintenance",
+        "asset_id": "MTR-0023"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.644821,
+          31.289734
+        ]
+      },
+      "properties": {
+        "meter_type": "Orifice",
+        "product": "Crude Oil",
+        "flow_rate": 1256,
+        "flow_unit": "GPM",
+        "accuracy_pct": 0.66,
+        "calibration_due": "2027-08",
+        "status": "Active",
+        "asset_id": "MTR-0024"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.017445,
+          31.925456
+        ]
+      },
+      "properties": {
+        "meter_type": "Turbine",
+        "product": "Crude Oil",
+        "flow_rate": 1989,
+        "flow_unit": "MMSCFD",
+        "accuracy_pct": 0.38,
+        "calibration_due": "2027-07",
+        "status": "Maintenance",
+        "asset_id": "MTR-0025"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.08676,
+          31.368614
+        ]
+      },
+      "properties": {
+        "meter_type": "Ultrasonic",
+        "product": "Condensate",
+        "flow_rate": 807,
+        "flow_unit": "BBL/D",
+        "accuracy_pct": 0.9,
+        "calibration_due": "2027-06",
+        "status": "Active",
+        "asset_id": "MTR-0026"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.662868,
+          31.481308
+        ]
+      },
+      "properties": {
+        "meter_type": "Orifice",
+        "product": "NGL",
+        "flow_rate": 976,
+        "flow_unit": "BBL/D",
+        "accuracy_pct": 0.61,
+        "calibration_due": "2027-03",
+        "status": "Active",
+        "asset_id": "MTR-0027"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.254996,
+          31.961895
+        ]
+      },
+      "properties": {
+        "meter_type": "Orifice",
+        "product": "Natural Gas",
+        "flow_rate": 2317,
+        "flow_unit": "MMSCFD",
+        "accuracy_pct": 0.86,
+        "calibration_due": "2027-09",
+        "status": "Maintenance",
+        "asset_id": "MTR-0028"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.996638,
+          32.260637
+        ]
+      },
+      "properties": {
+        "meter_type": "Orifice",
+        "product": "Natural Gas",
+        "flow_rate": 2000,
+        "flow_unit": "BBL/D",
+        "accuracy_pct": 0.17,
+        "calibration_due": "2027-12",
+        "status": "Active",
+        "asset_id": "MTR-0029"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.506463,
+          31.17666
+        ]
+      },
+      "properties": {
+        "meter_type": "Coriolis",
+        "product": "Crude Oil",
+        "flow_rate": 1889,
+        "flow_unit": "MMSCFD",
+        "accuracy_pct": 0.95,
+        "calibration_due": "2027-03",
+        "status": "Active",
+        "asset_id": "MTR-0030"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.465427,
+          31.361041
+        ]
+      },
+      "properties": {
+        "meter_type": "Orifice",
+        "product": "Crude Oil",
+        "flow_rate": 1833,
+        "flow_unit": "MMSCFD",
+        "accuracy_pct": 1.0,
+        "calibration_due": "2027-11",
+        "status": "Active",
+        "asset_id": "MTR-0031"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.968499,
+          32.284027
+        ]
+      },
+      "properties": {
+        "meter_type": "Ultrasonic",
+        "product": "Crude Oil",
+        "flow_rate": 1639,
+        "flow_unit": "GPM",
+        "accuracy_pct": 0.46,
+        "calibration_due": "2027-06",
+        "status": "Active",
+        "asset_id": "MTR-0032"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.320115,
+          31.787757
+        ]
+      },
+      "properties": {
+        "meter_type": "Ultrasonic",
+        "product": "Condensate",
+        "flow_rate": 510,
+        "flow_unit": "BBL/D",
+        "accuracy_pct": 0.23,
+        "calibration_due": "2027-10",
+        "status": "Active",
+        "asset_id": "MTR-0033"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.75234,
+          31.800833
+        ]
+      },
+      "properties": {
+        "meter_type": "Ultrasonic",
+        "product": "NGL",
+        "flow_rate": 2243,
+        "flow_unit": "BBL/D",
+        "accuracy_pct": 0.89,
+        "calibration_due": "2027-05",
+        "status": "Maintenance",
+        "asset_id": "MTR-0034"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.737948,
+          32.245404
+        ]
+      },
+      "properties": {
+        "meter_type": "Orifice",
+        "product": "Crude Oil",
+        "flow_rate": 755,
+        "flow_unit": "BBL/D",
+        "accuracy_pct": 0.46,
+        "calibration_due": "2027-10",
+        "status": "Maintenance",
+        "asset_id": "MTR-0035"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.767627,
+          32.14434
+        ]
+      },
+      "properties": {
+        "meter_type": "Turbine",
+        "product": "Natural Gas",
+        "flow_rate": 251,
+        "flow_unit": "GPM",
+        "accuracy_pct": 0.53,
+        "calibration_due": "2027-05",
+        "status": "Active",
+        "asset_id": "MTR-0036"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.244005,
+          31.31914
+        ]
+      },
+      "properties": {
+        "meter_type": "Turbine",
+        "product": "NGL",
+        "flow_rate": 1198,
+        "flow_unit": "BBL/D",
+        "accuracy_pct": 0.87,
+        "calibration_due": "2027-11",
+        "status": "Active",
+        "asset_id": "MTR-0037"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.499303,
+          31.295947
+        ]
+      },
+      "properties": {
+        "meter_type": "Turbine",
+        "product": "Condensate",
+        "flow_rate": 1364,
+        "flow_unit": "BBL/D",
+        "accuracy_pct": 0.76,
+        "calibration_due": "2027-10",
+        "status": "Active",
+        "asset_id": "MTR-0038"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.695013,
+          31.993397
+        ]
+      },
+      "properties": {
+        "meter_type": "Orifice",
+        "product": "Condensate",
+        "flow_rate": 2165,
+        "flow_unit": "BBL/D",
+        "accuracy_pct": 0.84,
+        "calibration_due": "2027-09",
+        "status": "Active",
+        "asset_id": "MTR-0039"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.460837,
+          31.349286
+        ]
+      },
+      "properties": {
+        "meter_type": "Orifice",
+        "product": "Natural Gas",
+        "flow_rate": 2197,
+        "flow_unit": "GPM",
+        "accuracy_pct": 0.13,
+        "calibration_due": "2027-04",
+        "status": "Active",
+        "asset_id": "MTR-0040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.991798,
+          31.889574
+        ]
+      },
+      "properties": {
+        "meter_type": "Orifice",
+        "product": "Crude Oil",
+        "flow_rate": 1526,
+        "flow_unit": "GPM",
+        "accuracy_pct": 0.28,
+        "calibration_due": "2027-06",
+        "status": "Maintenance",
+        "asset_id": "MTR-0041"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.263167,
+          31.664415
+        ]
+      },
+      "properties": {
+        "meter_type": "Ultrasonic",
+        "product": "Crude Oil",
+        "flow_rate": 1040,
+        "flow_unit": "BBL/D",
+        "accuracy_pct": 0.54,
+        "calibration_due": "2027-08",
+        "status": "Active",
+        "asset_id": "MTR-0042"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.343889,
+          31.541192
+        ]
+      },
+      "properties": {
+        "meter_type": "Turbine",
+        "product": "NGL",
+        "flow_rate": 719,
+        "flow_unit": "BBL/D",
+        "accuracy_pct": 0.77,
+        "calibration_due": "2027-12",
+        "status": "Active",
+        "asset_id": "MTR-0043"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.75746,
+          31.718594
+        ]
+      },
+      "properties": {
+        "meter_type": "Coriolis",
+        "product": "Natural Gas",
+        "flow_rate": 956,
+        "flow_unit": "GPM",
+        "accuracy_pct": 0.3,
+        "calibration_due": "2027-04",
+        "status": "Active",
+        "asset_id": "MTR-0044"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.396175,
+          32.12712
+        ]
+      },
+      "properties": {
+        "meter_type": "Ultrasonic",
+        "product": "Condensate",
+        "flow_rate": 591,
+        "flow_unit": "GPM",
+        "accuracy_pct": 0.26,
+        "calibration_due": "2027-01",
+        "status": "Active",
+        "asset_id": "MTR-0045"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.450866,
+          31.423003
+        ]
+      },
+      "properties": {
+        "meter_type": "Turbine",
+        "product": "NGL",
+        "flow_rate": 1785,
+        "flow_unit": "BBL/D",
+        "accuracy_pct": 0.87,
+        "calibration_due": "2027-08",
+        "status": "Active",
+        "asset_id": "MTR-0046"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.322439,
+          31.151346
+        ]
+      },
+      "properties": {
+        "meter_type": "Orifice",
+        "product": "Crude Oil",
+        "flow_rate": 80,
+        "flow_unit": "GPM",
+        "accuracy_pct": 1.0,
+        "calibration_due": "2027-06",
+        "status": "Active",
+        "asset_id": "MTR-0047"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.750209,
+          32.333063
+        ]
+      },
+      "properties": {
+        "meter_type": "Ultrasonic",
+        "product": "NGL",
+        "flow_rate": 1182,
+        "flow_unit": "GPM",
+        "accuracy_pct": 0.39,
+        "calibration_due": "2027-05",
+        "status": "Active",
+        "asset_id": "MTR-0048"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.743151,
+          31.953058
+        ]
+      },
+      "properties": {
+        "meter_type": "Turbine",
+        "product": "Natural Gas",
+        "flow_rate": 664,
+        "flow_unit": "GPM",
+        "accuracy_pct": 0.79,
+        "calibration_due": "2027-01",
+        "status": "Maintenance",
+        "asset_id": "MTR-0049"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.621229,
+          31.816233
+        ]
+      },
+      "properties": {
+        "meter_type": "Ultrasonic",
+        "product": "Condensate",
+        "flow_rate": 1260,
+        "flow_unit": "BBL/D",
+        "accuracy_pct": 0.92,
+        "calibration_due": "2027-07",
+        "status": "Maintenance",
+        "asset_id": "MTR-0050"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.988296,
+          32.183587
+        ]
+      },
+      "properties": {
+        "meter_type": "Coriolis",
+        "product": "NGL",
+        "flow_rate": 960,
+        "flow_unit": "GPM",
+        "accuracy_pct": 0.58,
+        "calibration_due": "2027-08",
+        "status": "Active",
+        "asset_id": "MTR-0051"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.284923,
+          32.259428
+        ]
+      },
+      "properties": {
+        "meter_type": "Coriolis",
+        "product": "NGL",
+        "flow_rate": 449,
+        "flow_unit": "BBL/D",
+        "accuracy_pct": 0.22,
+        "calibration_due": "2027-05",
+        "status": "Active",
+        "asset_id": "MTR-0052"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.539055,
+          31.463844
+        ]
+      },
+      "properties": {
+        "meter_type": "Ultrasonic",
+        "product": "Natural Gas",
+        "flow_rate": 1505,
+        "flow_unit": "MMSCFD",
+        "accuracy_pct": 0.77,
+        "calibration_due": "2027-05",
+        "status": "Maintenance",
+        "asset_id": "MTR-0053"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.044449,
+          31.272361
+        ]
+      },
+      "properties": {
+        "meter_type": "Turbine",
+        "product": "NGL",
+        "flow_rate": 1949,
+        "flow_unit": "MMSCFD",
+        "accuracy_pct": 0.52,
+        "calibration_due": "2027-11",
+        "status": "Active",
+        "asset_id": "MTR-0054"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.212243,
+          31.479738
+        ]
+      },
+      "properties": {
+        "meter_type": "Ultrasonic",
+        "product": "Condensate",
+        "flow_rate": 2220,
+        "flow_unit": "BBL/D",
+        "accuracy_pct": 0.47,
+        "calibration_due": "2027-03",
+        "status": "Active",
+        "asset_id": "MTR-0055"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.267793,
+          32.381297
+        ]
+      },
+      "properties": {
+        "meter_type": "Orifice",
+        "product": "Natural Gas",
+        "flow_rate": 1345,
+        "flow_unit": "GPM",
+        "accuracy_pct": 0.26,
+        "calibration_due": "2027-02",
+        "status": "Maintenance",
+        "asset_id": "MTR-0056"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.016677,
+          32.068997
+        ]
+      },
+      "properties": {
+        "meter_type": "Turbine",
+        "product": "Crude Oil",
+        "flow_rate": 69,
+        "flow_unit": "BBL/D",
+        "accuracy_pct": 0.35,
+        "calibration_due": "2027-03",
+        "status": "Active",
+        "asset_id": "MTR-0057"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.186694,
+          31.052815
+        ]
+      },
+      "properties": {
+        "meter_type": "Ultrasonic",
+        "product": "Natural Gas",
+        "flow_rate": 1826,
+        "flow_unit": "GPM",
+        "accuracy_pct": 0.49,
+        "calibration_due": "2027-07",
+        "status": "Maintenance",
+        "asset_id": "MTR-0058"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.771334,
+          31.005773
+        ]
+      },
+      "properties": {
+        "meter_type": "Coriolis",
+        "product": "NGL",
+        "flow_rate": 107,
+        "flow_unit": "BBL/D",
+        "accuracy_pct": 0.78,
+        "calibration_due": "2027-09",
+        "status": "Active",
+        "asset_id": "MTR-0059"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.532768,
+          32.153381
+        ]
+      },
+      "properties": {
+        "meter_type": "Coriolis",
+        "product": "Natural Gas",
+        "flow_rate": 1460,
+        "flow_unit": "BBL/D",
+        "accuracy_pct": 0.22,
+        "calibration_due": "2027-07",
+        "status": "Active",
+        "asset_id": "MTR-0060"
+      }
+    }
+  ]
+}

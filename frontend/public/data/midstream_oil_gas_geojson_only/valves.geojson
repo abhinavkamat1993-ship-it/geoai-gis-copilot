@@ -1,0 +1,1580 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.510646,
+          31.969984
+        ]
+      },
+      "properties": {
+        "valve_type": "Ball",
+        "size_in": 6,
+        "actuation": "Hydraulic",
+        "fail_position": "Last Position",
+        "status": "Active",
+        "pipeline_id": "PL-0077",
+        "criticality": "Critical",
+        "last_inspection": "2026-03-06",
+        "asset_id": "VLV-0001"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.344115,
+          32.047951
+        ]
+      },
+      "properties": {
+        "valve_type": "Plug",
+        "size_in": 10,
+        "actuation": "Pneumatic",
+        "fail_position": "Fail Closed",
+        "status": "Maintenance",
+        "pipeline_id": "PL-0047",
+        "criticality": "Medium",
+        "last_inspection": "2026-08-20",
+        "asset_id": "VLV-0002"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.568898,
+          32.089374
+        ]
+      },
+      "properties": {
+        "valve_type": "Butterfly",
+        "size_in": 12,
+        "actuation": "Electric",
+        "fail_position": "Fail Open",
+        "status": "Maintenance",
+        "pipeline_id": "PL-0025",
+        "criticality": "High",
+        "last_inspection": "2026-08-15",
+        "asset_id": "VLV-0003"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.206061,
+          32.308011
+        ]
+      },
+      "properties": {
+        "valve_type": "Plug",
+        "size_in": 24,
+        "actuation": "Electric",
+        "fail_position": "Fail Closed",
+        "status": "Active",
+        "pipeline_id": "PL-0033",
+        "criticality": "Low",
+        "last_inspection": "2026-08-28",
+        "asset_id": "VLV-0004"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.470325,
+          31.128399
+        ]
+      },
+      "properties": {
+        "valve_type": "Plug",
+        "size_in": 8,
+        "actuation": "Hydraulic",
+        "fail_position": "Fail Closed",
+        "status": "Active",
+        "pipeline_id": "PL-0035",
+        "criticality": "Critical",
+        "last_inspection": "2026-09-05",
+        "asset_id": "VLV-0005"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.422755,
+          32.392335
+        ]
+      },
+      "properties": {
+        "valve_type": "Gate",
+        "size_in": 30,
+        "actuation": "Hydraulic",
+        "fail_position": "Fail Closed",
+        "status": "Maintenance",
+        "pipeline_id": "PL-0007",
+        "criticality": "Critical",
+        "last_inspection": "2026-09-12",
+        "asset_id": "VLV-0006"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.738715,
+          32.284355
+        ]
+      },
+      "properties": {
+        "valve_type": "Check",
+        "size_in": 12,
+        "actuation": "Manual",
+        "fail_position": "Fail Open",
+        "status": "Active",
+        "pipeline_id": "PL-0092",
+        "criticality": "High",
+        "last_inspection": "2026-03-05",
+        "asset_id": "VLV-0007"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.464059,
+          31.768326
+        ]
+      },
+      "properties": {
+        "valve_type": "Butterfly",
+        "size_in": 10,
+        "actuation": "Pneumatic",
+        "fail_position": "Fail Open",
+        "status": "Active",
+        "pipeline_id": "PL-0011",
+        "criticality": "Low",
+        "last_inspection": "2026-05-07",
+        "asset_id": "VLV-0008"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.128279,
+          32.111459
+        ]
+      },
+      "properties": {
+        "valve_type": "Plug",
+        "size_in": 24,
+        "actuation": "Manual",
+        "fail_position": "Fail Open",
+        "status": "Active",
+        "pipeline_id": "PL-0039",
+        "criticality": "Low",
+        "last_inspection": "2026-01-08",
+        "asset_id": "VLV-0009"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.113218,
+          31.860733
+        ]
+      },
+      "properties": {
+        "valve_type": "Butterfly",
+        "size_in": 8,
+        "actuation": "Manual",
+        "fail_position": "Fail Open",
+        "status": "Active",
+        "pipeline_id": "PL-0081",
+        "criticality": "Medium",
+        "last_inspection": "2026-03-10",
+        "asset_id": "VLV-0010"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.929469,
+          32.100977
+        ]
+      },
+      "properties": {
+        "valve_type": "Gate",
+        "size_in": 24,
+        "actuation": "Electric",
+        "fail_position": "Last Position",
+        "status": "Active",
+        "pipeline_id": "PL-0068",
+        "criticality": "High",
+        "last_inspection": "2026-02-17",
+        "asset_id": "VLV-0011"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.604293,
+          31.499931
+        ]
+      },
+      "properties": {
+        "valve_type": "Plug",
+        "size_in": 6,
+        "actuation": "Pneumatic",
+        "fail_position": "Fail Open",
+        "status": "Active",
+        "pipeline_id": "PL-0082",
+        "criticality": "Critical",
+        "last_inspection": "2026-06-09",
+        "asset_id": "VLV-0012"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.236322,
+          31.473966
+        ]
+      },
+      "properties": {
+        "valve_type": "Ball",
+        "size_in": 20,
+        "actuation": "Electric",
+        "fail_position": "Last Position",
+        "status": "Active",
+        "pipeline_id": "PL-0099",
+        "criticality": "High",
+        "last_inspection": "2026-03-02",
+        "asset_id": "VLV-0013"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.330492,
+          31.061329
+        ]
+      },
+      "properties": {
+        "valve_type": "Gate",
+        "size_in": 30,
+        "actuation": "Pneumatic",
+        "fail_position": "Last Position",
+        "status": "Active",
+        "pipeline_id": "PL-0018",
+        "criticality": "Low",
+        "last_inspection": "2026-08-02",
+        "asset_id": "VLV-0014"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.594735,
+          31.267545
+        ]
+      },
+      "properties": {
+        "valve_type": "Gate",
+        "size_in": 6,
+        "actuation": "Hydraulic",
+        "fail_position": "Fail Open",
+        "status": "Maintenance",
+        "pipeline_id": "PL-0070",
+        "criticality": "Critical",
+        "last_inspection": "2026-05-02",
+        "asset_id": "VLV-0015"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.096421,
+          32.33907
+        ]
+      },
+      "properties": {
+        "valve_type": "Check",
+        "size_in": 6,
+        "actuation": "Hydraulic",
+        "fail_position": "Fail Open",
+        "status": "Active",
+        "pipeline_id": "PL-0048",
+        "criticality": "Critical",
+        "last_inspection": "2026-07-24",
+        "asset_id": "VLV-0016"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.120801,
+          31.60285
+        ]
+      },
+      "properties": {
+        "valve_type": "Check",
+        "size_in": 10,
+        "actuation": "Pneumatic",
+        "fail_position": "Last Position",
+        "status": "Maintenance",
+        "pipeline_id": "PL-0048",
+        "criticality": "High",
+        "last_inspection": "2026-02-24",
+        "asset_id": "VLV-0017"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.835805,
+          31.596563
+        ]
+      },
+      "properties": {
+        "valve_type": "Gate",
+        "size_in": 16,
+        "actuation": "Hydraulic",
+        "fail_position": "Fail Closed",
+        "status": "Active",
+        "pipeline_id": "PL-0042",
+        "criticality": "High",
+        "last_inspection": "2026-05-15",
+        "asset_id": "VLV-0018"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.231956,
+          32.327066
+        ]
+      },
+      "properties": {
+        "valve_type": "Butterfly",
+        "size_in": 20,
+        "actuation": "Pneumatic",
+        "fail_position": "Fail Closed",
+        "status": "Active",
+        "pipeline_id": "PL-0079",
+        "criticality": "Critical",
+        "last_inspection": "2026-05-21",
+        "asset_id": "VLV-0019"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.598032,
+          31.330394
+        ]
+      },
+      "properties": {
+        "valve_type": "Ball",
+        "size_in": 24,
+        "actuation": "Hydraulic",
+        "fail_position": "Last Position",
+        "status": "Active",
+        "pipeline_id": "PL-0004",
+        "criticality": "Medium",
+        "last_inspection": "2026-08-02",
+        "asset_id": "VLV-0020"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.204779,
+          32.068318
+        ]
+      },
+      "properties": {
+        "valve_type": "Check",
+        "size_in": 20,
+        "actuation": "Pneumatic",
+        "fail_position": "Last Position",
+        "status": "Active",
+        "pipeline_id": "PL-0078",
+        "criticality": "Medium",
+        "last_inspection": "2026-08-12",
+        "asset_id": "VLV-0021"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.758539,
+          31.260467
+        ]
+      },
+      "properties": {
+        "valve_type": "Plug",
+        "size_in": 10,
+        "actuation": "Hydraulic",
+        "fail_position": "Fail Open",
+        "status": "Active",
+        "pipeline_id": "PL-0084",
+        "criticality": "High",
+        "last_inspection": "2026-04-04",
+        "asset_id": "VLV-0022"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.343077,
+          32.28307
+        ]
+      },
+      "properties": {
+        "valve_type": "Plug",
+        "size_in": 24,
+        "actuation": "Manual",
+        "fail_position": "Fail Open",
+        "status": "Active",
+        "pipeline_id": "PL-0091",
+        "criticality": "Critical",
+        "last_inspection": "2026-04-20",
+        "asset_id": "VLV-0023"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.503179,
+          32.354586
+        ]
+      },
+      "properties": {
+        "valve_type": "Butterfly",
+        "size_in": 12,
+        "actuation": "Manual",
+        "fail_position": "Fail Closed",
+        "status": "Active",
+        "pipeline_id": "PL-0058",
+        "criticality": "Medium",
+        "last_inspection": "2026-08-03",
+        "asset_id": "VLV-0024"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.221613,
+          31.313938
+        ]
+      },
+      "properties": {
+        "valve_type": "Check",
+        "size_in": 20,
+        "actuation": "Manual",
+        "fail_position": "Last Position",
+        "status": "Active",
+        "pipeline_id": "PL-0039",
+        "criticality": "Medium",
+        "last_inspection": "2026-03-26",
+        "asset_id": "VLV-0025"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.227181,
+          31.18168
+        ]
+      },
+      "properties": {
+        "valve_type": "Gate",
+        "size_in": 10,
+        "actuation": "Electric",
+        "fail_position": "Fail Open",
+        "status": "Active",
+        "pipeline_id": "PL-0047",
+        "criticality": "High",
+        "last_inspection": "2026-08-26",
+        "asset_id": "VLV-0026"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.880159,
+          31.175457
+        ]
+      },
+      "properties": {
+        "valve_type": "Ball",
+        "size_in": 8,
+        "actuation": "Hydraulic",
+        "fail_position": "Fail Open",
+        "status": "Maintenance",
+        "pipeline_id": "PL-0068",
+        "criticality": "Critical",
+        "last_inspection": "2026-07-27",
+        "asset_id": "VLV-0027"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.995418,
+          32.215496
+        ]
+      },
+      "properties": {
+        "valve_type": "Check",
+        "size_in": 8,
+        "actuation": "Pneumatic",
+        "fail_position": "Fail Open",
+        "status": "Active",
+        "pipeline_id": "PL-0017",
+        "criticality": "Medium",
+        "last_inspection": "2026-03-14",
+        "asset_id": "VLV-0028"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.368119,
+          32.184307
+        ]
+      },
+      "properties": {
+        "valve_type": "Ball",
+        "size_in": 10,
+        "actuation": "Hydraulic",
+        "fail_position": "Fail Closed",
+        "status": "Active",
+        "pipeline_id": "PL-0042",
+        "criticality": "Medium",
+        "last_inspection": "2026-06-17",
+        "asset_id": "VLV-0029"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.530183,
+          32.31825
+        ]
+      },
+      "properties": {
+        "valve_type": "Check",
+        "size_in": 12,
+        "actuation": "Hydraulic",
+        "fail_position": "Fail Closed",
+        "status": "Active",
+        "pipeline_id": "PL-0079",
+        "criticality": "Low",
+        "last_inspection": "2026-09-21",
+        "asset_id": "VLV-0030"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.566364,
+          31.370518
+        ]
+      },
+      "properties": {
+        "valve_type": "Gate",
+        "size_in": 10,
+        "actuation": "Hydraulic",
+        "fail_position": "Last Position",
+        "status": "Active",
+        "pipeline_id": "PL-0004",
+        "criticality": "Low",
+        "last_inspection": "2026-01-21",
+        "asset_id": "VLV-0031"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.512499,
+          31.958987
+        ]
+      },
+      "properties": {
+        "valve_type": "Gate",
+        "size_in": 24,
+        "actuation": "Manual",
+        "fail_position": "Fail Open",
+        "status": "Active",
+        "pipeline_id": "PL-0083",
+        "criticality": "High",
+        "last_inspection": "2026-08-08",
+        "asset_id": "VLV-0032"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.056893,
+          31.47627
+        ]
+      },
+      "properties": {
+        "valve_type": "Check",
+        "size_in": 30,
+        "actuation": "Manual",
+        "fail_position": "Last Position",
+        "status": "Active",
+        "pipeline_id": "PL-0021",
+        "criticality": "Critical",
+        "last_inspection": "2026-07-16",
+        "asset_id": "VLV-0033"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.901358,
+          31.446762
+        ]
+      },
+      "properties": {
+        "valve_type": "Gate",
+        "size_in": 20,
+        "actuation": "Hydraulic",
+        "fail_position": "Last Position",
+        "status": "Active",
+        "pipeline_id": "PL-0052",
+        "criticality": "Medium",
+        "last_inspection": "2026-06-17",
+        "asset_id": "VLV-0034"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.287384,
+          32.209829
+        ]
+      },
+      "properties": {
+        "valve_type": "Butterfly",
+        "size_in": 8,
+        "actuation": "Hydraulic",
+        "fail_position": "Fail Open",
+        "status": "Active",
+        "pipeline_id": "PL-0019",
+        "criticality": "Low",
+        "last_inspection": "2026-01-10",
+        "asset_id": "VLV-0035"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.053096,
+          32.230706
+        ]
+      },
+      "properties": {
+        "valve_type": "Butterfly",
+        "size_in": 12,
+        "actuation": "Electric",
+        "fail_position": "Fail Open",
+        "status": "Active",
+        "pipeline_id": "PL-0025",
+        "criticality": "Medium",
+        "last_inspection": "2026-08-17",
+        "asset_id": "VLV-0036"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.719135,
+          31.692852
+        ]
+      },
+      "properties": {
+        "valve_type": "Butterfly",
+        "size_in": 6,
+        "actuation": "Manual",
+        "fail_position": "Fail Open",
+        "status": "Maintenance",
+        "pipeline_id": "PL-0031",
+        "criticality": "Medium",
+        "last_inspection": "2026-06-02",
+        "asset_id": "VLV-0037"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.154793,
+          31.063339
+        ]
+      },
+      "properties": {
+        "valve_type": "Butterfly",
+        "size_in": 16,
+        "actuation": "Manual",
+        "fail_position": "Fail Closed",
+        "status": "Maintenance",
+        "pipeline_id": "PL-0018",
+        "criticality": "High",
+        "last_inspection": "2026-06-25",
+        "asset_id": "VLV-0038"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.576953,
+          31.391609
+        ]
+      },
+      "properties": {
+        "valve_type": "Ball",
+        "size_in": 12,
+        "actuation": "Hydraulic",
+        "fail_position": "Last Position",
+        "status": "Active",
+        "pipeline_id": "PL-0010",
+        "criticality": "Critical",
+        "last_inspection": "2026-09-15",
+        "asset_id": "VLV-0039"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.592056,
+          31.278681
+        ]
+      },
+      "properties": {
+        "valve_type": "Plug",
+        "size_in": 8,
+        "actuation": "Electric",
+        "fail_position": "Fail Closed",
+        "status": "Maintenance",
+        "pipeline_id": "PL-0048",
+        "criticality": "High",
+        "last_inspection": "2026-09-12",
+        "asset_id": "VLV-0040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.068818,
+          31.848765
+        ]
+      },
+      "properties": {
+        "valve_type": "Plug",
+        "size_in": 24,
+        "actuation": "Manual",
+        "fail_position": "Fail Closed",
+        "status": "Active",
+        "pipeline_id": "PL-0018",
+        "criticality": "High",
+        "last_inspection": "2026-08-17",
+        "asset_id": "VLV-0041"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.261802,
+          32.159605
+        ]
+      },
+      "properties": {
+        "valve_type": "Plug",
+        "size_in": 10,
+        "actuation": "Hydraulic",
+        "fail_position": "Last Position",
+        "status": "Active",
+        "pipeline_id": "PL-0021",
+        "criticality": "Critical",
+        "last_inspection": "2026-05-19",
+        "asset_id": "VLV-0042"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.866077,
+          32.115457
+        ]
+      },
+      "properties": {
+        "valve_type": "Plug",
+        "size_in": 30,
+        "actuation": "Hydraulic",
+        "fail_position": "Fail Open",
+        "status": "Active",
+        "pipeline_id": "PL-0048",
+        "criticality": "High",
+        "last_inspection": "2026-02-14",
+        "asset_id": "VLV-0043"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.961228,
+          32.009656
+        ]
+      },
+      "properties": {
+        "valve_type": "Ball",
+        "size_in": 30,
+        "actuation": "Hydraulic",
+        "fail_position": "Last Position",
+        "status": "Active",
+        "pipeline_id": "PL-0093",
+        "criticality": "Low",
+        "last_inspection": "2026-08-06",
+        "asset_id": "VLV-0044"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.129952,
+          31.578144
+        ]
+      },
+      "properties": {
+        "valve_type": "Butterfly",
+        "size_in": 10,
+        "actuation": "Electric",
+        "fail_position": "Fail Closed",
+        "status": "Active",
+        "pipeline_id": "PL-0025",
+        "criticality": "Low",
+        "last_inspection": "2026-08-11",
+        "asset_id": "VLV-0045"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.902581,
+          32.397372
+        ]
+      },
+      "properties": {
+        "valve_type": "Gate",
+        "size_in": 24,
+        "actuation": "Pneumatic",
+        "fail_position": "Last Position",
+        "status": "Active",
+        "pipeline_id": "PL-0091",
+        "criticality": "Medium",
+        "last_inspection": "2026-09-07",
+        "asset_id": "VLV-0046"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.71861,
+          32.214716
+        ]
+      },
+      "properties": {
+        "valve_type": "Butterfly",
+        "size_in": 24,
+        "actuation": "Hydraulic",
+        "fail_position": "Fail Closed",
+        "status": "Maintenance",
+        "pipeline_id": "PL-0069",
+        "criticality": "High",
+        "last_inspection": "2026-09-12",
+        "asset_id": "VLV-0047"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.566121,
+          31.986861
+        ]
+      },
+      "properties": {
+        "valve_type": "Check",
+        "size_in": 30,
+        "actuation": "Electric",
+        "fail_position": "Fail Closed",
+        "status": "Active",
+        "pipeline_id": "PL-0072",
+        "criticality": "High",
+        "last_inspection": "2026-04-10",
+        "asset_id": "VLV-0048"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.366783,
+          31.552345
+        ]
+      },
+      "properties": {
+        "valve_type": "Butterfly",
+        "size_in": 20,
+        "actuation": "Pneumatic",
+        "fail_position": "Fail Open",
+        "status": "Active",
+        "pipeline_id": "PL-0037",
+        "criticality": "Low",
+        "last_inspection": "2026-09-13",
+        "asset_id": "VLV-0049"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.750445,
+          32.046274
+        ]
+      },
+      "properties": {
+        "valve_type": "Check",
+        "size_in": 10,
+        "actuation": "Hydraulic",
+        "fail_position": "Fail Closed",
+        "status": "Active",
+        "pipeline_id": "PL-0092",
+        "criticality": "Low",
+        "last_inspection": "2026-06-15",
+        "asset_id": "VLV-0050"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.718775,
+          32.267258
+        ]
+      },
+      "properties": {
+        "valve_type": "Gate",
+        "size_in": 12,
+        "actuation": "Hydraulic",
+        "fail_position": "Last Position",
+        "status": "Active",
+        "pipeline_id": "PL-0018",
+        "criticality": "Low",
+        "last_inspection": "2026-04-08",
+        "asset_id": "VLV-0051"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.566774,
+          31.007254
+        ]
+      },
+      "properties": {
+        "valve_type": "Gate",
+        "size_in": 12,
+        "actuation": "Manual",
+        "fail_position": "Fail Closed",
+        "status": "Maintenance",
+        "pipeline_id": "PL-0043",
+        "criticality": "Critical",
+        "last_inspection": "2026-02-22",
+        "asset_id": "VLV-0052"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.343335,
+          31.082828
+        ]
+      },
+      "properties": {
+        "valve_type": "Plug",
+        "size_in": 10,
+        "actuation": "Pneumatic",
+        "fail_position": "Last Position",
+        "status": "Maintenance",
+        "pipeline_id": "PL-0062",
+        "criticality": "Medium",
+        "last_inspection": "2026-05-11",
+        "asset_id": "VLV-0053"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.007386,
+          32.311252
+        ]
+      },
+      "properties": {
+        "valve_type": "Ball",
+        "size_in": 12,
+        "actuation": "Manual",
+        "fail_position": "Fail Closed",
+        "status": "Maintenance",
+        "pipeline_id": "PL-0023",
+        "criticality": "Low",
+        "last_inspection": "2026-07-26",
+        "asset_id": "VLV-0054"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.930719,
+          31.691477
+        ]
+      },
+      "properties": {
+        "valve_type": "Check",
+        "size_in": 6,
+        "actuation": "Manual",
+        "fail_position": "Fail Open",
+        "status": "Active",
+        "pipeline_id": "PL-0043",
+        "criticality": "High",
+        "last_inspection": "2026-08-21",
+        "asset_id": "VLV-0055"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.388376,
+          31.260679
+        ]
+      },
+      "properties": {
+        "valve_type": "Gate",
+        "size_in": 30,
+        "actuation": "Hydraulic",
+        "fail_position": "Fail Closed",
+        "status": "Active",
+        "pipeline_id": "PL-0043",
+        "criticality": "Medium",
+        "last_inspection": "2026-08-21",
+        "asset_id": "VLV-0056"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.729191,
+          31.258694
+        ]
+      },
+      "properties": {
+        "valve_type": "Check",
+        "size_in": 16,
+        "actuation": "Electric",
+        "fail_position": "Fail Closed",
+        "status": "Maintenance",
+        "pipeline_id": "PL-0055",
+        "criticality": "High",
+        "last_inspection": "2026-02-13",
+        "asset_id": "VLV-0057"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.593989,
+          32.335649
+        ]
+      },
+      "properties": {
+        "valve_type": "Gate",
+        "size_in": 30,
+        "actuation": "Hydraulic",
+        "fail_position": "Fail Closed",
+        "status": "Active",
+        "pipeline_id": "PL-0034",
+        "criticality": "Critical",
+        "last_inspection": "2026-04-15",
+        "asset_id": "VLV-0058"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.61084,
+          31.429529
+        ]
+      },
+      "properties": {
+        "valve_type": "Check",
+        "size_in": 6,
+        "actuation": "Hydraulic",
+        "fail_position": "Last Position",
+        "status": "Active",
+        "pipeline_id": "PL-0089",
+        "criticality": "Medium",
+        "last_inspection": "2026-01-22",
+        "asset_id": "VLV-0059"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.034909,
+          31.63697
+        ]
+      },
+      "properties": {
+        "valve_type": "Butterfly",
+        "size_in": 16,
+        "actuation": "Manual",
+        "fail_position": "Last Position",
+        "status": "Active",
+        "pipeline_id": "PL-0048",
+        "criticality": "Medium",
+        "last_inspection": "2026-04-05",
+        "asset_id": "VLV-0060"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.592417,
+          32.222389
+        ]
+      },
+      "properties": {
+        "valve_type": "Plug",
+        "size_in": 20,
+        "actuation": "Pneumatic",
+        "fail_position": "Last Position",
+        "status": "Maintenance",
+        "pipeline_id": "PL-0097",
+        "criticality": "Medium",
+        "last_inspection": "2026-04-22",
+        "asset_id": "VLV-0061"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.536741,
+          32.19628
+        ]
+      },
+      "properties": {
+        "valve_type": "Ball",
+        "size_in": 30,
+        "actuation": "Hydraulic",
+        "fail_position": "Fail Closed",
+        "status": "Active",
+        "pipeline_id": "PL-0008",
+        "criticality": "Medium",
+        "last_inspection": "2026-09-05",
+        "asset_id": "VLV-0062"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.588889,
+          31.581594
+        ]
+      },
+      "properties": {
+        "valve_type": "Butterfly",
+        "size_in": 8,
+        "actuation": "Electric",
+        "fail_position": "Last Position",
+        "status": "Maintenance",
+        "pipeline_id": "PL-0012",
+        "criticality": "Critical",
+        "last_inspection": "2026-01-15",
+        "asset_id": "VLV-0063"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.493675,
+          32.044126
+        ]
+      },
+      "properties": {
+        "valve_type": "Plug",
+        "size_in": 6,
+        "actuation": "Pneumatic",
+        "fail_position": "Last Position",
+        "status": "Active",
+        "pipeline_id": "PL-0093",
+        "criticality": "Low",
+        "last_inspection": "2026-07-09",
+        "asset_id": "VLV-0064"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.304668,
+          31.096627
+        ]
+      },
+      "properties": {
+        "valve_type": "Plug",
+        "size_in": 8,
+        "actuation": "Manual",
+        "fail_position": "Fail Open",
+        "status": "Active",
+        "pipeline_id": "PL-0090",
+        "criticality": "Low",
+        "last_inspection": "2026-09-02",
+        "asset_id": "VLV-0065"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.211429,
+          31.535471
+        ]
+      },
+      "properties": {
+        "valve_type": "Butterfly",
+        "size_in": 6,
+        "actuation": "Hydraulic",
+        "fail_position": "Fail Open",
+        "status": "Active",
+        "pipeline_id": "PL-0099",
+        "criticality": "Medium",
+        "last_inspection": "2026-07-12",
+        "asset_id": "VLV-0066"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.211445,
+          31.550282
+        ]
+      },
+      "properties": {
+        "valve_type": "Butterfly",
+        "size_in": 24,
+        "actuation": "Manual",
+        "fail_position": "Last Position",
+        "status": "Active",
+        "pipeline_id": "PL-0084",
+        "criticality": "High",
+        "last_inspection": "2026-02-06",
+        "asset_id": "VLV-0067"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.482623,
+          31.346517
+        ]
+      },
+      "properties": {
+        "valve_type": "Gate",
+        "size_in": 12,
+        "actuation": "Manual",
+        "fail_position": "Fail Closed",
+        "status": "Active",
+        "pipeline_id": "PL-0060",
+        "criticality": "Critical",
+        "last_inspection": "2026-09-13",
+        "asset_id": "VLV-0068"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.470269,
+          31.141255
+        ]
+      },
+      "properties": {
+        "valve_type": "Check",
+        "size_in": 10,
+        "actuation": "Hydraulic",
+        "fail_position": "Fail Closed",
+        "status": "Active",
+        "pipeline_id": "PL-0005",
+        "criticality": "Critical",
+        "last_inspection": "2026-01-08",
+        "asset_id": "VLV-0069"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.452369,
+          32.209222
+        ]
+      },
+      "properties": {
+        "valve_type": "Ball",
+        "size_in": 30,
+        "actuation": "Manual",
+        "fail_position": "Fail Closed",
+        "status": "Active",
+        "pipeline_id": "PL-0052",
+        "criticality": "Critical",
+        "last_inspection": "2026-04-18",
+        "asset_id": "VLV-0070"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.397987,
+          32.379974
+        ]
+      },
+      "properties": {
+        "valve_type": "Ball",
+        "size_in": 10,
+        "actuation": "Hydraulic",
+        "fail_position": "Fail Closed",
+        "status": "Active",
+        "pipeline_id": "PL-0074",
+        "criticality": "High",
+        "last_inspection": "2026-04-10",
+        "asset_id": "VLV-0071"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.007007,
+          32.361206
+        ]
+      },
+      "properties": {
+        "valve_type": "Plug",
+        "size_in": 12,
+        "actuation": "Pneumatic",
+        "fail_position": "Fail Open",
+        "status": "Active",
+        "pipeline_id": "PL-0008",
+        "criticality": "Medium",
+        "last_inspection": "2026-07-18",
+        "asset_id": "VLV-0072"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.939315,
+          31.337355
+        ]
+      },
+      "properties": {
+        "valve_type": "Butterfly",
+        "size_in": 20,
+        "actuation": "Pneumatic",
+        "fail_position": "Fail Open",
+        "status": "Active",
+        "pipeline_id": "PL-0039",
+        "criticality": "Critical",
+        "last_inspection": "2026-03-25",
+        "asset_id": "VLV-0073"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.952013,
+          31.543787
+        ]
+      },
+      "properties": {
+        "valve_type": "Gate",
+        "size_in": 16,
+        "actuation": "Electric",
+        "fail_position": "Fail Open",
+        "status": "Active",
+        "pipeline_id": "PL-0072",
+        "criticality": "Critical",
+        "last_inspection": "2026-07-18",
+        "asset_id": "VLV-0074"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.640664,
+          31.266674
+        ]
+      },
+      "properties": {
+        "valve_type": "Check",
+        "size_in": 12,
+        "actuation": "Hydraulic",
+        "fail_position": "Last Position",
+        "status": "Active",
+        "pipeline_id": "PL-0058",
+        "criticality": "High",
+        "last_inspection": "2026-02-18",
+        "asset_id": "VLV-0075"
+      }
+    }
+  ]
+}

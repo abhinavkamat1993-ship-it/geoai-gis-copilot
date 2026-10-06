@@ -1,0 +1,1005 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.379242,
+          32.393661
+        ]
+      },
+      "properties": {
+        "facility_name": "Tank Farm 01",
+        "tank_count": 12,
+        "total_capacity_bbl": 1269820,
+        "product": "Produced Water",
+        "containment": "Steel Berm",
+        "status": "Active",
+        "fire_protection": "Water + Foam",
+        "asset_id": "TF-0001"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.7694,
+          31.31405
+        ]
+      },
+      "properties": {
+        "facility_name": "Tank Farm 02",
+        "tank_count": 13,
+        "total_capacity_bbl": 2105958,
+        "product": "Condensate",
+        "containment": "Concrete",
+        "status": "Active",
+        "fire_protection": "Water + Foam",
+        "asset_id": "TF-0002"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.213454,
+          31.910757
+        ]
+      },
+      "properties": {
+        "facility_name": "Tank Farm 03",
+        "tank_count": 7,
+        "total_capacity_bbl": 935796,
+        "product": "Crude Oil",
+        "containment": "Steel Berm",
+        "status": "Active",
+        "fire_protection": "Foam",
+        "asset_id": "TF-0003"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.208512,
+          31.926758
+        ]
+      },
+      "properties": {
+        "facility_name": "Tank Farm 04",
+        "tank_count": 4,
+        "total_capacity_bbl": 1623671,
+        "product": "Condensate",
+        "containment": "Steel Berm",
+        "status": "Active",
+        "fire_protection": "Water Deluge",
+        "asset_id": "TF-0004"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.602248,
+          31.353834
+        ]
+      },
+      "properties": {
+        "facility_name": "Tank Farm 05",
+        "tank_count": 3,
+        "total_capacity_bbl": 252312,
+        "product": "Crude Oil",
+        "containment": "Lined Earthen",
+        "status": "Maintenance",
+        "fire_protection": "Water + Foam",
+        "asset_id": "TF-0005"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.638432,
+          31.728433
+        ]
+      },
+      "properties": {
+        "facility_name": "Tank Farm 06",
+        "tank_count": 7,
+        "total_capacity_bbl": 911908,
+        "product": "Crude Oil",
+        "containment": "Lined Earthen",
+        "status": "Maintenance",
+        "fire_protection": "Water Deluge",
+        "asset_id": "TF-0006"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.61758,
+          31.148769
+        ]
+      },
+      "properties": {
+        "facility_name": "Tank Farm 07",
+        "tank_count": 7,
+        "total_capacity_bbl": 1806682,
+        "product": "Crude Oil",
+        "containment": "Steel Berm",
+        "status": "Active",
+        "fire_protection": "Water + Foam",
+        "asset_id": "TF-0007"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.674501,
+          31.413492
+        ]
+      },
+      "properties": {
+        "facility_name": "Tank Farm 08",
+        "tank_count": 9,
+        "total_capacity_bbl": 887809,
+        "product": "Condensate",
+        "containment": "Steel Berm",
+        "status": "Active",
+        "fire_protection": "Water + Foam",
+        "asset_id": "TF-0008"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.424792,
+          31.017849
+        ]
+      },
+      "properties": {
+        "facility_name": "Tank Farm 09",
+        "tank_count": 4,
+        "total_capacity_bbl": 2349060,
+        "product": "Produced Water",
+        "containment": "Concrete",
+        "status": "Maintenance",
+        "fire_protection": "Water + Foam",
+        "asset_id": "TF-0009"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.679923,
+          32.013007
+        ]
+      },
+      "properties": {
+        "facility_name": "Tank Farm 10",
+        "tank_count": 5,
+        "total_capacity_bbl": 513180,
+        "product": "Produced Water",
+        "containment": "Concrete",
+        "status": "Active",
+        "fire_protection": "Water Deluge",
+        "asset_id": "TF-0010"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.719872,
+          32.13845
+        ]
+      },
+      "properties": {
+        "facility_name": "Tank Farm 11",
+        "tank_count": 11,
+        "total_capacity_bbl": 1019556,
+        "product": "Produced Water",
+        "containment": "Lined Earthen",
+        "status": "Active",
+        "fire_protection": "Water + Foam",
+        "asset_id": "TF-0011"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.618336,
+          31.132998
+        ]
+      },
+      "properties": {
+        "facility_name": "Tank Farm 12",
+        "tank_count": 4,
+        "total_capacity_bbl": 1268727,
+        "product": "Condensate",
+        "containment": "Steel Berm",
+        "status": "Active",
+        "fire_protection": "Water + Foam",
+        "asset_id": "TF-0012"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.227956,
+          31.6128
+        ]
+      },
+      "properties": {
+        "facility_name": "Tank Farm 13",
+        "tank_count": 4,
+        "total_capacity_bbl": 90568,
+        "product": "NGL",
+        "containment": "Steel Berm",
+        "status": "Active",
+        "fire_protection": "Water + Foam",
+        "asset_id": "TF-0013"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.158756,
+          32.347234
+        ]
+      },
+      "properties": {
+        "facility_name": "Tank Farm 14",
+        "tank_count": 11,
+        "total_capacity_bbl": 439866,
+        "product": "Condensate",
+        "containment": "Lined Earthen",
+        "status": "Active",
+        "fire_protection": "Foam",
+        "asset_id": "TF-0014"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.587981,
+          32.016976
+        ]
+      },
+      "properties": {
+        "facility_name": "Tank Farm 15",
+        "tank_count": 11,
+        "total_capacity_bbl": 1667808,
+        "product": "Produced Water",
+        "containment": "Lined Earthen",
+        "status": "Active",
+        "fire_protection": "Foam",
+        "asset_id": "TF-0015"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.714571,
+          31.253765
+        ]
+      },
+      "properties": {
+        "facility_name": "Tank Farm 16",
+        "tank_count": 8,
+        "total_capacity_bbl": 485004,
+        "product": "Produced Water",
+        "containment": "Steel Berm",
+        "status": "Maintenance",
+        "fire_protection": "Water Deluge",
+        "asset_id": "TF-0016"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.327363,
+          31.158112
+        ]
+      },
+      "properties": {
+        "facility_name": "Tank Farm 17",
+        "tank_count": 15,
+        "total_capacity_bbl": 1554072,
+        "product": "Crude Oil",
+        "containment": "Steel Berm",
+        "status": "Active",
+        "fire_protection": "Water + Foam",
+        "asset_id": "TF-0017"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.297219,
+          31.986395
+        ]
+      },
+      "properties": {
+        "facility_name": "Tank Farm 18",
+        "tank_count": 16,
+        "total_capacity_bbl": 1898378,
+        "product": "Crude Oil",
+        "containment": "Concrete",
+        "status": "Active",
+        "fire_protection": "Water Deluge",
+        "asset_id": "TF-0018"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.246801,
+          31.946814
+        ]
+      },
+      "properties": {
+        "facility_name": "Tank Farm 19",
+        "tank_count": 10,
+        "total_capacity_bbl": 1468935,
+        "product": "Crude Oil",
+        "containment": "Lined Earthen",
+        "status": "Active",
+        "fire_protection": "Water + Foam",
+        "asset_id": "TF-0019"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.441847,
+          32.19262
+        ]
+      },
+      "properties": {
+        "facility_name": "Tank Farm 20",
+        "tank_count": 15,
+        "total_capacity_bbl": 673501,
+        "product": "Crude Oil",
+        "containment": "Concrete",
+        "status": "Active",
+        "fire_protection": "Water Deluge",
+        "asset_id": "TF-0020"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.247768,
+          31.070491
+        ]
+      },
+      "properties": {
+        "facility_name": "Tank Farm 21",
+        "tank_count": 8,
+        "total_capacity_bbl": 364007,
+        "product": "Produced Water",
+        "containment": "Lined Earthen",
+        "status": "Active",
+        "fire_protection": "Water + Foam",
+        "asset_id": "TF-0021"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.065449,
+          32.121766
+        ]
+      },
+      "properties": {
+        "facility_name": "Tank Farm 22",
+        "tank_count": 10,
+        "total_capacity_bbl": 2358945,
+        "product": "Produced Water",
+        "containment": "Lined Earthen",
+        "status": "Active",
+        "fire_protection": "Foam",
+        "asset_id": "TF-0022"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.230927,
+          32.043335
+        ]
+      },
+      "properties": {
+        "facility_name": "Tank Farm 23",
+        "tank_count": 17,
+        "total_capacity_bbl": 419182,
+        "product": "Produced Water",
+        "containment": "Lined Earthen",
+        "status": "Active",
+        "fire_protection": "Foam",
+        "asset_id": "TF-0023"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.921442,
+          32.156272
+        ]
+      },
+      "properties": {
+        "facility_name": "Tank Farm 24",
+        "tank_count": 3,
+        "total_capacity_bbl": 480517,
+        "product": "Produced Water",
+        "containment": "Lined Earthen",
+        "status": "Active",
+        "fire_protection": "Water Deluge",
+        "asset_id": "TF-0024"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.218652,
+          31.075985
+        ]
+      },
+      "properties": {
+        "facility_name": "Tank Farm 25",
+        "tank_count": 12,
+        "total_capacity_bbl": 2182123,
+        "product": "NGL",
+        "containment": "Steel Berm",
+        "status": "Maintenance",
+        "fire_protection": "Water + Foam",
+        "asset_id": "TF-0025"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.748532,
+          32.002279
+        ]
+      },
+      "properties": {
+        "facility_name": "Tank Farm 26",
+        "tank_count": 10,
+        "total_capacity_bbl": 1956143,
+        "product": "Condensate",
+        "containment": "Steel Berm",
+        "status": "Maintenance",
+        "fire_protection": "Water Deluge",
+        "asset_id": "TF-0026"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.472186,
+          32.350207
+        ]
+      },
+      "properties": {
+        "facility_name": "Tank Farm 27",
+        "tank_count": 6,
+        "total_capacity_bbl": 458680,
+        "product": "NGL",
+        "containment": "Concrete",
+        "status": "Active",
+        "fire_protection": "Water + Foam",
+        "asset_id": "TF-0027"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.364997,
+          31.689391
+        ]
+      },
+      "properties": {
+        "facility_name": "Tank Farm 28",
+        "tank_count": 12,
+        "total_capacity_bbl": 2347180,
+        "product": "Condensate",
+        "containment": "Steel Berm",
+        "status": "Active",
+        "fire_protection": "Foam",
+        "asset_id": "TF-0028"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.606807,
+          32.193072
+        ]
+      },
+      "properties": {
+        "facility_name": "Tank Farm 29",
+        "tank_count": 16,
+        "total_capacity_bbl": 498629,
+        "product": "Condensate",
+        "containment": "Steel Berm",
+        "status": "Active",
+        "fire_protection": "Foam",
+        "asset_id": "TF-0029"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.588561,
+          31.065101
+        ]
+      },
+      "properties": {
+        "facility_name": "Tank Farm 30",
+        "tank_count": 9,
+        "total_capacity_bbl": 1966989,
+        "product": "NGL",
+        "containment": "Steel Berm",
+        "status": "Active",
+        "fire_protection": "Foam",
+        "asset_id": "TF-0030"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.79306,
+          32.0307
+        ]
+      },
+      "properties": {
+        "facility_name": "Tank Farm 31",
+        "tank_count": 6,
+        "total_capacity_bbl": 1939553,
+        "product": "Produced Water",
+        "containment": "Steel Berm",
+        "status": "Active",
+        "fire_protection": "Water + Foam",
+        "asset_id": "TF-0031"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.495609,
+          31.144976
+        ]
+      },
+      "properties": {
+        "facility_name": "Tank Farm 32",
+        "tank_count": 16,
+        "total_capacity_bbl": 2075563,
+        "product": "NGL",
+        "containment": "Steel Berm",
+        "status": "Active",
+        "fire_protection": "Water Deluge",
+        "asset_id": "TF-0032"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.163408,
+          31.480002
+        ]
+      },
+      "properties": {
+        "facility_name": "Tank Farm 33",
+        "tank_count": 13,
+        "total_capacity_bbl": 2164391,
+        "product": "Produced Water",
+        "containment": "Lined Earthen",
+        "status": "Active",
+        "fire_protection": "Water + Foam",
+        "asset_id": "TF-0033"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.679977,
+          32.047798
+        ]
+      },
+      "properties": {
+        "facility_name": "Tank Farm 34",
+        "tank_count": 12,
+        "total_capacity_bbl": 1949372,
+        "product": "NGL",
+        "containment": "Concrete",
+        "status": "Maintenance",
+        "fire_protection": "Water Deluge",
+        "asset_id": "TF-0034"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.46446,
+          32.000138
+        ]
+      },
+      "properties": {
+        "facility_name": "Tank Farm 35",
+        "tank_count": 12,
+        "total_capacity_bbl": 2347664,
+        "product": "Condensate",
+        "containment": "Steel Berm",
+        "status": "Active",
+        "fire_protection": "Foam",
+        "asset_id": "TF-0035"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.615352,
+          31.493133
+        ]
+      },
+      "properties": {
+        "facility_name": "Tank Farm 36",
+        "tank_count": 14,
+        "total_capacity_bbl": 606465,
+        "product": "NGL",
+        "containment": "Steel Berm",
+        "status": "Active",
+        "fire_protection": "Water Deluge",
+        "asset_id": "TF-0036"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.506712,
+          31.731822
+        ]
+      },
+      "properties": {
+        "facility_name": "Tank Farm 37",
+        "tank_count": 18,
+        "total_capacity_bbl": 2494466,
+        "product": "Produced Water",
+        "containment": "Steel Berm",
+        "status": "Active",
+        "fire_protection": "Water + Foam",
+        "asset_id": "TF-0037"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.372835,
+          32.099745
+        ]
+      },
+      "properties": {
+        "facility_name": "Tank Farm 38",
+        "tank_count": 3,
+        "total_capacity_bbl": 1647485,
+        "product": "NGL",
+        "containment": "Concrete",
+        "status": "Active",
+        "fire_protection": "Foam",
+        "asset_id": "TF-0038"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.59425,
+          31.045229
+        ]
+      },
+      "properties": {
+        "facility_name": "Tank Farm 39",
+        "tank_count": 12,
+        "total_capacity_bbl": 1100929,
+        "product": "NGL",
+        "containment": "Concrete",
+        "status": "Active",
+        "fire_protection": "Foam",
+        "asset_id": "TF-0039"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.982524,
+          32.115567
+        ]
+      },
+      "properties": {
+        "facility_name": "Tank Farm 40",
+        "tank_count": 17,
+        "total_capacity_bbl": 479832,
+        "product": "NGL",
+        "containment": "Steel Berm",
+        "status": "Maintenance",
+        "fire_protection": "Foam",
+        "asset_id": "TF-0040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.299754,
+          31.772974
+        ]
+      },
+      "properties": {
+        "facility_name": "Tank Farm 41",
+        "tank_count": 12,
+        "total_capacity_bbl": 247047,
+        "product": "Produced Water",
+        "containment": "Lined Earthen",
+        "status": "Maintenance",
+        "fire_protection": "Water Deluge",
+        "asset_id": "TF-0041"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.341622,
+          31.986481
+        ]
+      },
+      "properties": {
+        "facility_name": "Tank Farm 42",
+        "tank_count": 3,
+        "total_capacity_bbl": 1104201,
+        "product": "NGL",
+        "containment": "Steel Berm",
+        "status": "Maintenance",
+        "fire_protection": "Foam",
+        "asset_id": "TF-0042"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.081896,
+          32.376835
+        ]
+      },
+      "properties": {
+        "facility_name": "Tank Farm 43",
+        "tank_count": 14,
+        "total_capacity_bbl": 2342670,
+        "product": "NGL",
+        "containment": "Steel Berm",
+        "status": "Active",
+        "fire_protection": "Water + Foam",
+        "asset_id": "TF-0043"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.734985,
+          31.390757
+        ]
+      },
+      "properties": {
+        "facility_name": "Tank Farm 44",
+        "tank_count": 5,
+        "total_capacity_bbl": 834236,
+        "product": "NGL",
+        "containment": "Steel Berm",
+        "status": "Active",
+        "fire_protection": "Water + Foam",
+        "asset_id": "TF-0044"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.2711,
+          31.993565
+        ]
+      },
+      "properties": {
+        "facility_name": "Tank Farm 45",
+        "tank_count": 11,
+        "total_capacity_bbl": 595538,
+        "product": "NGL",
+        "containment": "Steel Berm",
+        "status": "Active",
+        "fire_protection": "Foam",
+        "asset_id": "TF-0045"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.815026,
+          31.926646
+        ]
+      },
+      "properties": {
+        "facility_name": "Tank Farm 46",
+        "tank_count": 7,
+        "total_capacity_bbl": 217522,
+        "product": "NGL",
+        "containment": "Lined Earthen",
+        "status": "Active",
+        "fire_protection": "Water Deluge",
+        "asset_id": "TF-0046"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.448061,
+          31.257417
+        ]
+      },
+      "properties": {
+        "facility_name": "Tank Farm 47",
+        "tank_count": 18,
+        "total_capacity_bbl": 2451981,
+        "product": "Condensate",
+        "containment": "Concrete",
+        "status": "Active",
+        "fire_protection": "Water Deluge",
+        "asset_id": "TF-0047"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.240955,
+          32.236755
+        ]
+      },
+      "properties": {
+        "facility_name": "Tank Farm 48",
+        "tank_count": 5,
+        "total_capacity_bbl": 2168712,
+        "product": "NGL",
+        "containment": "Lined Earthen",
+        "status": "Maintenance",
+        "fire_protection": "Foam",
+        "asset_id": "TF-0048"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.951202,
+          32.395284
+        ]
+      },
+      "properties": {
+        "facility_name": "Tank Farm 49",
+        "tank_count": 13,
+        "total_capacity_bbl": 1438593,
+        "product": "Condensate",
+        "containment": "Lined Earthen",
+        "status": "Active",
+        "fire_protection": "Water Deluge",
+        "asset_id": "TF-0049"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.818078,
+          31.869584
+        ]
+      },
+      "properties": {
+        "facility_name": "Tank Farm 50",
+        "tank_count": 3,
+        "total_capacity_bbl": 531178,
+        "product": "Condensate",
+        "containment": "Lined Earthen",
+        "status": "Active",
+        "fire_protection": "Water Deluge",
+        "asset_id": "TF-0050"
+      }
+    }
+  ]
+}

@@ -1,0 +1,1105 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.73737,
+          31.501512
+        ]
+      },
+      "properties": {
+        "station_name": "Pump Station 01",
+        "pump_count": 8,
+        "capacity_bpd": 414158,
+        "suction_pressure_psi": 147,
+        "discharge_pressure_psi": 1248,
+        "status": "Maintenance",
+        "backup_power": "Dual Grid",
+        "asset_id": "PS-0001"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.480244,
+          31.692601
+        ]
+      },
+      "properties": {
+        "station_name": "Pump Station 02",
+        "pump_count": 2,
+        "capacity_bpd": 447164,
+        "suction_pressure_psi": 373,
+        "discharge_pressure_psi": 907,
+        "status": "Active",
+        "backup_power": "Grid + Generator",
+        "asset_id": "PS-0002"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.436124,
+          32.103625
+        ]
+      },
+      "properties": {
+        "station_name": "Pump Station 03",
+        "pump_count": 4,
+        "capacity_bpd": 178684,
+        "suction_pressure_psi": 272,
+        "discharge_pressure_psi": 1060,
+        "status": "Active",
+        "backup_power": "Dual Grid",
+        "asset_id": "PS-0003"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.545776,
+          31.643414
+        ]
+      },
+      "properties": {
+        "station_name": "Pump Station 04",
+        "pump_count": 7,
+        "capacity_bpd": 429640,
+        "suction_pressure_psi": 124,
+        "discharge_pressure_psi": 547,
+        "status": "Active",
+        "backup_power": "Dual Grid",
+        "asset_id": "PS-0004"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.476291,
+          31.964029
+        ]
+      },
+      "properties": {
+        "station_name": "Pump Station 05",
+        "pump_count": 2,
+        "capacity_bpd": 112828,
+        "suction_pressure_psi": 325,
+        "discharge_pressure_psi": 967,
+        "status": "Active",
+        "backup_power": "Grid + Generator",
+        "asset_id": "PS-0005"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.752659,
+          31.350545
+        ]
+      },
+      "properties": {
+        "station_name": "Pump Station 06",
+        "pump_count": 3,
+        "capacity_bpd": 370785,
+        "suction_pressure_psi": 254,
+        "discharge_pressure_psi": 662,
+        "status": "Active",
+        "backup_power": "Generator",
+        "asset_id": "PS-0006"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.799033,
+          32.016384
+        ]
+      },
+      "properties": {
+        "station_name": "Pump Station 07",
+        "pump_count": 4,
+        "capacity_bpd": 378393,
+        "suction_pressure_psi": 432,
+        "discharge_pressure_psi": 669,
+        "status": "Active",
+        "backup_power": "Grid + Generator",
+        "asset_id": "PS-0007"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.647706,
+          31.29879
+        ]
+      },
+      "properties": {
+        "station_name": "Pump Station 08",
+        "pump_count": 8,
+        "capacity_bpd": 152758,
+        "suction_pressure_psi": 319,
+        "discharge_pressure_psi": 1171,
+        "status": "Active",
+        "backup_power": "Dual Grid",
+        "asset_id": "PS-0008"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.7871,
+          31.481004
+        ]
+      },
+      "properties": {
+        "station_name": "Pump Station 09",
+        "pump_count": 2,
+        "capacity_bpd": 99572,
+        "suction_pressure_psi": 403,
+        "discharge_pressure_psi": 731,
+        "status": "Maintenance",
+        "backup_power": "Generator",
+        "asset_id": "PS-0009"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.433685,
+          31.125064
+        ]
+      },
+      "properties": {
+        "station_name": "Pump Station 10",
+        "pump_count": 2,
+        "capacity_bpd": 251414,
+        "suction_pressure_psi": 455,
+        "discharge_pressure_psi": 635,
+        "status": "Maintenance",
+        "backup_power": "Generator",
+        "asset_id": "PS-0010"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.580593,
+          32.082845
+        ]
+      },
+      "properties": {
+        "station_name": "Pump Station 11",
+        "pump_count": 8,
+        "capacity_bpd": 83701,
+        "suction_pressure_psi": 152,
+        "discharge_pressure_psi": 820,
+        "status": "Active",
+        "backup_power": "Grid + Generator",
+        "asset_id": "PS-0011"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.951187,
+          31.011865
+        ]
+      },
+      "properties": {
+        "station_name": "Pump Station 12",
+        "pump_count": 8,
+        "capacity_bpd": 99806,
+        "suction_pressure_psi": 428,
+        "discharge_pressure_psi": 1193,
+        "status": "Active",
+        "backup_power": "Generator",
+        "asset_id": "PS-0012"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.60277,
+          32.287852
+        ]
+      },
+      "properties": {
+        "station_name": "Pump Station 13",
+        "pump_count": 7,
+        "capacity_bpd": 116044,
+        "suction_pressure_psi": 325,
+        "discharge_pressure_psi": 859,
+        "status": "Active",
+        "backup_power": "Dual Grid",
+        "asset_id": "PS-0013"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.365451,
+          31.196018
+        ]
+      },
+      "properties": {
+        "station_name": "Pump Station 14",
+        "pump_count": 6,
+        "capacity_bpd": 389958,
+        "suction_pressure_psi": 326,
+        "discharge_pressure_psi": 1380,
+        "status": "Active",
+        "backup_power": "Generator",
+        "asset_id": "PS-0014"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.296794,
+          31.195762
+        ]
+      },
+      "properties": {
+        "station_name": "Pump Station 15",
+        "pump_count": 2,
+        "capacity_bpd": 339106,
+        "suction_pressure_psi": 473,
+        "discharge_pressure_psi": 893,
+        "status": "Active",
+        "backup_power": "Grid + Generator",
+        "asset_id": "PS-0015"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.757081,
+          32.185898
+        ]
+      },
+      "properties": {
+        "station_name": "Pump Station 16",
+        "pump_count": 4,
+        "capacity_bpd": 367966,
+        "suction_pressure_psi": 143,
+        "discharge_pressure_psi": 754,
+        "status": "Active",
+        "backup_power": "Dual Grid",
+        "asset_id": "PS-0016"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.173198,
+          31.904638
+        ]
+      },
+      "properties": {
+        "station_name": "Pump Station 17",
+        "pump_count": 4,
+        "capacity_bpd": 137712,
+        "suction_pressure_psi": 365,
+        "discharge_pressure_psi": 1121,
+        "status": "Active",
+        "backup_power": "Dual Grid",
+        "asset_id": "PS-0017"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.414269,
+          31.893315
+        ]
+      },
+      "properties": {
+        "station_name": "Pump Station 18",
+        "pump_count": 8,
+        "capacity_bpd": 446168,
+        "suction_pressure_psi": 222,
+        "discharge_pressure_psi": 1006,
+        "status": "Maintenance",
+        "backup_power": "Generator",
+        "asset_id": "PS-0018"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.181059,
+          32.174563
+        ]
+      },
+      "properties": {
+        "station_name": "Pump Station 19",
+        "pump_count": 2,
+        "capacity_bpd": 306974,
+        "suction_pressure_psi": 106,
+        "discharge_pressure_psi": 869,
+        "status": "Active",
+        "backup_power": "Generator",
+        "asset_id": "PS-0019"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.272875,
+          32.078514
+        ]
+      },
+      "properties": {
+        "station_name": "Pump Station 20",
+        "pump_count": 5,
+        "capacity_bpd": 221581,
+        "suction_pressure_psi": 379,
+        "discharge_pressure_psi": 1199,
+        "status": "Active",
+        "backup_power": "Grid + Generator",
+        "asset_id": "PS-0020"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.736277,
+          31.084656
+        ]
+      },
+      "properties": {
+        "station_name": "Pump Station 21",
+        "pump_count": 2,
+        "capacity_bpd": 337947,
+        "suction_pressure_psi": 134,
+        "discharge_pressure_psi": 514,
+        "status": "Active",
+        "backup_power": "Generator",
+        "asset_id": "PS-0021"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.677103,
+          31.115399
+        ]
+      },
+      "properties": {
+        "station_name": "Pump Station 22",
+        "pump_count": 8,
+        "capacity_bpd": 238653,
+        "suction_pressure_psi": 359,
+        "discharge_pressure_psi": 793,
+        "status": "Maintenance",
+        "backup_power": "Grid + Generator",
+        "asset_id": "PS-0022"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.304149,
+          31.715827
+        ]
+      },
+      "properties": {
+        "station_name": "Pump Station 23",
+        "pump_count": 6,
+        "capacity_bpd": 311886,
+        "suction_pressure_psi": 415,
+        "discharge_pressure_psi": 656,
+        "status": "Active",
+        "backup_power": "Generator",
+        "asset_id": "PS-0023"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.785129,
+          32.168337
+        ]
+      },
+      "properties": {
+        "station_name": "Pump Station 24",
+        "pump_count": 3,
+        "capacity_bpd": 111462,
+        "suction_pressure_psi": 374,
+        "discharge_pressure_psi": 834,
+        "status": "Maintenance",
+        "backup_power": "Dual Grid",
+        "asset_id": "PS-0024"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.274515,
+          31.334092
+        ]
+      },
+      "properties": {
+        "station_name": "Pump Station 25",
+        "pump_count": 7,
+        "capacity_bpd": 367198,
+        "suction_pressure_psi": 133,
+        "discharge_pressure_psi": 817,
+        "status": "Maintenance",
+        "backup_power": "Dual Grid",
+        "asset_id": "PS-0025"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.825868,
+          31.433006
+        ]
+      },
+      "properties": {
+        "station_name": "Pump Station 26",
+        "pump_count": 3,
+        "capacity_bpd": 75200,
+        "suction_pressure_psi": 322,
+        "discharge_pressure_psi": 618,
+        "status": "Maintenance",
+        "backup_power": "Dual Grid",
+        "asset_id": "PS-0026"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.667359,
+          31.982099
+        ]
+      },
+      "properties": {
+        "station_name": "Pump Station 27",
+        "pump_count": 7,
+        "capacity_bpd": 375008,
+        "suction_pressure_psi": 479,
+        "discharge_pressure_psi": 679,
+        "status": "Active",
+        "backup_power": "Generator",
+        "asset_id": "PS-0027"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.205009,
+          32.049687
+        ]
+      },
+      "properties": {
+        "station_name": "Pump Station 28",
+        "pump_count": 3,
+        "capacity_bpd": 290263,
+        "suction_pressure_psi": 277,
+        "discharge_pressure_psi": 1035,
+        "status": "Active",
+        "backup_power": "Generator",
+        "asset_id": "PS-0028"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.263982,
+          31.601054
+        ]
+      },
+      "properties": {
+        "station_name": "Pump Station 29",
+        "pump_count": 8,
+        "capacity_bpd": 170909,
+        "suction_pressure_psi": 475,
+        "discharge_pressure_psi": 1407,
+        "status": "Active",
+        "backup_power": "Generator",
+        "asset_id": "PS-0029"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.071684,
+          31.504173
+        ]
+      },
+      "properties": {
+        "station_name": "Pump Station 30",
+        "pump_count": 6,
+        "capacity_bpd": 63487,
+        "suction_pressure_psi": 234,
+        "discharge_pressure_psi": 1229,
+        "status": "Active",
+        "backup_power": "Grid + Generator",
+        "asset_id": "PS-0030"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.562674,
+          32.251976
+        ]
+      },
+      "properties": {
+        "station_name": "Pump Station 31",
+        "pump_count": 5,
+        "capacity_bpd": 327211,
+        "suction_pressure_psi": 185,
+        "discharge_pressure_psi": 876,
+        "status": "Active",
+        "backup_power": "Grid + Generator",
+        "asset_id": "PS-0031"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.426098,
+          31.017203
+        ]
+      },
+      "properties": {
+        "station_name": "Pump Station 32",
+        "pump_count": 7,
+        "capacity_bpd": 408944,
+        "suction_pressure_psi": 159,
+        "discharge_pressure_psi": 733,
+        "status": "Active",
+        "backup_power": "Generator",
+        "asset_id": "PS-0032"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.310144,
+          32.200479
+        ]
+      },
+      "properties": {
+        "station_name": "Pump Station 33",
+        "pump_count": 2,
+        "capacity_bpd": 277340,
+        "suction_pressure_psi": 286,
+        "discharge_pressure_psi": 892,
+        "status": "Active",
+        "backup_power": "Generator",
+        "asset_id": "PS-0033"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.285117,
+          31.582759
+        ]
+      },
+      "properties": {
+        "station_name": "Pump Station 34",
+        "pump_count": 6,
+        "capacity_bpd": 404352,
+        "suction_pressure_psi": 479,
+        "discharge_pressure_psi": 1171,
+        "status": "Maintenance",
+        "backup_power": "Generator",
+        "asset_id": "PS-0034"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.203507,
+          31.702857
+        ]
+      },
+      "properties": {
+        "station_name": "Pump Station 35",
+        "pump_count": 7,
+        "capacity_bpd": 197738,
+        "suction_pressure_psi": 238,
+        "discharge_pressure_psi": 1345,
+        "status": "Active",
+        "backup_power": "Dual Grid",
+        "asset_id": "PS-0035"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.689718,
+          31.651132
+        ]
+      },
+      "properties": {
+        "station_name": "Pump Station 36",
+        "pump_count": 2,
+        "capacity_bpd": 124028,
+        "suction_pressure_psi": 214,
+        "discharge_pressure_psi": 1323,
+        "status": "Active",
+        "backup_power": "Grid + Generator",
+        "asset_id": "PS-0036"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.069206,
+          31.516487
+        ]
+      },
+      "properties": {
+        "station_name": "Pump Station 37",
+        "pump_count": 4,
+        "capacity_bpd": 435551,
+        "suction_pressure_psi": 259,
+        "discharge_pressure_psi": 835,
+        "status": "Active",
+        "backup_power": "Dual Grid",
+        "asset_id": "PS-0037"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.210762,
+          32.360601
+        ]
+      },
+      "properties": {
+        "station_name": "Pump Station 38",
+        "pump_count": 4,
+        "capacity_bpd": 325597,
+        "suction_pressure_psi": 255,
+        "discharge_pressure_psi": 1257,
+        "status": "Active",
+        "backup_power": "Grid + Generator",
+        "asset_id": "PS-0038"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.789795,
+          31.574051
+        ]
+      },
+      "properties": {
+        "station_name": "Pump Station 39",
+        "pump_count": 8,
+        "capacity_bpd": 436787,
+        "suction_pressure_psi": 200,
+        "discharge_pressure_psi": 1250,
+        "status": "Active",
+        "backup_power": "Generator",
+        "asset_id": "PS-0039"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.797661,
+          31.920225
+        ]
+      },
+      "properties": {
+        "station_name": "Pump Station 40",
+        "pump_count": 3,
+        "capacity_bpd": 313925,
+        "suction_pressure_psi": 277,
+        "discharge_pressure_psi": 1151,
+        "status": "Active",
+        "backup_power": "Grid + Generator",
+        "asset_id": "PS-0040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.952297,
+          31.333435
+        ]
+      },
+      "properties": {
+        "station_name": "Pump Station 41",
+        "pump_count": 8,
+        "capacity_bpd": 416967,
+        "suction_pressure_psi": 472,
+        "discharge_pressure_psi": 814,
+        "status": "Active",
+        "backup_power": "Generator",
+        "asset_id": "PS-0041"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.72976,
+          31.324062
+        ]
+      },
+      "properties": {
+        "station_name": "Pump Station 42",
+        "pump_count": 5,
+        "capacity_bpd": 61402,
+        "suction_pressure_psi": 172,
+        "discharge_pressure_psi": 1228,
+        "status": "Active",
+        "backup_power": "Generator",
+        "asset_id": "PS-0042"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.240712,
+          31.118863
+        ]
+      },
+      "properties": {
+        "station_name": "Pump Station 43",
+        "pump_count": 8,
+        "capacity_bpd": 302503,
+        "suction_pressure_psi": 311,
+        "discharge_pressure_psi": 1217,
+        "status": "Active",
+        "backup_power": "Grid + Generator",
+        "asset_id": "PS-0043"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.852967,
+          31.087196
+        ]
+      },
+      "properties": {
+        "station_name": "Pump Station 44",
+        "pump_count": 2,
+        "capacity_bpd": 294989,
+        "suction_pressure_psi": 168,
+        "discharge_pressure_psi": 1152,
+        "status": "Maintenance",
+        "backup_power": "Generator",
+        "asset_id": "PS-0044"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.318333,
+          31.550134
+        ]
+      },
+      "properties": {
+        "station_name": "Pump Station 45",
+        "pump_count": 7,
+        "capacity_bpd": 98528,
+        "suction_pressure_psi": 221,
+        "discharge_pressure_psi": 798,
+        "status": "Active",
+        "backup_power": "Grid + Generator",
+        "asset_id": "PS-0045"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.426222,
+          32.320977
+        ]
+      },
+      "properties": {
+        "station_name": "Pump Station 46",
+        "pump_count": 8,
+        "capacity_bpd": 415536,
+        "suction_pressure_psi": 267,
+        "discharge_pressure_psi": 825,
+        "status": "Maintenance",
+        "backup_power": "Grid + Generator",
+        "asset_id": "PS-0046"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.630948,
+          31.629393
+        ]
+      },
+      "properties": {
+        "station_name": "Pump Station 47",
+        "pump_count": 3,
+        "capacity_bpd": 438911,
+        "suction_pressure_psi": 494,
+        "discharge_pressure_psi": 1098,
+        "status": "Active",
+        "backup_power": "Generator",
+        "asset_id": "PS-0047"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.076933,
+          31.648685
+        ]
+      },
+      "properties": {
+        "station_name": "Pump Station 48",
+        "pump_count": 4,
+        "capacity_bpd": 243129,
+        "suction_pressure_psi": 161,
+        "discharge_pressure_psi": 1048,
+        "status": "Active",
+        "backup_power": "Generator",
+        "asset_id": "PS-0048"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.684995,
+          31.056462
+        ]
+      },
+      "properties": {
+        "station_name": "Pump Station 49",
+        "pump_count": 8,
+        "capacity_bpd": 92869,
+        "suction_pressure_psi": 146,
+        "discharge_pressure_psi": 661,
+        "status": "Active",
+        "backup_power": "Dual Grid",
+        "asset_id": "PS-0049"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.166009,
+          31.068531
+        ]
+      },
+      "properties": {
+        "station_name": "Pump Station 50",
+        "pump_count": 8,
+        "capacity_bpd": 201858,
+        "suction_pressure_psi": 175,
+        "discharge_pressure_psi": 593,
+        "status": "Active",
+        "backup_power": "Grid + Generator",
+        "asset_id": "PS-0050"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.910474,
+          31.770169
+        ]
+      },
+      "properties": {
+        "station_name": "Pump Station 51",
+        "pump_count": 4,
+        "capacity_bpd": 166402,
+        "suction_pressure_psi": 189,
+        "discharge_pressure_psi": 531,
+        "status": "Maintenance",
+        "backup_power": "Grid + Generator",
+        "asset_id": "PS-0051"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.780869,
+          32.162521
+        ]
+      },
+      "properties": {
+        "station_name": "Pump Station 52",
+        "pump_count": 2,
+        "capacity_bpd": 272243,
+        "suction_pressure_psi": 152,
+        "discharge_pressure_psi": 1323,
+        "status": "Active",
+        "backup_power": "Generator",
+        "asset_id": "PS-0052"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.701944,
+          32.312605
+        ]
+      },
+      "properties": {
+        "station_name": "Pump Station 53",
+        "pump_count": 3,
+        "capacity_bpd": 98532,
+        "suction_pressure_psi": 201,
+        "discharge_pressure_psi": 1343,
+        "status": "Maintenance",
+        "backup_power": "Grid + Generator",
+        "asset_id": "PS-0053"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.204542,
+          31.27685
+        ]
+      },
+      "properties": {
+        "station_name": "Pump Station 54",
+        "pump_count": 2,
+        "capacity_bpd": 335305,
+        "suction_pressure_psi": 400,
+        "discharge_pressure_psi": 765,
+        "status": "Active",
+        "backup_power": "Generator",
+        "asset_id": "PS-0054"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.731686,
+          31.645393
+        ]
+      },
+      "properties": {
+        "station_name": "Pump Station 55",
+        "pump_count": 7,
+        "capacity_bpd": 262485,
+        "suction_pressure_psi": 165,
+        "discharge_pressure_psi": 594,
+        "status": "Active",
+        "backup_power": "Generator",
+        "asset_id": "PS-0055"
+      }
+    }
+  ]
+}
