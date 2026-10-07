@@ -1,3 +1,7 @@
+import { useState } from 'react'
+import type Graphic from '@arcgis/core/Graphic'
+import { exportResultsCsv, exportResultsJson } from '../../ai/services/resultExport'
+
 type AnalysisResultsProps = {
   total: number
   valves: number
@@ -6,14 +10,17 @@ type AnalysisResultsProps = {
   queryLabel: string
   hasSelectedPoint: boolean
   summary: string
+  results: Graphic[]
   onClear: () => void
 }
 
 export function AnalysisResults({
   total, valves, pumpStations, facilities, queryLabel,
-  hasSelectedPoint, summary, onClear,
+  hasSelectedPoint, summary, results, onClear,
 }: AnalysisResultsProps) {
+  const [exportMenuOpen, setExportMenuOpen] = useState(false)
   const distance = queryLabel.match(/\d+(?:\.\d+)?\s*(?:km|kilometers?|m|meters?)/i)?.[0] ?? '—'
+  const exportMetadata = { queryLabel, summary }
   return (
     <section className="analysis-card">
       <div className="analysis-header">
@@ -33,7 +40,30 @@ export function AnalysisResults({
       {summary && <p className="analysis-summary" role="status">{summary}</p>}
       <div className="analysis-actions">
         <button type="button">View Results Table →</button>
-        <button type="button">⇩ Export Results</button>
+        <div
+          className="result-export"
+          onBlur={(event) => {
+            if (!event.currentTarget.contains(event.relatedTarget as Node | null)) setExportMenuOpen(false)
+          }}
+        >
+          <button
+            type="button"
+            className="result-export-trigger"
+            aria-label="Export analysis results"
+            aria-haspopup="menu"
+            aria-expanded={exportMenuOpen}
+            title={results.length ? 'Export GIS result features' : 'Run an analysis before exporting'}
+            disabled={results.length === 0}
+            onClick={() => setExportMenuOpen((open) => !open)}
+            onKeyDown={(event) => { if (event.key === 'Escape') setExportMenuOpen(false) }}
+          >
+            ⇩ Export ▾
+          </button>
+          {exportMenuOpen && <div className="result-export-menu" role="menu" aria-label="Export format" onKeyDown={(event) => { if (event.key === 'Escape') setExportMenuOpen(false) }}>
+            <button type="button" role="menuitem" onClick={() => { exportResultsCsv(results); setExportMenuOpen(false) }}>CSV</button>
+            <button type="button" role="menuitem" onClick={() => { exportResultsJson(results, exportMetadata); setExportMenuOpen(false) }}>JSON</button>
+          </div>}
+        </div>
       </div>
     </section>
   )

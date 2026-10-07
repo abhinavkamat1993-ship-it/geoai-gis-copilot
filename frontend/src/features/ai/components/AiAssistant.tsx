@@ -41,7 +41,7 @@ export function AiAssistant({
                 </details>}
                 {message.trust && Object.keys(message.trust).length > 0 && <div className="copilot-trust">
                   {(['fact', 'inference', 'recommendation'] as const).filter((kind) => message.trust?.[kind]).map((kind) => (
-                    <p key={kind}><strong>{kind.toUpperCase()}:</strong> {message.trust?.[kind]}</p>
+                    <p className={`trust-item trust-${kind}`} key={kind}><strong>{kind.toUpperCase()}:</strong> {message.trust?.[kind]}</p>
                   ))}
                 </div>}
                 {message.warnings?.map((warning, warningIndex) => <p className="copilot-warning" key={warningIndex}>{warning}</p>)}
@@ -49,7 +49,7 @@ export function AiAssistant({
                   <summary>Results Table ({message.results.length})</summary>
                   <div className="copilot-table-wrap"><table>
                     <thead><tr><th>Asset ID</th><th>Type</th><th>Status</th><th>Pipeline</th><th>Distance</th></tr></thead>
-                    <tbody>{message.results.map((result) => <tr key={result.layer + result.id}>
+                    <tbody>{message.results.map((result, resultIndex) => <tr key={`${result.layer}-${result.id}-${resultIndex}`}>
                       <td>{result.id}</td><td>{String(result.attributes.asset_type ?? result.attributes.station_type ?? result.attributes.facility_type ?? '—')}</td>
                       <td>{String(result.attributes.status ?? result.attributes.criticality ?? '—')}</td>
                       <td>{String(result.attributes.pipeline_id ?? '—')}</td>
