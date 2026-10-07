@@ -1,0 +1,1350 @@
+{
+  "type": "FeatureCollection",
+  "name": "stations",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "STA-2001",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.76838127304764,
+          31.689446864573053
+        ]
+      },
+      "properties": {
+        "asset_id": "STA-2001",
+        "asset_type": "Pump Station",
+        "status": "Under Maintenance",
+        "pipeline_id": "PL-1001",
+        "segment_id": "SEG-1001-1",
+        "operating_area": "South West Area",
+        "criticality": "Critical",
+        "source_type": "synthetic_demo",
+        "latitude": 31.6894469,
+        "longitude": -102.7683813,
+        "station_id": "STA-2001",
+        "station_name": "Demo Pump Station 001",
+        "station_type": "Pump Station",
+        "capacity": "40 MBPD",
+        "commission_date": "2010-09-20"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "STA-2002",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.95569805523256,
+          31.502805084389752
+        ]
+      },
+      "properties": {
+        "asset_id": "STA-2002",
+        "asset_type": "Compressor Station",
+        "status": "Under Maintenance",
+        "pipeline_id": "PL-1003",
+        "segment_id": "SEG-1003-2",
+        "operating_area": "South West Area",
+        "criticality": "High",
+        "source_type": "synthetic_demo",
+        "latitude": 31.5028051,
+        "longitude": -102.9556981,
+        "station_id": "STA-2002",
+        "station_name": "Demo Compressor Station 002",
+        "station_type": "Compressor Station",
+        "capacity": "43 MMSCFD",
+        "commission_date": "2011-09-20"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "STA-2003",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.46760007347844,
+          31.674990172652464
+        ]
+      },
+      "properties": {
+        "asset_id": "STA-2003",
+        "asset_type": "Metering Station",
+        "status": "Under Maintenance",
+        "pipeline_id": "PL-1005",
+        "segment_id": "SEG-1005-3",
+        "operating_area": "South West Area",
+        "criticality": "Critical",
+        "source_type": "synthetic_demo",
+        "latitude": 31.6749902,
+        "longitude": -103.4676001,
+        "station_id": "STA-2003",
+        "station_name": "Demo Metering Station 003",
+        "station_type": "Metering Station",
+        "capacity": "46 MMSCFD",
+        "commission_date": "2012-09-20"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "STA-2004",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.7937492001158,
+          32.2476322702053
+        ]
+      },
+      "properties": {
+        "asset_id": "STA-2004",
+        "asset_type": "Valve Station",
+        "status": "Under Maintenance",
+        "pipeline_id": "PL-1007",
+        "segment_id": "SEG-1007-1",
+        "operating_area": "North West Area",
+        "criticality": "Critical",
+        "source_type": "synthetic_demo",
+        "latitude": 32.2476323,
+        "longitude": -102.7937492,
+        "station_id": "STA-2004",
+        "station_name": "Demo Valve Station 004",
+        "station_type": "Valve Station",
+        "capacity": "49 MMSCFD",
+        "commission_date": "2013-09-20"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "STA-2005",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.22453907114392,
+          32.0889974406739
+        ]
+      },
+      "properties": {
+        "asset_id": "STA-2005",
+        "asset_type": "Pump Station",
+        "status": "Under Maintenance",
+        "pipeline_id": "PL-1009",
+        "segment_id": "SEG-1009-2",
+        "operating_area": "North East Area",
+        "criticality": "High",
+        "source_type": "synthetic_demo",
+        "latitude": 32.0889974,
+        "longitude": -101.2245391,
+        "station_id": "STA-2005",
+        "station_name": "Demo Pump Station 005",
+        "station_type": "Pump Station",
+        "capacity": "52 MBPD",
+        "commission_date": "2014-09-20"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "STA-2006",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.15983158024518,
+          32.52232852467004
+        ]
+      },
+      "properties": {
+        "asset_id": "STA-2006",
+        "asset_type": "Compressor Station",
+        "status": "Under Maintenance",
+        "pipeline_id": "PL-1011",
+        "segment_id": "SEG-1011-3",
+        "operating_area": "North West Area",
+        "criticality": "Critical",
+        "source_type": "synthetic_demo",
+        "latitude": 32.5223285,
+        "longitude": -102.1598316,
+        "station_id": "STA-2006",
+        "station_name": "Demo Compressor Station 006",
+        "station_type": "Compressor Station",
+        "capacity": "55 MMSCFD",
+        "commission_date": "2015-09-20"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "STA-2007",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.120314335142,
+          31.911207265870008
+        ]
+      },
+      "properties": {
+        "asset_id": "STA-2007",
+        "asset_type": "Metering Station",
+        "status": "Under Maintenance",
+        "pipeline_id": "PL-1013",
+        "segment_id": "SEG-1013-1",
+        "operating_area": "South West Area",
+        "criticality": "Low",
+        "source_type": "synthetic_demo",
+        "latitude": 31.9112073,
+        "longitude": -103.1203143,
+        "station_id": "STA-2007",
+        "station_name": "Demo Metering Station 007",
+        "station_type": "Metering Station",
+        "capacity": "58 MMSCFD",
+        "commission_date": "2016-09-20"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "STA-2008",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.76657274103559,
+          33.028848578495925
+        ]
+      },
+      "properties": {
+        "asset_id": "STA-2008",
+        "asset_type": "Valve Station",
+        "status": "Under Maintenance",
+        "pipeline_id": "PL-1015",
+        "segment_id": "SEG-1015-2",
+        "operating_area": "North West Area",
+        "criticality": "Critical",
+        "source_type": "synthetic_demo",
+        "latitude": 33.0288486,
+        "longitude": -102.7665727,
+        "station_id": "STA-2008",
+        "station_name": "Demo Valve Station 008",
+        "station_type": "Valve Station",
+        "capacity": "61 MMSCFD",
+        "commission_date": "2017-09-20"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "STA-2009",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.69465486888362,
+          32.34274297348828
+        ]
+      },
+      "properties": {
+        "asset_id": "STA-2009",
+        "asset_type": "Pump Station",
+        "status": "Under Maintenance",
+        "pipeline_id": "PL-1017",
+        "segment_id": "SEG-1017-3",
+        "operating_area": "North East Area",
+        "criticality": "Moderate",
+        "source_type": "synthetic_demo",
+        "latitude": 32.342743,
+        "longitude": -100.6946549,
+        "station_id": "STA-2009",
+        "station_name": "Demo Pump Station 009",
+        "station_type": "Pump Station",
+        "capacity": "64 MBPD",
+        "commission_date": "2018-09-20"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "STA-2010",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.23093396012014,
+          31.821524941442124
+        ]
+      },
+      "properties": {
+        "asset_id": "STA-2010",
+        "asset_type": "Compressor Station",
+        "status": "Under Maintenance",
+        "pipeline_id": "PL-1019",
+        "segment_id": "SEG-1019-1",
+        "operating_area": "South West Area",
+        "criticality": "Moderate",
+        "source_type": "synthetic_demo",
+        "latitude": 31.8215249,
+        "longitude": -103.230934,
+        "station_id": "STA-2010",
+        "station_name": "Demo Compressor Station 010",
+        "station_type": "Compressor Station",
+        "capacity": "67 MMSCFD",
+        "commission_date": "2019-09-20"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "STA-2011",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.89560681587041,
+          32.29161197131494
+        ]
+      },
+      "properties": {
+        "asset_id": "STA-2011",
+        "asset_type": "Metering Station",
+        "status": "Under Maintenance",
+        "pipeline_id": "PL-1021",
+        "segment_id": "SEG-1021-2",
+        "operating_area": "North East Area",
+        "criticality": "Moderate",
+        "source_type": "synthetic_demo",
+        "latitude": 32.291612,
+        "longitude": -100.8956068,
+        "station_id": "STA-2011",
+        "station_name": "Demo Metering Station 011",
+        "station_type": "Metering Station",
+        "capacity": "70 MMSCFD",
+        "commission_date": "2020-09-20"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "STA-2012",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.27270697637736,
+          32.075943838434554
+        ]
+      },
+      "properties": {
+        "asset_id": "STA-2012",
+        "asset_type": "Valve Station",
+        "status": "Under Maintenance",
+        "pipeline_id": "PL-1023",
+        "segment_id": "SEG-1023-3",
+        "operating_area": "North West Area",
+        "criticality": "Critical",
+        "source_type": "synthetic_demo",
+        "latitude": 32.0759438,
+        "longitude": -102.272707,
+        "station_id": "STA-2012",
+        "station_name": "Demo Valve Station 012",
+        "station_type": "Valve Station",
+        "capacity": "73 MMSCFD",
+        "commission_date": "2021-09-20"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "STA-2013",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.96500110250025,
+          32.91167458960529
+        ]
+      },
+      "properties": {
+        "asset_id": "STA-2013",
+        "asset_type": "Pump Station",
+        "status": "Under Maintenance",
+        "pipeline_id": "PL-1025",
+        "segment_id": "SEG-1025-1",
+        "operating_area": "North West Area",
+        "criticality": "High",
+        "source_type": "synthetic_demo",
+        "latitude": 32.9116746,
+        "longitude": -102.9650011,
+        "station_id": "STA-2013",
+        "station_name": "Demo Pump Station 013",
+        "station_type": "Pump Station",
+        "capacity": "76 MBPD",
+        "commission_date": "2022-09-20"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "STA-2014",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.6743431768357,
+          32.144776045564
+        ]
+      },
+      "properties": {
+        "asset_id": "STA-2014",
+        "asset_type": "Compressor Station",
+        "status": "Under Maintenance",
+        "pipeline_id": "PL-1027",
+        "segment_id": "SEG-1027-2",
+        "operating_area": "North East Area",
+        "criticality": "Critical",
+        "source_type": "synthetic_demo",
+        "latitude": 32.144776,
+        "longitude": -101.6743432,
+        "station_id": "STA-2014",
+        "station_name": "Demo Compressor Station 014",
+        "station_type": "Compressor Station",
+        "capacity": "79 MMSCFD",
+        "commission_date": "2023-09-20"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "STA-2015",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.46374598159537,
+          32.416990815584356
+        ]
+      },
+      "properties": {
+        "asset_id": "STA-2015",
+        "asset_type": "Metering Station",
+        "status": "Under Maintenance",
+        "pipeline_id": "PL-1029",
+        "segment_id": "SEG-1029-3",
+        "operating_area": "North West Area",
+        "criticality": "Critical",
+        "source_type": "synthetic_demo",
+        "latitude": 32.4169908,
+        "longitude": -103.463746,
+        "station_id": "STA-2015",
+        "station_name": "Demo Metering Station 015",
+        "station_type": "Metering Station",
+        "capacity": "82 MMSCFD",
+        "commission_date": "2024-09-20"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "STA-2016",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.06736547752844,
+          31.09578401627278
+        ]
+      },
+      "properties": {
+        "asset_id": "STA-2016",
+        "asset_type": "Valve Station",
+        "status": "Under Maintenance",
+        "pipeline_id": "PL-1031",
+        "segment_id": "SEG-1031-1",
+        "operating_area": "South West Area",
+        "criticality": "Critical",
+        "source_type": "synthetic_demo",
+        "latitude": 31.095784,
+        "longitude": -102.0673655,
+        "station_id": "STA-2016",
+        "station_name": "Demo Valve Station 016",
+        "station_type": "Valve Station",
+        "capacity": "85 MMSCFD",
+        "commission_date": "2010-09-20"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "STA-2017",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.68566714334273,
+          32.49611129585051
+        ]
+      },
+      "properties": {
+        "asset_id": "STA-2017",
+        "asset_type": "Pump Station",
+        "status": "Under Maintenance",
+        "pipeline_id": "PL-1033",
+        "segment_id": "SEG-1033-2",
+        "operating_area": "North East Area",
+        "criticality": "Critical",
+        "source_type": "synthetic_demo",
+        "latitude": 32.4961113,
+        "longitude": -100.6856671,
+        "station_id": "STA-2017",
+        "station_name": "Demo Pump Station 017",
+        "station_type": "Pump Station",
+        "capacity": "88 MBPD",
+        "commission_date": "2011-09-20"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "STA-2018",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.71858632014761,
+          30.84457640872902
+        ]
+      },
+      "properties": {
+        "asset_id": "STA-2018",
+        "asset_type": "Compressor Station",
+        "status": "Under Maintenance",
+        "pipeline_id": "PL-1035",
+        "segment_id": "SEG-1035-3",
+        "operating_area": "South East Area",
+        "criticality": "High",
+        "source_type": "synthetic_demo",
+        "latitude": 30.8445764,
+        "longitude": -101.7185863,
+        "station_id": "STA-2018",
+        "station_name": "Demo Compressor Station 018",
+        "station_type": "Compressor Station",
+        "capacity": "91 MMSCFD",
+        "commission_date": "2012-09-20"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "STA-2019",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.68342156328627,
+          31.98788857848895
+        ]
+      },
+      "properties": {
+        "asset_id": "STA-2019",
+        "asset_type": "Metering Station",
+        "status": "Under Maintenance",
+        "pipeline_id": "PL-1037",
+        "segment_id": "SEG-1037-1",
+        "operating_area": "South East Area",
+        "criticality": "High",
+        "source_type": "synthetic_demo",
+        "latitude": 31.9878886,
+        "longitude": -101.6834216,
+        "station_id": "STA-2019",
+        "station_name": "Demo Metering Station 019",
+        "station_type": "Metering Station",
+        "capacity": "94 MMSCFD",
+        "commission_date": "2013-09-20"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "STA-2020",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.30501623959053,
+          31.78872746358129
+        ]
+      },
+      "properties": {
+        "asset_id": "STA-2020",
+        "asset_type": "Valve Station",
+        "status": "Active",
+        "pipeline_id": "PL-1039",
+        "segment_id": "SEG-1039-2",
+        "operating_area": "South West Area",
+        "criticality": "Critical",
+        "source_type": "synthetic_demo",
+        "latitude": 31.7887275,
+        "longitude": -103.3050162,
+        "station_id": "STA-2020",
+        "station_name": "Demo Valve Station 020",
+        "station_type": "Valve Station",
+        "capacity": "97 MMSCFD",
+        "commission_date": "2014-09-20"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "STA-2021",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.02493668570094,
+          32.297804602919946
+        ]
+      },
+      "properties": {
+        "asset_id": "STA-2021",
+        "asset_type": "Pump Station",
+        "status": "Active",
+        "pipeline_id": "PL-1041",
+        "segment_id": "SEG-1041-3",
+        "operating_area": "North East Area",
+        "criticality": "High",
+        "source_type": "synthetic_demo",
+        "latitude": 32.2978046,
+        "longitude": -101.0249367,
+        "station_id": "STA-2021",
+        "station_name": "Demo Pump Station 021",
+        "station_type": "Pump Station",
+        "capacity": "100 MBPD",
+        "commission_date": "2015-09-20"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "STA-2022",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.31873902962958,
+          31.969969592880982
+        ]
+      },
+      "properties": {
+        "asset_id": "STA-2022",
+        "asset_type": "Compressor Station",
+        "status": "Active",
+        "pipeline_id": "PL-1043",
+        "segment_id": "SEG-1043-1",
+        "operating_area": "South East Area",
+        "criticality": "Critical",
+        "source_type": "synthetic_demo",
+        "latitude": 31.9699696,
+        "longitude": -101.318739,
+        "station_id": "STA-2022",
+        "station_name": "Demo Compressor Station 022",
+        "station_type": "Compressor Station",
+        "capacity": "103 MMSCFD",
+        "commission_date": "2016-09-20"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "STA-2023",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.69828505342663,
+          32.569593475576625
+        ]
+      },
+      "properties": {
+        "asset_id": "STA-2023",
+        "asset_type": "Metering Station",
+        "status": "Active",
+        "pipeline_id": "PL-1045",
+        "segment_id": "SEG-1045-2",
+        "operating_area": "North East Area",
+        "criticality": "Low",
+        "source_type": "synthetic_demo",
+        "latitude": 32.5695935,
+        "longitude": -100.6982851,
+        "station_id": "STA-2023",
+        "station_name": "Demo Metering Station 023",
+        "station_type": "Metering Station",
+        "capacity": "106 MMSCFD",
+        "commission_date": "2017-09-20"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "STA-2024",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.75381599076151,
+          32.189349067141805
+        ]
+      },
+      "properties": {
+        "asset_id": "STA-2024",
+        "asset_type": "Valve Station",
+        "status": "Active",
+        "pipeline_id": "PL-1047",
+        "segment_id": "SEG-1047-3",
+        "operating_area": "North West Area",
+        "criticality": "Low",
+        "source_type": "synthetic_demo",
+        "latitude": 32.1893491,
+        "longitude": -102.753816,
+        "station_id": "STA-2024",
+        "station_name": "Demo Valve Station 024",
+        "station_type": "Valve Station",
+        "capacity": "109 MMSCFD",
+        "commission_date": "2018-09-20"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "STA-2025",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.11428527060187,
+          33.0424495572581
+        ]
+      },
+      "properties": {
+        "asset_id": "STA-2025",
+        "asset_type": "Pump Station",
+        "status": "Active",
+        "pipeline_id": "PL-1049",
+        "segment_id": "SEG-1049-1",
+        "operating_area": "North West Area",
+        "criticality": "High",
+        "source_type": "synthetic_demo",
+        "latitude": 33.0424496,
+        "longitude": -103.1142853,
+        "station_id": "STA-2025",
+        "station_name": "Demo Pump Station 025",
+        "station_type": "Pump Station",
+        "capacity": "112 MBPD",
+        "commission_date": "2019-09-20"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "STA-2026",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.90616743100378,
+          31.662557385437534
+        ]
+      },
+      "properties": {
+        "asset_id": "STA-2026",
+        "asset_type": "Compressor Station",
+        "status": "Active",
+        "pipeline_id": "PL-1051",
+        "segment_id": "SEG-1051-2",
+        "operating_area": "South West Area",
+        "criticality": "High",
+        "source_type": "synthetic_demo",
+        "latitude": 31.6625574,
+        "longitude": -102.9061674,
+        "station_id": "STA-2026",
+        "station_name": "Demo Compressor Station 026",
+        "station_type": "Compressor Station",
+        "capacity": "115 MMSCFD",
+        "commission_date": "2020-09-20"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "STA-2027",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.18329327880866,
+          32.050246441646564
+        ]
+      },
+      "properties": {
+        "asset_id": "STA-2027",
+        "asset_type": "Metering Station",
+        "status": "Active",
+        "pipeline_id": "PL-1053",
+        "segment_id": "SEG-1053-3",
+        "operating_area": "North East Area",
+        "criticality": "High",
+        "source_type": "synthetic_demo",
+        "latitude": 32.0502464,
+        "longitude": -101.1832933,
+        "station_id": "STA-2027",
+        "station_name": "Demo Metering Station 027",
+        "station_type": "Metering Station",
+        "capacity": "118 MMSCFD",
+        "commission_date": "2021-09-20"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "STA-2028",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.9318901361429,
+          32.34385189101684
+        ]
+      },
+      "properties": {
+        "asset_id": "STA-2028",
+        "asset_type": "Valve Station",
+        "status": "Active",
+        "pipeline_id": "PL-1055",
+        "segment_id": "SEG-1055-1",
+        "operating_area": "North East Area",
+        "criticality": "Moderate",
+        "source_type": "synthetic_demo",
+        "latitude": 32.3438519,
+        "longitude": -100.9318901,
+        "station_id": "STA-2028",
+        "station_name": "Demo Valve Station 028",
+        "station_type": "Valve Station",
+        "capacity": "121 MMSCFD",
+        "commission_date": "2022-09-20"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "STA-2029",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.39602542889021,
+          32.79157861025572
+        ]
+      },
+      "properties": {
+        "asset_id": "STA-2029",
+        "asset_type": "Pump Station",
+        "status": "Active",
+        "pipeline_id": "PL-1057",
+        "segment_id": "SEG-1057-2",
+        "operating_area": "North West Area",
+        "criticality": "High",
+        "source_type": "synthetic_demo",
+        "latitude": 32.7915786,
+        "longitude": -103.3960254,
+        "station_id": "STA-2029",
+        "station_name": "Demo Pump Station 029",
+        "station_type": "Pump Station",
+        "capacity": "124 MBPD",
+        "commission_date": "2023-09-20"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "STA-2030",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.05613446021547,
+          31.62031917255677
+        ]
+      },
+      "properties": {
+        "asset_id": "STA-2030",
+        "asset_type": "Compressor Station",
+        "status": "Under Maintenance",
+        "pipeline_id": "PL-1059",
+        "segment_id": "SEG-1059-3",
+        "operating_area": "South West Area",
+        "criticality": "Critical",
+        "source_type": "synthetic_demo",
+        "latitude": 31.6203192,
+        "longitude": -103.0561345,
+        "station_id": "STA-2030",
+        "station_name": "Demo Compressor Station 030",
+        "station_type": "Compressor Station",
+        "capacity": "127 MMSCFD",
+        "commission_date": "2024-09-20"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "STA-2031",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.58306103962059,
+          31.750014878604254
+        ]
+      },
+      "properties": {
+        "asset_id": "STA-2031",
+        "asset_type": "Metering Station",
+        "status": "Under Maintenance",
+        "pipeline_id": "PL-1061",
+        "segment_id": "SEG-1061-1",
+        "operating_area": "South East Area",
+        "criticality": "Critical",
+        "source_type": "synthetic_demo",
+        "latitude": 31.7500149,
+        "longitude": -101.583061,
+        "station_id": "STA-2031",
+        "station_name": "Demo Metering Station 031",
+        "station_type": "Metering Station",
+        "capacity": "130 MMSCFD",
+        "commission_date": "2010-09-20"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "STA-2032",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.91936228449693,
+          31.290011982370892
+        ]
+      },
+      "properties": {
+        "asset_id": "STA-2032",
+        "asset_type": "Valve Station",
+        "status": "Under Maintenance",
+        "pipeline_id": "PL-1063",
+        "segment_id": "SEG-1063-2",
+        "operating_area": "South East Area",
+        "criticality": "Moderate",
+        "source_type": "synthetic_demo",
+        "latitude": 31.290012,
+        "longitude": -101.9193623,
+        "station_id": "STA-2032",
+        "station_name": "Demo Valve Station 032",
+        "station_type": "Valve Station",
+        "capacity": "133 MMSCFD",
+        "commission_date": "2011-09-20"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "STA-2033",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.18658674757812,
+          31.388957604255232
+        ]
+      },
+      "properties": {
+        "asset_id": "STA-2033",
+        "asset_type": "Pump Station",
+        "status": "Under Maintenance",
+        "pipeline_id": "PL-1065",
+        "segment_id": "SEG-1065-3",
+        "operating_area": "South West Area",
+        "criticality": "High",
+        "source_type": "synthetic_demo",
+        "latitude": 31.3889576,
+        "longitude": -103.1865867,
+        "station_id": "STA-2033",
+        "station_name": "Demo Pump Station 033",
+        "station_type": "Pump Station",
+        "capacity": "136 MBPD",
+        "commission_date": "2012-09-20"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "STA-2034",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.51769995148474,
+          31.005184000250864
+        ]
+      },
+      "properties": {
+        "asset_id": "STA-2034",
+        "asset_type": "Compressor Station",
+        "status": "Under Maintenance",
+        "pipeline_id": "PL-1067",
+        "segment_id": "SEG-1067-1",
+        "operating_area": "South East Area",
+        "criticality": "Low",
+        "source_type": "synthetic_demo",
+        "latitude": 31.005184,
+        "longitude": -100.5177,
+        "station_id": "STA-2034",
+        "station_name": "Demo Compressor Station 034",
+        "station_type": "Compressor Station",
+        "capacity": "139 MMSCFD",
+        "commission_date": "2013-09-20"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "STA-2035",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.21364248910915,
+          31.23992922230597
+        ]
+      },
+      "properties": {
+        "asset_id": "STA-2035",
+        "asset_type": "Metering Station",
+        "status": "Under Maintenance",
+        "pipeline_id": "PL-1069",
+        "segment_id": "SEG-1069-2",
+        "operating_area": "South West Area",
+        "criticality": "Critical",
+        "source_type": "synthetic_demo",
+        "latitude": 31.2399292,
+        "longitude": -103.2136425,
+        "station_id": "STA-2035",
+        "station_name": "Demo Metering Station 035",
+        "station_type": "Metering Station",
+        "capacity": "142 MMSCFD",
+        "commission_date": "2014-09-20"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "STA-2036",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.31381750328951,
+          32.57958838254325
+        ]
+      },
+      "properties": {
+        "asset_id": "STA-2036",
+        "asset_type": "Valve Station",
+        "status": "Under Maintenance",
+        "pipeline_id": "PL-1071",
+        "segment_id": "SEG-1071-3",
+        "operating_area": "North West Area",
+        "criticality": "High",
+        "source_type": "synthetic_demo",
+        "latitude": 32.5795884,
+        "longitude": -103.3138175,
+        "station_id": "STA-2036",
+        "station_name": "Demo Valve Station 036",
+        "station_type": "Valve Station",
+        "capacity": "145 MMSCFD",
+        "commission_date": "2015-09-20"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "STA-2037",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.24048123864337,
+          32.82171506665385
+        ]
+      },
+      "properties": {
+        "asset_id": "STA-2037",
+        "asset_type": "Pump Station",
+        "status": "Under Maintenance",
+        "pipeline_id": "PL-1073",
+        "segment_id": "SEG-1073-1",
+        "operating_area": "North West Area",
+        "criticality": "Moderate",
+        "source_type": "synthetic_demo",
+        "latitude": 32.8217151,
+        "longitude": -103.2404812,
+        "station_id": "STA-2037",
+        "station_name": "Demo Pump Station 037",
+        "station_type": "Pump Station",
+        "capacity": "148 MBPD",
+        "commission_date": "2016-09-20"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "STA-2038",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.18561689219587,
+          31.429627068694575
+        ]
+      },
+      "properties": {
+        "asset_id": "STA-2038",
+        "asset_type": "Compressor Station",
+        "status": "Under Maintenance",
+        "pipeline_id": "PL-1075",
+        "segment_id": "SEG-1075-2",
+        "operating_area": "South West Area",
+        "criticality": "Low",
+        "source_type": "synthetic_demo",
+        "latitude": 31.4296271,
+        "longitude": -103.1856169,
+        "station_id": "STA-2038",
+        "station_name": "Demo Compressor Station 038",
+        "station_type": "Compressor Station",
+        "capacity": "151 MMSCFD",
+        "commission_date": "2017-09-20"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "STA-2039",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.78678914149314,
+          31.217221454687248
+        ]
+      },
+      "properties": {
+        "asset_id": "STA-2039",
+        "asset_type": "Metering Station",
+        "status": "Under Maintenance",
+        "pipeline_id": "PL-1077",
+        "segment_id": "SEG-1077-3",
+        "operating_area": "South West Area",
+        "criticality": "High",
+        "source_type": "synthetic_demo",
+        "latitude": 31.2172215,
+        "longitude": -102.7867891,
+        "station_id": "STA-2039",
+        "station_name": "Demo Metering Station 039",
+        "station_type": "Metering Station",
+        "capacity": "154 MMSCFD",
+        "commission_date": "2018-09-20"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "STA-2040",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.41615129051915,
+          30.99484666969285
+        ]
+      },
+      "properties": {
+        "asset_id": "STA-2040",
+        "asset_type": "Valve Station",
+        "status": "Active",
+        "pipeline_id": "PL-1079",
+        "segment_id": "SEG-1079-1",
+        "operating_area": "South West Area",
+        "criticality": "High",
+        "source_type": "synthetic_demo",
+        "latitude": 30.9948467,
+        "longitude": -102.4161513,
+        "station_id": "STA-2040",
+        "station_name": "Demo Valve Station 040",
+        "station_type": "Valve Station",
+        "capacity": "157 MMSCFD",
+        "commission_date": "2019-09-20"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "STA-2041",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.2463839926502,
+          32.397577410421164
+        ]
+      },
+      "properties": {
+        "asset_id": "STA-2041",
+        "asset_type": "Pump Station",
+        "status": "Active",
+        "pipeline_id": "PL-1081",
+        "segment_id": "SEG-1081-2",
+        "operating_area": "North West Area",
+        "criticality": "Critical",
+        "source_type": "synthetic_demo",
+        "latitude": 32.3975774,
+        "longitude": -103.246384,
+        "station_id": "STA-2041",
+        "station_name": "Demo Pump Station 041",
+        "station_type": "Pump Station",
+        "capacity": "160 MBPD",
+        "commission_date": "2020-09-20"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "STA-2042",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.86444800001892,
+          33.09906045695771
+        ]
+      },
+      "properties": {
+        "asset_id": "STA-2042",
+        "asset_type": "Compressor Station",
+        "status": "Active",
+        "pipeline_id": "PL-1083",
+        "segment_id": "SEG-1083-3",
+        "operating_area": "North East Area",
+        "criticality": "Critical",
+        "source_type": "synthetic_demo",
+        "latitude": 33.0990605,
+        "longitude": -101.864448,
+        "station_id": "STA-2042",
+        "station_name": "Demo Compressor Station 042",
+        "station_type": "Compressor Station",
+        "capacity": "163 MMSCFD",
+        "commission_date": "2021-09-20"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "STA-2043",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.88062009052143,
+          32.01887475242711
+        ]
+      },
+      "properties": {
+        "asset_id": "STA-2043",
+        "asset_type": "Metering Station",
+        "status": "Active",
+        "pipeline_id": "PL-1085",
+        "segment_id": "SEG-1085-1",
+        "operating_area": "North East Area",
+        "criticality": "Critical",
+        "source_type": "synthetic_demo",
+        "latitude": 32.0188748,
+        "longitude": -101.8806201,
+        "station_id": "STA-2043",
+        "station_name": "Demo Metering Station 043",
+        "station_type": "Metering Station",
+        "capacity": "166 MMSCFD",
+        "commission_date": "2022-09-20"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "STA-2044",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.73587585121092,
+          31.618583493948734
+        ]
+      },
+      "properties": {
+        "asset_id": "STA-2044",
+        "asset_type": "Valve Station",
+        "status": "Active",
+        "pipeline_id": "PL-1087",
+        "segment_id": "SEG-1087-2",
+        "operating_area": "South West Area",
+        "criticality": "High",
+        "source_type": "synthetic_demo",
+        "latitude": 31.6185835,
+        "longitude": -102.7358759,
+        "station_id": "STA-2044",
+        "station_name": "Demo Valve Station 044",
+        "station_type": "Valve Station",
+        "capacity": "169 MMSCFD",
+        "commission_date": "2023-09-20"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "STA-2045",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.36095994563293,
+          31.6464788910039
+        ]
+      },
+      "properties": {
+        "asset_id": "STA-2045",
+        "asset_type": "Pump Station",
+        "status": "Active",
+        "pipeline_id": "PL-1089",
+        "segment_id": "SEG-1089-3",
+        "operating_area": "South West Area",
+        "criticality": "Moderate",
+        "source_type": "synthetic_demo",
+        "latitude": 31.6464789,
+        "longitude": -103.3609599,
+        "station_id": "STA-2045",
+        "station_name": "Demo Pump Station 045",
+        "station_type": "Pump Station",
+        "capacity": "172 MBPD",
+        "commission_date": "2024-09-20"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "STA-2046",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.07567818836611,
+          31.64402175480449
+        ]
+      },
+      "properties": {
+        "asset_id": "STA-2046",
+        "asset_type": "Compressor Station",
+        "status": "Active",
+        "pipeline_id": "PL-1091",
+        "segment_id": "SEG-1091-1",
+        "operating_area": "South West Area",
+        "criticality": "Moderate",
+        "source_type": "synthetic_demo",
+        "latitude": 31.6440218,
+        "longitude": -103.0756782,
+        "station_id": "STA-2046",
+        "station_name": "Demo Compressor Station 046",
+        "station_type": "Compressor Station",
+        "capacity": "175 MMSCFD",
+        "commission_date": "2010-09-20"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "STA-2047",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.05573848140239,
+          31.01069648509179
+        ]
+      },
+      "properties": {
+        "asset_id": "STA-2047",
+        "asset_type": "Metering Station",
+        "status": "Active",
+        "pipeline_id": "PL-1093",
+        "segment_id": "SEG-1093-2",
+        "operating_area": "South West Area",
+        "criticality": "Low",
+        "source_type": "synthetic_demo",
+        "latitude": 31.0106965,
+        "longitude": -103.0557385,
+        "station_id": "STA-2047",
+        "station_name": "Demo Metering Station 047",
+        "station_type": "Metering Station",
+        "capacity": "178 MMSCFD",
+        "commission_date": "2011-09-20"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "STA-2048",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.18561878665435,
+          31.675251199375726
+        ]
+      },
+      "properties": {
+        "asset_id": "STA-2048",
+        "asset_type": "Valve Station",
+        "status": "Active",
+        "pipeline_id": "PL-1095",
+        "segment_id": "SEG-1095-3",
+        "operating_area": "South West Area",
+        "criticality": "Moderate",
+        "source_type": "synthetic_demo",
+        "latitude": 31.6752512,
+        "longitude": -102.1856188,
+        "station_id": "STA-2048",
+        "station_name": "Demo Valve Station 048",
+        "station_type": "Valve Station",
+        "capacity": "181 MMSCFD",
+        "commission_date": "2012-09-20"
+      }
+    }
+  ]
+}

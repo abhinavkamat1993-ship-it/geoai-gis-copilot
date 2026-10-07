@@ -1,0 +1,44 @@
+{
+  "name": "Midstream GIS Demo Data Foundation",
+  "as_of": "2026-10-07",
+  "study_area": {
+    "name": "Midland–Odessa, Permian Basin, Texas",
+    "bbox_wgs84": [
+      -103.5,
+      30.8,
+      -100.5,
+      33.2
+    ]
+  },
+  "coordinate_reference_system": "WGS 84 longitude/latitude (OGC CRS84 / EPSG:4326)",
+  "classification": "Public reference geography is separated from synthetic operational demonstration data.",
+  "counts": {
+    "reference/pipelines": 120,
+    "operational/pipelines": 100,
+    "operational/pipeline_segments": 300,
+    "operational/valves": 181,
+    "operational/stations": 48,
+    "operational/terminals": 12,
+    "operational/facilities": 30,
+    "operational/incidents": 101,
+    "operational/leak_events": 55,
+    "operational/work_orders": 270,
+    "operational/inspections": 330,
+    "operational/corrosion_records": 110,
+    "operational/row_records": 100,
+    "operational/operating_areas": 4,
+    "operational/environmental_areas": 8
+  },
+  "records_total_included_datasets": 1769,
+  "remote_reference_datasets": [
+    "roads",
+    "rivers",
+    "water_bodies",
+    "administrative_areas"
+  ],
+  "snapshots": {
+    "previous": 12,
+    "current": 12,
+    "changes": 5
+  }
+}

@@ -1,0 +1,1548 @@
+{
+  "version": 1,
+  "as_of": "2026-10-07",
+  "coordinate_reference_system": "GeoJSON coordinates use WGS 84 longitude/latitude (OGC CRS84 / EPSG:4326). Distances in generated attributes use haversine meters over the WGS 84 ellipsoid approximation; the application buffer uses ArcGIS geodesic geometry operators.",
+  "datasets": [
+    {
+      "layer_name": "pipelines",
+      "path": "reference/pipelines.geojson",
+      "description": "Clipped public EIA pipeline route reference geometry with source-published attributes only.",
+      "geometry_type": "LineString or MultiLineString",
+      "primary_key": "pipeline_id",
+      "source_type": "public_reference",
+      "fields": [
+        {
+          "field_name": "pipeline_id",
+          "field_type": "string",
+          "field_description": "Stable local reference key derived from public service layer and object ID.",
+          "allowed_values": null
+        },
+        {
+          "field_name": "source_feature_id",
+          "field_type": "string or number",
+          "field_description": "Feature identifier published by the public service.",
+          "allowed_values": null
+        },
+        {
+          "field_name": "source_layer_id",
+          "field_type": "number",
+          "field_description": "DOE/NETL service layer identifier.",
+          "allowed_values": [
+            0,
+            1,
+            2,
+            3
+          ]
+        },
+        {
+          "field_name": "source_layer_name",
+          "field_type": "string",
+          "field_description": "Name of the public DOE/NETL service layer.",
+          "allowed_values": [
+            "Hydrocarbon Gas Liquids (HGL) Pipelines",
+            "Petroleum Products Pipelines",
+            "Crude Oil Trunk Pipelines",
+            "Natural Gas Interstate and Intrastate Pipelines"
+          ]
+        },
+        {
+          "field_name": "pipeline_type",
+          "field_type": "string",
+          "field_description": "Pipeline class inferred from the named public service layer.",
+          "allowed_values": [
+            "HGL",
+            "Petroleum Products",
+            "Crude Oil",
+            "Natural Gas"
+          ]
+        },
+        {
+          "field_name": "product",
+          "field_type": "string",
+          "field_description": "Product category represented by the selected public service layer.",
+          "allowed_values": [
+            "Hydrocarbon Gas Liquids",
+            "Refined Products",
+            "Crude Oil",
+            "Natural Gas"
+          ]
+        },
+        {
+          "field_name": "operator_name",
+          "field_type": "string or null",
+          "field_description": "Operator name only when supplied by source attributes.",
+          "allowed_values": null
+        },
+        {
+          "field_name": "pipeline_name",
+          "field_type": "string or null",
+          "field_description": "Pipeline name only when supplied by source attributes.",
+          "allowed_values": null
+        },
+        {
+          "field_name": "source_reported_km",
+          "field_type": "number or null",
+          "field_description": "Kilometer value only when supplied by source attributes.",
+          "allowed_values": null
+        },
+        {
+          "field_name": "source_reported_miles",
+          "field_type": "number or null",
+          "field_description": "Miles value only when supplied by source attributes.",
+          "allowed_values": null
+        },
+        {
+          "field_name": "source_type",
+          "field_type": "string",
+          "field_description": "Marks this record as public reference data.",
+          "allowed_values": [
+            "public_reference"
+          ]
+        },
+        {
+          "field_name": "source_name",
+          "field_type": "string",
+          "field_description": "Attribution label for the public service used as the reference source.",
+          "allowed_values": null
+        },
+        {
+          "field_name": "source_url",
+          "field_type": "string",
+          "field_description": "REST endpoint for the originating source layer.",
+          "allowed_values": null
+        },
+        {
+          "field_name": "accessed_on",
+          "field_type": "date",
+          "field_description": "Date this bounded reference snapshot was retrieved.",
+          "allowed_values": null
+        },
+        {
+          "field_name": "geometry_note",
+          "field_type": "string",
+          "field_description": "Documents that the source geometry is clipped to the local study extent.",
+          "allowed_values": null
+        }
+      ]
+    },
+    {
+      "layer_name": "roads",
+      "path": "ArcGIS Feature Service",
+      "description": "Public reference road geography; not a dispatch-grade routing network.",
+      "geometry_type": "Polyline",
+      "primary_key": "service object ID",
+      "source_type": "public_reference",
+      "fields": [
+        {
+          "field_name": "service-defined attributes",
+          "field_type": "dynamic",
+          "field_description": "Fields and allowed values are defined by the live TIGERweb Primary Roads service; inspect its ArcGIS REST layer metadata at https://tigerweb.geo.census.gov/arcgis/rest/services/TIGERweb/Transportation/MapServer/2.",
+          "allowed_values": null
+        }
+      ]
+    },
+    {
+      "layer_name": "rivers",
+      "path": "ArcGIS Feature Service",
+      "description": "Public hydrography context; coverage blends 3DHP and legacy NHD.",
+      "geometry_type": "Polyline",
+      "primary_key": "service object ID",
+      "source_type": "public_reference",
+      "fields": [
+        {
+          "field_name": "service-defined attributes",
+          "field_type": "dynamic",
+          "field_description": "Fields and allowed values are defined by the live 3D Hydrography Program Flowlines service; inspect its ArcGIS REST layer metadata at https://3dhp.nationalmap.gov/arcgis/rest/services/usgs_3dhp_all/FeatureServer/50.",
+          "allowed_values": null
+        }
+      ]
+    },
+    {
+      "layer_name": "water_bodies",
+      "path": "ArcGIS Feature Service",
+      "description": "Public hydrography context; not survey-grade or a regulatory determination.",
+      "geometry_type": "Polygon",
+      "primary_key": "service object ID",
+      "source_type": "public_reference",
+      "fields": [
+        {
+          "field_name": "service-defined attributes",
+          "field_type": "dynamic",
+          "field_description": "Fields and allowed values are defined by the live 3D Hydrography Program Waterbodies service; inspect its ArcGIS REST layer metadata at https://3dhp.nationalmap.gov/arcgis/rest/services/usgs_3dhp_all/FeatureServer/60.",
+          "allowed_values": null
+        }
+      ]
+    },
+    {
+      "layer_name": "administrative_areas",
+      "path": "ArcGIS Feature Service",
+      "description": "Public county reference boundaries.",
+      "geometry_type": "Polygon",
+      "primary_key": "service object ID",
+      "source_type": "public_reference",
+      "fields": [
+        {
+          "field_name": "service-defined attributes",
+          "field_type": "dynamic",
+          "field_description": "Fields and allowed values are defined by the live TIGERweb Counties service; inspect its ArcGIS REST layer metadata at https://tigerweb.geo.census.gov/arcgis/rest/services/TIGERweb/State_County/MapServer/1.",
+          "allowed_values": null
+        }
+      ]
+    },
+    {
+      "layer_name": "pipelines",
+      "path": "operational/pipelines.geojson",
+      "description": "Synthetic operational pipeline scenarios linked to clipped public route geography.",
+      "geometry_type": "LineString",
+      "primary_key": "pipeline_id",
+      "source_type": "synthetic_demo",
+      "fields": [
+        {
+          "field_name": "pipeline_id",
+          "field_type": "string",
+          "field_description": "Pipeline Id for the pipelines dataset.",
+          "allowed_values": null
+        },
+        {
+          "field_name": "pipeline_name",
+          "field_type": "string",
+          "field_description": "Pipeline Name for the pipelines dataset.",
+          "allowed_values": null
+        },
+        {
+          "field_name": "operator",
+          "field_type": "string",
+          "field_description": "Operator for the pipelines dataset.",
+          "allowed_values": null
+        },
+        {
+          "field_name": "pipeline_type",
+          "field_type": "string",
+          "field_description": "Pipeline Type for the pipelines dataset.",
+          "allowed_values": [
+            "Crude Oil",
+            "Refined Products",
+            "Natural Gas",
+            "HGL",
+            "Gathering",
+            "Transmission"
+          ]
+        },
+        {
+          "field_name": "product",
+          "field_type": "string",
+          "field_description": "Product for the pipelines dataset.",
+          "allowed_values": null
+        },
+        {
+          "field_name": "status",
+          "field_type": "string",
+          "field_description": "Status for the pipelines dataset.",
+          "allowed_values": [
+            "Active",
+            "Inactive"
+          ]
+        },
+        {
+          "field_name": "diameter_in",
+          "field_type": "number",
+          "field_description": "Diameter In for the pipelines dataset.",
+          "allowed_values": null
+        },
+        {
+          "field_name": "operating_pressure_psi",
+          "field_type": "number",
+          "field_description": "Operating Pressure Psi for the pipelines dataset.",
+          "allowed_values": null
+        },
+        {
+          "field_name": "length_km",
+          "field_type": "number",
+          "field_description": "Length Km for the pipelines dataset.",
+          "allowed_values": null
+        },
+        {
+          "field_name": "operating_area",
+          "field_type": "string",
+          "field_description": "Operating Area for the pipelines dataset.",
+          "allowed_values": null
+        },
+        {
+          "field_name": "region",
+          "field_type": "string",
+          "field_description": "Region for the pipelines dataset.",
+          "allowed_values": null
+        },
+        {
+          "field_name": "commission_date",
+          "field_type": "date",
+          "field_description": "Commission Date for the pipelines dataset.",
+          "allowed_values": null
+        },
+        {
+          "field_name": "source_type",
+          "field_type": "string",
+          "field_description": "Source Type for the pipelines dataset. This field labels public reference versus synthetic demo provenance.",
+          "allowed_values": [
+            "public_reference",
+            "synthetic_demo"
+          ]
+        },
+        {
+          "field_name": "geometry_source_type",
+          "field_type": "string",
+          "field_description": "Geometry Source Type for the pipelines dataset.",
+          "allowed_values": null
+        },
+        {
+          "field_name": "reference_pipeline_id",
+          "field_type": "string",
+          "field_description": "Reference Pipeline Id for the pipelines dataset.",
+          "allowed_values": null
+        },
+        {
+          "field_name": "demonstration_note",
+          "field_type": "string",
+          "field_description": "Demonstration Note for the pipelines dataset.",
+          "allowed_values": null
+        }
+      ]
+    },
+    {
+      "layer_name": "pipeline_segments",
+      "path": "operational/pipeline_segments.geojson",
+      "description": "Three connected synthetic segments per demonstration pipeline.",
+      "geometry_type": "LineString",
+      "primary_key": "segment_id",
+      "source_type": "synthetic_demo",
+      "fields": [
+        {
+          "field_name": "segment_id",
+          "field_type": "string",
+          "field_description": "Segment Id for the pipeline segments dataset.",
+          "allowed_values": null
+        },
+        {
+          "field_name": "pipeline_id",
+          "field_type": "string",
+          "field_description": "Pipeline Id for the pipeline segments dataset.",
+          "allowed_values": null
+        },
+        {
+          "field_name": "from_node",
+          "field_type": "string",
+          "field_description": "From Node for the pipeline segments dataset.",
+          "allowed_values": null
+        },
+        {
+          "field_name": "to_node",
+          "field_type": "string",
+          "field_description": "To Node for the pipeline segments dataset.",
+          "allowed_values": null
+        },
+        {
+          "field_name": "segment_status",
+          "field_type": "string",
+          "field_description": "Segment Status for the pipeline segments dataset.",
+          "allowed_values": [
+            "Active",
+            "Inactive"
+          ]
+        },
+        {
+          "field_name": "diameter_in",
+          "field_type": "number",
+          "field_description": "Diameter In for the pipeline segments dataset.",
+          "allowed_values": null
+        },
+        {
+          "field_name": "material",
+          "field_type": "string",
+          "field_description": "Material for the pipeline segments dataset.",
+          "allowed_values": [
+            "Carbon Steel",
+            "High-Strength Steel",
+            "Coated Steel"
+          ]
+        },
+        {
+          "field_name": "length_km",
+          "field_type": "number",
+          "field_description": "Length Km for the pipeline segments dataset.",
+          "allowed_values": null
+        },
+        {
+          "field_name": "operating_area",
+          "field_type": "string",
+          "field_description": "Operating Area for the pipeline segments dataset.",
+          "allowed_values": null
+        },
+        {
+          "field_name": "criticality",
+          "field_type": "string",
+          "field_description": "Criticality for the pipeline segments dataset.",
+          "allowed_values": [
+            "Low",
+            "Moderate",
+            "High",
+            "Critical"
+          ]
+        },
+        {
+          "field_name": "source_type",
+          "field_type": "string",
+          "field_description": "Source Type for the pipeline segments dataset. This field labels public reference versus synthetic demo provenance.",
+          "allowed_values": [
+            "public_reference",
+            "synthetic_demo"
+          ]
+        }
+      ]
+    },
+    {
+      "layer_name": "valves",
+      "path": "operational/valves.geojson",
+      "description": "Synthetic valve assets located on their assigned pipeline segments, with controlled QA cases documented.",
+      "geometry_type": "Point",
+      "primary_key": "asset_id",
+      "source_type": "synthetic_demo",
+      "fields": [
+        {
+          "field_name": "asset_id",
+          "field_type": "string",
+          "field_description": "Asset Id for the valves dataset.",
+          "allowed_values": null
+        },
+        {
+          "field_name": "asset_type",
+          "field_type": "string",
+          "field_description": "Asset Type for the valves dataset.",
+          "allowed_values": null
+        },
+        {
+          "field_name": "status",
+          "field_type": "string",
+          "field_description": "Status for the valves dataset.",
+          "allowed_values": [
+            "Active",
+            "Inactive",
+            "Under Maintenance"
+          ]
+        },
+        {
+          "field_name": "pipeline_id",
+          "field_type": "string",
+          "field_description": "Pipeline Id for the valves dataset.",
+          "allowed_values": null
+        },
+        {
+          "field_name": "segment_id",
+          "field_type": "string",
+          "field_description": "Segment Id for the valves dataset.",
+          "allowed_values": null
+        },
+        {
+          "field_name": "operating_area",
+          "field_type": "string",
+          "field_description": "Operating Area for the valves dataset.",
+          "allowed_values": null
+        },
+        {
+          "field_name": "criticality",
+          "field_type": "string",
+          "field_description": "Criticality for the valves dataset.",
+          "allowed_values": [
+            "Low",
+            "Moderate",
+            "High",
+            "Critical"
+          ]
+        },
+        {
+          "field_name": "source_type",
+          "field_type": "string",
+          "field_description": "Source Type for the valves dataset. This field labels public reference versus synthetic demo provenance.",
+          "allowed_values": [
+            "public_reference",
+            "synthetic_demo"
+          ]
+        },
+        {
+          "field_name": "latitude",
+          "field_type": "number",
+          "field_description": "Latitude for the valves dataset.",
+          "allowed_values": null
+        },
+        {
+          "field_name": "longitude",
+          "field_type": "number",
+          "field_description": "Longitude for the valves dataset.",
+          "allowed_values": null
+        },
+        {
+          "field_name": "valve_type",
+          "field_type": "string",
+          "field_description": "Valve Type for the valves dataset.",
+          "allowed_values": [
+            "Mainline Valve",
+            "Block Valve",
+            "Isolation Valve",
+            "Check Valve",
+            "Control Valve",
+            "Emergency Shutdown Valve"
+          ]
+        },
+        {
+          "field_name": "diameter_in",
+          "field_type": "number",
+          "field_description": "Diameter In for the valves dataset.",
+          "allowed_values": null
+        },
+        {
+          "field_name": "manufacturer",
+          "field_type": "string",
+          "field_description": "Manufacturer for the valves dataset.",
+          "allowed_values": null
+        },
+        {
+          "field_name": "installation_date",
+          "field_type": "date",
+          "field_description": "Installation Date for the valves dataset.",
+          "allowed_values": null
+        },
+        {
+          "field_name": "last_inspection_date",
+          "field_type": "date",
+          "field_description": "Last Inspection Date for the valves dataset.",
+          "allowed_values": null
+        }
+      ],
+      "snapshot_paths": [
+        "snapshots/previous/valves.geojson",
+        "snapshots/current/valves.geojson"
+      ]
+    },
+    {
+      "layer_name": "stations",
+      "path": "operational/stations.geojson",
+      "description": "Synthetic pump, compressor, metering, and valve stations.",
+      "geometry_type": "Point",
+      "primary_key": "station_id",
+      "source_type": "synthetic_demo",
+      "fields": [
+        {
+          "field_name": "asset_id",
+          "field_type": "string",
+          "field_description": "Asset Id for the stations dataset.",
+          "allowed_values": null
+        },
+        {
+          "field_name": "asset_type",
+          "field_type": "string",
+          "field_description": "Asset Type for the stations dataset.",
+          "allowed_values": null
+        },
+        {
+          "field_name": "status",
+          "field_type": "string",
+          "field_description": "Status for the stations dataset.",
+          "allowed_values": [
+            "Active",
+            "Inactive",
+            "Under Maintenance"
+          ]
+        },
+        {
+          "field_name": "pipeline_id",
+          "field_type": "string",
+          "field_description": "Pipeline Id for the stations dataset.",
+          "allowed_values": null
+        },
+        {
+          "field_name": "segment_id",
+          "field_type": "string",
+          "field_description": "Segment Id for the stations dataset.",
+          "allowed_values": null
+        },
+        {
+          "field_name": "operating_area",
+          "field_type": "string",
+          "field_description": "Operating Area for the stations dataset.",
+          "allowed_values": null
+        },
+        {
+          "field_name": "criticality",
+          "field_type": "string",
+          "field_description": "Criticality for the stations dataset.",
+          "allowed_values": [
+            "Low",
+            "Moderate",
+            "High",
+            "Critical"
+          ]
+        },
+        {
+          "field_name": "source_type",
+          "field_type": "string",
+          "field_description": "Source Type for the stations dataset. This field labels public reference versus synthetic demo provenance.",
+          "allowed_values": [
+            "public_reference",
+            "synthetic_demo"
+          ]
+        },
+        {
+          "field_name": "latitude",
+          "field_type": "number",
+          "field_description": "Latitude for the stations dataset.",
+          "allowed_values": null
+        },
+        {
+          "field_name": "longitude",
+          "field_type": "number",
+          "field_description": "Longitude for the stations dataset.",
+          "allowed_values": null
+        },
+        {
+          "field_name": "station_id",
+          "field_type": "string",
+          "field_description": "Station Id for the stations dataset.",
+          "allowed_values": null
+        },
+        {
+          "field_name": "station_name",
+          "field_type": "string",
+          "field_description": "Station Name for the stations dataset.",
+          "allowed_values": null
+        },
+        {
+          "field_name": "station_type",
+          "field_type": "string",
+          "field_description": "Station Type for the stations dataset.",
+          "allowed_values": [
+            "Pump Station",
+            "Compressor Station",
+            "Metering Station",
+            "Valve Station"
+          ]
+        },
+        {
+          "field_name": "capacity",
+          "field_type": "string",
+          "field_description": "Capacity for the stations dataset.",
+          "allowed_values": null
+        },
+        {
+          "field_name": "commission_date",
+          "field_type": "date",
+          "field_description": "Commission Date for the stations dataset.",
+          "allowed_values": null
+        }
+      ]
+    },
+    {
+      "layer_name": "terminals",
+      "path": "operational/terminals.geojson",
+      "description": "Synthetic terminals linked to pipeline and asset identifiers.",
+      "geometry_type": "Point",
+      "primary_key": "terminal_id",
+      "source_type": "synthetic_demo",
+      "fields": [
+        {
+          "field_name": "asset_id",
+          "field_type": "string",
+          "field_description": "Asset Id for the terminals dataset.",
+          "allowed_values": null
+        },
+        {
+          "field_name": "asset_type",
+          "field_type": "string",
+          "field_description": "Asset Type for the terminals dataset.",
+          "allowed_values": null
+        },
+        {
+          "field_name": "status",
+          "field_type": "string",
+          "field_description": "Status for the terminals dataset.",
+          "allowed_values": [
+            "Active",
+            "Inactive",
+            "Under Maintenance"
+          ]
+        },
+        {
+          "field_name": "pipeline_id",
+          "field_type": "string",
+          "field_description": "Pipeline Id for the terminals dataset.",
+          "allowed_values": null
+        },
+        {
+          "field_name": "segment_id",
+          "field_type": "string",
+          "field_description": "Segment Id for the terminals dataset.",
+          "allowed_values": null
+        },
+        {
+          "field_name": "operating_area",
+          "field_type": "string",
+          "field_description": "Operating Area for the terminals dataset.",
+          "allowed_values": null
+        },
+        {
+          "field_name": "criticality",
+          "field_type": "string",
+          "field_description": "Criticality for the terminals dataset.",
+          "allowed_values": [
+            "Low",
+            "Moderate",
+            "High",
+            "Critical"
+          ]
+        },
+        {
+          "field_name": "source_type",
+          "field_type": "string",
+          "field_description": "Source Type for the terminals dataset. This field labels public reference versus synthetic demo provenance.",
+          "allowed_values": [
+            "public_reference",
+            "synthetic_demo"
+          ]
+        },
+        {
+          "field_name": "latitude",
+          "field_type": "number",
+          "field_description": "Latitude for the terminals dataset.",
+          "allowed_values": null
+        },
+        {
+          "field_name": "longitude",
+          "field_type": "number",
+          "field_description": "Longitude for the terminals dataset.",
+          "allowed_values": null
+        },
+        {
+          "field_name": "terminal_id",
+          "field_type": "string",
+          "field_description": "Terminal Id for the terminals dataset.",
+          "allowed_values": null
+        },
+        {
+          "field_name": "terminal_name",
+          "field_type": "string",
+          "field_description": "Terminal Name for the terminals dataset.",
+          "allowed_values": null
+        },
+        {
+          "field_name": "terminal_type",
+          "field_type": "string",
+          "field_description": "Terminal Type for the terminals dataset.",
+          "allowed_values": [
+            "Crude Oil Terminal",
+            "Products Terminal",
+            "Gas Processing Terminal"
+          ]
+        },
+        {
+          "field_name": "capacity",
+          "field_type": "string",
+          "field_description": "Capacity for the terminals dataset.",
+          "allowed_values": null
+        },
+        {
+          "field_name": "pipeline_connections",
+          "field_type": "string",
+          "field_description": "Pipeline Connections for the terminals dataset.",
+          "allowed_values": null
+        }
+      ]
+    },
+    {
+      "layer_name": "facilities",
+      "path": "operational/facilities.geojson",
+      "description": "Synthetic operational facilities linked to pipeline and area identifiers.",
+      "geometry_type": "Point",
+      "primary_key": "facility_id",
+      "source_type": "synthetic_demo",
+      "fields": [
+        {
+          "field_name": "asset_id",
+          "field_type": "string",
+          "field_description": "Asset Id for the facilities dataset.",
+          "allowed_values": null
+        },
+        {
+          "field_name": "asset_type",
+          "field_type": "string",
+          "field_description": "Asset Type for the facilities dataset.",
+          "allowed_values": null
+        },
+        {
+          "field_name": "status",
+          "field_type": "string",
+          "field_description": "Status for the facilities dataset.",
+          "allowed_values": [
+            "Active",
+            "Inactive",
+            "Under Maintenance"
+          ]
+        },
+        {
+          "field_name": "pipeline_id",
+          "field_type": "string",
+          "field_description": "Pipeline Id for the facilities dataset.",
+          "allowed_values": null
+        },
+        {
+          "field_name": "segment_id",
+          "field_type": "string",
+          "field_description": "Segment Id for the facilities dataset.",
+          "allowed_values": null
+        },
+        {
+          "field_name": "operating_area",
+          "field_type": "string",
+          "field_description": "Operating Area for the facilities dataset.",
+          "allowed_values": null
+        },
+        {
+          "field_name": "criticality",
+          "field_type": "string",
+          "field_description": "Criticality for the facilities dataset.",
+          "allowed_values": [
+            "Low",
+            "Moderate",
+            "High",
+            "Critical"
+          ]
+        },
+        {
+          "field_name": "source_type",
+          "field_type": "string",
+          "field_description": "Source Type for the facilities dataset. This field labels public reference versus synthetic demo provenance.",
+          "allowed_values": [
+            "public_reference",
+            "synthetic_demo"
+          ]
+        },
+        {
+          "field_name": "latitude",
+          "field_type": "number",
+          "field_description": "Latitude for the facilities dataset.",
+          "allowed_values": null
+        },
+        {
+          "field_name": "longitude",
+          "field_type": "number",
+          "field_description": "Longitude for the facilities dataset.",
+          "allowed_values": null
+        },
+        {
+          "field_name": "facility_id",
+          "field_type": "string",
+          "field_description": "Facility Id for the facilities dataset.",
+          "allowed_values": null
+        },
+        {
+          "field_name": "facility_name",
+          "field_type": "string",
+          "field_description": "Facility Name for the facilities dataset.",
+          "allowed_values": null
+        },
+        {
+          "field_name": "facility_type",
+          "field_type": "string",
+          "field_description": "Facility Type for the facilities dataset.",
+          "allowed_values": [
+            "Control Building",
+            "Maintenance Yard",
+            "Metering Facility",
+            "Storage Area",
+            "Pump Facility",
+            "Compressor Facility",
+            "Emergency Response Facility"
+          ]
+        }
+      ]
+    },
+    {
+      "layer_name": "incidents",
+      "path": "operational/incidents.geojson",
+      "description": "Synthetic incidents associated with assets, pipelines, and segments.",
+      "geometry_type": "Point",
+      "primary_key": "incident_id",
+      "source_type": "synthetic_demo",
+      "fields": [
+        {
+          "field_name": "incident_id",
+          "field_type": "string",
+          "field_description": "Incident Id for the incidents dataset.",
+          "allowed_values": null
+        },
+        {
+          "field_name": "incident_type",
+          "field_type": "string",
+          "field_description": "Incident Type for the incidents dataset.",
+          "allowed_values": [
+            "Leak",
+            "Pressure Anomaly",
+            "Corrosion",
+            "Third Party Damage",
+            "Excavation Near ROW",
+            "Valve Failure",
+            "Equipment Failure",
+            "Unauthorized Activity",
+            "Environmental Concern"
+          ]
+        },
+        {
+          "field_name": "severity",
+          "field_type": "string",
+          "field_description": "Severity for the incidents dataset.",
+          "allowed_values": [
+            "Low",
+            "Moderate",
+            "High",
+            "Critical"
+          ]
+        },
+        {
+          "field_name": "status",
+          "field_type": "string",
+          "field_description": "Status for the incidents dataset.",
+          "allowed_values": [
+            "Open",
+            "Investigating",
+            "Resolved"
+          ]
+        },
+        {
+          "field_name": "reported_date",
+          "field_type": "date",
+          "field_description": "Reported Date for the incidents dataset.",
+          "allowed_values": null
+        },
+        {
+          "field_name": "resolved_date",
+          "field_type": "date",
+          "field_description": "Resolved Date for the incidents dataset.",
+          "allowed_values": null
+        },
+        {
+          "field_name": "asset_id",
+          "field_type": "string",
+          "field_description": "Asset Id for the incidents dataset.",
+          "allowed_values": null
+        },
+        {
+          "field_name": "pipeline_id",
+          "field_type": "string",
+          "field_description": "Pipeline Id for the incidents dataset.",
+          "allowed_values": null
+        },
+        {
+          "field_name": "segment_id",
+          "field_type": "string",
+          "field_description": "Segment Id for the incidents dataset.",
+          "allowed_values": null
+        },
+        {
+          "field_name": "operating_area",
+          "field_type": "string",
+          "field_description": "Operating Area for the incidents dataset.",
+          "allowed_values": null
+        },
+        {
+          "field_name": "description",
+          "field_type": "string",
+          "field_description": "Description for the incidents dataset.",
+          "allowed_values": null
+        },
+        {
+          "field_name": "root_cause_category",
+          "field_type": "string",
+          "field_description": "Root Cause Category for the incidents dataset.",
+          "allowed_values": null
+        },
+        {
+          "field_name": "source_type",
+          "field_type": "string",
+          "field_description": "Source Type for the incidents dataset. This field labels public reference versus synthetic demo provenance.",
+          "allowed_values": [
+            "public_reference",
+            "synthetic_demo"
+          ]
+        }
+      ]
+    },
+    {
+      "layer_name": "leak_events",
+      "path": "operational/leak_events.geojson",
+      "description": "Synthetic leak scenarios linked to incident records; not live SCADA.",
+      "geometry_type": "Point",
+      "primary_key": "leak_id",
+      "source_type": "synthetic_demo",
+      "fields": [
+        {
+          "field_name": "leak_id",
+          "field_type": "string",
+          "field_description": "Leak Id for the leak events dataset.",
+          "allowed_values": null
+        },
+        {
+          "field_name": "incident_id",
+          "field_type": "string",
+          "field_description": "Incident Id for the leak events dataset.",
+          "allowed_values": null
+        },
+        {
+          "field_name": "asset_id",
+          "field_type": "string",
+          "field_description": "Asset Id for the leak events dataset.",
+          "allowed_values": null
+        },
+        {
+          "field_name": "pipeline_id",
+          "field_type": "string",
+          "field_description": "Pipeline Id for the leak events dataset.",
+          "allowed_values": null
+        },
+        {
+          "field_name": "detected_date",
+          "field_type": "date",
+          "field_description": "Detected Date for the leak events dataset.",
+          "allowed_values": null
+        },
+        {
+          "field_name": "severity",
+          "field_type": "string",
+          "field_description": "Severity for the leak events dataset.",
+          "allowed_values": [
+            "Low",
+            "Moderate",
+            "High",
+            "Critical"
+          ]
+        },
+        {
+          "field_name": "estimated_volume",
+          "field_type": "number",
+          "field_description": "Estimated Volume for the leak events dataset.",
+          "allowed_values": null
+        },
+        {
+          "field_name": "detection_method",
+          "field_type": "string",
+          "field_description": "Detection Method for the leak events dataset.",
+          "allowed_values": [
+            "Field Inspection",
+            "Operational Alert",
+            "Pressure Anomaly",
+            "Flow Imbalance",
+            "Reported Observation"
+          ]
+        },
+        {
+          "field_name": "status",
+          "field_type": "string",
+          "field_description": "Status for the leak events dataset.",
+          "allowed_values": [
+            "Open",
+            "Investigating",
+            "Resolved"
+          ]
+        },
+        {
+          "field_name": "source_type",
+          "field_type": "string",
+          "field_description": "Source Type for the leak events dataset. This field labels public reference versus synthetic demo provenance.",
+          "allowed_values": [
+            "public_reference",
+            "synthetic_demo"
+          ]
+        }
+      ]
+    },
+    {
+      "layer_name": "work_orders",
+      "path": "operational/work_orders.geojson",
+      "description": "Synthetic maintenance and response orders associated with assets.",
+      "geometry_type": "Point",
+      "primary_key": "work_order_id",
+      "source_type": "synthetic_demo",
+      "fields": [
+        {
+          "field_name": "work_order_id",
+          "field_type": "string",
+          "field_description": "Work Order Id for the work orders dataset.",
+          "allowed_values": null
+        },
+        {
+          "field_name": "asset_id",
+          "field_type": "string",
+          "field_description": "Asset Id for the work orders dataset.",
+          "allowed_values": null
+        },
+        {
+          "field_name": "pipeline_id",
+          "field_type": "string",
+          "field_description": "Pipeline Id for the work orders dataset.",
+          "allowed_values": null
+        },
+        {
+          "field_name": "work_type",
+          "field_type": "string",
+          "field_description": "Work Type for the work orders dataset.",
+          "allowed_values": [
+            "Inspection",
+            "Maintenance",
+            "Repair",
+            "Valve Maintenance",
+            "ROW Inspection",
+            "Corrosion Inspection",
+            "Emergency Response",
+            "Survey",
+            "Data Correction"
+          ]
+        },
+        {
+          "field_name": "priority",
+          "field_type": "string",
+          "field_description": "Priority for the work orders dataset.",
+          "allowed_values": [
+            "Low",
+            "Medium",
+            "High",
+            "Emergency"
+          ]
+        },
+        {
+          "field_name": "status",
+          "field_type": "string",
+          "field_description": "Status for the work orders dataset.",
+          "allowed_values": [
+            "Open",
+            "Assigned",
+            "In Progress",
+            "Completed",
+            "Cancelled"
+          ]
+        },
+        {
+          "field_name": "created_date",
+          "field_type": "date",
+          "field_description": "Created Date for the work orders dataset.",
+          "allowed_values": null
+        },
+        {
+          "field_name": "planned_date",
+          "field_type": "date",
+          "field_description": "Planned Date for the work orders dataset.",
+          "allowed_values": null
+        },
+        {
+          "field_name": "completed_date",
+          "field_type": "date",
+          "field_description": "Completed Date for the work orders dataset.",
+          "allowed_values": null
+        },
+        {
+          "field_name": "assigned_team",
+          "field_type": "string",
+          "field_description": "Assigned Team for the work orders dataset.",
+          "allowed_values": null
+        },
+        {
+          "field_name": "description",
+          "field_type": "string",
+          "field_description": "Description for the work orders dataset.",
+          "allowed_values": null
+        },
+        {
+          "field_name": "source_type",
+          "field_type": "string",
+          "field_description": "Source Type for the work orders dataset. This field labels public reference versus synthetic demo provenance.",
+          "allowed_values": [
+            "public_reference",
+            "synthetic_demo"
+          ]
+        }
+      ]
+    },
+    {
+      "layer_name": "inspections",
+      "path": "operational/inspections.geojson",
+      "description": "Synthetic asset inspection observations.",
+      "geometry_type": "Point",
+      "primary_key": "inspection_id",
+      "source_type": "synthetic_demo",
+      "fields": [
+        {
+          "field_name": "inspection_id",
+          "field_type": "string",
+          "field_description": "Inspection Id for the inspections dataset.",
+          "allowed_values": null
+        },
+        {
+          "field_name": "asset_id",
+          "field_type": "string",
+          "field_description": "Asset Id for the inspections dataset.",
+          "allowed_values": null
+        },
+        {
+          "field_name": "pipeline_id",
+          "field_type": "string",
+          "field_description": "Pipeline Id for the inspections dataset.",
+          "allowed_values": null
+        },
+        {
+          "field_name": "inspection_type",
+          "field_type": "string",
+          "field_description": "Inspection Type for the inspections dataset.",
+          "allowed_values": [
+            "Routine",
+            "Integrity",
+            "Valve Inspection",
+            "ROW Inspection",
+            "Corrosion",
+            "Cathodic Protection",
+            "Environmental"
+          ]
+        },
+        {
+          "field_name": "inspection_date",
+          "field_type": "date",
+          "field_description": "Inspection Date for the inspections dataset.",
+          "allowed_values": null
+        },
+        {
+          "field_name": "condition",
+          "field_type": "string",
+          "field_description": "Condition for the inspections dataset.",
+          "allowed_values": [
+            "Good",
+            "Fair",
+            "Poor",
+            "Monitor"
+          ]
+        },
+        {
+          "field_name": "risk_score",
+          "field_type": "number",
+          "field_description": "Risk Score for the inspections dataset.",
+          "allowed_values": null
+        },
+        {
+          "field_name": "inspector",
+          "field_type": "string",
+          "field_description": "Inspector for the inspections dataset.",
+          "allowed_values": null
+        },
+        {
+          "field_name": "finding",
+          "field_type": "string",
+          "field_description": "Finding for the inspections dataset.",
+          "allowed_values": null
+        },
+        {
+          "field_name": "next_inspection_date",
+          "field_type": "date",
+          "field_description": "Next Inspection Date for the inspections dataset.",
+          "allowed_values": null
+        },
+        {
+          "field_name": "source_type",
+          "field_type": "string",
+          "field_description": "Source Type for the inspections dataset. This field labels public reference versus synthetic demo provenance.",
+          "allowed_values": [
+            "public_reference",
+            "synthetic_demo"
+          ]
+        }
+      ]
+    },
+    {
+      "layer_name": "corrosion_records",
+      "path": "operational/corrosion_records.geojson",
+      "description": "Synthetic corrosion findings linked to inspections and assets.",
+      "geometry_type": "Point",
+      "primary_key": "corrosion_id",
+      "source_type": "synthetic_demo",
+      "fields": [
+        {
+          "field_name": "corrosion_id",
+          "field_type": "string",
+          "field_description": "Corrosion Id for the corrosion records dataset.",
+          "allowed_values": null
+        },
+        {
+          "field_name": "asset_id",
+          "field_type": "string",
+          "field_description": "Asset Id for the corrosion records dataset.",
+          "allowed_values": null
+        },
+        {
+          "field_name": "pipeline_id",
+          "field_type": "string",
+          "field_description": "Pipeline Id for the corrosion records dataset.",
+          "allowed_values": null
+        },
+        {
+          "field_name": "inspection_id",
+          "field_type": "string",
+          "field_description": "Inspection Id for the corrosion records dataset.",
+          "allowed_values": null
+        },
+        {
+          "field_name": "corrosion_type",
+          "field_type": "string",
+          "field_description": "Corrosion Type for the corrosion records dataset.",
+          "allowed_values": [
+            "External Corrosion",
+            "Internal Corrosion",
+            "MIC",
+            "Atmospheric Corrosion"
+          ]
+        },
+        {
+          "field_name": "severity",
+          "field_type": "string",
+          "field_description": "Severity for the corrosion records dataset.",
+          "allowed_values": [
+            "Low",
+            "Moderate",
+            "High",
+            "Critical"
+          ]
+        },
+        {
+          "field_name": "depth_percent",
+          "field_type": "number",
+          "field_description": "Depth Percent for the corrosion records dataset.",
+          "allowed_values": null
+        },
+        {
+          "field_name": "inspection_date",
+          "field_type": "date",
+          "field_description": "Inspection Date for the corrosion records dataset.",
+          "allowed_values": null
+        },
+        {
+          "field_name": "status",
+          "field_type": "string",
+          "field_description": "Status for the corrosion records dataset.",
+          "allowed_values": [
+            "Open",
+            "Monitoring",
+            "Mitigated"
+          ]
+        },
+        {
+          "field_name": "recommended_action",
+          "field_type": "string",
+          "field_description": "Recommended Action for the corrosion records dataset.",
+          "allowed_values": null
+        },
+        {
+          "field_name": "source_type",
+          "field_type": "string",
+          "field_description": "Source Type for the corrosion records dataset. This field labels public reference versus synthetic demo provenance.",
+          "allowed_values": [
+            "public_reference",
+            "synthetic_demo"
+          ]
+        }
+      ]
+    },
+    {
+      "layer_name": "row_records",
+      "path": "operational/row_records.geojson",
+      "description": "Synthetic rights-of-way corridors linked to pipelines.",
+      "geometry_type": "Polygon",
+      "primary_key": "row_id",
+      "source_type": "synthetic_demo",
+      "fields": [
+        {
+          "field_name": "row_id",
+          "field_type": "string",
+          "field_description": "Row Id for the row records dataset.",
+          "allowed_values": null
+        },
+        {
+          "field_name": "pipeline_id",
+          "field_type": "string",
+          "field_description": "Pipeline Id for the row records dataset.",
+          "allowed_values": null
+        },
+        {
+          "field_name": "width_m",
+          "field_type": "number",
+          "field_description": "Width M for the row records dataset.",
+          "allowed_values": null
+        },
+        {
+          "field_name": "status",
+          "field_type": "string",
+          "field_description": "Status for the row records dataset.",
+          "allowed_values": [
+            "Active"
+          ]
+        },
+        {
+          "field_name": "landowner_type",
+          "field_type": "string",
+          "field_description": "Landowner Type for the row records dataset.",
+          "allowed_values": [
+            "Private",
+            "State",
+            "Federal",
+            "Mixed"
+          ]
+        },
+        {
+          "field_name": "operating_area",
+          "field_type": "string",
+          "field_description": "Operating Area for the row records dataset.",
+          "allowed_values": null
+        },
+        {
+          "field_name": "inspection_status",
+          "field_type": "string",
+          "field_description": "Inspection Status for the row records dataset.",
+          "allowed_values": [
+            "Current",
+            "Due Soon",
+            "Overdue"
+          ]
+        },
+        {
+          "field_name": "last_inspection_date",
+          "field_type": "date",
+          "field_description": "Last Inspection Date for the row records dataset.",
+          "allowed_values": null
+        },
+        {
+          "field_name": "source_type",
+          "field_type": "string",
+          "field_description": "Source Type for the row records dataset. This field labels public reference versus synthetic demo provenance.",
+          "allowed_values": [
+            "public_reference",
+            "synthetic_demo"
+          ]
+        }
+      ]
+    },
+    {
+      "layer_name": "operating_areas",
+      "path": "operational/operating_areas.geojson",
+      "description": "Synthetic four-quadrant Permian Basin demo boundaries.",
+      "geometry_type": "Polygon",
+      "primary_key": "area_id",
+      "source_type": "synthetic_demo",
+      "fields": [
+        {
+          "field_name": "area_id",
+          "field_type": "string",
+          "field_description": "Area Id for the operating areas dataset.",
+          "allowed_values": null
+        },
+        {
+          "field_name": "area_name",
+          "field_type": "string",
+          "field_description": "Area Name for the operating areas dataset.",
+          "allowed_values": null
+        },
+        {
+          "field_name": "region",
+          "field_type": "string",
+          "field_description": "Region for the operating areas dataset.",
+          "allowed_values": null
+        },
+        {
+          "field_name": "manager",
+          "field_type": "string",
+          "field_description": "Manager for the operating areas dataset.",
+          "allowed_values": null
+        },
+        {
+          "field_name": "status",
+          "field_type": "string",
+          "field_description": "Status for the operating areas dataset.",
+          "allowed_values": [
+            "Active"
+          ]
+        },
+        {
+          "field_name": "source_type",
+          "field_type": "string",
+          "field_description": "Source Type for the operating areas dataset. This field labels public reference versus synthetic demo provenance.",
+          "allowed_values": [
+            "public_reference",
+            "synthetic_demo"
+          ]
+        }
+      ]
+    },
+    {
+      "layer_name": "environmental_areas",
+      "path": "operational/environmental_areas.geojson",
+      "description": "Illustrative synthetic environmental scenario polygons, not an environmental inventory.",
+      "geometry_type": "Polygon",
+      "primary_key": "environmental_area_id",
+      "source_type": "synthetic_demo",
+      "fields": [
+        {
+          "field_name": "environmental_area_id",
+          "field_type": "string",
+          "field_description": "Environmental Area Id for the environmental areas dataset.",
+          "allowed_values": null
+        },
+        {
+          "field_name": "area_name",
+          "field_type": "string",
+          "field_description": "Area Name for the environmental areas dataset.",
+          "allowed_values": null
+        },
+        {
+          "field_name": "designation",
+          "field_type": "string",
+          "field_description": "Designation for the environmental areas dataset.",
+          "allowed_values": null
+        },
+        {
+          "field_name": "status",
+          "field_type": "string",
+          "field_description": "Status for the environmental areas dataset.",
+          "allowed_values": [
+            "Illustrative Only"
+          ]
+        },
+        {
+          "field_name": "operating_area",
+          "field_type": "string",
+          "field_description": "Operating Area for the environmental areas dataset.",
+          "allowed_values": null
+        },
+        {
+          "field_name": "related_pipeline_id",
+          "field_type": "string",
+          "field_description": "Related Pipeline Id for the environmental areas dataset.",
+          "allowed_values": null
+        },
+        {
+          "field_name": "source_type",
+          "field_type": "string",
+          "field_description": "Source Type for the environmental areas dataset. This field labels public reference versus synthetic demo provenance.",
+          "allowed_values": [
+            "public_reference",
+            "synthetic_demo"
+          ]
+        },
+        {
+          "field_name": "geometry_note",
+          "field_type": "string",
+          "field_description": "Geometry Note for the environmental areas dataset.",
+          "allowed_values": null
+        }
+      ]
+    }
+  ]
+}

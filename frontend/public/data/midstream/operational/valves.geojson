@@ -1,0 +1,5077 @@
+{
+  "type": "FeatureCollection",
+  "name": "valves",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "VAL-1001",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.01036335180704,
+          31.691137362669362
+        ]
+      },
+      "properties": {
+        "asset_id": "VAL-1001",
+        "asset_type": "Valve",
+        "status": "Active",
+        "pipeline_id": "PL-1001",
+        "segment_id": "SEG-1001-1",
+        "operating_area": "South West Area",
+        "criticality": "High",
+        "source_type": "synthetic_demo",
+        "latitude": 31.6911374,
+        "longitude": -103.0103634,
+        "valve_type": "Mainline Valve",
+        "diameter_in": 8,
+        "manufacturer": "Cameron",
+        "installation_date": "2008-03-12",
+        "last_inspection_date": "2020-01-15"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "VAL-1002",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.05747696801829,
+          31.320422218747606
+        ]
+      },
+      "properties": {
+        "asset_id": "VAL-1002",
+        "asset_type": "Valve",
+        "status": "Active",
+        "pipeline_id": "PL-1002",
+        "segment_id": "SEG-1002-1",
+        "operating_area": "South West Area",
+        "criticality": "Moderate",
+        "source_type": "synthetic_demo",
+        "latitude": 31.3204222,
+        "longitude": -103.057477,
+        "valve_type": "Mainline Valve",
+        "diameter_in": 12,
+        "manufacturer": "Cameron",
+        "installation_date": "2009-03-12",
+        "last_inspection_date": "2021-02-15"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "VAL-1003",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.018771487632,
+          31.329688642045834
+        ]
+      },
+      "properties": {
+        "asset_id": "VAL-1003",
+        "asset_type": "Valve",
+        "status": "Active",
+        "pipeline_id": "PL-1003",
+        "segment_id": "SEG-1003-1",
+        "operating_area": "South West Area",
+        "criticality": "Critical",
+        "source_type": "synthetic_demo",
+        "latitude": 31.3296886,
+        "longitude": -103.0187715,
+        "valve_type": "Mainline Valve",
+        "diameter_in": 16,
+        "manufacturer": "Cameron",
+        "installation_date": "2010-03-12",
+        "last_inspection_date": "2022-03-15"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "VAL-1004",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.63075566210397,
+          31.499375979495074
+        ]
+      },
+      "properties": {
+        "asset_id": "VAL-1004",
+        "asset_type": "Valve",
+        "status": "Active",
+        "pipeline_id": "PL-1004",
+        "segment_id": "SEG-1004-1",
+        "operating_area": "South West Area",
+        "criticality": "Low",
+        "source_type": "synthetic_demo",
+        "latitude": 31.499376,
+        "longitude": -102.6307557,
+        "valve_type": "Mainline Valve",
+        "diameter_in": 20,
+        "manufacturer": "Cameron",
+        "installation_date": "2011-03-12",
+        "last_inspection_date": "2023-04-15"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "VAL-1005",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.10627508225315,
+          31.383608404714927
+        ]
+      },
+      "properties": {
+        "asset_id": "VAL-1005",
+        "asset_type": "Valve",
+        "status": "Active",
+        "pipeline_id": "PL-1005",
+        "segment_id": "SEG-1005-1",
+        "operating_area": "South West Area",
+        "criticality": "Moderate",
+        "source_type": "synthetic_demo",
+        "latitude": 31.3836084,
+        "longitude": -103.1062751,
+        "valve_type": "Mainline Valve",
+        "diameter_in": 24,
+        "manufacturer": "Cameron",
+        "installation_date": "2012-03-12",
+        "last_inspection_date": "2024-05-15"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "VAL-1006",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.77608777047736,
+          32.50940613824985
+        ]
+      },
+      "properties": {
+        "asset_id": "VAL-1006",
+        "asset_type": "Valve",
+        "status": "Under Maintenance",
+        "pipeline_id": "PL-1006",
+        "segment_id": "SEG-1006-1",
+        "operating_area": "North East Area",
+        "criticality": "Low",
+        "source_type": "synthetic_demo",
+        "latitude": 32.5094061,
+        "longitude": -101.7760878,
+        "valve_type": "Emergency Shutdown Valve",
+        "diameter_in": 8,
+        "manufacturer": "Demo Manufacturer",
+        "installation_date": "2013-03-12",
+        "last_inspection_date": "2025-06-15"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "VAL-1007",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.948544524157,
+          32.50492751107058
+        ]
+      },
+      "properties": {
+        "asset_id": "VAL-1007",
+        "asset_type": "Valve",
+        "status": "Active",
+        "pipeline_id": "PL-1007",
+        "segment_id": "SEG-1007-1",
+        "operating_area": "North West Area",
+        "criticality": "Low",
+        "source_type": "synthetic_demo",
+        "latitude": 32.5049275,
+        "longitude": -102.9485445,
+        "valve_type": "Mainline Valve",
+        "diameter_in": 12,
+        "manufacturer": "Cameron",
+        "installation_date": "2014-03-12",
+        "last_inspection_date": "2020-07-15"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "VAL-1008",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.96095229739154,
+          32.781101219996074
+        ]
+      },
+      "properties": {
+        "asset_id": "VAL-1008",
+        "asset_type": "Valve",
+        "status": "Active",
+        "pipeline_id": "PL-1008",
+        "segment_id": "SEG-1008-1",
+        "operating_area": "North West Area",
+        "criticality": "High",
+        "source_type": "synthetic_demo",
+        "latitude": 32.7811012,
+        "longitude": -102.9609523,
+        "valve_type": "Mainline Valve",
+        "diameter_in": 16,
+        "manufacturer": "Cameron",
+        "installation_date": "2015-03-12",
+        "last_inspection_date": "2021-08-15"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "VAL-1009",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.69136000545208,
+          32.170540935738984
+        ]
+      },
+      "properties": {
+        "asset_id": "VAL-1009",
+        "asset_type": "Valve",
+        "status": "Active",
+        "pipeline_id": "PL-1009",
+        "segment_id": "SEG-1009-1",
+        "operating_area": "North East Area",
+        "criticality": "Critical",
+        "source_type": "synthetic_demo",
+        "latitude": 32.1705409,
+        "longitude": -100.69136,
+        "valve_type": "Mainline Valve",
+        "diameter_in": 20,
+        "manufacturer": "Cameron",
+        "installation_date": "2016-03-12",
+        "last_inspection_date": "2022-09-15"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "VAL-1010",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.80636974354238,
+          32.206471423151065
+        ]
+      },
+      "properties": {
+        "asset_id": "VAL-1010",
+        "asset_type": "Valve",
+        "status": "Active",
+        "pipeline_id": "PL-1010",
+        "segment_id": "SEG-1010-1",
+        "operating_area": "North West Area",
+        "criticality": "High",
+        "source_type": "synthetic_demo",
+        "latitude": 32.2064714,
+        "longitude": -102.8063697,
+        "valve_type": "Mainline Valve",
+        "diameter_in": 24,
+        "manufacturer": "Cameron",
+        "installation_date": "2017-03-12",
+        "last_inspection_date": "2023-01-15"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "VAL-1011",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.40187374944982,
+          33.13386211927839
+        ]
+      },
+      "properties": {
+        "asset_id": "VAL-1011",
+        "asset_type": "Valve",
+        "status": "Active",
+        "pipeline_id": "PL-1011",
+        "segment_id": "SEG-1011-1",
+        "operating_area": "North West Area",
+        "criticality": "Critical",
+        "source_type": "synthetic_demo",
+        "latitude": 33.1338621,
+        "longitude": -103.4018737,
+        "valve_type": "Mainline Valve",
+        "diameter_in": 8,
+        "manufacturer": "Cameron",
+        "installation_date": "2018-03-12",
+        "last_inspection_date": "2024-02-15"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "VAL-1012",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.86048614116284,
+          31.258920875943947
+        ]
+      },
+      "properties": {
+        "asset_id": "VAL-1012",
+        "asset_type": "Valve",
+        "status": "Active",
+        "pipeline_id": "PL-1012",
+        "segment_id": "SEG-1012-1",
+        "operating_area": "South West Area",
+        "criticality": "Low",
+        "source_type": "synthetic_demo",
+        "latitude": 31.2589209,
+        "longitude": -102.8604861,
+        "valve_type": "Mainline Valve",
+        "diameter_in": 12,
+        "manufacturer": "Cameron",
+        "installation_date": "2019-03-12",
+        "last_inspection_date": "2025-03-15"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "VAL-1013",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.38783179536588,
+          31.780321898494318
+        ]
+      },
+      "properties": {
+        "asset_id": "VAL-1013",
+        "asset_type": "Valve",
+        "status": "Active",
+        "pipeline_id": "PL-1013",
+        "segment_id": "SEG-1013-1",
+        "operating_area": "South West Area",
+        "criticality": "Moderate",
+        "source_type": "synthetic_demo",
+        "latitude": 31.7803219,
+        "longitude": -103.3878318,
+        "valve_type": "Mainline Valve",
+        "diameter_in": 16,
+        "manufacturer": "Cameron",
+        "installation_date": "2020-03-12",
+        "last_inspection_date": "2020-04-15"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "VAL-1014",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.7849108027871,
+          32.71588813425893
+        ]
+      },
+      "properties": {
+        "asset_id": "VAL-1014",
+        "asset_type": "Valve",
+        "status": "Active",
+        "pipeline_id": "PL-1014",
+        "segment_id": "SEG-1014-1",
+        "operating_area": "North West Area",
+        "criticality": "Moderate",
+        "source_type": "synthetic_demo",
+        "latitude": 32.7158881,
+        "longitude": -102.7849108,
+        "valve_type": "Mainline Valve",
+        "diameter_in": 20,
+        "manufacturer": "Cameron",
+        "installation_date": "2021-03-12",
+        "last_inspection_date": "2021-05-15"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "VAL-1015",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.88716592983776,
+          32.828480547206034
+        ]
+      },
+      "properties": {
+        "asset_id": "VAL-1015",
+        "asset_type": "Valve",
+        "status": "Active",
+        "pipeline_id": "PL-1015",
+        "segment_id": "SEG-1015-1",
+        "operating_area": "North West Area",
+        "criticality": "Critical",
+        "source_type": "synthetic_demo",
+        "latitude": 32.8284805,
+        "longitude": -102.8871659,
+        "valve_type": "Mainline Valve",
+        "diameter_in": 24,
+        "manufacturer": "Cameron",
+        "installation_date": "2022-03-12",
+        "last_inspection_date": "2022-06-15"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "VAL-1016",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.63325904946777,
+          31.84732392388028
+        ]
+      },
+      "properties": {
+        "asset_id": "VAL-1016",
+        "asset_type": "Valve",
+        "status": "Active",
+        "pipeline_id": "PL-1016",
+        "segment_id": "SEG-1016-1",
+        "operating_area": "South West Area",
+        "criticality": "Moderate",
+        "source_type": "synthetic_demo",
+        "latitude": 31.8473239,
+        "longitude": -102.633259,
+        "valve_type": "Mainline Valve",
+        "diameter_in": 8,
+        "manufacturer": "Cameron",
+        "installation_date": "2023-03-12",
+        "last_inspection_date": "2023-07-15"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "VAL-1017",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.21384900757626,
+          31.87066699791295
+        ]
+      },
+      "properties": {
+        "asset_id": "VAL-1017",
+        "asset_type": "Valve",
+        "status": "Active",
+        "pipeline_id": "PL-1017",
+        "segment_id": "SEG-1017-1",
+        "operating_area": "South West Area",
+        "criticality": "Low",
+        "source_type": "synthetic_demo",
+        "latitude": 31.870667,
+        "longitude": -102.213849,
+        "valve_type": "Mainline Valve",
+        "diameter_in": 12,
+        "manufacturer": "Cameron",
+        "installation_date": "2008-03-12",
+        "last_inspection_date": "2024-08-15"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "VAL-1018",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.42806826024132,
+          31.52914259737182
+        ]
+      },
+      "properties": {
+        "asset_id": "VAL-1018",
+        "asset_type": "Valve",
+        "status": "Active",
+        "pipeline_id": "PL-1018",
+        "segment_id": "SEG-1018-1",
+        "operating_area": "South West Area",
+        "criticality": "High",
+        "source_type": "synthetic_demo",
+        "latitude": 31.5291426,
+        "longitude": -103.4280683,
+        "valve_type": "Mainline Valve",
+        "diameter_in": 16,
+        "manufacturer": "Cameron",
+        "installation_date": "2009-03-12",
+        "last_inspection_date": "2025-09-15"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "VAL-1019",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.42519007048708,
+          31.821010639536055
+        ]
+      },
+      "properties": {
+        "asset_id": "VAL-1019",
+        "asset_type": "Valve",
+        "status": "Active",
+        "pipeline_id": "PL-1019",
+        "segment_id": "SEG-1019-1",
+        "operating_area": "South West Area",
+        "criticality": "Low",
+        "source_type": "synthetic_demo",
+        "latitude": 31.8210106,
+        "longitude": -103.4251901,
+        "valve_type": "Mainline Valve",
+        "diameter_in": 20,
+        "manufacturer": "Cameron",
+        "installation_date": "2010-03-12",
+        "last_inspection_date": "2020-01-15"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "VAL-1020",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.38826740633577,
+          31.44866565993007
+        ]
+      },
+      "properties": {
+        "asset_id": "VAL-1020",
+        "asset_type": "Valve",
+        "status": "Active",
+        "pipeline_id": "PL-1020",
+        "segment_id": "SEG-1020-1",
+        "operating_area": "South West Area",
+        "criticality": "Low",
+        "source_type": "synthetic_demo",
+        "latitude": 31.4486657,
+        "longitude": -102.3882674,
+        "valve_type": "Isolation Valve",
+        "diameter_in": 24,
+        "manufacturer": "Flowserve",
+        "installation_date": "2011-03-12",
+        "last_inspection_date": "2021-02-15"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "VAL-1021",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.25329966765761,
+          32.27687302407824
+        ]
+      },
+      "properties": {
+        "asset_id": "VAL-1021",
+        "asset_type": "Valve",
+        "status": "Active",
+        "pipeline_id": "PL-1021",
+        "segment_id": "SEG-1021-1",
+        "operating_area": "North East Area",
+        "criticality": "Critical",
+        "source_type": "synthetic_demo",
+        "latitude": 32.276873,
+        "longitude": -101.2532997,
+        "valve_type": "Isolation Valve",
+        "diameter_in": 8,
+        "manufacturer": "Flowserve",
+        "installation_date": "2012-03-12",
+        "last_inspection_date": "2022-03-15"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "VAL-1022",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.91243266111992,
+          32.44490366632095
+        ]
+      },
+      "properties": {
+        "asset_id": "VAL-1022",
+        "asset_type": "Valve",
+        "status": "Active",
+        "pipeline_id": "PL-1022",
+        "segment_id": "SEG-1022-1",
+        "operating_area": "North West Area",
+        "criticality": "Low",
+        "source_type": "synthetic_demo",
+        "latitude": 32.4449037,
+        "longitude": -102.9124327,
+        "valve_type": "Isolation Valve",
+        "diameter_in": 12,
+        "manufacturer": "Flowserve",
+        "installation_date": "2013-03-12",
+        "last_inspection_date": "2023-04-15"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "VAL-1023",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.70644600605911,
+          32.027340416440204
+        ]
+      },
+      "properties": {
+        "asset_id": "VAL-1023",
+        "asset_type": "Valve",
+        "status": "Active",
+        "pipeline_id": "PL-1023",
+        "segment_id": "SEG-1023-1",
+        "operating_area": "North West Area",
+        "criticality": "Low",
+        "source_type": "synthetic_demo",
+        "latitude": 32.0273404,
+        "longitude": -102.706446,
+        "valve_type": "Isolation Valve",
+        "diameter_in": 16,
+        "manufacturer": "Flowserve",
+        "installation_date": "2014-03-12",
+        "last_inspection_date": "2024-05-15"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "VAL-1024",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.99616754210751,
+          31.727926353296475
+        ]
+      },
+      "properties": {
+        "asset_id": "VAL-1024",
+        "asset_type": "Valve",
+        "status": "Active",
+        "pipeline_id": "PL-1024",
+        "segment_id": "SEG-1024-1",
+        "operating_area": "South East Area",
+        "criticality": "High",
+        "source_type": "synthetic_demo",
+        "latitude": 31.7279264,
+        "longitude": -101.9961675,
+        "valve_type": "Isolation Valve",
+        "diameter_in": 20,
+        "manufacturer": "Flowserve",
+        "installation_date": "2015-03-12",
+        "last_inspection_date": "2025-06-15"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "VAL-1025",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.9823825645544,
+          32.92370123374096
+        ]
+      },
+      "properties": {
+        "asset_id": "VAL-1025",
+        "asset_type": "Valve",
+        "status": "Active",
+        "pipeline_id": "PL-1025",
+        "segment_id": "SEG-1025-1",
+        "operating_area": "North West Area",
+        "criticality": "High",
+        "source_type": "synthetic_demo",
+        "latitude": 32.9237012,
+        "longitude": -102.9823826,
+        "valve_type": "Isolation Valve",
+        "diameter_in": 24,
+        "manufacturer": "Flowserve",
+        "installation_date": "2016-03-12",
+        "last_inspection_date": "2020-07-15"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "VAL-1026",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.62154786844128,
+          32.871542586697586
+        ]
+      },
+      "properties": {
+        "asset_id": "VAL-1026",
+        "asset_type": "Valve",
+        "status": "Active",
+        "pipeline_id": "PL-1026",
+        "segment_id": "SEG-1026-1",
+        "operating_area": "North West Area",
+        "criticality": "Critical",
+        "source_type": "synthetic_demo",
+        "latitude": 32.8715426,
+        "longitude": -102.6215479,
+        "valve_type": "Isolation Valve",
+        "diameter_in": 8,
+        "manufacturer": "Flowserve",
+        "installation_date": "2017-03-12",
+        "last_inspection_date": "2021-08-15"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "VAL-1027",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.91870237318827,
+          32.05442428058731
+        ]
+      },
+      "properties": {
+        "asset_id": "VAL-1027",
+        "asset_type": "Valve",
+        "status": "Active",
+        "pipeline_id": "PL-1027",
+        "segment_id": "SEG-1027-1",
+        "operating_area": "North East Area",
+        "criticality": "Critical",
+        "source_type": "synthetic_demo",
+        "latitude": 32.0544243,
+        "longitude": -101.9187024,
+        "valve_type": "Check Valve",
+        "diameter_in": 12,
+        "manufacturer": "Flowserve",
+        "installation_date": "2018-03-12",
+        "last_inspection_date": "2022-09-15"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "VAL-1028",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.90318468519517,
+          32.66968118511376
+        ]
+      },
+      "properties": {
+        "asset_id": "VAL-1028",
+        "asset_type": "Valve",
+        "status": "Active",
+        "pipeline_id": "PL-1028",
+        "segment_id": "SEG-1028-1",
+        "operating_area": "North East Area",
+        "criticality": "Low",
+        "source_type": "synthetic_demo",
+        "latitude": 32.6696812,
+        "longitude": -100.9031847,
+        "valve_type": "Check Valve",
+        "diameter_in": 16,
+        "manufacturer": "Flowserve",
+        "installation_date": "2019-03-12",
+        "last_inspection_date": "2023-01-15"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "VAL-1029",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.23502886605283,
+          32.13653622498091
+        ]
+      },
+      "properties": {
+        "asset_id": "VAL-1029",
+        "asset_type": "Valve",
+        "status": "Active",
+        "pipeline_id": "PL-1029",
+        "segment_id": "SEG-1029-1",
+        "operating_area": "North West Area",
+        "criticality": "Low",
+        "source_type": "synthetic_demo",
+        "latitude": 32.1365362,
+        "longitude": -103.2350289,
+        "valve_type": "Check Valve",
+        "diameter_in": 20,
+        "manufacturer": "Flowserve",
+        "installation_date": "2020-03-12",
+        "last_inspection_date": "2024-02-15"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "VAL-1030",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.76025376932331,
+          32.5395928160912
+        ]
+      },
+      "properties": {
+        "asset_id": "VAL-1030",
+        "asset_type": "Valve",
+        "status": "Active",
+        "pipeline_id": "PL-1030",
+        "segment_id": "SEG-1030-1",
+        "operating_area": "North East Area",
+        "criticality": "Low",
+        "source_type": "synthetic_demo",
+        "latitude": 32.5395928,
+        "longitude": -100.7602538,
+        "valve_type": "Isolation Valve",
+        "diameter_in": 24,
+        "manufacturer": "Flowserve",
+        "installation_date": "2021-03-12",
+        "last_inspection_date": "2025-03-15"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "VAL-1031",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.0924558326167,
+          31.098110396337045
+        ]
+      },
+      "properties": {
+        "asset_id": "VAL-1031",
+        "asset_type": "Valve",
+        "status": "Active",
+        "pipeline_id": "PL-1031",
+        "segment_id": "SEG-1031-1",
+        "operating_area": "South West Area",
+        "criticality": "High",
+        "source_type": "synthetic_demo",
+        "latitude": 31.0981104,
+        "longitude": -102.0924558,
+        "valve_type": "Isolation Valve",
+        "diameter_in": 8,
+        "manufacturer": "Flowserve",
+        "installation_date": "2022-03-12",
+        "last_inspection_date": "2020-04-15"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "VAL-1032",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.47620802359621,
+          32.6194863008716
+        ]
+      },
+      "properties": {
+        "asset_id": "VAL-1032",
+        "asset_type": "Valve",
+        "status": "Active",
+        "pipeline_id": "PL-1032",
+        "segment_id": "SEG-1032-1",
+        "operating_area": "North West Area",
+        "criticality": "Moderate",
+        "source_type": "synthetic_demo",
+        "latitude": 32.6194863,
+        "longitude": -102.476208,
+        "valve_type": "Isolation Valve",
+        "diameter_in": 12,
+        "manufacturer": "Flowserve",
+        "installation_date": "2023-03-12",
+        "last_inspection_date": "2021-05-15"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "VAL-1033",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.56034939658866,
+          32.468372970326655
+        ]
+      },
+      "properties": {
+        "asset_id": "VAL-1033",
+        "asset_type": "Valve",
+        "status": "Active",
+        "pipeline_id": "PL-1033",
+        "segment_id": "SEG-1033-1",
+        "operating_area": "North East Area",
+        "criticality": "Low",
+        "source_type": "synthetic_demo",
+        "latitude": 32.468373,
+        "longitude": -100.5603494,
+        "valve_type": "Isolation Valve",
+        "diameter_in": 16,
+        "manufacturer": "Flowserve",
+        "installation_date": "2008-03-12",
+        "last_inspection_date": "2022-06-15"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "VAL-1034",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.99873619539709,
+          31.332848151500468
+        ]
+      },
+      "properties": {
+        "asset_id": "VAL-1034",
+        "asset_type": "Valve",
+        "status": "Active",
+        "pipeline_id": "PL-1034",
+        "segment_id": "SEG-1034-1",
+        "operating_area": "South West Area",
+        "criticality": "Low",
+        "source_type": "synthetic_demo",
+        "latitude": 31.3328482,
+        "longitude": -102.9987362,
+        "valve_type": "Check Valve",
+        "diameter_in": 20,
+        "manufacturer": "Flowserve",
+        "installation_date": "2009-03-12",
+        "last_inspection_date": "2023-07-15"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "VAL-1035",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.02108500423849,
+          31.140828217907426
+        ]
+      },
+      "properties": {
+        "asset_id": "VAL-1035",
+        "asset_type": "Valve",
+        "status": "Active",
+        "pipeline_id": "PL-1035",
+        "segment_id": "SEG-1035-1",
+        "operating_area": "South West Area",
+        "criticality": "Low",
+        "source_type": "synthetic_demo",
+        "latitude": 31.1408282,
+        "longitude": -102.021085,
+        "valve_type": "Check Valve",
+        "diameter_in": 24,
+        "manufacturer": "Flowserve",
+        "installation_date": "2010-03-12",
+        "last_inspection_date": "2024-08-15"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "VAL-1036",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.53540487507213,
+          31.39594005289072
+        ]
+      },
+      "properties": {
+        "asset_id": "VAL-1036",
+        "asset_type": "Valve",
+        "status": "Active",
+        "pipeline_id": "PL-1036",
+        "segment_id": "SEG-1036-1",
+        "operating_area": "South West Area",
+        "criticality": "Low",
+        "source_type": "synthetic_demo",
+        "latitude": 31.3959401,
+        "longitude": -102.5354049,
+        "valve_type": "Check Valve",
+        "diameter_in": 8,
+        "manufacturer": "Flowserve",
+        "installation_date": "2011-03-12",
+        "last_inspection_date": "2025-09-15"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "VAL-1037",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.75704232972805,
+          31.991649068697956
+        ]
+      },
+      "properties": {
+        "asset_id": "VAL-1037",
+        "asset_type": "Valve",
+        "status": "Active",
+        "pipeline_id": "PL-1037",
+        "segment_id": "SEG-1037-1",
+        "operating_area": "South East Area",
+        "criticality": "Low",
+        "source_type": "synthetic_demo",
+        "latitude": 31.9916491,
+        "longitude": -101.7570423,
+        "valve_type": "Check Valve",
+        "diameter_in": 12,
+        "manufacturer": "Flowserve",
+        "installation_date": "2012-03-12",
+        "last_inspection_date": "2020-01-15"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "VAL-1038",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.0684551221895,
+          31.698515521327998
+        ]
+      },
+      "properties": {
+        "asset_id": "VAL-1038",
+        "asset_type": "Valve",
+        "status": "Active",
+        "pipeline_id": "PL-1038",
+        "segment_id": "SEG-1038-1",
+        "operating_area": "South West Area",
+        "criticality": "Low",
+        "source_type": "synthetic_demo",
+        "latitude": 31.6985155,
+        "longitude": -103.0684551,
+        "valve_type": "Check Valve",
+        "diameter_in": 16,
+        "manufacturer": "Flowserve",
+        "installation_date": "2013-03-12",
+        "last_inspection_date": "2021-02-15"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "VAL-1039",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.43462589276535,
+          31.820454589377746
+        ]
+      },
+      "properties": {
+        "asset_id": "VAL-1039",
+        "asset_type": "Valve",
+        "status": "Active",
+        "pipeline_id": "PL-1039",
+        "segment_id": "SEG-1039-1",
+        "operating_area": "South West Area",
+        "criticality": "Low",
+        "source_type": "synthetic_demo",
+        "latitude": 31.8204546,
+        "longitude": -103.4346259,
+        "valve_type": "Check Valve",
+        "diameter_in": 20,
+        "manufacturer": "Flowserve",
+        "installation_date": "2014-03-12",
+        "last_inspection_date": "2022-03-15"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "VAL-1040",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.03774179111015,
+          31.312357529324725
+        ]
+      },
+      "properties": {
+        "asset_id": "VAL-1040",
+        "asset_type": "Valve",
+        "status": "Active",
+        "pipeline_id": "PL-1040",
+        "segment_id": "SEG-1040-1",
+        "operating_area": "South West Area",
+        "criticality": "High",
+        "source_type": "synthetic_demo",
+        "latitude": 31.3123575,
+        "longitude": -102.0377418,
+        "valve_type": "Isolation Valve",
+        "diameter_in": 24,
+        "manufacturer": "Flowserve",
+        "installation_date": "2015-03-12",
+        "last_inspection_date": "2023-04-15"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "VAL-1041",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.17628127199717,
+          32.088994921207544
+        ]
+      },
+      "properties": {
+        "asset_id": "VAL-1041",
+        "asset_type": "Valve",
+        "status": "Active",
+        "pipeline_id": "PL-1041",
+        "segment_id": "SEG-1041-1",
+        "operating_area": "North West Area",
+        "criticality": "Moderate",
+        "source_type": "synthetic_demo",
+        "latitude": 32.0889949,
+        "longitude": -103.1762813,
+        "valve_type": "Isolation Valve",
+        "diameter_in": 8,
+        "manufacturer": "Flowserve",
+        "installation_date": "2016-03-12",
+        "last_inspection_date": "2024-05-15"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "VAL-1042",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.75455687968022,
+          31.855071454238757
+        ]
+      },
+      "properties": {
+        "asset_id": "VAL-1042",
+        "asset_type": "Valve",
+        "status": "Active",
+        "pipeline_id": "PL-1042",
+        "segment_id": "SEG-1042-1",
+        "operating_area": "South East Area",
+        "criticality": "Moderate",
+        "source_type": "synthetic_demo",
+        "latitude": 31.8550715,
+        "longitude": -100.7545569,
+        "valve_type": "Isolation Valve",
+        "diameter_in": 12,
+        "manufacturer": "Flowserve",
+        "installation_date": "2017-03-12",
+        "last_inspection_date": "2025-06-15"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "VAL-1043",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.31795837539907,
+          31.98260320896633
+        ]
+      },
+      "properties": {
+        "asset_id": "VAL-1043",
+        "asset_type": "Valve",
+        "status": "Active",
+        "pipeline_id": "PL-1043",
+        "segment_id": "SEG-1043-1",
+        "operating_area": "South East Area",
+        "criticality": "High",
+        "source_type": "synthetic_demo",
+        "latitude": 31.9826032,
+        "longitude": -101.3179584,
+        "valve_type": "Isolation Valve",
+        "diameter_in": 16,
+        "manufacturer": "Flowserve",
+        "installation_date": "2018-03-12",
+        "last_inspection_date": "2020-07-15"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "VAL-1044",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.80676314871577,
+          32.09142917369935
+        ]
+      },
+      "properties": {
+        "asset_id": "VAL-1044",
+        "asset_type": "Valve",
+        "status": "Active",
+        "pipeline_id": "PL-1044",
+        "segment_id": "SEG-1044-1",
+        "operating_area": "North East Area",
+        "criticality": "Low",
+        "source_type": "synthetic_demo",
+        "latitude": 32.0914292,
+        "longitude": -101.8067631,
+        "valve_type": "Check Valve",
+        "diameter_in": 20,
+        "manufacturer": "Flowserve",
+        "installation_date": "2019-03-12",
+        "last_inspection_date": "2021-08-15"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "VAL-1045",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.78415103592832,
+          32.54289371368957
+        ]
+      },
+      "properties": {
+        "asset_id": "VAL-1045",
+        "asset_type": "Valve",
+        "status": "Active",
+        "pipeline_id": "PL-1045",
+        "segment_id": "SEG-1045-1",
+        "operating_area": "North East Area",
+        "criticality": "Moderate",
+        "source_type": "synthetic_demo",
+        "latitude": 32.5428937,
+        "longitude": -100.784151,
+        "valve_type": "Check Valve",
+        "diameter_in": 24,
+        "manufacturer": "Flowserve",
+        "installation_date": "2020-03-12",
+        "last_inspection_date": "2022-09-15"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "VAL-1046",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.79554469483402,
+          32.524301139644194
+        ]
+      },
+      "properties": {
+        "asset_id": "VAL-1046",
+        "asset_type": "Valve",
+        "status": "Active",
+        "pipeline_id": "PL-1046",
+        "segment_id": "SEG-1046-1",
+        "operating_area": "North East Area",
+        "criticality": "Critical",
+        "source_type": "synthetic_demo",
+        "latitude": 32.5243011,
+        "longitude": -100.7955447,
+        "valve_type": "Isolation Valve",
+        "diameter_in": 8,
+        "manufacturer": "Flowserve",
+        "installation_date": "2021-03-12",
+        "last_inspection_date": "2023-01-15"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "VAL-1047",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.98260918265632,
+          32.98182838161931
+        ]
+      },
+      "properties": {
+        "asset_id": "VAL-1047",
+        "asset_type": "Valve",
+        "status": "Active",
+        "pipeline_id": "PL-1047",
+        "segment_id": "SEG-1047-1",
+        "operating_area": "North West Area",
+        "criticality": "Critical",
+        "source_type": "synthetic_demo",
+        "latitude": 32.9818284,
+        "longitude": -102.9826092,
+        "valve_type": "Check Valve",
+        "diameter_in": 12,
+        "manufacturer": "Flowserve",
+        "installation_date": "2022-03-12",
+        "last_inspection_date": "2024-02-15"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "VAL-1048",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.28496328228877,
+          33.02975753753485
+        ]
+      },
+      "properties": {
+        "asset_id": "VAL-1048",
+        "asset_type": "Valve",
+        "status": "Active",
+        "pipeline_id": "PL-1048",
+        "segment_id": "SEG-1048-1",
+        "operating_area": "North West Area",
+        "criticality": "Low",
+        "source_type": "synthetic_demo",
+        "latitude": 33.0297575,
+        "longitude": -103.2849633,
+        "valve_type": "Check Valve",
+        "diameter_in": 16,
+        "manufacturer": "Flowserve",
+        "installation_date": "2023-03-12",
+        "last_inspection_date": "2025-03-15"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "VAL-1049",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.11417860601101,
+          33.04950815708243
+        ]
+      },
+      "properties": {
+        "asset_id": "VAL-1049",
+        "asset_type": "Valve",
+        "status": "Active",
+        "pipeline_id": "PL-1049",
+        "segment_id": "SEG-1049-1",
+        "operating_area": "North West Area",
+        "criticality": "Critical",
+        "source_type": "synthetic_demo",
+        "latitude": 33.0495082,
+        "longitude": -103.1141786,
+        "valve_type": "Check Valve",
+        "diameter_in": 20,
+        "manufacturer": "Flowserve",
+        "installation_date": "2008-03-12",
+        "last_inspection_date": "2020-04-15"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "VAL-1050",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.76621392606762,
+          32.988202318176135
+        ]
+      },
+      "properties": {
+        "asset_id": "VAL-1050",
+        "asset_type": "Valve",
+        "status": "Active",
+        "pipeline_id": "PL-1050",
+        "segment_id": "SEG-1050-1",
+        "operating_area": "North West Area",
+        "criticality": "High",
+        "source_type": "synthetic_demo",
+        "latitude": 32.9882023,
+        "longitude": -102.7662139,
+        "valve_type": "Check Valve",
+        "diameter_in": 24,
+        "manufacturer": "Flowserve",
+        "installation_date": "2009-03-12",
+        "last_inspection_date": "2021-05-15"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "VAL-1051",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.8789301323341,
+          31.74576302049812
+        ]
+      },
+      "properties": {
+        "asset_id": "VAL-1051",
+        "asset_type": "Valve",
+        "status": "Active",
+        "pipeline_id": "PL-1051",
+        "segment_id": "SEG-1051-1",
+        "operating_area": "South West Area",
+        "criticality": "High",
+        "source_type": "synthetic_demo",
+        "latitude": 31.745763,
+        "longitude": -102.8789301,
+        "valve_type": "Check Valve",
+        "diameter_in": 8,
+        "manufacturer": "Flowserve",
+        "installation_date": "2010-03-12",
+        "last_inspection_date": "2022-06-15"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "VAL-1052",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.89531664669494,
+          31.18981987948204
+        ]
+      },
+      "properties": {
+        "asset_id": "VAL-1052",
+        "asset_type": "Valve",
+        "status": "Active",
+        "pipeline_id": "PL-1052",
+        "segment_id": "SEG-1052-1",
+        "operating_area": "South West Area",
+        "criticality": "Critical",
+        "source_type": "synthetic_demo",
+        "latitude": 31.1898199,
+        "longitude": -102.8953166,
+        "valve_type": "Check Valve",
+        "diameter_in": 12,
+        "manufacturer": "Flowserve",
+        "installation_date": "2011-03-12",
+        "last_inspection_date": "2023-07-15"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "VAL-1053",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.4731718768279,
+          31.923971014500783
+        ]
+      },
+      "properties": {
+        "asset_id": "VAL-1053",
+        "asset_type": "Valve",
+        "status": "Active",
+        "pipeline_id": "PL-1053",
+        "segment_id": "SEG-1053-1",
+        "operating_area": "South East Area",
+        "criticality": "Critical",
+        "source_type": "synthetic_demo",
+        "latitude": 31.923971,
+        "longitude": -101.4731719,
+        "valve_type": "Check Valve",
+        "diameter_in": 16,
+        "manufacturer": "Flowserve",
+        "installation_date": "2012-03-12",
+        "last_inspection_date": "2024-08-15"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "VAL-1054",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.89724019081412,
+          32.55919227465976
+        ]
+      },
+      "properties": {
+        "asset_id": "VAL-1054",
+        "asset_type": "Valve",
+        "status": "Active",
+        "pipeline_id": "PL-1054",
+        "segment_id": "SEG-1054-1",
+        "operating_area": "North East Area",
+        "criticality": "High",
+        "source_type": "synthetic_demo",
+        "latitude": 32.5591923,
+        "longitude": -100.8972402,
+        "valve_type": "Isolation Valve",
+        "diameter_in": 20,
+        "manufacturer": "Flowserve",
+        "installation_date": "2013-03-12",
+        "last_inspection_date": "2025-09-15"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "VAL-1055",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.9311696699665,
+          32.34747053550469
+        ]
+      },
+      "properties": {
+        "asset_id": "VAL-1055",
+        "asset_type": "Valve",
+        "status": "Active",
+        "pipeline_id": "PL-1055",
+        "segment_id": "SEG-1055-1",
+        "operating_area": "North East Area",
+        "criticality": "Critical",
+        "source_type": "synthetic_demo",
+        "latitude": 32.3474705,
+        "longitude": -100.9311697,
+        "valve_type": "Isolation Valve",
+        "diameter_in": 24,
+        "manufacturer": "Flowserve",
+        "installation_date": "2014-03-12",
+        "last_inspection_date": "2020-01-15"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "VAL-1056",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.21625810160312,
+          31.581022490224953
+        ]
+      },
+      "properties": {
+        "asset_id": "VAL-1056",
+        "asset_type": "Valve",
+        "status": "Active",
+        "pipeline_id": "PL-1056",
+        "segment_id": "SEG-1056-1",
+        "operating_area": "South West Area",
+        "criticality": "Critical",
+        "source_type": "synthetic_demo",
+        "latitude": 31.5810225,
+        "longitude": -103.2162581,
+        "valve_type": "Check Valve",
+        "diameter_in": 8,
+        "manufacturer": "Flowserve",
+        "installation_date": "2015-03-12",
+        "last_inspection_date": "2021-02-15"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "VAL-1057",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.34069120027095,
+          32.774474142838045
+        ]
+      },
+      "properties": {
+        "asset_id": "VAL-1057",
+        "asset_type": "Valve",
+        "status": "Active",
+        "pipeline_id": "PL-1057",
+        "segment_id": "SEG-1057-1",
+        "operating_area": "North West Area",
+        "criticality": "Low",
+        "source_type": "synthetic_demo",
+        "latitude": 32.7744741,
+        "longitude": -103.3406912,
+        "valve_type": "Check Valve",
+        "diameter_in": 12,
+        "manufacturer": "Flowserve",
+        "installation_date": "2016-03-12",
+        "last_inspection_date": "2022-03-15"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "VAL-1058",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.44695911390112,
+          32.95340003445555
+        ]
+      },
+      "properties": {
+        "asset_id": "VAL-1058",
+        "asset_type": "Valve",
+        "status": "Active",
+        "pipeline_id": "PL-1058",
+        "segment_id": "SEG-1058-1",
+        "operating_area": "North West Area",
+        "criticality": "Moderate",
+        "source_type": "synthetic_demo",
+        "latitude": 32.9534,
+        "longitude": -102.4469591,
+        "valve_type": "Check Valve",
+        "diameter_in": 16,
+        "manufacturer": "Flowserve",
+        "installation_date": "2017-03-12",
+        "last_inspection_date": "2023-04-15"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "VAL-1059",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.05613372812515,
+          31.52741072530625
+        ]
+      },
+      "properties": {
+        "asset_id": "VAL-1059",
+        "asset_type": "Valve",
+        "status": "Active",
+        "pipeline_id": "PL-1059",
+        "segment_id": "SEG-1059-1",
+        "operating_area": "South West Area",
+        "criticality": "Moderate",
+        "source_type": "synthetic_demo",
+        "latitude": 31.5274107,
+        "longitude": -103.0561337,
+        "valve_type": "Check Valve",
+        "diameter_in": 20,
+        "manufacturer": "Flowserve",
+        "installation_date": "2018-03-12",
+        "last_inspection_date": "2024-05-15"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "VAL-1060",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.23066881159102,
+          32.434693206936835
+        ]
+      },
+      "properties": {
+        "asset_id": "VAL-1060",
+        "asset_type": "Valve",
+        "status": "Active",
+        "pipeline_id": "PL-1060",
+        "segment_id": "SEG-1060-1",
+        "operating_area": "North West Area",
+        "criticality": "Critical",
+        "source_type": "synthetic_demo",
+        "latitude": 32.4346932,
+        "longitude": -102.2306688,
+        "valve_type": "Mainline Valve",
+        "diameter_in": 24,
+        "manufacturer": "Cameron",
+        "installation_date": "2019-03-12",
+        "last_inspection_date": "2025-06-15"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "VAL-1061",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.58605492421943,
+          31.747863024053107
+        ]
+      },
+      "properties": {
+        "asset_id": "VAL-1061",
+        "asset_type": "Valve",
+        "status": "Active",
+        "pipeline_id": "PL-1061",
+        "segment_id": "SEG-1061-1",
+        "operating_area": "South East Area",
+        "criticality": "High",
+        "source_type": "synthetic_demo",
+        "latitude": 31.747863,
+        "longitude": -101.5860549,
+        "valve_type": "Mainline Valve",
+        "diameter_in": 8,
+        "manufacturer": "Cameron",
+        "installation_date": "2020-03-12",
+        "last_inspection_date": "2020-07-15"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "VAL-1062",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.14422828115487,
+          31.292120469348216
+        ]
+      },
+      "properties": {
+        "asset_id": "VAL-1062",
+        "asset_type": "Valve",
+        "status": "Active",
+        "pipeline_id": "PL-1062",
+        "segment_id": "SEG-1062-1",
+        "operating_area": "South East Area",
+        "criticality": "High",
+        "source_type": "synthetic_demo",
+        "latitude": 31.2921205,
+        "longitude": -101.1442283,
+        "valve_type": "Mainline Valve",
+        "diameter_in": 12,
+        "manufacturer": "Cameron",
+        "installation_date": "2021-03-12",
+        "last_inspection_date": "2021-08-15"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "VAL-1063",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.04114340592658,
+          31.23159668903391
+        ]
+      },
+      "properties": {
+        "asset_id": "VAL-1063",
+        "asset_type": "Valve",
+        "status": "Active",
+        "pipeline_id": "PL-1063",
+        "segment_id": "SEG-1063-1",
+        "operating_area": "South West Area",
+        "criticality": "Low",
+        "source_type": "synthetic_demo",
+        "latitude": 31.2315967,
+        "longitude": -102.0411434,
+        "valve_type": "Mainline Valve",
+        "diameter_in": 16,
+        "manufacturer": "Cameron",
+        "installation_date": "2022-03-12",
+        "last_inspection_date": "2022-09-15"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "VAL-1064",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.27480795948915,
+          31.052820196482145
+        ]
+      },
+      "properties": {
+        "asset_id": "VAL-1064",
+        "asset_type": "Valve",
+        "status": "Active",
+        "pipeline_id": "PL-1064",
+        "segment_id": "SEG-1064-1",
+        "operating_area": "South West Area",
+        "criticality": "High",
+        "source_type": "synthetic_demo",
+        "latitude": 31.0528202,
+        "longitude": -102.274808,
+        "valve_type": "Mainline Valve",
+        "diameter_in": 20,
+        "manufacturer": "Cameron",
+        "installation_date": "2023-03-12",
+        "last_inspection_date": "2023-01-15"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "VAL-1065",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.19674372048469,
+          31.477969622913463
+        ]
+      },
+      "properties": {
+        "asset_id": "VAL-1065",
+        "asset_type": "Valve",
+        "status": "Active",
+        "pipeline_id": "PL-1065",
+        "segment_id": "SEG-1065-1",
+        "operating_area": "South West Area",
+        "criticality": "Moderate",
+        "source_type": "synthetic_demo",
+        "latitude": 31.4779696,
+        "longitude": -103.1967437,
+        "valve_type": "Mainline Valve",
+        "diameter_in": 24,
+        "manufacturer": "Cameron",
+        "installation_date": "2008-03-12",
+        "last_inspection_date": "2024-02-15"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "VAL-1066",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.07392000017904,
+          31.555631699004653
+        ]
+      },
+      "properties": {
+        "asset_id": "VAL-1066",
+        "asset_type": "Valve",
+        "status": "Active",
+        "pipeline_id": "PL-1066",
+        "segment_id": "SEG-1066-1",
+        "operating_area": "South East Area",
+        "criticality": "Low",
+        "source_type": "synthetic_demo",
+        "latitude": 31.5556317,
+        "longitude": -101.07392,
+        "valve_type": "Mainline Valve",
+        "diameter_in": 8,
+        "manufacturer": "Cameron",
+        "installation_date": "2009-03-12",
+        "last_inspection_date": "2025-03-15"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "VAL-1067",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.51898746293702,
+          31.005184000250864
+        ]
+      },
+      "properties": {
+        "asset_id": "VAL-1067",
+        "asset_type": "Valve",
+        "status": "Active",
+        "pipeline_id": "PL-1067",
+        "segment_id": "SEG-1067-1",
+        "operating_area": "South East Area",
+        "criticality": "High",
+        "source_type": "synthetic_demo",
+        "latitude": 31.005184,
+        "longitude": -100.5189875,
+        "valve_type": "Mainline Valve",
+        "diameter_in": 12,
+        "manufacturer": "Cameron",
+        "installation_date": "2010-03-12",
+        "last_inspection_date": "2020-04-15"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "VAL-1068",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.8798404569641,
+          32.87333148485948
+        ]
+      },
+      "properties": {
+        "asset_id": "VAL-1068",
+        "asset_type": "Valve",
+        "status": "Active",
+        "pipeline_id": "PL-1068",
+        "segment_id": "SEG-1068-1",
+        "operating_area": "North West Area",
+        "criticality": "Moderate",
+        "source_type": "synthetic_demo",
+        "latitude": 32.8733315,
+        "longitude": -102.8798405,
+        "valve_type": "Mainline Valve",
+        "diameter_in": 16,
+        "manufacturer": "Cameron",
+        "installation_date": "2011-03-12",
+        "last_inspection_date": "2021-05-15"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "VAL-1069",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.23079505792387,
+          31.16547571812813
+        ]
+      },
+      "properties": {
+        "asset_id": "VAL-1069",
+        "asset_type": "Valve",
+        "status": "Active",
+        "pipeline_id": "PL-1069",
+        "segment_id": "SEG-1069-1",
+        "operating_area": "South West Area",
+        "criticality": "Low",
+        "source_type": "synthetic_demo",
+        "latitude": 31.1654757,
+        "longitude": -103.2307951,
+        "valve_type": "Mainline Valve",
+        "diameter_in": 20,
+        "manufacturer": "Cameron",
+        "installation_date": "2012-03-12",
+        "last_inspection_date": "2022-06-15"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "VAL-1070",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.4891054407695,
+          32.94346907003185
+        ]
+      },
+      "properties": {
+        "asset_id": "VAL-1070",
+        "asset_type": "Valve",
+        "status": "Active",
+        "pipeline_id": "PL-1070",
+        "segment_id": "SEG-1070-1",
+        "operating_area": "North West Area",
+        "criticality": "High",
+        "source_type": "synthetic_demo",
+        "latitude": 32.9434691,
+        "longitude": -103.4891054,
+        "valve_type": "Mainline Valve",
+        "diameter_in": 24,
+        "manufacturer": "Cameron",
+        "installation_date": "2013-03-12",
+        "last_inspection_date": "2023-07-15"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "VAL-1071",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.31271729177087,
+          32.5938339267427
+        ]
+      },
+      "properties": {
+        "asset_id": "VAL-1071",
+        "asset_type": "Valve",
+        "status": "Active",
+        "pipeline_id": "PL-1071",
+        "segment_id": "SEG-1071-1",
+        "operating_area": "North West Area",
+        "criticality": "Moderate",
+        "source_type": "synthetic_demo",
+        "latitude": 32.5938339,
+        "longitude": -103.3127173,
+        "valve_type": "Mainline Valve",
+        "diameter_in": 8,
+        "manufacturer": "Cameron",
+        "installation_date": "2014-03-12",
+        "last_inspection_date": "2024-08-15"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "VAL-1072",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.35024249416196,
+          32.70361079204355
+        ]
+      },
+      "properties": {
+        "asset_id": "VAL-1072",
+        "asset_type": "Valve",
+        "status": "Active",
+        "pipeline_id": "PL-1072",
+        "segment_id": "SEG-1072-1",
+        "operating_area": "North West Area",
+        "criticality": "Moderate",
+        "source_type": "synthetic_demo",
+        "latitude": 32.7036108,
+        "longitude": -103.3502425,
+        "valve_type": "Mainline Valve",
+        "diameter_in": 12,
+        "manufacturer": "Cameron",
+        "installation_date": "2015-03-12",
+        "last_inspection_date": "2025-09-15"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "VAL-1073",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.23868601736707,
+          32.81989495855444
+        ]
+      },
+      "properties": {
+        "asset_id": "VAL-1073",
+        "asset_type": "Valve",
+        "status": "Active",
+        "pipeline_id": "PL-1073",
+        "segment_id": "SEG-1073-1",
+        "operating_area": "North West Area",
+        "criticality": "Low",
+        "source_type": "synthetic_demo",
+        "latitude": 32.819895,
+        "longitude": -103.238686,
+        "valve_type": "Mainline Valve",
+        "diameter_in": 16,
+        "manufacturer": "Cameron",
+        "installation_date": "2016-03-12",
+        "last_inspection_date": "2020-01-15"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "VAL-1074",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.31577012133395,
+          32.93690906042946
+        ]
+      },
+      "properties": {
+        "asset_id": "VAL-1074",
+        "asset_type": "Valve",
+        "status": "Active",
+        "pipeline_id": "PL-1074",
+        "segment_id": "SEG-1074-1",
+        "operating_area": "North West Area",
+        "criticality": "Low",
+        "source_type": "synthetic_demo",
+        "latitude": 32.9369091,
+        "longitude": -103.3157701,
+        "valve_type": "Mainline Valve",
+        "diameter_in": 20,
+        "manufacturer": "Cameron",
+        "installation_date": "2017-03-12",
+        "last_inspection_date": "2021-02-15"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "VAL-1075",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.258575343773,
+          31.60861248971464
+        ]
+      },
+      "properties": {
+        "asset_id": "VAL-1075",
+        "asset_type": "Valve",
+        "status": "Active",
+        "pipeline_id": "PL-1075",
+        "segment_id": "SEG-1075-1",
+        "operating_area": "South West Area",
+        "criticality": "Moderate",
+        "source_type": "synthetic_demo",
+        "latitude": 31.6086125,
+        "longitude": -103.2585753,
+        "valve_type": "Mainline Valve",
+        "diameter_in": 24,
+        "manufacturer": "Cameron",
+        "installation_date": "2018-03-12",
+        "last_inspection_date": "2022-03-15"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "VAL-1076",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.01373618088448,
+          31.208127853727238
+        ]
+      },
+      "properties": {
+        "asset_id": "VAL-1076",
+        "asset_type": "Valve",
+        "status": "Active",
+        "pipeline_id": "PL-1076",
+        "segment_id": "SEG-1076-1",
+        "operating_area": "South West Area",
+        "criticality": "Low",
+        "source_type": "synthetic_demo",
+        "latitude": 31.2081279,
+        "longitude": -103.0137362,
+        "valve_type": "Mainline Valve",
+        "diameter_in": 8,
+        "manufacturer": "Cameron",
+        "installation_date": "2019-03-12",
+        "last_inspection_date": "2023-04-15"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "VAL-1077",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.80302891997853,
+          31.18408922032715
+        ]
+      },
+      "properties": {
+        "asset_id": "VAL-1077",
+        "asset_type": "Valve",
+        "status": "Active",
+        "pipeline_id": "PL-1077",
+        "segment_id": "SEG-1077-1",
+        "operating_area": "South West Area",
+        "criticality": "Moderate",
+        "source_type": "synthetic_demo",
+        "latitude": 31.1840892,
+        "longitude": -102.8030289,
+        "valve_type": "Mainline Valve",
+        "diameter_in": 12,
+        "manufacturer": "Cameron",
+        "installation_date": "2020-03-12",
+        "last_inspection_date": "2024-05-15"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "VAL-1078",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.84205324382732,
+          31.207900474464285
+        ]
+      },
+      "properties": {
+        "asset_id": "VAL-1078",
+        "asset_type": "Valve",
+        "status": "Active",
+        "pipeline_id": "PL-1078",
+        "segment_id": "SEG-1078-1",
+        "operating_area": "South West Area",
+        "criticality": "Critical",
+        "source_type": "synthetic_demo",
+        "latitude": 31.2079005,
+        "longitude": -102.8420532,
+        "valve_type": "Mainline Valve",
+        "diameter_in": 16,
+        "manufacturer": "Cameron",
+        "installation_date": "2021-03-12",
+        "last_inspection_date": "2025-06-15"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "VAL-1079",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.39906423455017,
+          30.999866578714464
+        ]
+      },
+      "properties": {
+        "asset_id": "VAL-1079",
+        "asset_type": "Valve",
+        "status": "Active",
+        "pipeline_id": "PL-1079",
+        "segment_id": "SEG-1079-1",
+        "operating_area": "South West Area",
+        "criticality": "High",
+        "source_type": "synthetic_demo",
+        "latitude": 30.9998666,
+        "longitude": -102.3990642,
+        "valve_type": "Mainline Valve",
+        "diameter_in": 20,
+        "manufacturer": "Cameron",
+        "installation_date": "2022-03-12",
+        "last_inspection_date": "2020-07-15"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "VAL-1080",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.33592276456164,
+          32.665850017242676
+        ]
+      },
+      "properties": {
+        "asset_id": "VAL-1080",
+        "asset_type": "Valve",
+        "status": "Active",
+        "pipeline_id": "PL-1080",
+        "segment_id": "SEG-1080-1",
+        "operating_area": "North West Area",
+        "criticality": "Critical",
+        "source_type": "synthetic_demo",
+        "latitude": 32.66585,
+        "longitude": -103.3359228,
+        "valve_type": "Mainline Valve",
+        "diameter_in": 24,
+        "manufacturer": "Cameron",
+        "installation_date": "2023-03-12",
+        "last_inspection_date": "2021-08-15"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "VAL-1081",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.24525288783208,
+          32.39443218610447
+        ]
+      },
+      "properties": {
+        "asset_id": "VAL-1081",
+        "asset_type": "Valve",
+        "status": "Active",
+        "pipeline_id": "PL-1081",
+        "segment_id": "SEG-1081-1",
+        "operating_area": "North West Area",
+        "criticality": "Low",
+        "source_type": "synthetic_demo",
+        "latitude": 32.3944322,
+        "longitude": -103.2452529,
+        "valve_type": "Mainline Valve",
+        "diameter_in": 8,
+        "manufacturer": "Cameron",
+        "installation_date": "2008-03-12",
+        "last_inspection_date": "2022-09-15"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "VAL-1082",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.95423999992384,
+          32.96639923354345
+        ]
+      },
+      "properties": {
+        "asset_id": "VAL-1082",
+        "asset_type": "Valve",
+        "status": "Active",
+        "pipeline_id": "PL-1082",
+        "segment_id": "SEG-1082-1",
+        "operating_area": "North West Area",
+        "criticality": "Critical",
+        "source_type": "synthetic_demo",
+        "latitude": 32.9663992,
+        "longitude": -102.95424,
+        "valve_type": "Mainline Valve",
+        "diameter_in": 12,
+        "manufacturer": "Cameron",
+        "installation_date": "2009-03-12",
+        "last_inspection_date": "2023-01-15"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "VAL-1083",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.86444800001892,
+          32.96636605354869
+        ]
+      },
+      "properties": {
+        "asset_id": "VAL-1083",
+        "asset_type": "Valve",
+        "status": "Active",
+        "pipeline_id": "PL-1083",
+        "segment_id": "SEG-1083-1",
+        "operating_area": "North East Area",
+        "criticality": "Low",
+        "source_type": "synthetic_demo",
+        "latitude": 32.9663661,
+        "longitude": -101.864448,
+        "valve_type": "Mainline Valve",
+        "diameter_in": 16,
+        "manufacturer": "Cameron",
+        "installation_date": "2010-03-12",
+        "last_inspection_date": "2024-02-15"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "VAL-1084",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.9715911691808,
+          32.33088249278872
+        ]
+      },
+      "properties": {
+        "asset_id": "VAL-1084",
+        "asset_type": "Valve",
+        "status": "Active",
+        "pipeline_id": "PL-1084",
+        "segment_id": "SEG-1084-1",
+        "operating_area": "North East Area",
+        "criticality": "Low",
+        "source_type": "synthetic_demo",
+        "latitude": 32.3308825,
+        "longitude": -101.9715912,
+        "valve_type": "Mainline Valve",
+        "diameter_in": 20,
+        "manufacturer": "Cameron",
+        "installation_date": "2011-03-12",
+        "last_inspection_date": "2025-03-15"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "VAL-1085",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.89143727190712,
+          32.011972139885174
+        ]
+      },
+      "properties": {
+        "asset_id": "VAL-1085",
+        "asset_type": "Valve",
+        "status": "Active",
+        "pipeline_id": "PL-1085",
+        "segment_id": "SEG-1085-1",
+        "operating_area": "North East Area",
+        "criticality": "Critical",
+        "source_type": "synthetic_demo",
+        "latitude": 32.0119721,
+        "longitude": -101.8914373,
+        "valve_type": "Mainline Valve",
+        "diameter_in": 24,
+        "manufacturer": "Cameron",
+        "installation_date": "2012-03-12",
+        "last_inspection_date": "2020-04-15"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "VAL-1086",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.28319223171678,
+          31.89418318293823
+        ]
+      },
+      "properties": {
+        "asset_id": "VAL-1086",
+        "asset_type": "Valve",
+        "status": "Active",
+        "pipeline_id": "PL-1086",
+        "segment_id": "SEG-1086-1",
+        "operating_area": "South West Area",
+        "criticality": "Critical",
+        "source_type": "synthetic_demo",
+        "latitude": 31.8941832,
+        "longitude": -102.2831922,
+        "valve_type": "Mainline Valve",
+        "diameter_in": 8,
+        "manufacturer": "Cameron",
+        "installation_date": "2013-03-12",
+        "last_inspection_date": "2021-05-15"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "VAL-1087",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.7673551996867,
+          31.59489285035905
+        ]
+      },
+      "properties": {
+        "asset_id": "VAL-1087",
+        "asset_type": "Valve",
+        "status": "Active",
+        "pipeline_id": "PL-1087",
+        "segment_id": "SEG-1087-1",
+        "operating_area": "South West Area",
+        "criticality": "Moderate",
+        "source_type": "synthetic_demo",
+        "latitude": 31.5948929,
+        "longitude": -102.7673552,
+        "valve_type": "Mainline Valve",
+        "diameter_in": 12,
+        "manufacturer": "Cameron",
+        "installation_date": "2014-03-12",
+        "last_inspection_date": "2022-06-15"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "VAL-1088",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.17389253510107,
+          31.408694574923697
+        ]
+      },
+      "properties": {
+        "asset_id": "VAL-1088",
+        "asset_type": "Valve",
+        "status": "Active",
+        "pipeline_id": "PL-1088",
+        "segment_id": "SEG-1088-1",
+        "operating_area": "South West Area",
+        "criticality": "High",
+        "source_type": "synthetic_demo",
+        "latitude": 31.4086946,
+        "longitude": -103.1738925,
+        "valve_type": "Mainline Valve",
+        "diameter_in": 16,
+        "manufacturer": "Cameron",
+        "installation_date": "2015-03-12",
+        "last_inspection_date": "2023-07-15"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "VAL-1089",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.44465283702631,
+          31.529330732876872
+        ]
+      },
+      "properties": {
+        "asset_id": "VAL-1089",
+        "asset_type": "Valve",
+        "status": "Active",
+        "pipeline_id": "PL-1089",
+        "segment_id": "SEG-1089-1",
+        "operating_area": "South West Area",
+        "criticality": "Low",
+        "source_type": "synthetic_demo",
+        "latitude": 31.5293307,
+        "longitude": -103.4446528,
+        "valve_type": "Mainline Valve",
+        "diameter_in": 20,
+        "manufacturer": "Cameron",
+        "installation_date": "2016-03-12",
+        "last_inspection_date": "2024-08-15"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "VAL-1090",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.94167370266412,
+          31.34155097914385
+        ]
+      },
+      "properties": {
+        "asset_id": "VAL-1090",
+        "asset_type": "Valve",
+        "status": "Under Maintenance",
+        "pipeline_id": "PL-1090",
+        "segment_id": "SEG-1090-1",
+        "operating_area": "South West Area",
+        "criticality": "Moderate",
+        "source_type": "synthetic_demo",
+        "latitude": 31.341551,
+        "longitude": -102.9416737,
+        "valve_type": "Emergency Shutdown Valve",
+        "diameter_in": 24,
+        "manufacturer": "Demo Manufacturer",
+        "installation_date": "2017-03-12",
+        "last_inspection_date": "2025-09-15"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "VAL-1091",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.07342670647103,
+          31.641971074531604
+        ]
+      },
+      "properties": {
+        "asset_id": "VAL-1091",
+        "asset_type": "Valve",
+        "status": "Under Maintenance",
+        "pipeline_id": "PL-1091",
+        "segment_id": "SEG-1091-1",
+        "operating_area": "South West Area",
+        "criticality": "Low",
+        "source_type": "synthetic_demo",
+        "latitude": 31.6419711,
+        "longitude": -103.0734267,
+        "valve_type": "Emergency Shutdown Valve",
+        "diameter_in": 8,
+        "manufacturer": "Demo Manufacturer",
+        "installation_date": "2018-03-12",
+        "last_inspection_date": "2020-01-15"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "VAL-1092",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.40660036786143,
+          31.984310657853506
+        ]
+      },
+      "properties": {
+        "asset_id": "VAL-1092",
+        "asset_type": "Valve",
+        "status": "Under Maintenance",
+        "pipeline_id": "PL-1092",
+        "segment_id": "SEG-1092-1",
+        "operating_area": "South West Area",
+        "criticality": "High",
+        "source_type": "synthetic_demo",
+        "latitude": 31.9843107,
+        "longitude": -103.4066004,
+        "valve_type": "Emergency Shutdown Valve",
+        "diameter_in": 12,
+        "manufacturer": "Demo Manufacturer",
+        "installation_date": "2019-03-12",
+        "last_inspection_date": "2021-02-15"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "VAL-1093",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.07665540471693,
+          30.997170597459775
+        ]
+      },
+      "properties": {
+        "asset_id": "VAL-1093",
+        "asset_type": "Valve",
+        "status": "Under Maintenance",
+        "pipeline_id": "PL-1093",
+        "segment_id": "SEG-1093-1",
+        "operating_area": "South West Area",
+        "criticality": "Moderate",
+        "source_type": "synthetic_demo",
+        "latitude": 30.9971706,
+        "longitude": -103.0766554,
+        "valve_type": "Emergency Shutdown Valve",
+        "diameter_in": 16,
+        "manufacturer": "Demo Manufacturer",
+        "installation_date": "2020-03-12",
+        "last_inspection_date": "2022-03-15"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "VAL-1094",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.64219543563026,
+          31.02756266021107
+        ]
+      },
+      "properties": {
+        "asset_id": "VAL-1094",
+        "asset_type": "Valve",
+        "status": "Under Maintenance",
+        "pipeline_id": "PL-1094",
+        "segment_id": "SEG-1094-1",
+        "operating_area": "South West Area",
+        "criticality": "High",
+        "source_type": "synthetic_demo",
+        "latitude": 31.0275627,
+        "longitude": -102.6421954,
+        "valve_type": "Emergency Shutdown Valve",
+        "diameter_in": 20,
+        "manufacturer": "Demo Manufacturer",
+        "installation_date": "2021-03-12",
+        "last_inspection_date": "2023-04-15"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "VAL-1095",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.5376121430535,
+          31.920767352986932
+        ]
+      },
+      "properties": {
+        "asset_id": "VAL-1095",
+        "asset_type": "Valve",
+        "status": "Under Maintenance",
+        "pipeline_id": "PL-1095",
+        "segment_id": "SEG-1095-1",
+        "operating_area": "South East Area",
+        "criticality": "High",
+        "source_type": "synthetic_demo",
+        "latitude": 31.9207674,
+        "longitude": -101.5376121,
+        "valve_type": "Emergency Shutdown Valve",
+        "diameter_in": 24,
+        "manufacturer": "Demo Manufacturer",
+        "installation_date": "2022-03-12",
+        "last_inspection_date": "2024-05-15"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "VAL-1096",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.06966823532194,
+          31.94387200405665
+        ]
+      },
+      "properties": {
+        "asset_id": "VAL-1096",
+        "asset_type": "Valve",
+        "status": "Active",
+        "pipeline_id": "PL-1096",
+        "segment_id": "SEG-1096-1",
+        "operating_area": "South West Area",
+        "criticality": "Low",
+        "source_type": "synthetic_demo",
+        "latitude": 31.943872,
+        "longitude": -103.0696682,
+        "valve_type": "Mainline Valve",
+        "diameter_in": 8,
+        "manufacturer": "Cameron",
+        "installation_date": "2023-03-12",
+        "last_inspection_date": "2025-06-15"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "VAL-1097",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.36370429369589,
+          32.10441846419111
+        ]
+      },
+      "properties": {
+        "asset_id": "VAL-1097",
+        "asset_type": "Valve",
+        "status": "Active",
+        "pipeline_id": "PL-1097",
+        "segment_id": "SEG-1097-1",
+        "operating_area": "North West Area",
+        "criticality": "High",
+        "source_type": "synthetic_demo",
+        "latitude": 32.1044185,
+        "longitude": -102.3637043,
+        "valve_type": "Mainline Valve",
+        "diameter_in": 12,
+        "manufacturer": "Cameron",
+        "installation_date": "2008-03-12",
+        "last_inspection_date": "2020-07-15"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "VAL-1098",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.17169390166015,
+          31.670705470018568
+        ]
+      },
+      "properties": {
+        "asset_id": "VAL-1098",
+        "asset_type": "Valve",
+        "status": "Active",
+        "pipeline_id": "PL-1098",
+        "segment_id": "SEG-1098-1",
+        "operating_area": "South West Area",
+        "criticality": "Low",
+        "source_type": "synthetic_demo",
+        "latitude": 31.6707055,
+        "longitude": -103.1716939,
+        "valve_type": "Mainline Valve",
+        "diameter_in": 16,
+        "manufacturer": "Cameron",
+        "installation_date": "2009-03-12",
+        "last_inspection_date": "2021-08-15"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "VAL-1099",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.44217404971229,
+          31.482151763630494
+        ]
+      },
+      "properties": {
+        "asset_id": "VAL-1099",
+        "asset_type": "Valve",
+        "status": "Active",
+        "pipeline_id": "PL-1099",
+        "segment_id": "SEG-1099-1",
+        "operating_area": "South West Area",
+        "criticality": "Moderate",
+        "source_type": "synthetic_demo",
+        "latitude": 31.4821518,
+        "longitude": -102.442174,
+        "valve_type": "Mainline Valve",
+        "diameter_in": 20,
+        "manufacturer": "Cameron",
+        "installation_date": "2010-03-12",
+        "last_inspection_date": "2022-09-15"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "VAL-1100",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.32095475592226,
+          31.951730990562602
+        ]
+      },
+      "properties": {
+        "asset_id": "VAL-1100",
+        "asset_type": "Valve",
+        "status": "Active",
+        "pipeline_id": "PL-1100",
+        "segment_id": "SEG-1100-1",
+        "operating_area": "South East Area",
+        "criticality": "High",
+        "source_type": "synthetic_demo",
+        "latitude": 31.951731,
+        "longitude": -101.3209548,
+        "valve_type": "Check Valve",
+        "diameter_in": 24,
+        "manufacturer": "Flowserve",
+        "installation_date": "2011-03-12",
+        "last_inspection_date": "2023-01-15"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "VAL-1101",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.66977226325518,
+          31.937535236222036
+        ]
+      },
+      "properties": {
+        "asset_id": "VAL-1101",
+        "asset_type": "Valve",
+        "status": "Active",
+        "pipeline_id": "PL-1001",
+        "segment_id": "SEG-1001-2",
+        "operating_area": "South East Area",
+        "criticality": "Moderate",
+        "source_type": "synthetic_demo",
+        "latitude": 31.9375352,
+        "longitude": -101.6697723,
+        "valve_type": "Check Valve",
+        "diameter_in": 8,
+        "manufacturer": "Flowserve",
+        "installation_date": "2012-03-12",
+        "last_inspection_date": "2024-02-15"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "VAL-1102",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.88120723210825,
+          31.40685058981735
+        ]
+      },
+      "properties": {
+        "asset_id": "VAL-1102",
+        "asset_type": "Valve",
+        "status": "Active",
+        "pipeline_id": "PL-1002",
+        "segment_id": "SEG-1002-2",
+        "operating_area": "South East Area",
+        "criticality": "Critical",
+        "source_type": "synthetic_demo",
+        "latitude": 31.4068506,
+        "longitude": -101.8812072,
+        "valve_type": "Check Valve",
+        "diameter_in": 12,
+        "manufacturer": "Flowserve",
+        "installation_date": "2013-03-12",
+        "last_inspection_date": "2025-03-15"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "VAL-1103",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.94974035071947,
+          31.519157081904503
+        ]
+      },
+      "properties": {
+        "asset_id": "VAL-1103",
+        "asset_type": "Valve",
+        "status": "Active",
+        "pipeline_id": "PL-1003",
+        "segment_id": "SEG-1003-2",
+        "operating_area": "South West Area",
+        "criticality": "Critical",
+        "source_type": "synthetic_demo",
+        "latitude": 31.5191571,
+        "longitude": -102.9497404,
+        "valve_type": "Check Valve",
+        "diameter_in": 16,
+        "manufacturer": "Flowserve",
+        "installation_date": "2014-03-12",
+        "last_inspection_date": "2020-04-15"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "VAL-1104",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.52821737886802,
+          31.939239849006327
+        ]
+      },
+      "properties": {
+        "asset_id": "VAL-1104",
+        "asset_type": "Valve",
+        "status": "Active",
+        "pipeline_id": "PL-1004",
+        "segment_id": "SEG-1004-2",
+        "operating_area": "South East Area",
+        "criticality": "Low",
+        "source_type": "synthetic_demo",
+        "latitude": 31.9392398,
+        "longitude": -101.5282174,
+        "valve_type": "Check Valve",
+        "diameter_in": 20,
+        "manufacturer": "Flowserve",
+        "installation_date": "2015-03-12",
+        "last_inspection_date": "2021-05-15"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "VAL-1105",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.34073037497687,
+          31.54645404304542
+        ]
+      },
+      "properties": {
+        "asset_id": "VAL-1105",
+        "asset_type": "Valve",
+        "status": "Active",
+        "pipeline_id": "PL-1005",
+        "segment_id": "SEG-1005-2",
+        "operating_area": "South West Area",
+        "criticality": "Moderate",
+        "source_type": "synthetic_demo",
+        "latitude": 31.546454,
+        "longitude": -103.3407304,
+        "valve_type": "Isolation Valve",
+        "diameter_in": 24,
+        "manufacturer": "Flowserve",
+        "installation_date": "2016-03-12",
+        "last_inspection_date": "2022-06-15",
+        "qa_expected_issue": "VALVE_PIPELINE_DISTANCE"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "VAL-1106",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.10043698181853,
+          32.63502901217996
+        ]
+      },
+      "properties": {
+        "asset_id": "VAL-1106",
+        "asset_type": "Valve",
+        "pipeline_id": "PL-1006",
+        "segment_id": "SEG-1006-2",
+        "operating_area": "North East Area",
+        "criticality": "Critical",
+        "source_type": "synthetic_demo",
+        "latitude": 32.635029,
+        "longitude": -101.100437,
+        "valve_type": "Isolation Valve",
+        "diameter_in": 8,
+        "manufacturer": "Flowserve",
+        "installation_date": "2017-03-12",
+        "last_inspection_date": "2023-07-15",
+        "qa_expected_issue": "MISSING_REQUIRED_ATTRIBUTE"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "VAL-1107",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.78516282267218,
+          31.52592334739819
+        ]
+      },
+      "properties": {
+        "asset_id": "VAL-1107",
+        "asset_type": "Valve",
+        "status": "Active",
+        "pipeline_id": null,
+        "segment_id": "SEG-1007-2",
+        "operating_area": "South East Area",
+        "criticality": "Low",
+        "source_type": "synthetic_demo",
+        "latitude": 31.5259233,
+        "longitude": -101.7851628,
+        "valve_type": "Isolation Valve",
+        "diameter_in": 12,
+        "manufacturer": "Flowserve",
+        "installation_date": "2018-03-12",
+        "last_inspection_date": "2024-08-15",
+        "qa_expected_issue": "MISSING_REQUIRED_ATTRIBUTE"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "VAL-1108",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.82602131868428,
+          32.118766579646284
+        ]
+      },
+      "properties": {
+        "asset_id": "VAL-1108",
+        "asset_type": "Valve",
+        "status": "Active",
+        "pipeline_id": "PL-1008",
+        "segment_id": "SEG-1008-2",
+        "operating_area": "North East Area",
+        "criticality": "High",
+        "source_type": "synthetic_demo",
+        "latitude": 32.1187666,
+        "longitude": -101.8260213,
+        "valve_type": "Isolation Valve",
+        "diameter_in": 16,
+        "manufacturer": "Flowserve",
+        "installation_date": "2019-03-12",
+        "last_inspection_date": "2025-09-15"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "VAL-1109",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.26803326672498,
+          32.089275434567156
+        ]
+      },
+      "properties": {
+        "asset_id": "VAL-1109",
+        "asset_type": "Valve",
+        "status": "Active",
+        "pipeline_id": "PL-1009",
+        "segment_id": "SEG-1009-2",
+        "operating_area": "North East Area",
+        "criticality": "Low",
+        "source_type": "synthetic_demo",
+        "latitude": 32.0892754,
+        "longitude": -101.2680333,
+        "valve_type": "Isolation Valve",
+        "diameter_in": 20,
+        "manufacturer": "Flowserve",
+        "installation_date": "2020-03-12",
+        "last_inspection_date": "2020-01-15"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "VAL-1110",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.63775171779295,
+          32.13530113924943
+        ]
+      },
+      "properties": {
+        "asset_id": "VAL-1110",
+        "asset_type": "Valve",
+        "status": "Under Maintenance",
+        "pipeline_id": "PL-1010",
+        "segment_id": "SEG-1010-2",
+        "operating_area": "North East Area",
+        "criticality": "High",
+        "source_type": "synthetic_demo",
+        "latitude": 32.1353011,
+        "longitude": -101.6377517,
+        "valve_type": "Emergency Shutdown Valve",
+        "diameter_in": 24,
+        "manufacturer": "Demo Manufacturer",
+        "installation_date": "2021-03-12",
+        "last_inspection_date": "2021-02-15"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "VAL-1111",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.84586598444501,
+          32.77980339326228
+        ]
+      },
+      "properties": {
+        "asset_id": "VAL-1111",
+        "asset_type": "Valve",
+        "status": "Under Maintenance",
+        "pipeline_id": "PL-1011",
+        "segment_id": "SEG-1011-2",
+        "operating_area": "North West Area",
+        "criticality": "High",
+        "source_type": "synthetic_demo",
+        "latitude": 32.7798034,
+        "longitude": -102.845866,
+        "valve_type": "Emergency Shutdown Valve",
+        "diameter_in": 8,
+        "manufacturer": "Demo Manufacturer",
+        "installation_date": "2022-03-12",
+        "last_inspection_date": "2022-03-15"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "VAL-1112",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.21564850250769,
+          31.602161472256835
+        ]
+      },
+      "properties": {
+        "asset_id": "VAL-1112",
+        "asset_type": "Valve",
+        "status": "Active",
+        "pipeline_id": "PL-1012",
+        "segment_id": "SEG-1012-2",
+        "operating_area": "South West Area",
+        "criticality": "Moderate",
+        "source_type": "synthetic_demo",
+        "latitude": 31.6021615,
+        "longitude": -102.2156485,
+        "valve_type": "Mainline Valve",
+        "diameter_in": 12,
+        "manufacturer": "Cameron",
+        "installation_date": "2023-03-12",
+        "last_inspection_date": "2023-04-15"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "VAL-1113",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.7207571607319,
+          32.05617089545284
+        ]
+      },
+      "properties": {
+        "asset_id": "VAL-1113",
+        "asset_type": "Valve",
+        "status": "Active",
+        "pipeline_id": "PL-1013",
+        "segment_id": "SEG-1013-2",
+        "operating_area": "North West Area",
+        "criticality": "High",
+        "source_type": "synthetic_demo",
+        "latitude": 32.0561709,
+        "longitude": -102.7207572,
+        "valve_type": "Mainline Valve",
+        "diameter_in": 16,
+        "manufacturer": "Cameron",
+        "installation_date": "2008-03-12",
+        "last_inspection_date": "2024-05-15"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "VAL-1114",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.79474400287476,
+          32.328142794340835
+        ]
+      },
+      "properties": {
+        "asset_id": "VAL-1114",
+        "asset_type": "Valve",
+        "status": "Under Maintenance",
+        "pipeline_id": "PL-1014",
+        "segment_id": "SEG-1014-2",
+        "operating_area": "North East Area",
+        "criticality": "Critical",
+        "source_type": "synthetic_demo",
+        "latitude": 32.3281428,
+        "longitude": -101.794744,
+        "valve_type": "Emergency Shutdown Valve",
+        "diameter_in": 20,
+        "manufacturer": "Demo Manufacturer",
+        "installation_date": "2009-03-12",
+        "last_inspection_date": "2025-06-15"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "VAL-1115",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.78897509746622,
+          32.99162660850868
+        ]
+      },
+      "properties": {
+        "asset_id": "VAL-1115",
+        "asset_type": "Valve",
+        "status": "Under Maintenance",
+        "pipeline_id": "PL-1015",
+        "segment_id": "SEG-1015-2",
+        "operating_area": "North West Area",
+        "criticality": "High",
+        "source_type": "synthetic_demo",
+        "latitude": 32.9916266,
+        "longitude": -102.7889751,
+        "valve_type": "Emergency Shutdown Valve",
+        "diameter_in": 24,
+        "manufacturer": "Demo Manufacturer",
+        "installation_date": "2010-03-12",
+        "last_inspection_date": "2020-07-15"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "VAL-1116",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.98114648800983,
+          31.519205878846318
+        ]
+      },
+      "properties": {
+        "asset_id": "VAL-1116",
+        "asset_type": "Valve",
+        "status": "Under Maintenance",
+        "pipeline_id": "PL-1016",
+        "segment_id": "SEG-1016-2",
+        "operating_area": "South East Area",
+        "criticality": "Critical",
+        "source_type": "synthetic_demo",
+        "latitude": 31.5192059,
+        "longitude": -101.9811465,
+        "valve_type": "Emergency Shutdown Valve",
+        "diameter_in": 8,
+        "manufacturer": "Demo Manufacturer",
+        "installation_date": "2011-03-12",
+        "last_inspection_date": "2021-08-15"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "VAL-1117",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.48129127847314,
+          32.13801401064595
+        ]
+      },
+      "properties": {
+        "asset_id": "VAL-1117",
+        "asset_type": "Valve",
+        "status": "Under Maintenance",
+        "pipeline_id": "PL-1017",
+        "segment_id": "SEG-1017-2",
+        "operating_area": "North East Area",
+        "criticality": "Critical",
+        "source_type": "synthetic_demo",
+        "latitude": 32.138014,
+        "longitude": -101.4812913,
+        "valve_type": "Emergency Shutdown Valve",
+        "diameter_in": 12,
+        "manufacturer": "Demo Manufacturer",
+        "installation_date": "2012-03-12",
+        "last_inspection_date": "2022-09-15"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "VAL-1118",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.97242845785362,
+          31.48265606950172
+        ]
+      },
+      "properties": {
+        "asset_id": "VAL-1118",
+        "asset_type": "Valve",
+        "status": "Under Maintenance",
+        "pipeline_id": "PL-1018",
+        "segment_id": "SEG-1018-2",
+        "operating_area": "South West Area",
+        "criticality": "Critical",
+        "source_type": "synthetic_demo",
+        "latitude": 31.4826561,
+        "longitude": -102.9724285,
+        "valve_type": "Emergency Shutdown Valve",
+        "diameter_in": 16,
+        "manufacturer": "Demo Manufacturer",
+        "installation_date": "2013-03-12",
+        "last_inspection_date": "2023-01-15"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "VAL-1119",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.95556302163081,
+          31.822253998552725
+        ]
+      },
+      "properties": {
+        "asset_id": "VAL-1119",
+        "asset_type": "Valve",
+        "status": "Under Maintenance",
+        "pipeline_id": "PL-1019",
+        "segment_id": "SEG-1019-2",
+        "operating_area": "South West Area",
+        "criticality": "Low",
+        "source_type": "synthetic_demo",
+        "latitude": 31.822254,
+        "longitude": -102.955563,
+        "valve_type": "Emergency Shutdown Valve",
+        "diameter_in": 20,
+        "manufacturer": "Demo Manufacturer",
+        "installation_date": "2014-03-12",
+        "last_inspection_date": "2024-02-15"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "VAL-1120",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.36319407331219,
+          31.610199629675893
+        ]
+      },
+      "properties": {
+        "asset_id": "VAL-1120",
+        "asset_type": "Valve",
+        "status": "Active",
+        "pipeline_id": "PL-1020",
+        "segment_id": "SEG-1020-2",
+        "operating_area": "South West Area",
+        "criticality": "High",
+        "source_type": "synthetic_demo",
+        "latitude": 31.6101996,
+        "longitude": -102.3631941,
+        "valve_type": "Isolation Valve",
+        "diameter_in": 24,
+        "manufacturer": "Flowserve",
+        "installation_date": "2015-03-12",
+        "last_inspection_date": "2025-03-15"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "VAL-1121",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.97524746122589,
+          32.28833033103635
+        ]
+      },
+      "properties": {
+        "asset_id": "VAL-1121",
+        "asset_type": "Valve",
+        "status": "Active",
+        "pipeline_id": "PL-1021",
+        "segment_id": "SEG-1021-2",
+        "operating_area": "North East Area",
+        "criticality": "High",
+        "source_type": "synthetic_demo",
+        "latitude": 32.2883303,
+        "longitude": -100.9752475,
+        "valve_type": "Isolation Valve",
+        "diameter_in": 8,
+        "manufacturer": "Flowserve",
+        "installation_date": "2016-03-12",
+        "last_inspection_date": "2020-04-15"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "VAL-1122",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.98777597261329,
+          31.915201660310466
+        ]
+      },
+      "properties": {
+        "asset_id": "VAL-1122",
+        "asset_type": "Valve",
+        "status": "Active",
+        "pipeline_id": "PL-1022",
+        "segment_id": "SEG-1022-2",
+        "operating_area": "South East Area",
+        "criticality": "Low",
+        "source_type": "synthetic_demo",
+        "latitude": 31.9152017,
+        "longitude": -101.987776,
+        "valve_type": "Isolation Valve",
+        "diameter_in": 12,
+        "manufacturer": "Flowserve",
+        "installation_date": "2017-03-12",
+        "last_inspection_date": "2021-05-15"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "VAL-1123",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.52563757668005,
+          32.034879461140434
+        ]
+      },
+      "properties": {
+        "asset_id": "VAL-1123",
+        "asset_type": "Valve",
+        "status": "Active",
+        "pipeline_id": "PL-1023",
+        "segment_id": "SEG-1023-2",
+        "operating_area": "North West Area",
+        "criticality": "High",
+        "source_type": "synthetic_demo",
+        "latitude": 32.0348795,
+        "longitude": -102.5256376,
+        "valve_type": "Isolation Valve",
+        "diameter_in": 16,
+        "manufacturer": "Flowserve",
+        "installation_date": "2018-03-12",
+        "last_inspection_date": "2022-06-15"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "VAL-1124",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.09844084341236,
+          32.043972712561114
+        ]
+      },
+      "properties": {
+        "asset_id": "VAL-1124",
+        "asset_type": "Valve",
+        "status": "Active",
+        "pipeline_id": "PL-1024",
+        "segment_id": "SEG-1024-2",
+        "operating_area": "North West Area",
+        "criticality": "Moderate",
+        "source_type": "synthetic_demo",
+        "latitude": 32.0439727,
+        "longitude": -102.0984408,
+        "valve_type": "Isolation Valve",
+        "diameter_in": 20,
+        "manufacturer": "Flowserve",
+        "installation_date": "2019-03-12",
+        "last_inspection_date": "2023-07-15"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "VAL-1125",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.86657715436336,
+          32.84357273517085
+        ]
+      },
+      "properties": {
+        "asset_id": "VAL-1125",
+        "asset_type": "Valve",
+        "status": "Active",
+        "pipeline_id": "PL-1025",
+        "segment_id": "SEG-1025-2",
+        "operating_area": "North West Area",
+        "criticality": "Low",
+        "source_type": "synthetic_demo",
+        "latitude": 32.8435727,
+        "longitude": -102.8665772,
+        "valve_type": "Isolation Valve",
+        "diameter_in": 24,
+        "manufacturer": "Flowserve",
+        "installation_date": "2020-03-12",
+        "last_inspection_date": "2024-08-15"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "VAL-1126",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.58583420287624,
+          32.35071909723784
+        ]
+      },
+      "properties": {
+        "asset_id": "VAL-1126",
+        "asset_type": "Valve",
+        "status": "Active",
+        "pipeline_id": "PL-1026",
+        "segment_id": "SEG-1026-2",
+        "operating_area": "North West Area",
+        "criticality": "High",
+        "source_type": "synthetic_demo",
+        "latitude": 32.3507191,
+        "longitude": -102.5858342,
+        "valve_type": "Isolation Valve",
+        "diameter_in": 8,
+        "manufacturer": "Flowserve",
+        "installation_date": "2021-03-12",
+        "last_inspection_date": "2025-09-15"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "VAL-1127",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.73324038539705,
+          32.12299881423754
+        ]
+      },
+      "properties": {
+        "asset_id": "VAL-1127",
+        "asset_type": "Valve",
+        "status": "Active",
+        "pipeline_id": "PL-1027",
+        "segment_id": "SEG-1027-2",
+        "operating_area": "North East Area",
+        "criticality": "Moderate",
+        "source_type": "synthetic_demo",
+        "latitude": 32.1229988,
+        "longitude": -101.7332404,
+        "valve_type": "Isolation Valve",
+        "diameter_in": 12,
+        "manufacturer": "Flowserve",
+        "installation_date": "2022-03-12",
+        "last_inspection_date": "2020-01-15"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "VAL-1128",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.02706454153567,
+          32.88059139384098
+        ]
+      },
+      "properties": {
+        "asset_id": "VAL-1128",
+        "asset_type": "Valve",
+        "status": "Active",
+        "pipeline_id": "PL-1028",
+        "segment_id": "SEG-1028-2",
+        "operating_area": "North East Area",
+        "criticality": "Moderate",
+        "source_type": "synthetic_demo",
+        "latitude": 32.8805914,
+        "longitude": -101.0270645,
+        "valve_type": "Isolation Valve",
+        "diameter_in": 16,
+        "manufacturer": "Flowserve",
+        "installation_date": "2023-03-12",
+        "last_inspection_date": "2021-02-15"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "VAL-1129",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.33027737634832,
+          32.253330641074974
+        ]
+      },
+      "properties": {
+        "asset_id": "VAL-1129",
+        "asset_type": "Valve",
+        "status": "Active",
+        "pipeline_id": "PL-1029",
+        "segment_id": "SEG-1029-2",
+        "operating_area": "North West Area",
+        "criticality": "Low",
+        "source_type": "synthetic_demo",
+        "latitude": 32.2533306,
+        "longitude": -103.3302774,
+        "valve_type": "Isolation Valve",
+        "diameter_in": 20,
+        "manufacturer": "Flowserve",
+        "installation_date": "2008-03-12",
+        "last_inspection_date": "2022-03-15"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "VAL-1130",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.66739212675596,
+          32.56204703786232
+        ]
+      },
+      "properties": {
+        "asset_id": "VAL-1130",
+        "asset_type": "Valve",
+        "status": "Active",
+        "pipeline_id": "PL-1030",
+        "segment_id": "SEG-1030-2",
+        "operating_area": "North East Area",
+        "criticality": "Low",
+        "source_type": "synthetic_demo",
+        "latitude": 32.562047,
+        "longitude": -100.6673921,
+        "valve_type": "Isolation Valve",
+        "diameter_in": 24,
+        "manufacturer": "Flowserve",
+        "installation_date": "2009-03-12",
+        "last_inspection_date": "2023-04-15"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "VAL-1131",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.9967307934557,
+          30.99617098898022
+        ]
+      },
+      "properties": {
+        "asset_id": "VAL-1131",
+        "asset_type": "Valve",
+        "status": "Active",
+        "pipeline_id": "PL-1031",
+        "segment_id": "SEG-1031-2",
+        "operating_area": "South East Area",
+        "criticality": "Moderate",
+        "source_type": "synthetic_demo",
+        "latitude": 30.996171,
+        "longitude": -101.9967308,
+        "valve_type": "Isolation Valve",
+        "diameter_in": 8,
+        "manufacturer": "Flowserve",
+        "installation_date": "2010-03-12",
+        "last_inspection_date": "2024-05-15"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "VAL-1132",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.79220939153798,
+          32.32822522281371
+        ]
+      },
+      "properties": {
+        "asset_id": "VAL-1132",
+        "asset_type": "Valve",
+        "status": "Active",
+        "pipeline_id": "PL-1032",
+        "segment_id": "SEG-1032-2",
+        "operating_area": "North East Area",
+        "criticality": "High",
+        "source_type": "synthetic_demo",
+        "latitude": 32.3282252,
+        "longitude": -101.7922094,
+        "valve_type": "Isolation Valve",
+        "diameter_in": 12,
+        "manufacturer": "Flowserve",
+        "installation_date": "2011-03-12",
+        "last_inspection_date": "2025-06-15"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "VAL-1133",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.65471758036308,
+          32.489260797218144
+        ]
+      },
+      "properties": {
+        "asset_id": "VAL-1133",
+        "asset_type": "Valve",
+        "status": "Active",
+        "pipeline_id": "PL-1033",
+        "segment_id": "SEG-1033-2",
+        "operating_area": "North East Area",
+        "criticality": "Critical",
+        "source_type": "synthetic_demo",
+        "latitude": 32.4892608,
+        "longitude": -100.6547176,
+        "valve_type": "Isolation Valve",
+        "diameter_in": 16,
+        "manufacturer": "Flowserve",
+        "installation_date": "2012-03-12",
+        "last_inspection_date": "2020-07-15"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "VAL-1134",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.21238925289443,
+          31.470386181944306
+        ]
+      },
+      "properties": {
+        "asset_id": "VAL-1134",
+        "asset_type": "Valve",
+        "status": "Active",
+        "pipeline_id": "PL-1034",
+        "segment_id": "SEG-1034-2",
+        "operating_area": "South West Area",
+        "criticality": "Low",
+        "source_type": "synthetic_demo",
+        "latitude": 31.4703862,
+        "longitude": -102.2123893,
+        "valve_type": "Isolation Valve",
+        "diameter_in": 20,
+        "manufacturer": "Flowserve",
+        "installation_date": "2013-03-12",
+        "last_inspection_date": "2021-08-15"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "VAL-1135",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.91059979609483,
+          31.023806771615458
+        ]
+      },
+      "properties": {
+        "asset_id": "VAL-1135",
+        "asset_type": "Valve",
+        "status": "Active",
+        "pipeline_id": "PL-1035",
+        "segment_id": "SEG-1035-2",
+        "operating_area": "South East Area",
+        "criticality": "Moderate",
+        "source_type": "synthetic_demo",
+        "latitude": 31.0238068,
+        "longitude": -101.9105998,
+        "valve_type": "Isolation Valve",
+        "diameter_in": 24,
+        "manufacturer": "Flowserve",
+        "installation_date": "2014-03-12",
+        "last_inspection_date": "2022-09-15"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "VAL-1136",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.80481575847126,
+          31.34964313542201
+        ]
+      },
+      "properties": {
+        "asset_id": "VAL-1136",
+        "asset_type": "Valve",
+        "status": "Active",
+        "pipeline_id": "PL-1036",
+        "segment_id": "SEG-1036-2",
+        "operating_area": "South West Area",
+        "criticality": "Moderate",
+        "source_type": "synthetic_demo",
+        "latitude": 31.3496431,
+        "longitude": -102.8048158,
+        "valve_type": "Isolation Valve",
+        "diameter_in": 8,
+        "manufacturer": "Flowserve",
+        "installation_date": "2015-03-12",
+        "last_inspection_date": "2023-01-15"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "VAL-1137",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.31793704773013,
+          31.969219920055735
+        ]
+      },
+      "properties": {
+        "asset_id": "VAL-1137",
+        "asset_type": "Valve",
+        "status": "Active",
+        "pipeline_id": "PL-1037",
+        "segment_id": "SEG-1037-2",
+        "operating_area": "South East Area",
+        "criticality": "Low",
+        "source_type": "synthetic_demo",
+        "latitude": 31.9692199,
+        "longitude": -101.317937,
+        "valve_type": "Isolation Valve",
+        "diameter_in": 12,
+        "manufacturer": "Flowserve",
+        "installation_date": "2016-03-12",
+        "last_inspection_date": "2024-02-15"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "VAL-1138",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.4436084577773,
+          31.37525692466622
+        ]
+      },
+      "properties": {
+        "asset_id": "VAL-1138",
+        "asset_type": "Valve",
+        "status": "Active",
+        "pipeline_id": "PL-1038",
+        "segment_id": "SEG-1038-2",
+        "operating_area": "South West Area",
+        "criticality": "Moderate",
+        "source_type": "synthetic_demo",
+        "latitude": 31.3752569,
+        "longitude": -102.4436085,
+        "valve_type": "Isolation Valve",
+        "diameter_in": 16,
+        "manufacturer": "Flowserve",
+        "installation_date": "2017-03-12",
+        "last_inspection_date": "2025-03-15"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "VAL-1139",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.33565219030494,
+          31.796226832944615
+        ]
+      },
+      "properties": {
+        "asset_id": "VAL-1139",
+        "asset_type": "Valve",
+        "status": "Active",
+        "pipeline_id": "PL-1039",
+        "segment_id": "SEG-1039-2",
+        "operating_area": "South West Area",
+        "criticality": "Critical",
+        "source_type": "synthetic_demo",
+        "latitude": 31.7962268,
+        "longitude": -103.3356522,
+        "valve_type": "Isolation Valve",
+        "diameter_in": 20,
+        "manufacturer": "Flowserve",
+        "installation_date": "2018-03-12",
+        "last_inspection_date": "2020-04-15"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "VAL-1140",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.50980666014426,
+          31.115708433465567
+        ]
+      },
+      "properties": {
+        "asset_id": "VAL-1140",
+        "asset_type": "Valve",
+        "status": "Under Maintenance",
+        "pipeline_id": "PL-1040",
+        "segment_id": "SEG-1040-2",
+        "operating_area": "South East Area",
+        "criticality": "Low",
+        "source_type": "synthetic_demo",
+        "latitude": 31.1157084,
+        "longitude": -101.5098067,
+        "valve_type": "Emergency Shutdown Valve",
+        "diameter_in": 24,
+        "manufacturer": "Demo Manufacturer",
+        "installation_date": "2019-03-12",
+        "last_inspection_date": "2021-05-15"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "VAL-1141",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.3532694101377,
+          31.94262837654808
+        ]
+      },
+      "properties": {
+        "asset_id": "VAL-1141",
+        "asset_type": "Valve",
+        "status": "Under Maintenance",
+        "pipeline_id": "PL-1041",
+        "segment_id": "SEG-1041-2",
+        "operating_area": "South West Area",
+        "criticality": "Critical",
+        "source_type": "synthetic_demo",
+        "latitude": 31.9426284,
+        "longitude": -102.3532694,
+        "valve_type": "Emergency Shutdown Valve",
+        "diameter_in": 8,
+        "manufacturer": "Demo Manufacturer",
+        "installation_date": "2020-03-12",
+        "last_inspection_date": "2022-06-15"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "VAL-1142",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.1861801797267,
+          31.907836005020847
+        ]
+      },
+      "properties": {
+        "asset_id": "VAL-1142",
+        "asset_type": "Valve",
+        "status": "Under Maintenance",
+        "pipeline_id": "PL-1042",
+        "segment_id": "SEG-1042-2",
+        "operating_area": "South East Area",
+        "criticality": "High",
+        "source_type": "synthetic_demo",
+        "latitude": 31.907836,
+        "longitude": -101.1861802,
+        "valve_type": "Emergency Shutdown Valve",
+        "diameter_in": 12,
+        "manufacturer": "Demo Manufacturer",
+        "installation_date": "2021-03-12",
+        "last_inspection_date": "2023-07-15"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "VAL-1143",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.33325730123386,
+          32.08411745479651
+        ]
+      },
+      "properties": {
+        "asset_id": "VAL-1143",
+        "asset_type": "Valve",
+        "status": "Under Maintenance",
+        "pipeline_id": "PL-1043",
+        "segment_id": "SEG-1043-2",
+        "operating_area": "North East Area",
+        "criticality": "Moderate",
+        "source_type": "synthetic_demo",
+        "latitude": 32.0841175,
+        "longitude": -101.3332573,
+        "valve_type": "Emergency Shutdown Valve",
+        "diameter_in": 16,
+        "manufacturer": "Demo Manufacturer",
+        "installation_date": "2022-03-12",
+        "last_inspection_date": "2024-08-15"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "VAL-1144",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.50398106713249,
+          32.28013459585264
+        ]
+      },
+      "properties": {
+        "asset_id": "VAL-1144",
+        "asset_type": "Valve",
+        "status": "Under Maintenance",
+        "pipeline_id": "PL-1044",
+        "segment_id": "SEG-1044-2",
+        "operating_area": "North East Area",
+        "criticality": "Critical",
+        "source_type": "synthetic_demo",
+        "latitude": 32.2801346,
+        "longitude": -101.5039811,
+        "valve_type": "Emergency Shutdown Valve",
+        "diameter_in": 20,
+        "manufacturer": "Demo Manufacturer",
+        "installation_date": "2023-03-12",
+        "last_inspection_date": "2025-09-15"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "VAL-1145",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.7013447473459,
+          32.56864207320852
+        ]
+      },
+      "properties": {
+        "asset_id": "VAL-1145",
+        "asset_type": "Valve",
+        "status": "Under Maintenance",
+        "pipeline_id": "PL-1045",
+        "segment_id": "SEG-1045-2",
+        "operating_area": "North East Area",
+        "criticality": "Critical",
+        "source_type": "synthetic_demo",
+        "latitude": 32.5686421,
+        "longitude": -100.7013447,
+        "valve_type": "Emergency Shutdown Valve",
+        "diameter_in": 24,
+        "manufacturer": "Demo Manufacturer",
+        "installation_date": "2008-03-12",
+        "last_inspection_date": "2020-01-15"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "VAL-1146",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.09826681058965,
+          32.220244634855455
+        ]
+      },
+      "properties": {
+        "asset_id": "VAL-1146",
+        "asset_type": "Valve",
+        "status": "Under Maintenance",
+        "pipeline_id": "PL-1046",
+        "segment_id": "SEG-1046-2",
+        "operating_area": "North East Area",
+        "criticality": "Moderate",
+        "source_type": "synthetic_demo",
+        "latitude": 32.2202446,
+        "longitude": -101.0982668,
+        "valve_type": "Emergency Shutdown Valve",
+        "diameter_in": 8,
+        "manufacturer": "Demo Manufacturer",
+        "installation_date": "2009-03-12",
+        "last_inspection_date": "2021-02-15"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "VAL-1147",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.01517349093204,
+          32.60583903714988
+        ]
+      },
+      "properties": {
+        "asset_id": "VAL-1147",
+        "asset_type": "Valve",
+        "status": "Under Maintenance",
+        "pipeline_id": "PL-1047",
+        "segment_id": "SEG-1047-2",
+        "operating_area": "North West Area",
+        "criticality": "High",
+        "source_type": "synthetic_demo",
+        "latitude": 32.605839,
+        "longitude": -103.0151735,
+        "valve_type": "Emergency Shutdown Valve",
+        "diameter_in": 12,
+        "manufacturer": "Demo Manufacturer",
+        "installation_date": "2010-03-12",
+        "last_inspection_date": "2022-03-15"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "VAL-1148",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.96658064046231,
+          32.9707075108895
+        ]
+      },
+      "properties": {
+        "asset_id": "VAL-1148",
+        "asset_type": "Valve",
+        "status": "Under Maintenance",
+        "pipeline_id": "PL-1048",
+        "segment_id": "SEG-1048-2",
+        "operating_area": "North West Area",
+        "criticality": "Low",
+        "source_type": "synthetic_demo",
+        "latitude": 32.9707075,
+        "longitude": -102.9665806,
+        "valve_type": "Emergency Shutdown Valve",
+        "diameter_in": 16,
+        "manufacturer": "Demo Manufacturer",
+        "installation_date": "2011-03-12",
+        "last_inspection_date": "2023-04-15"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "VAL-1149",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.11338687506658,
+          33.1019014758012
+        ]
+      },
+      "properties": {
+        "asset_id": "VAL-1149",
+        "asset_type": "Valve",
+        "status": "Under Maintenance",
+        "pipeline_id": "PL-1049",
+        "segment_id": "SEG-1049-2",
+        "operating_area": "North West Area",
+        "criticality": "Moderate",
+        "source_type": "synthetic_demo",
+        "latitude": 33.1019015,
+        "longitude": -103.1133869,
+        "valve_type": "Emergency Shutdown Valve",
+        "diameter_in": 20,
+        "manufacturer": "Demo Manufacturer",
+        "installation_date": "2012-03-12",
+        "last_inspection_date": "2024-05-15"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "VAL-1150",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.82823619804259,
+          32.5898099492913
+        ]
+      },
+      "properties": {
+        "asset_id": "VAL-1150",
+        "asset_type": "Valve",
+        "status": "Active",
+        "pipeline_id": "PL-1050",
+        "segment_id": "SEG-1050-2",
+        "operating_area": "North West Area",
+        "criticality": "Low",
+        "source_type": "synthetic_demo",
+        "latitude": 32.5898099,
+        "longitude": -102.8282362,
+        "valve_type": "Isolation Valve",
+        "diameter_in": 24,
+        "manufacturer": "Emerson",
+        "installation_date": "2013-03-12",
+        "last_inspection_date": "2025-06-15"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "VAL-1151",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.8740924412363,
+          31.641864375650407
+        ]
+      },
+      "properties": {
+        "asset_id": "VAL-1151",
+        "asset_type": "Valve",
+        "status": "Active",
+        "pipeline_id": "PL-1051",
+        "segment_id": "SEG-1051-2",
+        "operating_area": "South West Area",
+        "criticality": "Moderate",
+        "source_type": "synthetic_demo",
+        "latitude": 31.6418644,
+        "longitude": -102.8740924,
+        "valve_type": "Isolation Valve",
+        "diameter_in": 8,
+        "manufacturer": "Flowserve",
+        "installation_date": "2014-03-12",
+        "last_inspection_date": "2020-07-15"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "VAL-1152",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.92185959916415,
+          31.064331644735777
+        ]
+      },
+      "properties": {
+        "asset_id": "VAL-1152",
+        "asset_type": "Valve",
+        "status": "Active",
+        "pipeline_id": "PL-1052",
+        "segment_id": "SEG-1052-2",
+        "operating_area": "South West Area",
+        "criticality": "High",
+        "source_type": "synthetic_demo",
+        "latitude": 31.0643316,
+        "longitude": -102.9218596,
+        "valve_type": "Isolation Valve",
+        "diameter_in": 12,
+        "manufacturer": "Flowserve",
+        "installation_date": "2015-03-12",
+        "last_inspection_date": "2021-08-15"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "VAL-1153",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.26807087947883,
+          32.008632986366166
+        ]
+      },
+      "properties": {
+        "asset_id": "VAL-1153",
+        "asset_type": "Valve",
+        "status": "Active",
+        "pipeline_id": "PL-1053",
+        "segment_id": "SEG-1053-2",
+        "operating_area": "North East Area",
+        "criticality": "High",
+        "source_type": "synthetic_demo",
+        "latitude": 32.008633,
+        "longitude": -101.2680709,
+        "valve_type": "Isolation Valve",
+        "diameter_in": 16,
+        "manufacturer": "Flowserve",
+        "installation_date": "2016-03-12",
+        "last_inspection_date": "2022-09-15"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "VAL-1154",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.90238215817234,
+          32.62524204947593
+        ]
+      },
+      "properties": {
+        "asset_id": "VAL-1154",
+        "asset_type": "Valve",
+        "status": "Active",
+        "pipeline_id": "PL-1054",
+        "segment_id": "SEG-1054-2",
+        "operating_area": "North East Area",
+        "criticality": "Critical",
+        "source_type": "synthetic_demo",
+        "latitude": 32.625242,
+        "longitude": -100.9023822,
+        "valve_type": "Isolation Valve",
+        "diameter_in": 20,
+        "manufacturer": "Flowserve",
+        "installation_date": "2017-03-12",
+        "last_inspection_date": "2023-01-15"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "VAL-1155",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.91671906064038,
+          32.38556272996145
+        ]
+      },
+      "properties": {
+        "asset_id": "VAL-1155",
+        "asset_type": "Valve",
+        "status": "Active",
+        "pipeline_id": "PL-1055",
+        "segment_id": "SEG-1055-2",
+        "operating_area": "North East Area",
+        "criticality": "High",
+        "source_type": "synthetic_demo",
+        "latitude": 32.3855627,
+        "longitude": -100.9167191,
+        "valve_type": "Isolation Valve",
+        "diameter_in": 24,
+        "manufacturer": "Flowserve",
+        "installation_date": "2018-03-12",
+        "last_inspection_date": "2024-02-15"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "VAL-1156",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.1672735644113,
+          31.481539107684853
+        ]
+      },
+      "properties": {
+        "asset_id": "VAL-1156",
+        "asset_type": "Valve",
+        "status": "Active",
+        "pipeline_id": "PL-1056",
+        "segment_id": "SEG-1056-2",
+        "operating_area": "South West Area",
+        "criticality": "Critical",
+        "source_type": "synthetic_demo",
+        "latitude": 31.4815391,
+        "longitude": -103.1672736,
+        "valve_type": "Isolation Valve",
+        "diameter_in": 8,
+        "manufacturer": "Flowserve",
+        "installation_date": "2019-03-12",
+        "last_inspection_date": "2025-03-15"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "VAL-1157",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.4229591778984,
+          32.79990415203776
+        ]
+      },
+      "properties": {
+        "asset_id": "VAL-1157",
+        "asset_type": "Valve",
+        "status": "Active",
+        "pipeline_id": "PL-1057",
+        "segment_id": "SEG-1057-2",
+        "operating_area": "North West Area",
+        "criticality": "Low",
+        "source_type": "synthetic_demo",
+        "latitude": 32.7999042,
+        "longitude": -103.4229592,
+        "valve_type": "Isolation Valve",
+        "diameter_in": 12,
+        "manufacturer": "Flowserve",
+        "installation_date": "2020-03-12",
+        "last_inspection_date": "2020-04-15"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "VAL-1158",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.3918493593246,
+          32.929890912957575
+        ]
+      },
+      "properties": {
+        "asset_id": "VAL-1158",
+        "asset_type": "Valve",
+        "status": "Active",
+        "pipeline_id": "PL-1058",
+        "segment_id": "SEG-1058-2",
+        "operating_area": "North West Area",
+        "criticality": "High",
+        "source_type": "synthetic_demo",
+        "latitude": 32.9298909,
+        "longitude": -102.3918494,
+        "valve_type": "Isolation Valve",
+        "diameter_in": 16,
+        "manufacturer": "Flowserve",
+        "installation_date": "2021-03-12",
+        "last_inspection_date": "2021-05-15"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "VAL-1159",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.0561468125016,
+          31.590536238959317
+        ]
+      },
+      "properties": {
+        "asset_id": "VAL-1159",
+        "asset_type": "Valve",
+        "status": "Active",
+        "pipeline_id": "PL-1059",
+        "segment_id": "SEG-1059-2",
+        "operating_area": "South West Area",
+        "criticality": "Moderate",
+        "source_type": "synthetic_demo",
+        "latitude": 31.5905362,
+        "longitude": -103.0561468,
+        "valve_type": "Isolation Valve",
+        "diameter_in": 20,
+        "manufacturer": "Flowserve",
+        "installation_date": "2022-03-12",
+        "last_inspection_date": "2022-06-15"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "VAL-1160",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.29065959347622,
+          32.48373754923751
+        ]
+      },
+      "properties": {
+        "asset_id": "VAL-1160",
+        "asset_type": "Valve",
+        "status": "Under Maintenance",
+        "pipeline_id": "PL-1060",
+        "segment_id": "SEG-1060-2",
+        "operating_area": "North West Area",
+        "criticality": "Critical",
+        "source_type": "synthetic_demo",
+        "latitude": 32.4837375,
+        "longitude": -102.2906596,
+        "valve_type": "Emergency Shutdown Valve",
+        "diameter_in": 24,
+        "manufacturer": "Demo Manufacturer",
+        "installation_date": "2023-03-12",
+        "last_inspection_date": "2023-07-15"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "VAL-1161",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.5619031831582,
+          31.765222087906402
+        ]
+      },
+      "properties": {
+        "asset_id": "VAL-1161",
+        "asset_type": "Valve",
+        "status": "Under Maintenance",
+        "pipeline_id": "PL-1061",
+        "segment_id": "SEG-1061-2",
+        "operating_area": "South East Area",
+        "criticality": "Critical",
+        "source_type": "synthetic_demo",
+        "latitude": 31.7652221,
+        "longitude": -101.5619032,
+        "valve_type": "Emergency Shutdown Valve",
+        "diameter_in": 8,
+        "manufacturer": "Demo Manufacturer",
+        "installation_date": "2008-03-12",
+        "last_inspection_date": "2024-08-15"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "VAL-1162",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.20722136041557,
+          31.271945513679842
+        ]
+      },
+      "properties": {
+        "asset_id": "VAL-1162",
+        "asset_type": "Valve",
+        "status": "Under Maintenance",
+        "pipeline_id": "PL-1062",
+        "segment_id": "SEG-1062-2",
+        "operating_area": "South East Area",
+        "criticality": "Critical",
+        "source_type": "synthetic_demo",
+        "latitude": 31.2719455,
+        "longitude": -101.2072214,
+        "valve_type": "Emergency Shutdown Valve",
+        "diameter_in": 12,
+        "manufacturer": "Demo Manufacturer",
+        "installation_date": "2009-03-12",
+        "last_inspection_date": "2025-09-15"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "VAL-1163",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.9085376706918,
+          31.295204273123872
+        ]
+      },
+      "properties": {
+        "asset_id": "VAL-1163",
+        "asset_type": "Valve",
+        "status": "Under Maintenance",
+        "pipeline_id": "PL-1063",
+        "segment_id": "SEG-1063-2",
+        "operating_area": "South East Area",
+        "criticality": "High",
+        "source_type": "synthetic_demo",
+        "latitude": 31.2952043,
+        "longitude": -101.9085377,
+        "valve_type": "Emergency Shutdown Valve",
+        "diameter_in": 16,
+        "manufacturer": "Demo Manufacturer",
+        "installation_date": "2010-03-12",
+        "last_inspection_date": "2020-01-15"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "VAL-1164",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.27180317891106,
+          31.067200218069303
+        ]
+      },
+      "properties": {
+        "asset_id": "VAL-1164",
+        "asset_type": "Valve",
+        "status": "Under Maintenance",
+        "pipeline_id": "PL-1064",
+        "segment_id": "SEG-1064-2",
+        "operating_area": "South West Area",
+        "criticality": "Moderate",
+        "source_type": "synthetic_demo",
+        "latitude": 31.0672002,
+        "longitude": -102.2718032,
+        "valve_type": "Emergency Shutdown Valve",
+        "diameter_in": 20,
+        "manufacturer": "Demo Manufacturer",
+        "installation_date": "2011-03-12",
+        "last_inspection_date": "2021-02-15"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "VAL-1165",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.19070213628338,
+          31.425023374991035
+        ]
+      },
+      "properties": {
+        "asset_id": "VAL-1165",
+        "asset_type": "Valve",
+        "status": "Under Maintenance",
+        "pipeline_id": "PL-1065",
+        "segment_id": "SEG-1065-2",
+        "operating_area": "South West Area",
+        "criticality": "Moderate",
+        "source_type": "synthetic_demo",
+        "latitude": 31.4250234,
+        "longitude": -103.1907021,
+        "valve_type": "Emergency Shutdown Valve",
+        "diameter_in": 24,
+        "manufacturer": "Demo Manufacturer",
+        "installation_date": "2012-03-12",
+        "last_inspection_date": "2022-03-15"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "VAL-1166",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.07392000017904,
+          31.540980097742978
+        ]
+      },
+      "properties": {
+        "asset_id": "VAL-1166",
+        "asset_type": "Valve",
+        "status": "Under Maintenance",
+        "pipeline_id": "PL-1066",
+        "segment_id": "SEG-1066-2",
+        "operating_area": "South East Area",
+        "criticality": "Critical",
+        "source_type": "synthetic_demo",
+        "latitude": 31.5409801,
+        "longitude": -101.07392,
+        "valve_type": "Emergency Shutdown Valve",
+        "diameter_in": 8,
+        "manufacturer": "Demo Manufacturer",
+        "installation_date": "2013-03-12",
+        "last_inspection_date": "2023-04-15"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "VAL-1167",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.50911496480315,
+          31.005184000250864
+        ]
+      },
+      "properties": {
+        "asset_id": "VAL-1167",
+        "asset_type": "Valve",
+        "status": "Under Maintenance",
+        "pipeline_id": "PL-1067",
+        "segment_id": "SEG-1067-2",
+        "operating_area": "South East Area",
+        "criticality": "High",
+        "source_type": "synthetic_demo",
+        "latitude": 31.005184,
+        "longitude": -100.509115,
+        "valve_type": "Emergency Shutdown Valve",
+        "diameter_in": 12,
+        "manufacturer": "Demo Manufacturer",
+        "installation_date": "2014-03-12",
+        "last_inspection_date": "2024-05-15"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "VAL-1168",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.1009705928554,
+          32.81661667644052
+        ]
+      },
+      "properties": {
+        "asset_id": "VAL-1168",
+        "asset_type": "Valve",
+        "status": "Under Maintenance",
+        "pipeline_id": "PL-1068",
+        "segment_id": "SEG-1068-2",
+        "operating_area": "North West Area",
+        "criticality": "High",
+        "source_type": "synthetic_demo",
+        "latitude": 32.8166167,
+        "longitude": -103.1009706,
+        "valve_type": "Emergency Shutdown Valve",
+        "diameter_in": 16,
+        "manufacturer": "Demo Manufacturer",
+        "installation_date": "2015-03-12",
+        "last_inspection_date": "2025-06-15"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "VAL-1169",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.21252479780532,
+          31.24478074251023
+        ]
+      },
+      "properties": {
+        "asset_id": "VAL-1169",
+        "asset_type": "Valve",
+        "status": "Under Maintenance",
+        "pipeline_id": "PL-1069",
+        "segment_id": "SEG-1069-2",
+        "operating_area": "South West Area",
+        "criticality": "Critical",
+        "source_type": "synthetic_demo",
+        "latitude": 31.2447807,
+        "longitude": -103.2125248,
+        "valve_type": "Emergency Shutdown Valve",
+        "diameter_in": 20,
+        "manufacturer": "Demo Manufacturer",
+        "installation_date": "2016-03-12",
+        "last_inspection_date": "2020-07-15"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "VAL-1170",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.46592676117322,
+          32.9201765965902
+        ]
+      },
+      "properties": {
+        "asset_id": "VAL-1170",
+        "asset_type": "Valve",
+        "status": "Under Maintenance",
+        "pipeline_id": "PL-1070",
+        "segment_id": "SEG-1070-2",
+        "operating_area": "North West Area",
+        "criticality": "Low",
+        "source_type": "synthetic_demo",
+        "latitude": 32.9201766,
+        "longitude": -103.4659268,
+        "valve_type": "Emergency Shutdown Valve",
+        "diameter_in": 24,
+        "manufacturer": "Demo Manufacturer",
+        "installation_date": "2017-03-12",
+        "last_inspection_date": "2021-08-15"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "VAL-1171",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.31344412677402,
+          32.58476764375687
+        ]
+      },
+      "properties": {
+        "asset_id": "VAL-1171",
+        "asset_type": "Valve",
+        "status": "Under Maintenance",
+        "pipeline_id": "PL-1071",
+        "segment_id": "SEG-1071-2",
+        "operating_area": "North West Area",
+        "criticality": "Moderate",
+        "source_type": "synthetic_demo",
+        "latitude": 32.5847676,
+        "longitude": -103.3134441,
+        "valve_type": "Emergency Shutdown Valve",
+        "diameter_in": 8,
+        "manufacturer": "Demo Manufacturer",
+        "installation_date": "2018-03-12",
+        "last_inspection_date": "2022-09-15"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "VAL-1172",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.3522935147304,
+          32.708080940327356
+        ]
+      },
+      "properties": {
+        "asset_id": "VAL-1172",
+        "asset_type": "Valve",
+        "status": "Under Maintenance",
+        "pipeline_id": "PL-1072",
+        "segment_id": "SEG-1072-2",
+        "operating_area": "North West Area",
+        "criticality": "Critical",
+        "source_type": "synthetic_demo",
+        "latitude": 32.7080809,
+        "longitude": -103.3522935,
+        "valve_type": "Emergency Shutdown Valve",
+        "diameter_in": 12,
+        "manufacturer": "Demo Manufacturer",
+        "installation_date": "2019-03-12",
+        "last_inspection_date": "2023-01-15"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "VAL-1173",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.24425701787976,
+          32.82555979586827
+        ]
+      },
+      "properties": {
+        "asset_id": "VAL-1173",
+        "asset_type": "Valve",
+        "status": "Under Maintenance",
+        "pipeline_id": "PL-1073",
+        "segment_id": "SEG-1073-2",
+        "operating_area": "North West Area",
+        "criticality": "Critical",
+        "source_type": "synthetic_demo",
+        "latitude": 32.8255598,
+        "longitude": -103.244257,
+        "valve_type": "Emergency Shutdown Valve",
+        "diameter_in": 16,
+        "manufacturer": "Demo Manufacturer",
+        "installation_date": "2020-03-12",
+        "last_inspection_date": "2024-02-15"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "VAL-1174",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.31582548693855,
+          32.94105728555231
+        ]
+      },
+      "properties": {
+        "asset_id": "VAL-1174",
+        "asset_type": "Valve",
+        "status": "Under Maintenance",
+        "pipeline_id": "PL-1074",
+        "segment_id": "SEG-1074-2",
+        "operating_area": "North West Area",
+        "criticality": "High",
+        "source_type": "synthetic_demo",
+        "latitude": 32.9410573,
+        "longitude": -103.3158255,
+        "valve_type": "Emergency Shutdown Valve",
+        "diameter_in": 20,
+        "manufacturer": "Demo Manufacturer",
+        "installation_date": "2021-03-12",
+        "last_inspection_date": "2025-03-15"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "VAL-1175",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.2018730204416,
+          31.430958382789463
+        ]
+      },
+      "properties": {
+        "asset_id": "VAL-1175",
+        "asset_type": "Valve",
+        "status": "Under Maintenance",
+        "pipeline_id": "PL-1075",
+        "segment_id": "SEG-1075-2",
+        "operating_area": "South West Area",
+        "criticality": "Moderate",
+        "source_type": "synthetic_demo",
+        "latitude": 31.4309584,
+        "longitude": -103.201873,
+        "valve_type": "Emergency Shutdown Valve",
+        "diameter_in": 24,
+        "manufacturer": "Demo Manufacturer",
+        "installation_date": "2022-03-12",
+        "last_inspection_date": "2020-04-15"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "VAL-1176",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.12686301784895,
+          31.32052853605694
+        ]
+      },
+      "properties": {
+        "asset_id": "VAL-1176",
+        "asset_type": "Valve",
+        "status": "Under Maintenance",
+        "pipeline_id": "PL-1076",
+        "segment_id": "SEG-1076-2",
+        "operating_area": "South West Area",
+        "criticality": "Moderate",
+        "source_type": "synthetic_demo",
+        "latitude": 31.3205285,
+        "longitude": -103.126863,
+        "valve_type": "Emergency Shutdown Valve",
+        "diameter_in": 8,
+        "manufacturer": "Demo Manufacturer",
+        "installation_date": "2023-03-12",
+        "last_inspection_date": "2021-05-15"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "VAL-1177",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.79236682764964,
+          31.205487075753993
+        ]
+      },
+      "properties": {
+        "asset_id": "VAL-1177",
+        "asset_type": "Valve",
+        "status": "Under Maintenance",
+        "pipeline_id": "PL-1077",
+        "segment_id": "SEG-1077-2",
+        "operating_area": "South West Area",
+        "criticality": "High",
+        "source_type": "synthetic_demo",
+        "latitude": 31.2054871,
+        "longitude": -102.7923668,
+        "valve_type": "Emergency Shutdown Valve",
+        "diameter_in": 12,
+        "manufacturer": "Demo Manufacturer",
+        "installation_date": "2008-03-12",
+        "last_inspection_date": "2022-06-15"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "VAL-1178",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.45227792560416,
+          31.118960122692567
+        ]
+      },
+      "properties": {
+        "asset_id": "VAL-1178",
+        "asset_type": "Valve",
+        "status": "Under Maintenance",
+        "pipeline_id": "PL-1078",
+        "segment_id": "SEG-1078-2",
+        "operating_area": "South West Area",
+        "criticality": "Critical",
+        "source_type": "synthetic_demo",
+        "latitude": 31.1189601,
+        "longitude": -102.4522779,
+        "valve_type": "Emergency Shutdown Valve",
+        "diameter_in": 16,
+        "manufacturer": "Demo Manufacturer",
+        "installation_date": "2009-03-12",
+        "last_inspection_date": "2023-07-15"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "VAL-1179",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.44933982470165,
+          30.977040508968656
+        ]
+      },
+      "properties": {
+        "asset_id": "VAL-1179",
+        "asset_type": "Valve",
+        "status": "Under Maintenance",
+        "pipeline_id": "PL-1079",
+        "segment_id": "SEG-1079-2",
+        "operating_area": "South West Area",
+        "criticality": "High",
+        "source_type": "synthetic_demo",
+        "latitude": 30.9770405,
+        "longitude": -102.4493398,
+        "valve_type": "Emergency Shutdown Valve",
+        "diameter_in": 20,
+        "manufacturer": "Demo Manufacturer",
+        "installation_date": "2010-03-12",
+        "last_inspection_date": "2024-08-15"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "VAL-1180",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.32471470412523,
+          32.63611626043485
+        ]
+      },
+      "properties": {
+        "asset_id": "VAL-1180",
+        "asset_type": "Valve",
+        "status": "Active",
+        "pipeline_id": "PL-1080",
+        "segment_id": "SEG-1080-2",
+        "operating_area": "North West Area",
+        "criticality": "Moderate",
+        "source_type": "synthetic_demo",
+        "latitude": 32.6361163,
+        "longitude": -103.3247147,
+        "valve_type": "Isolation Valve",
+        "diameter_in": 24,
+        "manufacturer": "Flowserve",
+        "installation_date": "2011-03-12",
+        "last_inspection_date": "2025-09-15"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "VAL-1001",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.01036335180704,
+          31.691137362669362
+        ]
+      },
+      "properties": {
+        "asset_id": "VAL-1001",
+        "asset_type": "Valve",
+        "status": "Active",
+        "pipeline_id": "PL-1001",
+        "segment_id": "SEG-1001-1",
+        "operating_area": "South West Area",
+        "criticality": "High",
+        "source_type": "synthetic_demo",
+        "latitude": 31.6911374,
+        "longitude": -103.0103634,
+        "valve_type": "Mainline Valve",
+        "diameter_in": 8,
+        "manufacturer": "Cameron",
+        "installation_date": "2008-03-12",
+        "last_inspection_date": "2020-01-15",
+        "qa_expected_issue": "DUPLICATE_ASSET_ID"
+      }
+    }
+  ]
+}

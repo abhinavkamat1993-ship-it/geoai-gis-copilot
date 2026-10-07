@@ -1,0 +1,6362 @@
+{
+  "type": "FeatureCollection",
+  "name": "pipelines",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "REF-PIPE-0-1",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -103.5,
+            31.713339621405062
+          ],
+          [
+            -102.89755811200794,
+            31.686022281659792
+          ],
+          [
+            -102.30549331158234,
+            31.70171840037116
+          ],
+          [
+            -101.28636261405981,
+            32.079758701287204
+          ],
+          [
+            -100.9220724469829,
+            32.19861281613893
+          ],
+          [
+            -100.56118796292965,
+            32.179171201725666
+          ],
+          [
+            -100.5,
+            32.167593461708
+          ]
+        ]
+      },
+      "properties": {
+        "pipeline_id": "REF-PIPE-0-1",
+        "source_feature_id": 1,
+        "source_layer_id": 0,
+        "source_layer_name": "Hydrocarbon Gas Liquids (HGL) Pipelines",
+        "pipeline_type": "HGL",
+        "product": "Hydrocarbon Gas Liquids",
+        "operator_name": "ENTERPRISE PRODUCTS",
+        "pipeline_name": "Shin Oak Pipeline",
+        "source_reported_km": 985.39804668,
+        "source_reported_miles": 612.29795909,
+        "source_type": "public_reference",
+        "source_name": "U.S. DOE/NETL public EIA pipeline service",
+        "source_url": "https://arcgis.netl.doe.gov/server/rest/services/Hosted/EIA_pipeline_data/FeatureServer/0",
+        "accessed_on": "2026-10-07",
+        "geometry_note": "Public line geometry clipped to the Midland–Odessa study extent; source attributes are preserved only where published."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "REF-PIPE-0-121",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -103.5,
+            31.287941257004054
+          ],
+          [
+            -103.33330316037579,
+            31.311755091247598
+          ],
+          [
+            -103.13848958060231,
+            31.30328493520191
+          ],
+          [
+            -102.69804148610777,
+            31.39645664812113
+          ],
+          [
+            -102.3592352597117,
+            31.43033727074196
+          ],
+          [
+            -102.07972012289004,
+            31.506568670714916
+          ],
+          [
+            -101.98654841031671,
+            31.515038826912765
+          ],
+          [
+            -101.67315265139442,
+            31.19317291229498
+          ],
+          [
+            -101.36822704709898,
+            30.972948864615113
+          ],
+          [
+            -101.08871191027733,
+            30.871306996758126
+          ],
+          [
+            -101.06494291174943,
+            30.8
+          ]
+        ]
+      },
+      "properties": {
+        "pipeline_id": "REF-PIPE-0-121",
+        "source_feature_id": 121,
+        "source_layer_id": 0,
+        "source_layer_name": "Hydrocarbon Gas Liquids (HGL) Pipelines",
+        "pipeline_type": "HGL",
+        "product": "Hydrocarbon Gas Liquids",
+        "operator_name": "EPIC",
+        "pipeline_name": "EPIC Y-Grade Pipeline",
+        "source_reported_km": 998.65901254,
+        "source_reported_miles": 620.53794126,
+        "source_type": "public_reference",
+        "source_name": "U.S. DOE/NETL public EIA pipeline service",
+        "source_url": "https://arcgis.netl.doe.gov/server/rest/services/Hosted/EIA_pipeline_data/FeatureServer/0",
+        "accessed_on": "2026-10-07",
+        "geometry_note": "Public line geometry clipped to the Midland–Odessa study extent; source attributes are preserved only where published."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "REF-PIPE-0-124",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -103.04329367982623,
+            31.262383050616222
+          ],
+          [
+            -102.88938549557287,
+            31.68481189731066
+          ]
+        ]
+      },
+      "properties": {
+        "pipeline_id": "REF-PIPE-0-124",
+        "source_feature_id": 124,
+        "source_layer_id": 0,
+        "source_layer_name": "Hydrocarbon Gas Liquids (HGL) Pipelines",
+        "pipeline_type": "HGL",
+        "product": "Hydrocarbon Gas Liquids",
+        "operator_name": "ENTERPRISE PRODUCTS",
+        "pipeline_name": "Shin Oak Pipeline",
+        "source_reported_km": 49.06833937,
+        "source_reported_miles": 30.48965253,
+        "source_type": "public_reference",
+        "source_name": "U.S. DOE/NETL public EIA pipeline service",
+        "source_url": "https://arcgis.netl.doe.gov/server/rest/services/Hosted/EIA_pipeline_data/FeatureServer/0",
+        "accessed_on": "2026-10-07",
+        "geometry_note": "Public line geometry clipped to the Midland–Odessa study extent; source attributes are preserved only where published."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "REF-PIPE-0-126",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -103.01919733262875,
+            31.328519835300913
+          ],
+          [
+            -102.25922225820888,
+            31.662795019329515
+          ],
+          [
+            -101.77784725893302,
+            31.869898215704982
+          ],
+          [
+            -101.17332981710454,
+            32.037819727202816
+          ],
+          [
+            -100.63598098022311,
+            32.18894908801305
+          ],
+          [
+            -100.5,
+            32.212394084518415
+          ]
+        ]
+      },
+      "properties": {
+        "pipeline_id": "REF-PIPE-0-126",
+        "source_feature_id": 126,
+        "source_layer_id": 0,
+        "source_layer_name": "Hydrocarbon Gas Liquids (HGL) Pipelines",
+        "pipeline_type": "HGL",
+        "product": "Hydrocarbon Gas Liquids",
+        "operator_name": "TARGA RESOURCES",
+        "pipeline_name": "Grand Prix Pipeline",
+        "source_reported_km": 532.59250341,
+        "source_reported_miles": 330.93763882,
+        "source_type": "public_reference",
+        "source_name": "U.S. DOE/NETL public EIA pipeline service",
+        "source_url": "https://arcgis.netl.doe.gov/server/rest/services/Hosted/EIA_pipeline_data/FeatureServer/0",
+        "accessed_on": "2026-10-07",
+        "geometry_note": "Public line geometry clipped to the Midland–Odessa study extent; source attributes are preserved only where published."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "REF-PIPE-0-130",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -103.02780416233283,
+            31.326194091062078
+          ],
+          [
+            -103.2124019129474,
+            31.46125754086178
+          ],
+          [
+            -103.41677799424166,
+            31.596126459800416
+          ],
+          [
+            -103.5,
+            31.725267110156704
+          ]
+        ]
+      },
+      "properties": {
+        "pipeline_id": "REF-PIPE-0-130",
+        "source_feature_id": 130,
+        "source_layer_id": 0,
+        "source_layer_name": "Hydrocarbon Gas Liquids (HGL) Pipelines",
+        "pipeline_type": "HGL",
+        "product": "Hydrocarbon Gas Liquids",
+        "operator_name": "TARGA RESOURCES",
+        "pipeline_name": "Grand Prix Pipeline",
+        "source_reported_km": 212.43137045,
+        "source_reported_miles": 131.99873393,
+        "source_type": "public_reference",
+        "source_name": "U.S. DOE/NETL public EIA pipeline service",
+        "source_url": "https://arcgis.netl.doe.gov/server/rest/services/Hosted/EIA_pipeline_data/FeatureServer/0",
+        "accessed_on": "2026-10-07",
+        "geometry_note": "Public line geometry clipped to the Midland–Odessa study extent; source attributes are preserved only where published."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "REF-PIPE-0-15",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -102.00967884041167,
+            32.465974853890955
+          ],
+          [
+            -100.96807436509721,
+            32.659639021659046
+          ],
+          [
+            -100.7593048797682,
+            32.638317851780144
+          ],
+          [
+            -100.5,
+            32.56686144239574
+          ]
+        ]
+      },
+      "properties": {
+        "pipeline_id": "REF-PIPE-0-15",
+        "source_feature_id": 15,
+        "source_layer_id": 0,
+        "source_layer_name": "Hydrocarbon Gas Liquids (HGL) Pipelines",
+        "pipeline_type": "HGL",
+        "product": "Hydrocarbon Gas Liquids",
+        "operator_name": "ENTERPRISE PRODUCTS",
+        "pipeline_name": "Chapparal",
+        "source_reported_km": 841.89716442,
+        "source_reported_miles": 523.1306448,
+        "source_type": "public_reference",
+        "source_name": "U.S. DOE/NETL public EIA pipeline service",
+        "source_url": "https://arcgis.netl.doe.gov/server/rest/services/Hosted/EIA_pipeline_data/FeatureServer/0",
+        "accessed_on": "2026-10-07",
+        "geometry_note": "Public line geometry clipped to the Midland–Odessa study extent; source attributes are preserved only where published."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "REF-PIPE-0-25",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -103.5,
+            32.68996208586226
+          ],
+          [
+            -103.04950139956223,
+            32.672734411797634
+          ],
+          [
+            -102.63710484013804,
+            31.98726362806249
+          ],
+          [
+            -101.83917996043343,
+            31.89871060073598
+          ],
+          [
+            -101.73763151981946,
+            31.197896640090082
+          ],
+          [
+            -100.5,
+            30.84705905144242
+          ]
+        ]
+      },
+      "properties": {
+        "pipeline_id": "REF-PIPE-0-25",
+        "source_feature_id": 25,
+        "source_layer_id": 0,
+        "source_layer_name": "Hydrocarbon Gas Liquids (HGL) Pipelines",
+        "pipeline_type": "HGL",
+        "product": "Hydrocarbon Gas Liquids",
+        "operator_name": "PHILLIPS 66 PIPELINE",
+        "pipeline_name": "SouthTex 66",
+        "source_reported_km": 1142.58985162,
+        "source_reported_miles": 709.97241834,
+        "source_type": "public_reference",
+        "source_name": "U.S. DOE/NETL public EIA pipeline service",
+        "source_url": "https://arcgis.netl.doe.gov/server/rest/services/Hosted/EIA_pipeline_data/FeatureServer/0",
+        "accessed_on": "2026-10-07",
+        "geometry_note": "Public line geometry clipped to the Midland–Odessa study extent; source attributes are preserved only where published."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "REF-PIPE-0-26",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -103.5,
+            32.81531380415654
+          ],
+          [
+            -103.29364403987012,
+            32.83875912618464
+          ],
+          [
+            -102.8852251199127,
+            32.7679771476567
+          ],
+          [
+            -102.79391904019951,
+            32.45152999772789
+          ],
+          [
+            -102.50394083988647,
+            32.23455442634784
+          ],
+          [
+            -101.92478615960029,
+            32.09347308188904
+          ],
+          [
+            -100.7597206802688,
+            32.391844251378174
+          ],
+          [
+            -100.5,
+            32.45114731225423
+          ]
+        ]
+      },
+      "properties": {
+        "pipeline_id": "REF-PIPE-0-26",
+        "source_feature_id": 26,
+        "source_layer_id": 0,
+        "source_layer_name": "Hydrocarbon Gas Liquids (HGL) Pipelines",
+        "pipeline_type": "HGL",
+        "product": "Hydrocarbon Gas Liquids",
+        "operator_name": "ONEOK",
+        "pipeline_name": "West Texas LPG",
+        "source_reported_km": 1174.59460695,
+        "source_reported_miles": 729.85925132,
+        "source_type": "public_reference",
+        "source_name": "U.S. DOE/NETL public EIA pipeline service",
+        "source_url": "https://arcgis.netl.doe.gov/server/rest/services/Hosted/EIA_pipeline_data/FeatureServer/0",
+        "accessed_on": "2026-10-07",
+        "geometry_note": "Public line geometry clipped to the Midland–Odessa study extent; source attributes are preserved only where published."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "REF-PIPE-0-28",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -100.7597206802688,
+            32.391844251378174
+          ],
+          [
+            -100.66506660015298,
+            32.08542156282853
+          ],
+          [
+            -101.92478615960029,
+            32.09347308188904
+          ]
+        ]
+      },
+      "properties": {
+        "pipeline_id": "REF-PIPE-0-28",
+        "source_feature_id": 28,
+        "source_layer_id": 0,
+        "source_layer_name": "Hydrocarbon Gas Liquids (HGL) Pipelines",
+        "pipeline_type": "HGL",
+        "product": "Hydrocarbon Gas Liquids",
+        "operator_name": "ONEOK",
+        "pipeline_name": "West Texas LPG",
+        "source_reported_km": 154.05354872,
+        "source_reported_miles": 95.72443724,
+        "source_type": "public_reference",
+        "source_name": "U.S. DOE/NETL public EIA pipeline service",
+        "source_url": "https://arcgis.netl.doe.gov/server/rest/services/Hosted/EIA_pipeline_data/FeatureServer/0",
+        "accessed_on": "2026-10-07",
+        "geometry_note": "Public line geometry clipped to the Midland–Odessa study extent; source attributes are preserved only where published."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "REF-PIPE-0-29",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -103.03670015972682,
+            31.952116266941836
+          ],
+          [
+            -103.05501840018471,
+            32.14694596101071
+          ],
+          [
+            -102.51335484000928,
+            32.27661798168208
+          ],
+          [
+            -102.16856123983663,
+            32.06636635721396
+          ],
+          [
+            -101.72853396023861,
+            32.1124768966709
+          ],
+          [
+            -100.5,
+            32.42135180842723
+          ]
+        ]
+      },
+      "properties": {
+        "pipeline_id": "REF-PIPE-0-29",
+        "source_feature_id": 29,
+        "source_layer_id": 0,
+        "source_layer_name": "Hydrocarbon Gas Liquids (HGL) Pipelines",
+        "pipeline_type": "HGL",
+        "product": "Hydrocarbon Gas Liquids",
+        "operator_name": "ENERGY TRANSFER",
+        "pipeline_name": "West Texas Pipeline",
+        "source_reported_km": 975.30033163,
+        "source_reported_miles": 606.02352986,
+        "source_type": "public_reference",
+        "source_name": "U.S. DOE/NETL public EIA pipeline service",
+        "source_url": "https://arcgis.netl.doe.gov/server/rest/services/Hosted/EIA_pipeline_data/FeatureServer/0",
+        "accessed_on": "2026-10-07",
+        "geometry_note": "Public line geometry clipped to the Midland–Odessa study extent; source attributes are preserved only where published."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "REF-PIPE-0-3",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -103.5,
+            33.199312246170194
+          ],
+          [
+            -102.90345443973386,
+            32.80141685734972
+          ],
+          [
+            -102.00967884041167,
+            32.465974853890955
+          ]
+        ]
+      },
+      "properties": {
+        "pipeline_id": "REF-PIPE-0-3",
+        "source_feature_id": 3,
+        "source_layer_id": 0,
+        "source_layer_name": "Hydrocarbon Gas Liquids (HGL) Pipelines",
+        "pipeline_type": "HGL",
+        "product": "Hydrocarbon Gas Liquids",
+        "operator_name": "ENTERPRISE PRODUCTS",
+        "pipeline_name": "Mid-America Pipeline",
+        "source_reported_km": 1411.71199095,
+        "source_reported_miles": 877.19716291,
+        "source_type": "public_reference",
+        "source_name": "U.S. DOE/NETL public EIA pipeline service",
+        "source_url": "https://arcgis.netl.doe.gov/server/rest/services/Hosted/EIA_pipeline_data/FeatureServer/0",
+        "accessed_on": "2026-10-07",
+        "geometry_note": "Public line geometry clipped to the Midland–Odessa study extent; source attributes are preserved only where published."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "REF-PIPE-0-30",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -102.97377252010074,
+            31.198619674634006
+          ],
+          [
+            -101.9544465602765,
+            31.74119664178649
+          ],
+          [
+            -102.00684599956993,
+            32.0370441466454
+          ],
+          [
+            -101.69134092000374,
+            32.13041264335438
+          ]
+        ]
+      },
+      "properties": {
+        "pipeline_id": "REF-PIPE-0-30",
+        "source_feature_id": 30,
+        "source_layer_id": 0,
+        "source_layer_name": "Hydrocarbon Gas Liquids (HGL) Pipelines",
+        "pipeline_type": "HGL",
+        "product": "Hydrocarbon Gas Liquids",
+        "operator_name": "ENERGY TRANSFER",
+        "pipeline_name": "West Texas Pipeline",
+        "source_reported_km": 178.7412715,
+        "source_reported_miles": 111.06467697,
+        "source_type": "public_reference",
+        "source_name": "U.S. DOE/NETL public EIA pipeline service",
+        "source_url": "https://arcgis.netl.doe.gov/server/rest/services/Hosted/EIA_pipeline_data/FeatureServer/0",
+        "accessed_on": "2026-10-07",
+        "geometry_note": "Public line geometry clipped to the Midland–Odessa study extent; source attributes are preserved only where published."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "REF-PIPE-0-33",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -103.5,
+            31.725442577125452
+          ],
+          [
+            -103.03670015972682,
+            31.952116266941836
+          ],
+          [
+            -102.64432895960059,
+            32.0813422336429
+          ],
+          [
+            -102.27298319970335,
+            32.07748326636625
+          ],
+          [
+            -102.00967884041167,
+            32.465974853890955
+          ]
+        ]
+      },
+      "properties": {
+        "pipeline_id": "REF-PIPE-0-33",
+        "source_feature_id": 33,
+        "source_layer_id": 0,
+        "source_layer_name": "Hydrocarbon Gas Liquids (HGL) Pipelines",
+        "pipeline_type": "HGL",
+        "product": "Hydrocarbon Gas Liquids",
+        "operator_name": "ENTERPRISE PRODUCTS",
+        "pipeline_name": "Rio Grande",
+        "source_reported_km": 439.53725735,
+        "source_reported_miles": 273.11578963,
+        "source_type": "public_reference",
+        "source_name": "U.S. DOE/NETL public EIA pipeline service",
+        "source_url": "https://arcgis.netl.doe.gov/server/rest/services/Hosted/EIA_pipeline_data/FeatureServer/0",
+        "accessed_on": "2026-10-07",
+        "geometry_note": "Public line geometry clipped to the Midland–Odessa study extent; source attributes are preserved only where published."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "REF-PIPE-0-4",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -102.9544132939253,
+            32.78174299199387
+          ],
+          [
+            -102.08917143992807,
+            32.44558050365117
+          ],
+          [
+            -101.23186619787278,
+            32.10362879964442
+          ],
+          [
+            -100.5,
+            31.83046327563901
+          ]
+        ]
+      },
+      "properties": {
+        "pipeline_id": "REF-PIPE-0-4",
+        "source_feature_id": 4,
+        "source_layer_id": 0,
+        "source_layer_name": "Hydrocarbon Gas Liquids (HGL) Pipelines",
+        "pipeline_type": "HGL",
+        "product": "Hydrocarbon Gas Liquids",
+        "operator_name": "ENTERPRISE PRODUCTS",
+        "pipeline_name": "Seminole",
+        "source_reported_km": 693.68141769,
+        "source_reported_miles": 431.03364954,
+        "source_type": "public_reference",
+        "source_name": "U.S. DOE/NETL public EIA pipeline service",
+        "source_url": "https://arcgis.netl.doe.gov/server/rest/services/Hosted/EIA_pipeline_data/FeatureServer/0",
+        "accessed_on": "2026-10-07",
+        "geometry_note": "Public line geometry clipped to the Midland–Odessa study extent; source attributes are preserved only where published."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "REF-PIPE-0-5",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -102.90345443973386,
+            32.80141685734972
+          ],
+          [
+            -102.66356381513891,
+            33.2
+          ]
+        ]
+      },
+      "properties": {
+        "pipeline_id": "REF-PIPE-0-5",
+        "source_feature_id": 5,
+        "source_layer_id": 0,
+        "source_layer_name": "Hydrocarbon Gas Liquids (HGL) Pipelines",
+        "pipeline_type": "HGL",
+        "product": "Hydrocarbon Gas Liquids",
+        "operator_name": "ENTERPRISE PRODUCTS",
+        "pipeline_name": "Mid-America Pipeline",
+        "source_reported_km": 799.05992826,
+        "source_reported_miles": 496.51282029,
+        "source_type": "public_reference",
+        "source_name": "U.S. DOE/NETL public EIA pipeline service",
+        "source_url": "https://arcgis.netl.doe.gov/server/rest/services/Hosted/EIA_pipeline_data/FeatureServer/0",
+        "accessed_on": "2026-10-07",
+        "geometry_note": "Public line geometry clipped to the Midland–Odessa study extent; source attributes are preserved only where published."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "REF-PIPE-0-66",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -102.64765941321079,
+            31.965409796759033
+          ],
+          [
+            -102.62596425737789,
+            31.787505164661795
+          ],
+          [
+            -102.24666722772824,
+            31.78166680875529
+          ],
+          [
+            -102.03919923415927,
+            31.563125320250457
+          ],
+          [
+            -101.73141733131507,
+            31.330274849879565
+          ],
+          [
+            -101.31071183182998,
+            30.8
+          ]
+        ]
+      },
+      "properties": {
+        "pipeline_id": "REF-PIPE-0-66",
+        "source_feature_id": 66,
+        "source_layer_id": 0,
+        "source_layer_name": "Hydrocarbon Gas Liquids (HGL) Pipelines",
+        "pipeline_type": "HGL",
+        "product": "Hydrocarbon Gas Liquids",
+        "operator_name": "DCP MIDSTREAM",
+        "pipeline_name": "Sand Hills",
+        "source_reported_km": 1042.31618367,
+        "source_reported_miles": 647.66524974,
+        "source_type": "public_reference",
+        "source_name": "U.S. DOE/NETL public EIA pipeline service",
+        "source_url": "https://arcgis.netl.doe.gov/server/rest/services/Hosted/EIA_pipeline_data/FeatureServer/0",
+        "accessed_on": "2026-10-07",
+        "geometry_note": "Public line geometry clipped to the Midland–Odessa study extent; source attributes are preserved only where published."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "REF-PIPE-1-128",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -102.33002188677202,
+            31.823910147218392
+          ],
+          [
+            -101.67458805321724,
+            32.087706844931645
+          ],
+          [
+            -100.5,
+            32.39340359500661
+          ]
+        ]
+      },
+      "properties": {
+        "pipeline_id": "REF-PIPE-1-128",
+        "source_feature_id": 128,
+        "source_layer_id": 1,
+        "source_layer_name": "Petroleum Products Pipelines",
+        "pipeline_type": "Petroleum Products",
+        "product": "Refined Products",
+        "operator_name": "MIDSTREAM PARTNERS",
+        "pipeline_name": "Magellan",
+        "source_reported_km": 569.68572222,
+        "source_reported_miles": 353.98629641,
+        "source_type": "public_reference",
+        "source_name": "U.S. DOE/NETL public EIA pipeline service",
+        "source_url": "https://arcgis.netl.doe.gov/server/rest/services/Hosted/EIA_pipeline_data/FeatureServer/1",
+        "accessed_on": "2026-10-07",
+        "geometry_note": "Public line geometry clipped to the Midland–Odessa study extent; source attributes are preserved only where published."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "REF-PIPE-1-130",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -103.5,
+            31.536481413707694
+          ],
+          [
+            -102.39218038975017,
+            31.42345641695136
+          ]
+        ]
+      },
+      "properties": {
+        "pipeline_id": "REF-PIPE-1-130",
+        "source_feature_id": 130,
+        "source_layer_id": 1,
+        "source_layer_name": "Petroleum Products Pipelines",
+        "pipeline_type": "Petroleum Products",
+        "product": "Refined Products",
+        "operator_name": "MIDSTREAM PARTNERS",
+        "pipeline_name": "Magellan",
+        "source_reported_km": 365.41922258,
+        "source_reported_miles": 227.060978,
+        "source_type": "public_reference",
+        "source_name": "U.S. DOE/NETL public EIA pipeline service",
+        "source_url": "https://arcgis.netl.doe.gov/server/rest/services/Hosted/EIA_pipeline_data/FeatureServer/1",
+        "accessed_on": "2026-10-07",
+        "geometry_note": "Public line geometry clipped to the Midland–Odessa study extent; source attributes are preserved only where published."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "REF-PIPE-1-131",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -103.5,
+            31.820812576837955
+          ],
+          [
+            -102.33002188677202,
+            31.823910147218392
+          ]
+        ]
+      },
+      "properties": {
+        "pipeline_id": "REF-PIPE-1-131",
+        "source_feature_id": 131,
+        "source_layer_id": 1,
+        "source_layer_name": "Petroleum Products Pipelines",
+        "pipeline_type": "Petroleum Products",
+        "product": "Refined Products",
+        "operator_name": "MIDSTREAM PARTNERS",
+        "pipeline_name": "Magellan",
+        "source_reported_km": 367.95781657,
+        "source_reported_miles": 228.63838718,
+        "source_type": "public_reference",
+        "source_name": "U.S. DOE/NETL public EIA pipeline service",
+        "source_url": "https://arcgis.netl.doe.gov/server/rest/services/Hosted/EIA_pipeline_data/FeatureServer/1",
+        "accessed_on": "2026-10-07",
+        "geometry_note": "Public line geometry clipped to the Midland–Odessa study extent; source attributes are preserved only where published."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "REF-PIPE-1-132",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -102.39218038975017,
+            31.42345641695136
+          ],
+          [
+            -102.33002188677202,
+            31.823910147218392
+          ]
+        ]
+      },
+      "properties": {
+        "pipeline_id": "REF-PIPE-1-132",
+        "source_feature_id": 132,
+        "source_layer_id": 1,
+        "source_layer_name": "Petroleum Products Pipelines",
+        "pipeline_type": "Petroleum Products",
+        "product": "Refined Products",
+        "operator_name": "MIDSTREAM PARTNERS",
+        "pipeline_name": "Magellan",
+        "source_reported_km": 44.79233542,
+        "source_reported_miles": 27.83266686,
+        "source_type": "public_reference",
+        "source_name": "U.S. DOE/NETL public EIA pipeline service",
+        "source_url": "https://arcgis.netl.doe.gov/server/rest/services/Hosted/EIA_pipeline_data/FeatureServer/1",
+        "accessed_on": "2026-10-07",
+        "geometry_note": "Public line geometry clipped to the Midland–Odessa study extent; source attributes are preserved only where published."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "REF-PIPE-1-269",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -101.41644028596447,
+            32.27015071762629
+          ],
+          [
+            -100.89115932767666,
+            32.29179523271784
+          ],
+          [
+            -100.5,
+            32.42013284364565
+          ]
+        ]
+      },
+      "properties": {
+        "pipeline_id": "REF-PIPE-1-269",
+        "source_feature_id": 269,
+        "source_layer_id": 1,
+        "source_layer_name": "Petroleum Products Pipelines",
+        "pipeline_type": "Petroleum Products",
+        "product": "Refined Products",
+        "operator_name": "HOLLY ENERGY PARTNERS",
+        "pipeline_name": "HEP Product Pipeline (Big Spring - Duncan)",
+        "source_reported_km": 442.08067462,
+        "source_reported_miles": 274.69619586,
+        "source_type": "public_reference",
+        "source_name": "U.S. DOE/NETL public EIA pipeline service",
+        "source_url": "https://arcgis.netl.doe.gov/server/rest/services/Hosted/EIA_pipeline_data/FeatureServer/1",
+        "accessed_on": "2026-10-07",
+        "geometry_note": "Public line geometry clipped to the Midland–Odessa study extent; source attributes are preserved only where published."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "REF-PIPE-1-325",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -103.5,
+            32.68996208586226
+          ],
+          [
+            -103.04950139956223,
+            32.672734411797634
+          ],
+          [
+            -102.63710484013804,
+            31.98726362806249
+          ],
+          [
+            -101.83917996043343,
+            31.89871060073598
+          ],
+          [
+            -101.73763151981946,
+            31.197896640090082
+          ],
+          [
+            -100.5,
+            30.84705905144242
+          ]
+        ]
+      },
+      "properties": {
+        "pipeline_id": "REF-PIPE-1-325",
+        "source_feature_id": 325,
+        "source_layer_id": 1,
+        "source_layer_name": "Petroleum Products Pipelines",
+        "pipeline_type": "Petroleum Products",
+        "product": "Refined Products",
+        "operator_name": "PHILLIPS 66 PIPELINE",
+        "pipeline_name": "Benedum-Sweeney",
+        "source_reported_km": 1010.79585439,
+        "source_reported_miles": 628.07942515,
+        "source_type": "public_reference",
+        "source_name": "U.S. DOE/NETL public EIA pipeline service",
+        "source_url": "https://arcgis.netl.doe.gov/server/rest/services/Hosted/EIA_pipeline_data/FeatureServer/1",
+        "accessed_on": "2026-10-07",
+        "geometry_note": "Public line geometry clipped to the Midland–Odessa study extent; source attributes are preserved only where published."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "REF-PIPE-2-100",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -102.81131846941176,
+            32.02296762147841
+          ],
+          [
+            -102.5213414800277,
+            32.03505859252723
+          ],
+          [
+            -102.20284439072785,
+            32.087431982485626
+          ]
+        ]
+      },
+      "properties": {
+        "pipeline_id": "REF-PIPE-2-100",
+        "source_feature_id": 100,
+        "source_layer_id": 2,
+        "source_layer_name": "Crude Oil Trunk Pipelines",
+        "pipeline_type": "Crude Oil",
+        "product": "Crude Oil",
+        "operator_name": "CENTURION PIPELINE",
+        "pipeline_name": "Centurion Pipeline",
+        "source_reported_km": 58.05634829,
+        "source_reported_miles": 36.07454236,
+        "source_type": "public_reference",
+        "source_name": "U.S. DOE/NETL public EIA pipeline service",
+        "source_url": "https://arcgis.netl.doe.gov/server/rest/services/Hosted/EIA_pipeline_data/FeatureServer/2",
+        "accessed_on": "2026-10-07",
+        "geometry_note": "Public line geometry clipped to the Midland–Odessa study extent; source attributes are preserved only where published."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "REF-PIPE-2-101",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -101.84155695567581,
+            31.627173227502514
+          ],
+          [
+            -101.83680403867781,
+            31.675730923431075
+          ],
+          [
+            -101.99367725715516,
+            31.70808548555247
+          ],
+          [
+            -102.03189366714486,
+            32.01256740258777
+          ],
+          [
+            -102.2075977398155,
+            32.0954866363599
+          ],
+          [
+            -102.7352756898439,
+            32.392991560395
+          ]
+        ]
+      },
+      "properties": {
+        "pipeline_id": "REF-PIPE-2-101",
+        "source_feature_id": 101,
+        "source_layer_id": 2,
+        "source_layer_name": "Crude Oil Trunk Pipelines",
+        "pipeline_type": "Crude Oil",
+        "product": "Crude Oil",
+        "operator_name": "CENTURION PIPELINE",
+        "pipeline_name": "Centurion Pipeline",
+        "source_reported_km": 133.30540952,
+        "source_reported_miles": 82.83214124,
+        "source_type": "public_reference",
+        "source_name": "U.S. DOE/NETL public EIA pipeline service",
+        "source_url": "https://arcgis.netl.doe.gov/server/rest/services/Hosted/EIA_pipeline_data/FeatureServer/2",
+        "accessed_on": "2026-10-07",
+        "geometry_note": "Public line geometry clipped to the Midland–Odessa study extent; source attributes are preserved only where published."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "REF-PIPE-2-102",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -103.05381082369436,
+            32.97312413333536
+          ],
+          [
+            -102.64972527964946,
+            32.6935278011365
+          ]
+        ]
+      },
+      "properties": {
+        "pipeline_id": "REF-PIPE-2-102",
+        "source_feature_id": 102,
+        "source_layer_id": 2,
+        "source_layer_name": "Crude Oil Trunk Pipelines",
+        "pipeline_type": "Crude Oil",
+        "product": "Crude Oil",
+        "operator_name": "CENTURION PIPELINE",
+        "pipeline_name": "Centurion Pipeline",
+        "source_reported_km": 48.91706051,
+        "source_reported_miles": 30.39565221,
+        "source_type": "public_reference",
+        "source_name": "U.S. DOE/NETL public EIA pipeline service",
+        "source_url": "https://arcgis.netl.doe.gov/server/rest/services/Hosted/EIA_pipeline_data/FeatureServer/2",
+        "accessed_on": "2026-10-07",
+        "geometry_note": "Public line geometry clipped to the Midland–Odessa study extent; source attributes are preserved only where published."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "REF-PIPE-2-103",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -102.59528106848244,
+            33.2
+          ],
+          [
+            -102.63546380855678,
+            32.697528481394635
+          ],
+          [
+            -102.64496289800162,
+            32.56942670468099
+          ],
+          [
+            -102.58315050961426,
+            32.34079254412861
+          ],
+          [
+            -102.64019409339953,
+            32.29660504610672
+          ],
+          [
+            -102.62117215856215,
+            32.119638885420805
+          ],
+          [
+            -102.51183423657503,
+            32.03505872198613
+          ],
+          [
+            -102.3549577868576,
+            31.432689283470474
+          ]
+        ]
+      },
+      "properties": {
+        "pipeline_id": "REF-PIPE-2-103",
+        "source_feature_id": 103,
+        "source_layer_id": 2,
+        "source_layer_name": "Crude Oil Trunk Pipelines",
+        "pipeline_type": "Crude Oil",
+        "product": "Crude Oil",
+        "operator_name": "CENTURION PIPELINE",
+        "pipeline_name": "Centurion Pipeline",
+        "source_reported_km": 228.8694144,
+        "source_reported_miles": 142.21286089,
+        "source_type": "public_reference",
+        "source_name": "U.S. DOE/NETL public EIA pipeline service",
+        "source_url": "https://arcgis.netl.doe.gov/server/rest/services/Hosted/EIA_pipeline_data/FeatureServer/2",
+        "accessed_on": "2026-10-07",
+        "geometry_note": "Public line geometry clipped to the Midland–Odessa study extent; source attributes are preserved only where published."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "REF-PIPE-2-104",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -102.03181366588059,
+            32.012601402275
+          ],
+          [
+            -101.4182919769714,
+            32.23945092654847
+          ],
+          [
+            -101.41677643913705,
+            32.27049192724415
+          ]
+        ]
+      },
+      "properties": {
+        "pipeline_id": "REF-PIPE-2-104",
+        "source_feature_id": 104,
+        "source_layer_id": 2,
+        "source_layer_name": "Crude Oil Trunk Pipelines",
+        "pipeline_type": "Crude Oil",
+        "product": "Crude Oil",
+        "operator_name": "CENTURION PIPELINE",
+        "pipeline_name": "Centurion Pipeline",
+        "source_reported_km": 66.56810588,
+        "source_reported_miles": 41.36350331,
+        "source_type": "public_reference",
+        "source_name": "U.S. DOE/NETL public EIA pipeline service",
+        "source_url": "https://arcgis.netl.doe.gov/server/rest/services/Hosted/EIA_pipeline_data/FeatureServer/2",
+        "accessed_on": "2026-10-07",
+        "geometry_note": "Public line geometry clipped to the Midland–Odessa study extent; source attributes are preserved only where published."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "REF-PIPE-2-105",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -100.82668291973721,
+            32.53943399402572
+          ],
+          [
+            -101.06877753774124,
+            32.95160937042124
+          ],
+          [
+            -101.31087001955152,
+            33.134735384318894
+          ],
+          [
+            -101.39068592005349,
+            33.2
+          ]
+        ]
+      },
+      "properties": {
+        "pipeline_id": "REF-PIPE-2-105",
+        "source_feature_id": 105,
+        "source_layer_id": 2,
+        "source_layer_name": "Crude Oil Trunk Pipelines",
+        "pipeline_type": "Crude Oil",
+        "product": "Crude Oil",
+        "operator_name": "CENTURION PIPELINE",
+        "pipeline_name": "Centurion Pipeline",
+        "source_reported_km": 186.88155069,
+        "source_reported_miles": 116.12281196,
+        "source_type": "public_reference",
+        "source_name": "U.S. DOE/NETL public EIA pipeline service",
+        "source_url": "https://arcgis.netl.doe.gov/server/rest/services/Hosted/EIA_pipeline_data/FeatureServer/2",
+        "accessed_on": "2026-10-07",
+        "geometry_note": "Public line geometry clipped to the Midland–Odessa study extent; source attributes are preserved only where published."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "REF-PIPE-2-151",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -103.17657906313394,
+            32.06486465151959
+          ],
+          [
+            -103.5,
+            32.46144575663799
+          ]
+        ]
+      },
+      "properties": {
+        "pipeline_id": "REF-PIPE-2-151",
+        "source_feature_id": 151,
+        "source_layer_id": 2,
+        "source_layer_name": "Crude Oil Trunk Pipelines",
+        "pipeline_type": "Crude Oil",
+        "product": "Crude Oil",
+        "operator_name": "PLAINS ALL AMERICAN PIPELINE",
+        "pipeline_name": "Basin",
+        "source_reported_km": 132.96868942,
+        "source_reported_miles": 82.62291307,
+        "source_type": "public_reference",
+        "source_name": "U.S. DOE/NETL public EIA pipeline service",
+        "source_url": "https://arcgis.netl.doe.gov/server/rest/services/Hosted/EIA_pipeline_data/FeatureServer/2",
+        "accessed_on": "2026-10-07",
+        "geometry_note": "Public line geometry clipped to the Midland–Odessa study extent; source attributes are preserved only where published."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "REF-PIPE-2-180",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -100.81793856784464,
+            32.5256444599884
+          ],
+          [
+            -100.55777199958587,
+            32.58855351112732
+          ],
+          [
+            -100.5,
+            32.576175025610745
+          ]
+        ]
+      },
+      "properties": {
+        "pipeline_id": "REF-PIPE-2-180",
+        "source_feature_id": 180,
+        "source_layer_id": 2,
+        "source_layer_name": "Crude Oil Trunk Pipelines",
+        "pipeline_type": "Crude Oil",
+        "product": "Crude Oil",
+        "operator_name": "MAGELLAN MIDSTREAM PARTNERS",
+        "pipeline_name": "BridgeTex",
+        "source_reported_km": 680.4509893,
+        "source_reported_miles": 422.81264248,
+        "source_type": "public_reference",
+        "source_name": "U.S. DOE/NETL public EIA pipeline service",
+        "source_url": "https://arcgis.netl.doe.gov/server/rest/services/Hosted/EIA_pipeline_data/FeatureServer/2",
+        "accessed_on": "2026-10-07",
+        "geometry_note": "Public line geometry clipped to the Midland–Odessa study extent; source attributes are preserved only where published."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "REF-PIPE-2-184",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -102.18666817857337,
+            31.137206797147297
+          ],
+          [
+            -102.17818681297177,
+            31.125527805499882
+          ],
+          [
+            -102.10554207805276,
+            31.099323754234593
+          ],
+          [
+            -102.04764754175841,
+            31.093955767428852
+          ],
+          [
+            -102.00087930950275,
+            30.99880700235642
+          ],
+          [
+            -101.86820585856657,
+            30.914504811556803
+          ],
+          [
+            -101.83975038165569,
+            30.85011769314354
+          ],
+          [
+            -101.77836496836971,
+            30.8
+          ]
+        ]
+      },
+      "properties": {
+        "pipeline_id": "REF-PIPE-2-184",
+        "source_feature_id": 184,
+        "source_layer_id": 2,
+        "source_layer_name": "Crude Oil Trunk Pipelines",
+        "pipeline_type": "Crude Oil",
+        "product": "Crude Oil",
+        "operator_name": "PLAINS ALL AMERICAN PIPELINE",
+        "pipeline_name": "Cactus Pipeline",
+        "source_reported_km": 446.88559979,
+        "source_reported_miles": 277.68183793,
+        "source_type": "public_reference",
+        "source_name": "U.S. DOE/NETL public EIA pipeline service",
+        "source_url": "https://arcgis.netl.doe.gov/server/rest/services/Hosted/EIA_pipeline_data/FeatureServer/2",
+        "accessed_on": "2026-10-07",
+        "geometry_note": "Public line geometry clipped to the Midland–Odessa study extent; source attributes are preserved only where published."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "REF-PIPE-2-202",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -102.90345443973386,
+            32.80141685734972
+          ],
+          [
+            -100.5,
+            31.77797514508571
+          ]
+        ]
+      },
+      "properties": {
+        "pipeline_id": "REF-PIPE-2-202",
+        "source_feature_id": 202,
+        "source_layer_id": 2,
+        "source_layer_name": "Crude Oil Trunk Pipelines",
+        "pipeline_type": "Crude Oil",
+        "product": "Crude Oil",
+        "operator_name": "ENTERPRISE PRODUCTS PARTNERS",
+        "pipeline_name": "Seminole Red Pipeline",
+        "source_reported_km": 837.51136553,
+        "source_reported_miles": 520.40543571,
+        "source_type": "public_reference",
+        "source_name": "U.S. DOE/NETL public EIA pipeline service",
+        "source_url": "https://arcgis.netl.doe.gov/server/rest/services/Hosted/EIA_pipeline_data/FeatureServer/2",
+        "accessed_on": "2026-10-07",
+        "geometry_note": "Public line geometry clipped to the Midland–Odessa study extent; source attributes are preserved only where published."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "REF-PIPE-2-208",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -100.5,
+            32.45501499628782
+          ],
+          [
+            -100.83391594869073,
+            32.528925272543994
+          ]
+        ]
+      },
+      "properties": {
+        "pipeline_id": "REF-PIPE-2-208",
+        "source_feature_id": 208,
+        "source_layer_id": 2,
+        "source_layer_name": "Crude Oil Trunk Pipelines",
+        "pipeline_type": "Crude Oil",
+        "product": "Crude Oil",
+        "operator_name": "SUNOCO",
+        "pipeline_name": "West Texas Gulf",
+        "source_reported_km": 745.0633852,
+        "source_reported_miles": 462.96092396,
+        "source_type": "public_reference",
+        "source_name": "U.S. DOE/NETL public EIA pipeline service",
+        "source_url": "https://arcgis.netl.doe.gov/server/rest/services/Hosted/EIA_pipeline_data/FeatureServer/2",
+        "accessed_on": "2026-10-07",
+        "geometry_note": "Public line geometry clipped to the Midland–Odessa study extent; source attributes are preserved only where published."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "REF-PIPE-2-209",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -103.5,
+            31.28794125699599
+          ],
+          [
+            -103.33330315947748,
+            31.311755091247598
+          ],
+          [
+            -103.13848958060231,
+            31.30328493520191
+          ],
+          [
+            -102.69804148610777,
+            31.39645664812113
+          ],
+          [
+            -102.3592352597117,
+            31.430337271508485
+          ],
+          [
+            -102.07972012289004,
+            31.50656867148082
+          ],
+          [
+            -101.98654840941839,
+            31.51503882767859
+          ],
+          [
+            -101.6731526504961,
+            31.19317291229498
+          ],
+          [
+            -101.36822704709898,
+            30.97294886538535
+          ],
+          [
+            -101.08871190937899,
+            30.87130699752918
+          ],
+          [
+            -101.06494291109806,
+            30.8
+          ]
+        ]
+      },
+      "properties": {
+        "pipeline_id": "REF-PIPE-2-209",
+        "source_feature_id": 209,
+        "source_layer_id": 2,
+        "source_layer_name": "Crude Oil Trunk Pipelines",
+        "pipeline_type": "Crude Oil",
+        "product": "Crude Oil",
+        "operator_name": "EPIC",
+        "pipeline_name": "EPIC Crude Pipeline",
+        "source_reported_km": 998.6590128,
+        "source_reported_miles": 620.53794143,
+        "source_type": "public_reference",
+        "source_name": "U.S. DOE/NETL public EIA pipeline service",
+        "source_url": "https://arcgis.netl.doe.gov/server/rest/services/Hosted/EIA_pipeline_data/FeatureServer/2",
+        "accessed_on": "2026-10-07",
+        "geometry_note": "Public line geometry clipped to the Midland–Odessa study extent; source attributes are preserved only where published."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "REF-PIPE-2-210",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -102.12580657516754,
+            31.180899035131883
+          ],
+          [
+            -102.11732520956595,
+            31.169220043597406
+          ],
+          [
+            -102.04468047464691,
+            31.14301599235737
+          ],
+          [
+            -101.98678593835254,
+            31.13764800498082
+          ],
+          [
+            -101.94001770699523,
+            31.042499240549674
+          ],
+          [
+            -101.80734425605907,
+            30.958197048989742
+          ],
+          [
+            -101.77888877914818,
+            30.893809931301558
+          ],
+          [
+            -101.66398801152947,
+            30.8
+          ]
+        ]
+      },
+      "properties": {
+        "pipeline_id": "REF-PIPE-2-210",
+        "source_feature_id": 210,
+        "source_layer_id": 2,
+        "source_layer_name": "Crude Oil Trunk Pipelines",
+        "pipeline_type": "Crude Oil",
+        "product": "Crude Oil",
+        "operator_name": "PLAINS ALL AMERICAN PIPELINE",
+        "pipeline_name": "Cactus Pipeline",
+        "source_reported_km": 641.3862145,
+        "source_reported_miles": 398.53891679,
+        "source_type": "public_reference",
+        "source_name": "U.S. DOE/NETL public EIA pipeline service",
+        "source_url": "https://arcgis.netl.doe.gov/server/rest/services/Hosted/EIA_pipeline_data/FeatureServer/2",
+        "accessed_on": "2026-10-07",
+        "geometry_note": "Public line geometry clipped to the Midland–Odessa study extent; source attributes are preserved only where published."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "REF-PIPE-2-215",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -102.37017814932896,
+            31.429243173558657
+          ],
+          [
+            -102.50976753649977,
+            31.400567795245458
+          ],
+          [
+            -102.59173690444221,
+            31.38577167611056
+          ],
+          [
+            -102.69508208072735,
+            31.379275749390693
+          ],
+          [
+            -102.76788684063278,
+            31.36145530612303
+          ],
+          [
+            -102.80119597161762,
+            31.354398814293848
+          ],
+          [
+            -102.82547802034726,
+            31.32249703919564
+          ],
+          [
+            -102.86647427956007,
+            31.32582354907672
+          ],
+          [
+            -102.88396378913404,
+            31.321163148399584
+          ],
+          [
+            -102.9332565289849,
+            31.31644456923851
+          ],
+          [
+            -103.03712508082253,
+            31.333797833372856
+          ],
+          [
+            -103.09140323334498,
+            31.362381757043547
+          ],
+          [
+            -103.1026179819133,
+            31.369334114386227
+          ],
+          [
+            -103.11487850062636,
+            31.374142920544124
+          ],
+          [
+            -103.12423714476475,
+            31.38273502635127
+          ],
+          [
+            -103.15584379041978,
+            31.402323368136308
+          ],
+          [
+            -103.16499838852957,
+            31.415724791310815
+          ],
+          [
+            -103.25179445659587,
+            31.478597111657088
+          ]
+        ]
+      },
+      "properties": {
+        "pipeline_id": "REF-PIPE-2-215",
+        "source_feature_id": 215,
+        "source_layer_id": 2,
+        "source_layer_name": "Crude Oil Trunk Pipelines",
+        "pipeline_type": "Crude Oil",
+        "product": "Crude Oil",
+        "operator_name": "MEDALLION",
+        "pipeline_name": "Delaware Express Pipeline",
+        "source_reported_km": 92.8134624,
+        "source_reported_miles": 57.67161178,
+        "source_type": "public_reference",
+        "source_name": "U.S. DOE/NETL public EIA pipeline service",
+        "source_url": "https://arcgis.netl.doe.gov/server/rest/services/Hosted/EIA_pipeline_data/FeatureServer/2",
+        "accessed_on": "2026-10-07",
+        "geometry_note": "Public line geometry clipped to the Midland–Odessa study extent; source attributes are preserved only where published."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "REF-PIPE-2-216",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -102.01557451057079,
+            32.02044640828508
+          ],
+          [
+            -101.97065903562235,
+            31.987855273319287
+          ],
+          [
+            -101.92305614180529,
+            32.00012892221008
+          ],
+          [
+            -101.13553465050778,
+            31.959902950646068
+          ],
+          [
+            -100.68724066852509,
+            31.918241016253667
+          ],
+          [
+            -100.5,
+            31.842504100884554
+          ]
+        ]
+      },
+      "properties": {
+        "pipeline_id": "REF-PIPE-2-216",
+        "source_feature_id": 216,
+        "source_layer_id": 2,
+        "source_layer_name": "Crude Oil Trunk Pipelines",
+        "pipeline_type": "Crude Oil",
+        "product": "Crude Oil",
+        "operator_name": "ENTERPRISE PRODUCTS PARTNERS",
+        "pipeline_name": "Midland to Sealy",
+        "source_reported_km": 640.10497486,
+        "source_reported_miles": 397.74279139,
+        "source_type": "public_reference",
+        "source_name": "U.S. DOE/NETL public EIA pipeline service",
+        "source_url": "https://arcgis.netl.doe.gov/server/rest/services/Hosted/EIA_pipeline_data/FeatureServer/2",
+        "accessed_on": "2026-10-07",
+        "geometry_note": "Public line geometry clipped to the Midland–Odessa study extent; source attributes are preserved only where published."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "REF-PIPE-2-218",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -103.5,
+            31.78674203956031
+          ],
+          [
+            -103.14978770989697,
+            31.750729097193073
+          ],
+          [
+            -102.78604291452062,
+            31.517213639192153
+          ],
+          [
+            -102.38006129101565,
+            31.348913351952458
+          ],
+          [
+            -102.18063840970525,
+            31.387524182947615
+          ],
+          [
+            -101.88471069331662,
+            31.335818624467382
+          ],
+          [
+            -101.3694709039753,
+            30.8
+          ]
+        ]
+      },
+      "properties": {
+        "pipeline_id": "REF-PIPE-2-218",
+        "source_feature_id": 218,
+        "source_layer_id": 2,
+        "source_layer_name": "Crude Oil Trunk Pipelines",
+        "pipeline_type": "Crude Oil",
+        "product": "Crude Oil",
+        "operator_name": "PHILLIPS 66 PIPELINE",
+        "pipeline_name": "Gray Oak Pipeline",
+        "source_reported_km": 1015.60067196,
+        "source_reported_miles": 631.06500037,
+        "source_type": "public_reference",
+        "source_name": "U.S. DOE/NETL public EIA pipeline service",
+        "source_url": "https://arcgis.netl.doe.gov/server/rest/services/Hosted/EIA_pipeline_data/FeatureServer/2",
+        "accessed_on": "2026-10-07",
+        "geometry_note": "Public line geometry clipped to the Midland–Odessa study extent; source attributes are preserved only where published."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "REF-PIPE-2-221",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -103.5,
+            31.836457506392478
+          ],
+          [
+            -103.14978770989697,
+            31.750729097193073
+          ]
+        ]
+      },
+      "properties": {
+        "pipeline_id": "REF-PIPE-2-221",
+        "source_feature_id": 221,
+        "source_layer_id": 2,
+        "source_layer_name": "Crude Oil Trunk Pipelines",
+        "pipeline_type": "Crude Oil",
+        "product": "Crude Oil",
+        "operator_name": "PHILLIPS 66 PIPELINE",
+        "pipeline_name": "Gray Oak Pipeline",
+        "source_reported_km": 80.05333042,
+        "source_reported_miles": 49.74283337,
+        "source_type": "public_reference",
+        "source_name": "U.S. DOE/NETL public EIA pipeline service",
+        "source_url": "https://arcgis.netl.doe.gov/server/rest/services/Hosted/EIA_pipeline_data/FeatureServer/2",
+        "accessed_on": "2026-10-07",
+        "geometry_note": "Public line geometry clipped to the Midland–Odessa study extent; source attributes are preserved only where published."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "REF-PIPE-2-27",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -102.39218038975017,
+            31.42345641695136
+          ],
+          [
+            -101.660548104877,
+            31.194126052501694
+          ],
+          [
+            -101.21538925311737,
+            30.962548749327112
+          ],
+          [
+            -100.5118794052782,
+            30.8
+          ]
+        ]
+      },
+      "properties": {
+        "pipeline_id": "REF-PIPE-2-27",
+        "source_feature_id": 27,
+        "source_layer_id": 2,
+        "source_layer_name": "Crude Oil Trunk Pipelines",
+        "pipeline_type": "Crude Oil",
+        "product": "Crude Oil",
+        "operator_name": "MAGELLAN MIDSTREAM PARTNERS",
+        "pipeline_name": "Longhorn",
+        "source_reported_km": 772.55406312,
+        "source_reported_miles": 480.04283927,
+        "source_type": "public_reference",
+        "source_name": "U.S. DOE/NETL public EIA pipeline service",
+        "source_url": "https://arcgis.netl.doe.gov/server/rest/services/Hosted/EIA_pipeline_data/FeatureServer/2",
+        "accessed_on": "2026-10-07",
+        "geometry_note": "Public line geometry clipped to the Midland–Odessa study extent; source attributes are preserved only where published."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "REF-PIPE-2-32",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -103.1571324389662,
+            32.66924618032431
+          ],
+          [
+            -103.17708607407691,
+            32.0646076690258
+          ],
+          [
+            -103.13293791668795,
+            31.786125002056014
+          ],
+          [
+            -102.03979875450852,
+            32.00555154838078
+          ],
+          [
+            -101.0588584409853,
+            32.257129202416806
+          ],
+          [
+            -100.68989574085694,
+            32.69955045900065
+          ],
+          [
+            -100.5,
+            32.80243686925074
+          ]
+        ]
+      },
+      "properties": {
+        "pipeline_id": "REF-PIPE-2-32",
+        "source_feature_id": 32,
+        "source_layer_id": 2,
+        "source_layer_name": "Crude Oil Trunk Pipelines",
+        "pipeline_type": "Crude Oil",
+        "product": "Crude Oil",
+        "operator_name": "PLAINS ALL AMERICAN PIPELINE",
+        "pipeline_name": "Basin",
+        "source_reported_km": 884.66727721,
+        "source_reported_miles": 549.70676077,
+        "source_type": "public_reference",
+        "source_name": "U.S. DOE/NETL public EIA pipeline service",
+        "source_url": "https://arcgis.netl.doe.gov/server/rest/services/Hosted/EIA_pipeline_data/FeatureServer/2",
+        "accessed_on": "2026-10-07",
+        "geometry_note": "Public line geometry clipped to the Midland–Odessa study extent; source attributes are preserved only where published."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "REF-PIPE-2-51",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -100.5,
+            31.84418401436482
+          ],
+          [
+            -100.58704926250518,
+            31.855714200462348
+          ],
+          [
+            -100.70897563140319,
+            31.850051823992167
+          ],
+          [
+            -100.7285401387907,
+            31.842573909440937
+          ],
+          [
+            -100.78529254265979,
+            31.86983580641526
+          ],
+          [
+            -101.3146691502966,
+            31.920015493607742
+          ],
+          [
+            -102.01830728088653,
+            32.01257553917505
+          ]
+        ]
+      },
+      "properties": {
+        "pipeline_id": "REF-PIPE-2-51",
+        "source_feature_id": 51,
+        "source_layer_id": 2,
+        "source_layer_name": "Crude Oil Trunk Pipelines",
+        "pipeline_type": "Crude Oil",
+        "product": "Crude Oil",
+        "operator_name": "SUNOCO",
+        "pipeline_name": "Amdel",
+        "source_reported_km": 802.72874396,
+        "source_reported_miles": 498.79251668,
+        "source_type": "public_reference",
+        "source_name": "U.S. DOE/NETL public EIA pipeline service",
+        "source_url": "https://arcgis.netl.doe.gov/server/rest/services/Hosted/EIA_pipeline_data/FeatureServer/2",
+        "accessed_on": "2026-10-07",
+        "geometry_note": "Public line geometry clipped to the Midland–Odessa study extent; source attributes are preserved only where published."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "REF-PIPE-2-52",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -101.31485916374213,
+            31.920913464569484
+          ],
+          [
+            -101.31928751852966,
+            31.948361586587044
+          ],
+          [
+            -101.31869173337533,
+            31.971832853485754
+          ],
+          [
+            -101.31493326756653,
+            32.027031016092494
+          ],
+          [
+            -101.32695709816853,
+            32.07409928424014
+          ],
+          [
+            -101.35213010138685,
+            32.11412774634562
+          ],
+          [
+            -101.36097857700403,
+            32.13803084969247
+          ],
+          [
+            -101.38399576457596,
+            32.1966496342742
+          ],
+          [
+            -101.3922212235093,
+            32.220507733010656
+          ],
+          [
+            -101.41077929708004,
+            32.269265991159244
+          ]
+        ]
+      },
+      "properties": {
+        "pipeline_id": "REF-PIPE-2-52",
+        "source_feature_id": 52,
+        "source_layer_id": 2,
+        "source_layer_name": "Crude Oil Trunk Pipelines",
+        "pipeline_type": "Crude Oil",
+        "product": "Crude Oil",
+        "operator_name": "SUNOCO",
+        "pipeline_name": "Amdel",
+        "source_reported_km": 40.25450114,
+        "source_reported_miles": 25.01298737,
+        "source_type": "public_reference",
+        "source_name": "U.S. DOE/NETL public EIA pipeline service",
+        "source_url": "https://arcgis.netl.doe.gov/server/rest/services/Hosted/EIA_pipeline_data/FeatureServer/2",
+        "accessed_on": "2026-10-07",
+        "geometry_note": "Public line geometry clipped to the Midland–Odessa study extent; source attributes are preserved only where published."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "REF-PIPE-2-57",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -102.01857428803673,
+            32.012559537168585
+          ],
+          [
+            -101.69524088035125,
+            32.132955416366265
+          ],
+          [
+            -101.6161623314173,
+            32.218412817435286
+          ],
+          [
+            -101.44120372658351,
+            32.31467449097413
+          ],
+          [
+            -100.83207391097984,
+            32.529048278275
+          ]
+        ]
+      },
+      "properties": {
+        "pipeline_id": "REF-PIPE-2-57",
+        "source_feature_id": 57,
+        "source_layer_id": 2,
+        "source_layer_name": "Crude Oil Trunk Pipelines",
+        "pipeline_type": "Crude Oil",
+        "product": "Crude Oil",
+        "operator_name": "PLAINS ALL AMERICAN PIPELINE",
+        "pipeline_name": "Mesa",
+        "source_reported_km": 127.04787815,
+        "source_reported_miles": 78.94389151,
+        "source_type": "public_reference",
+        "source_name": "U.S. DOE/NETL public EIA pipeline service",
+        "source_url": "https://arcgis.netl.doe.gov/server/rest/services/Hosted/EIA_pipeline_data/FeatureServer/2",
+        "accessed_on": "2026-10-07",
+        "geometry_note": "Public line geometry clipped to the Midland–Odessa study extent; source attributes are preserved only where published."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "REF-PIPE-2-58",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -100.83405793281128,
+            32.52737531834285
+          ],
+          [
+            -100.54515897476878,
+            32.61720755649373
+          ]
+        ]
+      },
+      "properties": {
+        "pipeline_id": "REF-PIPE-2-58",
+        "source_feature_id": 58,
+        "source_layer_id": 2,
+        "source_layer_name": "Crude Oil Trunk Pipelines",
+        "pipeline_type": "Crude Oil",
+        "product": "Crude Oil",
+        "operator_name": "SUNOCO",
+        "pipeline_name": "Texas",
+        "source_reported_km": 28.89938639,
+        "source_reported_miles": 17.95724617,
+        "source_type": "public_reference",
+        "source_name": "U.S. DOE/NETL public EIA pipeline service",
+        "source_url": "https://arcgis.netl.doe.gov/server/rest/services/Hosted/EIA_pipeline_data/FeatureServer/2",
+        "accessed_on": "2026-10-07",
+        "geometry_note": "Public line geometry clipped to the Midland–Odessa study extent; source attributes are preserved only where published."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "REF-PIPE-2-62",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -100.5,
+            32.454248818478526
+          ],
+          [
+            -100.83444917067709,
+            32.53352258358881
+          ],
+          [
+            -101.04044246202787,
+            32.24915555046521
+          ],
+          [
+            -101.12937231455824,
+            32.20469255994926
+          ],
+          [
+            -101.3474285788029,
+            31.996701791401826
+          ],
+          [
+            -101.70724768877695,
+            31.887514904583675
+          ],
+          [
+            -101.86769624071265,
+            31.933144393427032
+          ],
+          [
+            -101.9036934616076,
+            31.931013316476918
+          ]
+        ]
+      },
+      "properties": {
+        "pipeline_id": "REF-PIPE-2-62",
+        "source_feature_id": 62,
+        "source_layer_id": 2,
+        "source_layer_name": "Crude Oil Trunk Pipelines",
+        "pipeline_type": "Crude Oil",
+        "product": "Crude Oil",
+        "operator_name": "PERMIAN EXPRESS PARTNERS",
+        "pipeline_name": "Midland, TX - Corsicana, TX",
+        "source_reported_km": 575.59612099,
+        "source_reported_miles": 357.65884795,
+        "source_type": "public_reference",
+        "source_name": "U.S. DOE/NETL public EIA pipeline service",
+        "source_url": "https://arcgis.netl.doe.gov/server/rest/services/Hosted/EIA_pipeline_data/FeatureServer/2",
+        "accessed_on": "2026-10-07",
+        "geometry_note": "Public line geometry clipped to the Midland–Odessa study extent; source attributes are preserved only where published."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "REF-PIPE-2-93",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -102.8638772193375,
+            33.2
+          ],
+          [
+            -102.97559574708959,
+            33.007237499428776
+          ],
+          [
+            -103.0646342822946,
+            32.68465798628172
+          ],
+          [
+            -102.60435856656075,
+            31.951179058313883
+          ]
+        ]
+      },
+      "properties": {
+        "pipeline_id": "REF-PIPE-2-93",
+        "source_feature_id": 93,
+        "source_layer_id": 2,
+        "source_layer_name": "Crude Oil Trunk Pipelines",
+        "pipeline_type": "Crude Oil",
+        "product": "Crude Oil",
+        "operator_name": "PHILLIPS 66 PIPELINE",
+        "pipeline_name": "Odessa/Weems, TX - Borger, TX",
+        "source_reported_km": 462.89440453,
+        "source_reported_miles": 287.62924803,
+        "source_type": "public_reference",
+        "source_name": "U.S. DOE/NETL public EIA pipeline service",
+        "source_url": "https://arcgis.netl.doe.gov/server/rest/services/Hosted/EIA_pipeline_data/FeatureServer/2",
+        "accessed_on": "2026-10-07",
+        "geometry_note": "Public line geometry clipped to the Midland–Odessa study extent; source attributes are preserved only where published."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "REF-PIPE-2-95",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -103.5,
+            33.03644027676662
+          ],
+          [
+            -103.11441480375143,
+            33.02445736824018
+          ],
+          [
+            -103.05511267657714,
+            32.9685031680406
+          ],
+          [
+            -102.30642259089598,
+            32.9871446644846
+          ]
+        ]
+      },
+      "properties": {
+        "pipeline_id": "REF-PIPE-2-95",
+        "source_feature_id": 95,
+        "source_layer_id": 2,
+        "source_layer_name": "Crude Oil Trunk Pipelines",
+        "pipeline_type": "Crude Oil",
+        "product": "Crude Oil",
+        "operator_name": "CENTURION PIPELINE",
+        "pipeline_name": "Centurion Pipeline",
+        "source_reported_km": 247.49876396,
+        "source_reported_miles": 153.78860204,
+        "source_type": "public_reference",
+        "source_name": "U.S. DOE/NETL public EIA pipeline service",
+        "source_url": "https://arcgis.netl.doe.gov/server/rest/services/Hosted/EIA_pipeline_data/FeatureServer/2",
+        "accessed_on": "2026-10-07",
+        "geometry_note": "Public line geometry clipped to the Midland–Odessa study extent; source attributes are preserved only where published."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "REF-PIPE-2-97",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -103.11466671201836,
+            33.017207419323306
+          ],
+          [
+            -103.11190447923614,
+            33.2
+          ]
+        ]
+      },
+      "properties": {
+        "pipeline_id": "REF-PIPE-2-97",
+        "source_feature_id": 97,
+        "source_layer_id": 2,
+        "source_layer_name": "Crude Oil Trunk Pipelines",
+        "pipeline_type": "Crude Oil",
+        "product": "Crude Oil",
+        "operator_name": "CENTURION PIPELINE",
+        "pipeline_name": "Centurion Pipeline",
+        "source_reported_km": 54.58366708,
+        "source_reported_miles": 33.91671829,
+        "source_type": "public_reference",
+        "source_name": "U.S. DOE/NETL public EIA pipeline service",
+        "source_url": "https://arcgis.netl.doe.gov/server/rest/services/Hosted/EIA_pipeline_data/FeatureServer/2",
+        "accessed_on": "2026-10-07",
+        "geometry_note": "Public line geometry clipped to the Midland–Odessa study extent; source attributes are preserved only where published."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "REF-PIPE-2-99",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -102.60534857282259,
+            33.2
+          ],
+          [
+            -102.76858242771682,
+            32.985083914190575
+          ],
+          [
+            -102.84461864059998,
+            32.48125766518534
+          ],
+          [
+            -102.80657971255759,
+            32.33276498326969
+          ],
+          [
+            -102.8113148968119,
+            31.881805591098377
+          ],
+          [
+            -102.79229825035657,
+            31.837395323492483
+          ]
+        ]
+      },
+      "properties": {
+        "pipeline_id": "REF-PIPE-2-99",
+        "source_feature_id": 99,
+        "source_layer_id": 2,
+        "source_layer_name": "Crude Oil Trunk Pipelines",
+        "pipeline_type": "Crude Oil",
+        "product": "Crude Oil",
+        "operator_name": "CENTURION PIPELINE",
+        "pipeline_name": "Centurion Pipeline",
+        "source_reported_km": 184.43562481,
+        "source_reported_miles": 114.60298408,
+        "source_type": "public_reference",
+        "source_name": "U.S. DOE/NETL public EIA pipeline service",
+        "source_url": "https://arcgis.netl.doe.gov/server/rest/services/Hosted/EIA_pipeline_data/FeatureServer/2",
+        "accessed_on": "2026-10-07",
+        "geometry_note": "Public line geometry clipped to the Midland–Odessa study extent; source attributes are preserved only where published."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "REF-PIPE-3-10",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -102.86292800031295,
+            31.79464700026761
+          ],
+          [
+            -102.90650800023417,
+            31.661517000359705
+          ],
+          [
+            -102.88471600062373,
+            31.63932900028734
+          ],
+          [
+            -102.74526000069622,
+            31.672611000561833
+          ]
+        ]
+      },
+      "properties": {
+        "pipeline_id": "REF-PIPE-3-10",
+        "source_feature_id": 10,
+        "source_layer_id": 3,
+        "source_layer_name": "Natural Gas Interstate and Intrastate Pipelines",
+        "pipeline_type": "Natural Gas",
+        "product": "Natural Gas",
+        "operator_name": null,
+        "pipeline_name": null,
+        "source_reported_km": 32.27365056,
+        "source_reported_miles": 20.05391672,
+        "source_type": "public_reference",
+        "source_name": "U.S. DOE/NETL public EIA pipeline service",
+        "source_url": "https://arcgis.netl.doe.gov/server/rest/services/Hosted/EIA_pipeline_data/FeatureServer/3",
+        "accessed_on": "2026-10-07",
+        "geometry_note": "Public line geometry clipped to the Midland–Odessa study extent; source attributes are preserved only where published."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "REF-PIPE-3-12",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -102.88471600062373,
+            31.23993700055925
+          ],
+          [
+            -102.94572799997445,
+            30.95148800055656
+          ]
+        ]
+      },
+      "properties": {
+        "pipeline_id": "REF-PIPE-3-12",
+        "source_feature_id": 12,
+        "source_layer_id": 3,
+        "source_layer_name": "Natural Gas Interstate and Intrastate Pipelines",
+        "pipeline_type": "Natural Gas",
+        "product": "Natural Gas",
+        "operator_name": null,
+        "pipeline_name": null,
+        "source_reported_km": 32.50611637,
+        "source_reported_miles": 20.19836428,
+        "source_type": "public_reference",
+        "source_name": "U.S. DOE/NETL public EIA pipeline service",
+        "source_url": "https://arcgis.netl.doe.gov/server/rest/services/Hosted/EIA_pipeline_data/FeatureServer/3",
+        "accessed_on": "2026-10-07",
+        "geometry_note": "Public line geometry clipped to the Midland–Odessa study extent; source attributes are preserved only where published."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "REF-PIPE-3-13500",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -101.55340500069096,
+            31.88683900012424
+          ],
+          [
+            -101.31820700065141,
+            31.995688999953597
+          ],
+          [
+            -101.27284400029977,
+            32.00859600061077
+          ],
+          [
+            -101.25322800058184,
+            32.00874800023419
+          ],
+          [
+            -101.24832500025269,
+            32.02492400009516
+          ],
+          [
+            -101.2054150007013,
+            32.04139300011234
+          ],
+          [
+            -101.15514700037069,
+            32.06151100015453
+          ],
+          [
+            -101.08812299992987,
+            32.082673000639645
+          ]
+        ]
+      },
+      "properties": {
+        "pipeline_id": "REF-PIPE-3-13500",
+        "source_feature_id": 13500,
+        "source_layer_id": 3,
+        "source_layer_name": "Natural Gas Interstate and Intrastate Pipelines",
+        "pipeline_type": "Natural Gas",
+        "product": "Natural Gas",
+        "operator_name": null,
+        "pipeline_name": null,
+        "source_reported_km": 49.96853438,
+        "source_reported_miles": 31.04900778,
+        "source_type": "public_reference",
+        "source_name": "U.S. DOE/NETL public EIA pipeline service",
+        "source_url": "https://arcgis.netl.doe.gov/server/rest/services/Hosted/EIA_pipeline_data/FeatureServer/3",
+        "accessed_on": "2026-10-07",
+        "geometry_note": "Public line geometry clipped to the Midland–Odessa study extent; source attributes are preserved only where published."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "REF-PIPE-3-13774",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -100.89521000017604,
+            32.5331140005017
+          ],
+          [
+            -100.9060070006962,
+            32.671804000528
+          ],
+          [
+            -100.90593400000296,
+            32.68496500009809
+          ]
+        ]
+      },
+      "properties": {
+        "pipeline_id": "REF-PIPE-3-13774",
+        "source_feature_id": 13774,
+        "source_layer_id": 3,
+        "source_layer_name": "Natural Gas Interstate and Intrastate Pipelines",
+        "pipeline_type": "Natural Gas",
+        "product": "Natural Gas",
+        "operator_name": null,
+        "pipeline_name": null,
+        "source_reported_km": 16.87327327,
+        "source_reported_miles": 10.48456593,
+        "source_type": "public_reference",
+        "source_name": "U.S. DOE/NETL public EIA pipeline service",
+        "source_url": "https://arcgis.netl.doe.gov/server/rest/services/Hosted/EIA_pipeline_data/FeatureServer/3",
+        "accessed_on": "2026-10-07",
+        "geometry_note": "Public line geometry clipped to the Midland–Odessa study extent; source attributes are preserved only where published."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "REF-PIPE-3-13790",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -100.93452100015291,
+            32.33063799998354
+          ],
+          [
+            -100.92643900037382,
+            32.37123100061204
+          ],
+          [
+            -100.91527699998066,
+            32.38768900066344
+          ],
+          [
+            -100.9057540000779,
+            32.38878900059824
+          ],
+          [
+            -100.90253799991973,
+            32.400860000124865
+          ],
+          [
+            -100.88508200020078,
+            32.40305900058075
+          ]
+        ]
+      },
+      "properties": {
+        "pipeline_id": "REF-PIPE-3-13790",
+        "source_feature_id": 13790,
+        "source_layer_id": 3,
+        "source_layer_name": "Natural Gas Interstate and Intrastate Pipelines",
+        "pipeline_type": "Natural Gas",
+        "product": "Natural Gas",
+        "operator_name": null,
+        "pipeline_name": null,
+        "source_reported_km": 10.60799021,
+        "source_reported_miles": 6.59149952,
+        "source_type": "public_reference",
+        "source_name": "U.S. DOE/NETL public EIA pipeline service",
+        "source_url": "https://arcgis.netl.doe.gov/server/rest/services/Hosted/EIA_pipeline_data/FeatureServer/3",
+        "accessed_on": "2026-10-07",
+        "geometry_note": "Public line geometry clipped to the Midland–Odessa study extent; source attributes are preserved only where published."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "REF-PIPE-3-13892",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -103.24988900052085,
+            31.61010800029503
+          ],
+          [
+            -103.23055100063729,
+            31.605897000075775
+          ],
+          [
+            -103.22640600054152,
+            31.601632000285534
+          ],
+          [
+            -103.12195499993827,
+            31.389501000475907
+          ]
+        ]
+      },
+      "properties": {
+        "pipeline_id": "REF-PIPE-3-13892",
+        "source_feature_id": 13892,
+        "source_layer_id": 3,
+        "source_layer_name": "Natural Gas Interstate and Intrastate Pipelines",
+        "pipeline_type": "Natural Gas",
+        "product": "Natural Gas",
+        "operator_name": null,
+        "pipeline_name": null,
+        "source_reported_km": 28.03700839,
+        "source_reported_miles": 17.42138933,
+        "source_type": "public_reference",
+        "source_name": "U.S. DOE/NETL public EIA pipeline service",
+        "source_url": "https://arcgis.netl.doe.gov/server/rest/services/Hosted/EIA_pipeline_data/FeatureServer/3",
+        "accessed_on": "2026-10-07",
+        "geometry_note": "Public line geometry clipped to the Midland–Odessa study extent; source attributes are preserved only where published."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "REF-PIPE-3-15176",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -103.30649600038312,
+            32.76390400032559
+          ],
+          [
+            -103.5,
+            32.823718385367634
+          ]
+        ]
+      },
+      "properties": {
+        "pipeline_id": "REF-PIPE-3-15176",
+        "source_feature_id": 15176,
+        "source_layer_id": 3,
+        "source_layer_name": "Natural Gas Interstate and Intrastate Pipelines",
+        "pipeline_type": "Natural Gas",
+        "product": "Natural Gas",
+        "operator_name": null,
+        "pipeline_name": null,
+        "source_reported_km": 22.13783119,
+        "source_reported_miles": 13.75581056,
+        "source_type": "public_reference",
+        "source_name": "U.S. DOE/NETL public EIA pipeline service",
+        "source_url": "https://arcgis.netl.doe.gov/server/rest/services/Hosted/EIA_pipeline_data/FeatureServer/3",
+        "accessed_on": "2026-10-07",
+        "geometry_note": "Public line geometry clipped to the Midland–Odessa study extent; source attributes are preserved only where published."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "REF-PIPE-3-15187",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -102.46963200077138,
+            32.96307200008556
+          ],
+          [
+            -102.34060800059272,
+            32.908032000004596
+          ]
+        ]
+      },
+      "properties": {
+        "pipeline_id": "REF-PIPE-3-15187",
+        "source_feature_id": 15187,
+        "source_layer_id": 3,
+        "source_layer_name": "Natural Gas Interstate and Intrastate Pipelines",
+        "pipeline_type": "Natural Gas",
+        "product": "Natural Gas",
+        "operator_name": null,
+        "pipeline_name": null,
+        "source_reported_km": 13.5225684,
+        "source_reported_miles": 8.40253445,
+        "source_type": "public_reference",
+        "source_name": "U.S. DOE/NETL public EIA pipeline service",
+        "source_url": "https://arcgis.netl.doe.gov/server/rest/services/Hosted/EIA_pipeline_data/FeatureServer/3",
+        "accessed_on": "2026-10-07",
+        "geometry_note": "Public line geometry clipped to the Midland–Odessa study extent; source attributes are preserved only where published."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "REF-PIPE-3-15195",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -103.05612800012196,
+            31.499776000380106
+          ],
+          [
+            -103.05614900003836,
+            31.6010899999734
+          ],
+          [
+            -103.0561300006701,
+            31.62621700009316
+          ],
+          [
+            -103.05612800012196,
+            31.65107200015982
+          ]
+        ]
+      },
+      "properties": {
+        "pipeline_id": "REF-PIPE-3-15195",
+        "source_feature_id": 15195,
+        "source_layer_id": 3,
+        "source_layer_name": "Natural Gas Interstate and Intrastate Pipelines",
+        "pipeline_type": "Natural Gas",
+        "product": "Natural Gas",
+        "operator_name": null,
+        "pipeline_name": null,
+        "source_reported_km": 16.77561153,
+        "source_reported_miles": 10.42388174,
+        "source_type": "public_reference",
+        "source_name": "U.S. DOE/NETL public EIA pipeline service",
+        "source_url": "https://arcgis.netl.doe.gov/server/rest/services/Hosted/EIA_pipeline_data/FeatureServer/3",
+        "accessed_on": "2026-10-07",
+        "geometry_note": "Public line geometry clipped to the Midland–Odessa study extent; source attributes are preserved only where published."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "REF-PIPE-3-15203",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -102.20467200059699,
+            32.41344000007655
+          ],
+          [
+            -102.34777600050282,
+            32.53043200010426
+          ]
+        ]
+      },
+      "properties": {
+        "pipeline_id": "REF-PIPE-3-15203",
+        "source_feature_id": 15203,
+        "source_layer_id": 3,
+        "source_layer_name": "Natural Gas Interstate and Intrastate Pipelines",
+        "pipeline_type": "Natural Gas",
+        "product": "Natural Gas",
+        "operator_name": null,
+        "pipeline_name": null,
+        "source_reported_km": 18.6893978,
+        "source_reported_miles": 11.61305339,
+        "source_type": "public_reference",
+        "source_name": "U.S. DOE/NETL public EIA pipeline service",
+        "source_url": "https://arcgis.netl.doe.gov/server/rest/services/Hosted/EIA_pipeline_data/FeatureServer/3",
+        "accessed_on": "2026-10-07",
+        "geometry_note": "Public line geometry clipped to the Midland–Odessa study extent; source attributes are preserved only where published."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "REF-PIPE-3-15211",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -101.5964160005247,
+            31.740416000473484
+          ],
+          [
+            -101.53907200034547,
+            31.781632000520464
+          ]
+        ]
+      },
+      "properties": {
+        "pipeline_id": "REF-PIPE-3-15211",
+        "source_feature_id": 15211,
+        "source_layer_id": 3,
+        "source_layer_name": "Natural Gas Interstate and Intrastate Pipelines",
+        "pipeline_type": "Natural Gas",
+        "product": "Natural Gas",
+        "operator_name": null,
+        "pipeline_name": null,
+        "source_reported_km": 7.09926382,
+        "source_reported_miles": 4.41127802,
+        "source_type": "public_reference",
+        "source_name": "U.S. DOE/NETL public EIA pipeline service",
+        "source_url": "https://arcgis.netl.doe.gov/server/rest/services/Hosted/EIA_pipeline_data/FeatureServer/3",
+        "accessed_on": "2026-10-07",
+        "geometry_note": "Public line geometry clipped to the Midland–Odessa study extent; source attributes are preserved only where published."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "REF-PIPE-3-15219",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -101.11692800053802,
+            31.300864000505015
+          ],
+          [
+            -101.26720000035401,
+            31.25273600025379
+          ]
+        ]
+      },
+      "properties": {
+        "pipeline_id": "REF-PIPE-3-15219",
+        "source_feature_id": 15219,
+        "source_layer_id": 3,
+        "source_layer_name": "Natural Gas Interstate and Intrastate Pipelines",
+        "pipeline_type": "Natural Gas",
+        "product": "Natural Gas",
+        "operator_name": null,
+        "pipeline_name": null,
+        "source_reported_km": 15.27254014,
+        "source_reported_miles": 9.48991648,
+        "source_type": "public_reference",
+        "source_name": "U.S. DOE/NETL public EIA pipeline service",
+        "source_url": "https://arcgis.netl.doe.gov/server/rest/services/Hosted/EIA_pipeline_data/FeatureServer/3",
+        "accessed_on": "2026-10-07",
+        "geometry_note": "Public line geometry clipped to the Midland–Odessa study extent; source attributes are preserved only where published."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "REF-PIPE-3-15232",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -102.0974080002417,
+            31.204608000287898
+          ],
+          [
+            -101.83409400023037,
+            31.33091300035545
+          ],
+          [
+            -101.79649100034086,
+            31.3489500006495
+          ],
+          [
+            -101.78252800078953,
+            31.35564800046487
+          ]
+        ]
+      },
+      "properties": {
+        "pipeline_id": "REF-PIPE-3-15232",
+        "source_feature_id": 15232,
+        "source_layer_id": 3,
+        "source_layer_name": "Natural Gas Interstate and Intrastate Pipelines",
+        "pipeline_type": "Natural Gas",
+        "product": "Natural Gas",
+        "operator_name": null,
+        "pipeline_name": null,
+        "source_reported_km": 34.34370882,
+        "source_reported_miles": 21.34019129,
+        "source_type": "public_reference",
+        "source_name": "U.S. DOE/NETL public EIA pipeline service",
+        "source_url": "https://arcgis.netl.doe.gov/server/rest/services/Hosted/EIA_pipeline_data/FeatureServer/3",
+        "accessed_on": "2026-10-07",
+        "geometry_note": "Public line geometry clipped to the Midland–Odessa study extent; source attributes are preserved only where published."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "REF-PIPE-3-15240",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -102.27609600050339,
+            31.046656000092934
+          ],
+          [
+            -102.26892800059328,
+            31.08096000025707
+          ]
+        ]
+      },
+      "properties": {
+        "pipeline_id": "REF-PIPE-3-15240",
+        "source_feature_id": 15240,
+        "source_layer_id": 3,
+        "source_layer_name": "Natural Gas Interstate and Intrastate Pipelines",
+        "pipeline_type": "Natural Gas",
+        "product": "Natural Gas",
+        "operator_name": null,
+        "pipeline_name": null,
+        "source_reported_km": 3.86434177,
+        "source_reported_miles": 2.40119065,
+        "source_type": "public_reference",
+        "source_name": "U.S. DOE/NETL public EIA pipeline service",
+        "source_url": "https://arcgis.netl.doe.gov/server/rest/services/Hosted/EIA_pipeline_data/FeatureServer/3",
+        "accessed_on": "2026-10-07",
+        "geometry_note": "Public line geometry clipped to the Midland–Odessa study extent; source attributes are preserved only where published."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "REF-PIPE-3-15251",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -103.19923200002782,
+            31.499776000380106
+          ],
+          [
+            -103.18515200030062,
+            31.376384000622622
+          ]
+        ]
+      },
+      "properties": {
+        "pipeline_id": "REF-PIPE-3-15251",
+        "source_feature_id": 15251,
+        "source_layer_id": 3,
+        "source_layer_name": "Natural Gas Interstate and Intrastate Pipelines",
+        "pipeline_type": "Natural Gas",
+        "product": "Natural Gas",
+        "operator_name": null,
+        "pipeline_name": null,
+        "source_reported_km": 13.74665854,
+        "source_reported_miles": 8.5417776,
+        "source_type": "public_reference",
+        "source_name": "U.S. DOE/NETL public EIA pipeline service",
+        "source_url": "https://arcgis.netl.doe.gov/server/rest/services/Hosted/EIA_pipeline_data/FeatureServer/3",
+        "accessed_on": "2026-10-07",
+        "geometry_note": "Public line geometry clipped to the Midland–Odessa study extent; source attributes are preserved only where published."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "REF-PIPE-3-15259",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -101.07392000017904,
+            31.561728000352975
+          ],
+          [
+            -101.07392000017904,
+            31.527424000618595
+          ]
+        ]
+      },
+      "properties": {
+        "pipeline_id": "REF-PIPE-3-15259",
+        "source_feature_id": 15259,
+        "source_layer_id": 3,
+        "source_layer_name": "Natural Gas Interstate and Intrastate Pipelines",
+        "pipeline_type": "Natural Gas",
+        "product": "Natural Gas",
+        "operator_name": null,
+        "pipeline_name": null,
+        "source_reported_km": 3.80358877,
+        "source_reported_miles": 2.36344049,
+        "source_type": "public_reference",
+        "source_name": "U.S. DOE/NETL public EIA pipeline service",
+        "source_url": "https://arcgis.netl.doe.gov/server/rest/services/Hosted/EIA_pipeline_data/FeatureServer/3",
+        "accessed_on": "2026-10-07",
+        "geometry_note": "Public line geometry clipped to the Midland–Odessa study extent; source attributes are preserved only where published."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "REF-PIPE-3-15269",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -100.52300800028597,
+            31.005184000250864
+          ],
+          [
+            -100.5,
+            31.005184000250864
+          ]
+        ]
+      },
+      "properties": {
+        "pipeline_id": "REF-PIPE-3-15269",
+        "source_feature_id": 15269,
+        "source_layer_id": 3,
+        "source_layer_name": "Natural Gas Interstate and Intrastate Pipelines",
+        "pipeline_type": "Natural Gas",
+        "product": "Natural Gas",
+        "operator_name": null,
+        "pipeline_name": null,
+        "source_reported_km": 16.40445256,
+        "source_reported_miles": 10.19325425,
+        "source_type": "public_reference",
+        "source_name": "U.S. DOE/NETL public EIA pipeline service",
+        "source_url": "https://arcgis.netl.doe.gov/server/rest/services/Hosted/EIA_pipeline_data/FeatureServer/3",
+        "accessed_on": "2026-10-07",
+        "geometry_note": "Public line geometry clipped to the Midland–Odessa study extent; source attributes are preserved only where published."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "REF-PIPE-3-15593",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -102.78884000061741,
+            32.89667100051093
+          ],
+          [
+            -103.05466900045496,
+            32.828492000631186
+          ],
+          [
+            -103.30649600038312,
+            32.76390400032559
+          ]
+        ]
+      },
+      "properties": {
+        "pipeline_id": "REF-PIPE-3-15593",
+        "source_feature_id": 15593,
+        "source_layer_id": 3,
+        "source_layer_name": "Natural Gas Interstate and Intrastate Pipelines",
+        "pipeline_type": "Natural Gas",
+        "product": "Natural Gas",
+        "operator_name": null,
+        "pipeline_name": null,
+        "source_reported_km": 50.65612234,
+        "source_reported_miles": 31.47625513,
+        "source_type": "public_reference",
+        "source_name": "U.S. DOE/NETL public EIA pipeline service",
+        "source_url": "https://arcgis.netl.doe.gov/server/rest/services/Hosted/EIA_pipeline_data/FeatureServer/3",
+        "accessed_on": "2026-10-07",
+        "geometry_note": "Public line geometry clipped to the Midland–Odessa study extent; source attributes are preserved only where published."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "REF-PIPE-3-16825",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -103.2392960002152,
+            31.128576000701532
+          ],
+          [
+            -103.19422200046687,
+            31.324226999967347
+          ]
+        ]
+      },
+      "properties": {
+        "pipeline_id": "REF-PIPE-3-16825",
+        "source_feature_id": 16825,
+        "source_layer_id": 3,
+        "source_layer_name": "Natural Gas Interstate and Intrastate Pipelines",
+        "pipeline_type": "Natural Gas",
+        "product": "Natural Gas",
+        "operator_name": null,
+        "pipeline_name": null,
+        "source_reported_km": 22.11350437,
+        "source_reported_miles": 13.74069458,
+        "source_type": "public_reference",
+        "source_name": "U.S. DOE/NETL public EIA pipeline service",
+        "source_url": "https://arcgis.netl.doe.gov/server/rest/services/Hosted/EIA_pipeline_data/FeatureServer/3",
+        "accessed_on": "2026-10-07",
+        "geometry_note": "Public line geometry clipped to the Midland–Odessa study extent; source attributes are preserved only where published."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "REF-PIPE-3-2",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -103.5,
+            32.95441711521624
+          ],
+          [
+            -103.44253600013592,
+            32.89667100051093
+          ]
+        ]
+      },
+      "properties": {
+        "pipeline_id": "REF-PIPE-3-2",
+        "source_feature_id": 2,
+        "source_layer_id": 3,
+        "source_layer_name": "Natural Gas Interstate and Intrastate Pipelines",
+        "pipeline_type": "Natural Gas",
+        "product": "Natural Gas",
+        "operator_name": null,
+        "pipeline_name": null,
+        "source_reported_km": 52.04135089,
+        "source_reported_miles": 32.33699625,
+        "source_type": "public_reference",
+        "source_name": "U.S. DOE/NETL public EIA pipeline service",
+        "source_url": "https://arcgis.netl.doe.gov/server/rest/services/Hosted/EIA_pipeline_data/FeatureServer/3",
+        "accessed_on": "2026-10-07",
+        "geometry_note": "Public line geometry clipped to the Midland–Odessa study extent; source attributes are preserved only where published."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "REF-PIPE-3-22395",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -103.3126850001269,
+            32.594849000358685
+          ],
+          [
+            -103.31266200056069,
+            32.59473000065561
+          ],
+          [
+            -103.31267300043136,
+            32.59451000056586
+          ],
+          [
+            -103.31272600013479,
+            32.59370100014913
+          ],
+          [
+            -103.31280300012769,
+            32.593173000531706
+          ],
+          [
+            -103.31282800024205,
+            32.59285700031615
+          ],
+          [
+            -103.31288900034143,
+            32.592305000466204
+          ],
+          [
+            -103.31288300049363,
+            32.59209100006502
+          ],
+          [
+            -103.31292000030355,
+            32.5917320004724
+          ],
+          [
+            -103.31296900070735,
+            32.59084300009391
+          ],
+          [
+            -103.31301500073812,
+            32.59012600065215
+          ],
+          [
+            -103.31302600060874,
+            32.58988100033347
+          ],
+          [
+            -103.31307599993914,
+            32.58957300004225
+          ],
+          [
+            -103.31310200077674,
+            32.5890300004675
+          ],
+          [
+            -103.31312699999278,
+            32.58891300028725
+          ],
+          [
+            -103.31312800071602,
+            32.58873500050283
+          ],
+          [
+            -103.31313100019074,
+            32.58831500059699
+          ],
+          [
+            -103.3132250008004,
+            32.58756900026581
+          ],
+          [
+            -103.31323800032085,
+            32.587281000558725
+          ],
+          [
+            -103.31330300061819,
+            32.586878000597935
+          ],
+          [
+            -103.31330600009292,
+            32.58618000029131
+          ],
+          [
+            -103.31330300061819,
+            32.586142000645594
+          ],
+          [
+            -103.31337200021517,
+            32.58536100005741
+          ],
+          [
+            -103.31344700055824,
+            32.58491900049874
+          ],
+          [
+            -103.31344100071047,
+            32.58460299994409
+          ],
+          [
+            -103.3134800001702,
+            32.58384800068147
+          ],
+          [
+            -103.3135360002467,
+            32.58313699996954
+          ],
+          [
+            -103.31352500037605,
+            32.5830020005963
+          ],
+          [
+            -103.31360000071912,
+            32.58221099999265
+          ],
+          [
+            -103.31365900027035,
+            32.58144500034788
+          ],
+          [
+            -103.31370699995092,
+            32.58085700009956
+          ],
+          [
+            -103.31376600040048,
+            32.58041500028594
+          ],
+          [
+            -103.31384600076642,
+            32.579131000045386
+          ],
+          [
+            -103.31388500022615,
+            32.57884800024427
+          ],
+          [
+            -103.31391600018829,
+            32.57852400059222
+          ],
+          [
+            -103.31395299999821,
+            32.57792500051928
+          ]
+        ]
+      },
+      "properties": {
+        "pipeline_id": "REF-PIPE-3-22395",
+        "source_feature_id": 22395,
+        "source_layer_id": 3,
+        "source_layer_name": "Natural Gas Interstate and Intrastate Pipelines",
+        "pipeline_type": "Natural Gas",
+        "product": "Natural Gas",
+        "operator_name": null,
+        "pipeline_name": null,
+        "source_reported_km": 1.88243989,
+        "source_reported_miles": 1.16969392,
+        "source_type": "public_reference",
+        "source_name": "U.S. DOE/NETL public EIA pipeline service",
+        "source_url": "https://arcgis.netl.doe.gov/server/rest/services/Hosted/EIA_pipeline_data/FeatureServer/3",
+        "accessed_on": "2026-10-07",
+        "geometry_note": "Public line geometry clipped to the Midland–Odessa study extent; source attributes are preserved only where published."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "REF-PIPE-3-22686",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -103.34990900079805,
+            32.70324600044338
+          ],
+          [
+            -103.34997200054724,
+            32.70326400027763
+          ],
+          [
+            -103.34998000004485,
+            32.70326700050168
+          ],
+          [
+            -103.34999300046364,
+            32.7032780005662
+          ],
+          [
+            -103.35000000013633,
+            32.70329300017103
+          ],
+          [
+            -103.35002100005273,
+            32.70337199996316
+          ],
+          [
+            -103.35004100014422,
+            32.70345900026564
+          ],
+          [
+            -103.35004500034218,
+            32.70347599998465
+          ],
+          [
+            -103.35010000059377,
+            32.70360800036077
+          ],
+          [
+            -103.35014400007637,
+            32.70361200064397
+          ],
+          [
+            -103.35047000048962,
+            32.70360800036077
+          ],
+          [
+            -103.35052900004084,
+            32.70363300061613
+          ],
+          [
+            -103.35060000018596,
+            32.70377000034929
+          ],
+          [
+            -103.35069800009525,
+            32.703995000475416
+          ],
+          [
+            -103.35073200043044,
+            32.704092000069195
+          ],
+          [
+            -103.35077100078848,
+            32.704165000278444
+          ],
+          [
+            -103.35076400021747,
+            32.704216000534146
+          ],
+          [
+            -103.35085900065204,
+            32.70443100043199
+          ],
+          [
+            -103.35098099995247,
+            32.70474200015159
+          ],
+          [
+            -103.35113900013621,
+            32.70513800036714
+          ],
+          [
+            -103.35132200043432,
+            32.70559800044209
+          ],
+          [
+            -103.35134700054867,
+            32.70567000012743
+          ],
+          [
+            -103.35143700006205,
+            32.70589800013351
+          ],
+          [
+            -103.35157900035227,
+            32.706253000342564
+          ],
+          [
+            -103.35180500030806,
+            32.706809000344094
+          ],
+          [
+            -103.35191999993579,
+            32.70710200027775
+          ],
+          [
+            -103.35205500055334,
+            32.70745900028706
+          ],
+          [
+            -103.3521800002268,
+            32.70777600017993
+          ],
+          [
+            -103.35225000054699,
+            32.7079720001559
+          ],
+          [
+            -103.352391000114,
+            32.70832500039169
+          ],
+          [
+            -103.35245600041132,
+            32.70848900016312
+          ],
+          [
+            -103.3525880006558,
+            32.70882000035064
+          ],
+          [
+            -103.35269100058795,
+            32.70908800025131
+          ],
+          [
+            -103.3528130007867,
+            32.7093830002716
+          ],
+          [
+            -103.35296000020148,
+            32.709768000278565
+          ],
+          [
+            -103.35307400000428,
+            32.71006900030866
+          ],
+          [
+            -103.35316900043884,
+            32.71030000039888
+          ],
+          [
+            -103.35325300010443,
+            32.710510000030496
+          ],
+          [
+            -103.35328800026456,
+            32.710594000198284
+          ],
+          [
+            -103.35349600067698,
+            32.71143500053222
+          ],
+          [
+            -103.35350499999952,
+            32.71148600041165
+          ],
+          [
+            -103.35350600072275,
+            32.71157200037945
+          ],
+          [
+            -103.35351400022034,
+            32.71163000004718
+          ]
+        ]
+      },
+      "properties": {
+        "pipeline_id": "REF-PIPE-3-22686",
+        "source_feature_id": 22686,
+        "source_layer_id": 3,
+        "source_layer_name": "Natural Gas Interstate and Intrastate Pipelines",
+        "pipeline_type": "Natural Gas",
+        "product": "Natural Gas",
+        "operator_name": null,
+        "pipeline_name": null,
+        "source_reported_km": 1.01962339,
+        "source_reported_miles": 0.6335646,
+        "source_type": "public_reference",
+        "source_name": "U.S. DOE/NETL public EIA pipeline service",
+        "source_url": "https://arcgis.netl.doe.gov/server/rest/services/Hosted/EIA_pipeline_data/FeatureServer/3",
+        "accessed_on": "2026-10-07",
+        "geometry_note": "Public line geometry clipped to the Midland–Odessa study extent; source attributes are preserved only where published."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "REF-PIPE-3-22743",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -103.23804100076268,
+            32.819241000203235
+          ],
+          [
+            -103.24121500018975,
+            32.82245900020189
+          ],
+          [
+            -103.24711500022855,
+            32.828473000255876
+          ],
+          [
+            -103.24815400066932,
+            32.829517000352716
+          ],
+          [
+            -103.24832700002337,
+            32.82973600042735
+          ],
+          [
+            -103.24835200013773,
+            32.82976700023915
+          ],
+          [
+            -103.24841500078523,
+            32.82982300035882
+          ]
+        ]
+      },
+      "properties": {
+        "pipeline_id": "REF-PIPE-3-22743",
+        "source_feature_id": 22743,
+        "source_layer_id": 3,
+        "source_layer_name": "Natural Gas Interstate and Intrastate Pipelines",
+        "pipeline_type": "Natural Gas",
+        "product": "Natural Gas",
+        "operator_name": null,
+        "pipeline_name": null,
+        "source_reported_km": 1.52363448,
+        "source_reported_miles": 0.94674257,
+        "source_type": "public_reference",
+        "source_name": "U.S. DOE/NETL public EIA pipeline service",
+        "source_url": "https://arcgis.netl.doe.gov/server/rest/services/Hosted/EIA_pipeline_data/FeatureServer/3",
+        "accessed_on": "2026-10-07",
+        "geometry_note": "Public line geometry clipped to the Midland–Odessa study extent; source attributes are preserved only where published."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "REF-PIPE-3-22791",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -103.31576400001774,
+            32.93643899995126
+          ],
+          [
+            -103.31581200059664,
+            32.940125000520716
+          ],
+          [
+            -103.3158669999499,
+            32.94392700065728
+          ],
+          [
+            -103.31589100023935,
+            32.944061000024554
+          ],
+          [
+            -103.31589400061239,
+            32.94414900048875
+          ]
+        ]
+      },
+      "properties": {
+        "pipeline_id": "REF-PIPE-3-22791",
+        "source_feature_id": 22791,
+        "source_layer_id": 3,
+        "source_layer_name": "Natural Gas Interstate and Intrastate Pipelines",
+        "pipeline_type": "Natural Gas",
+        "product": "Natural Gas",
+        "operator_name": null,
+        "pipeline_name": null,
+        "source_reported_km": 0.8552938,
+        "source_reported_miles": 0.53145493,
+        "source_type": "public_reference",
+        "source_name": "U.S. DOE/NETL public EIA pipeline service",
+        "source_url": "https://arcgis.netl.doe.gov/server/rest/services/Hosted/EIA_pipeline_data/FeatureServer/3",
+        "accessed_on": "2026-10-07",
+        "geometry_note": "Public line geometry clipped to the Midland–Odessa study extent; source attributes are preserved only where published."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "REF-PIPE-3-23138",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -103.2670910006949,
+            31.63461100067068
+          ],
+          [
+            -103.26423500038682,
+            31.627506000266177
+          ],
+          [
+            -103.26228500045013,
+            31.624343000416477
+          ],
+          [
+            -103.26218600071593,
+            31.617950999976216
+          ],
+          [
+            -103.25210200022327,
+            31.591870000433186
+          ],
+          [
+            -103.21556299999058,
+            31.51742300064844
+          ],
+          [
+            -103.19923200002782,
+            31.499776000380106
+          ],
+          [
+            -103.19003200016525,
+            31.491431000706257
+          ],
+          [
+            -103.1812560006252,
+            31.47429800011913
+          ],
+          [
+            -103.16582300063789,
+            31.443442999945923
+          ],
+          [
+            -103.16394899997086,
+            31.431783000563982
+          ],
+          [
+            -103.19029100063133,
+            31.429161999954502
+          ],
+          [
+            -103.26851100000385,
+            31.441293999944598
+          ],
+          [
+            -103.28467300081054,
+            31.445500000506314
+          ],
+          [
+            -103.31617999994435,
+            31.443871000351788
+          ],
+          [
+            -103.34552100012971,
+            31.442738000371172
+          ],
+          [
+            -103.40024100070278,
+            31.444817000347612
+          ]
+        ]
+      },
+      "properties": {
+        "pipeline_id": "REF-PIPE-3-23138",
+        "source_feature_id": 23138,
+        "source_layer_id": 3,
+        "source_layer_name": "Natural Gas Interstate and Intrastate Pipelines",
+        "pipeline_type": "Natural Gas",
+        "product": "Natural Gas",
+        "operator_name": null,
+        "pipeline_name": null,
+        "source_reported_km": 47.49320561,
+        "source_reported_miles": 29.51090979,
+        "source_type": "public_reference",
+        "source_name": "U.S. DOE/NETL public EIA pipeline service",
+        "source_url": "https://arcgis.netl.doe.gov/server/rest/services/Hosted/EIA_pipeline_data/FeatureServer/3",
+        "accessed_on": "2026-10-07",
+        "geometry_note": "Public line geometry clipped to the Midland–Odessa study extent; source attributes are preserved only where published."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "REF-PIPE-3-23157",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -102.99515400040609,
+            31.20024600037795
+          ],
+          [
+            -103.00101300043701,
+            31.202497000638687
+          ],
+          [
+            -103.01156000071192,
+            31.207204000476096
+          ],
+          [
+            -103.02421400038406,
+            31.2125759999477
+          ],
+          [
+            -103.04962100036086,
+            31.234772000270226
+          ],
+          [
+            -103.06272800066783,
+            31.247220000484756
+          ],
+          [
+            -103.06544500016041,
+            31.24994800070037
+          ],
+          [
+            -103.06555200029054,
+            31.24999400043649
+          ],
+          [
+            -103.07983100020935,
+            31.258260000408743
+          ],
+          [
+            -103.08976233740934,
+            31.27587714227832
+          ],
+          [
+            -103.10890633802248,
+            31.297990142069136
+          ],
+          [
+            -103.11081700073288,
+            31.300013000412186
+          ],
+          [
+            -103.11385200024279,
+            31.303446000127373
+          ],
+          [
+            -103.11273200050947,
+            31.30472900025403
+          ],
+          [
+            -103.13789400026388,
+            31.332862000620683
+          ],
+          [
+            -103.14251300001257,
+            31.345714000153844
+          ],
+          [
+            -103.15047200066634,
+            31.36628600001176
+          ],
+          [
+            -103.15140700045173,
+            31.36892100060539
+          ],
+          [
+            -103.15228900053366,
+            31.37283800062313
+          ],
+          [
+            -103.15346500034345,
+            31.380902000112158
+          ],
+          [
+            -103.16145400023612,
+            31.394899000093343
+          ],
+          [
+            -103.15614700057425,
+            31.426057000693067
+          ]
+        ]
+      },
+      "properties": {
+        "pipeline_id": "REF-PIPE-3-23157",
+        "source_feature_id": 23157,
+        "source_layer_id": 3,
+        "source_layer_name": "Natural Gas Interstate and Intrastate Pipelines",
+        "pipeline_type": "Natural Gas",
+        "product": "Natural Gas",
+        "operator_name": null,
+        "pipeline_name": null,
+        "source_reported_km": 31.31698426,
+        "source_reported_miles": 19.45947185,
+        "source_type": "public_reference",
+        "source_name": "U.S. DOE/NETL public EIA pipeline service",
+        "source_url": "https://arcgis.netl.doe.gov/server/rest/services/Hosted/EIA_pipeline_data/FeatureServer/3",
+        "accessed_on": "2026-10-07",
+        "geometry_note": "Public line geometry clipped to the Midland–Odessa study extent; source attributes are preserved only where published."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "REF-PIPE-3-23181",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -102.80434000055187,
+            31.181458000141085
+          ],
+          [
+            -102.79059100036248,
+            31.209051000580533
+          ],
+          [
+            -102.78479500008075,
+            31.221507000640482
+          ]
+        ]
+      },
+      "properties": {
+        "pipeline_id": "REF-PIPE-3-23181",
+        "source_feature_id": 23181,
+        "source_layer_id": 3,
+        "source_layer_name": "Natural Gas Interstate and Intrastate Pipelines",
+        "pipeline_type": "Natural Gas",
+        "product": "Natural Gas",
+        "operator_name": null,
+        "pipeline_name": null,
+        "source_reported_km": 4.81552437,
+        "source_reported_miles": 2.99222812,
+        "source_type": "public_reference",
+        "source_name": "U.S. DOE/NETL public EIA pipeline service",
+        "source_url": "https://arcgis.netl.doe.gov/server/rest/services/Hosted/EIA_pipeline_data/FeatureServer/3",
+        "accessed_on": "2026-10-07",
+        "geometry_note": "Public line geometry clipped to the Midland–Odessa study extent; source attributes are preserved only where published."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "REF-PIPE-3-23208",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -102.88160000002466,
+            31.235592000209984
+          ],
+          [
+            -102.85465500073815,
+            31.21691800065898
+          ],
+          [
+            -102.83153100078401,
+            31.200371000364655
+          ],
+          [
+            -102.81837300042339,
+            31.19117900039838
+          ],
+          [
+            -102.80849399997017,
+            31.18443800060056
+          ],
+          [
+            -102.80434000055187,
+            31.181458000141085
+          ],
+          [
+            -102.73472900031481,
+            31.132765000496168
+          ],
+          [
+            -102.73417000027307,
+            31.132605000151756
+          ],
+          [
+            -102.73321200002316,
+            31.13315500063758
+          ],
+          [
+            -102.73260000027797,
+            31.13372800031446
+          ],
+          [
+            -102.70469300054359,
+            31.131387000688193
+          ],
+          [
+            -102.68216600026601,
+            31.130138000604262
+          ],
+          [
+            -102.64816500032404,
+            31.127810000297092
+          ],
+          [
+            -102.64702000047639,
+            31.12858900007584
+          ],
+          [
+            -102.63897900070519,
+            31.127238000685974
+          ],
+          [
+            -102.63306900062062,
+            31.12574900011919
+          ],
+          [
+            -102.59885800061639,
+            31.123683000467548
+          ],
+          [
+            -102.59462500065709,
+            31.123338000702372
+          ],
+          [
+            -102.57148999993395,
+            31.122367000693355
+          ],
+          [
+            -102.53022700037054,
+            31.12131000069949
+          ],
+          [
+            -102.50648200045039,
+            31.120396000646746
+          ],
+          [
+            -102.49998200036197,
+            31.12024599995376
+          ],
+          [
+            -102.48731000024817,
+            31.11982200068081
+          ],
+          [
+            -102.48627200053063,
+            31.120556000047994
+          ],
+          [
+            -102.48209300009965,
+            31.120445000314216
+          ],
+          [
+            -102.45613700012689,
+            31.119271000052304
+          ],
+          [
+            -102.45190400016756,
+            31.118930000197707
+          ],
+          [
+            -102.41987999992648,
+            31.115713000391864
+          ],
+          [
+            -102.41945399995414,
+            31.115919000323863
+          ],
+          [
+            -102.37899500065487,
+            31.112558000698588
+          ],
+          [
+            -102.35509400020076,
+            31.1117300005428
+          ],
+          [
+            -102.33334900044599,
+            31.111287999981478
+          ],
+          [
+            -102.31828900072759,
+            31.10491500064286
+          ],
+          [
+            -102.3168530006268,
+            31.103678000382086
+          ],
+          [
+            -102.31153099999798,
+            31.1020720001247
+          ],
+          [
+            -102.30932400014335,
+            31.100192999968307
+          ],
+          [
+            -102.30610600033533,
+            31.09755700015915
+          ],
+          [
+            -102.30286100076317,
+            31.095609000475445
+          ],
+          [
+            -102.29206400024299,
+            31.088067000265337
+          ],
+          [
+            -102.28951200060683,
+            31.085661000701457
+          ],
+          [
+            -102.27733600078561,
+            31.076721000309913
+          ],
+          [
+            -102.23654900052496,
+            31.04828500007688
+          ],
+          [
+            -102.22422800004043,
+            31.041631000437405
+          ],
+          [
+            -102.19451199993634,
+            31.02674200047227
+          ],
+          [
+            -102.1838140000487,
+            31.010763000655544
+          ]
+        ]
+      },
+      "properties": {
+        "pipeline_id": "REF-PIPE-3-23208",
+        "source_feature_id": 23208,
+        "source_layer_id": 3,
+        "source_layer_name": "Natural Gas Interstate and Intrastate Pipelines",
+        "pipeline_type": "Natural Gas",
+        "product": "Natural Gas",
+        "operator_name": null,
+        "pipeline_name": null,
+        "source_reported_km": 74.95444653,
+        "source_reported_miles": 46.5745338,
+        "source_type": "public_reference",
+        "source_name": "U.S. DOE/NETL public EIA pipeline service",
+        "source_url": "https://arcgis.netl.doe.gov/server/rest/services/Hosted/EIA_pipeline_data/FeatureServer/3",
+        "accessed_on": "2026-10-07",
+        "geometry_note": "Public line geometry clipped to the Midland–Odessa study extent; source attributes are preserved only where published."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "REF-PIPE-3-23232",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -102.39340100079528,
+            30.999783000494816
+          ],
+          [
+            -102.40749500076619,
+            30.999991000283675
+          ],
+          [
+            -102.4426850000384,
+            30.979078000036054
+          ],
+          [
+            -102.47845300051726,
+            30.968127000548918
+          ],
+          [
+            -102.47893100036815,
+            30.96798100002556
+          ],
+          [
+            -102.48273300033226,
+            30.96681700016075
+          ],
+          [
+            -102.48984900036385,
+            30.961596000529912
+          ]
+        ]
+      },
+      "properties": {
+        "pipeline_id": "REF-PIPE-3-23232",
+        "source_feature_id": 23232,
+        "source_layer_id": 3,
+        "source_layer_name": "Natural Gas Interstate and Intrastate Pipelines",
+        "pipeline_type": "Natural Gas",
+        "product": "Natural Gas",
+        "operator_name": null,
+        "pipeline_name": null,
+        "source_reported_km": 10.38259885,
+        "source_reported_miles": 6.45144783,
+        "source_type": "public_reference",
+        "source_name": "U.S. DOE/NETL public EIA pipeline service",
+        "source_url": "https://arcgis.netl.doe.gov/server/rest/services/Hosted/EIA_pipeline_data/FeatureServer/3",
+        "accessed_on": "2026-10-07",
+        "geometry_note": "Public line geometry clipped to the Midland–Odessa study extent; source attributes are preserved only where published."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "REF-PIPE-3-24658",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -103.33697100054547,
+            32.66867600039895
+          ],
+          [
+            -103.3369370002103,
+            32.66861600063059
+          ],
+          [
+            -103.33692100031675,
+            32.66856000040712
+          ],
+          [
+            -103.33691799994371,
+            32.66852000000996
+          ],
+          [
+            -103.33688600015665,
+            32.66846800007183
+          ],
+          [
+            -103.33686400041536,
+            32.66838300063137
+          ],
+          [
+            -103.3368190002095,
+            32.66828500033985
+          ],
+          [
+            -103.33673700019374,
+            32.66807900004018
+          ],
+          [
+            -103.33668500031521,
+            32.66792100069262
+          ],
+          [
+            -103.33650700003999,
+            32.667423000136154
+          ],
+          [
+            -103.33641200050373,
+            32.667148000350814
+          ],
+          [
+            -103.336402000458,
+            32.66712600039193
+          ],
+          [
+            -103.33623000003054,
+            32.666671000371444
+          ],
+          [
+            -103.3361930002206,
+            32.66657500068611
+          ],
+          [
+            -103.33616700028135,
+            32.66650100025962
+          ],
+          [
+            -103.33597000063787,
+            32.66597199997343
+          ],
+          [
+            -103.33587900040126,
+            32.665737000408555
+          ],
+          [
+            -103.33584200059134,
+            32.66562800007552
+          ],
+          [
+            -103.33577300009607,
+            32.665489000561166
+          ],
+          [
+            -103.33574400068204,
+            32.66539200061961
+          ],
+          [
+            -103.33567800055981,
+            32.66518900044804
+          ],
+          [
+            -103.33564000002666,
+            32.66507600046193
+          ],
+          [
+            -103.33560500076489,
+            32.66501300054815
+          ],
+          [
+            -103.33558899997304,
+            32.664941000592336
+          ],
+          [
+            -103.33556000055904,
+            32.66487200058025
+          ],
+          [
+            -103.33551400052828,
+            32.66474600042073
+          ],
+          [
+            -103.33540800022308,
+            32.664482000266645
+          ],
+          [
+            -103.33538700030668,
+            32.664435000527014
+          ],
+          [
+            -103.3352700001308,
+            32.66409700006203
+          ],
+          [
+            -103.33523800034376,
+            32.664025000124475
+          ],
+          [
+            -103.33521100057956,
+            32.663953000128934
+          ],
+          [
+            -103.33520400000857,
+            32.66390800038584
+          ],
+          [
+            -103.33515200013005,
+            32.66381500003833
+          ],
+          [
+            -103.33513900060956,
+            32.66376900046497
+          ],
+          [
+            -103.33511699996993,
+            32.6637460006694
+          ],
+          [
+            -103.33506000006851,
+            32.66359600008189
+          ],
+          [
+            -103.33502600063166,
+            32.66350200040222
+          ],
+          [
+            -103.33502100060878,
+            32.66345100033349
+          ],
+          [
+            -103.33498400079887,
+            32.663350000630466
+          ],
+          [
+            -103.33497300002989,
+            32.66330100000712
+          ],
+          [
+            -103.33490400043293,
+            32.663163000422294
+          ],
+          [
+            -103.334896000037,
+            32.66311200016011
+          ],
+          [
+            -103.33484900018132,
+            32.66300200063735
+          ],
+          [
+            -103.33484400015845,
+            32.66298600054425
+          ],
+          [
+            -103.33480399997548,
+            32.662867000659894
+          ],
+          [
+            -103.33476000049286,
+            32.66276100068031
+          ],
+          [
+            -103.33475299992188,
+            32.662734000023335
+          ],
+          [
+            -103.33469200072082,
+            32.662584000006134
+          ],
+          [
+            -103.33466200058358,
+            32.6625090002812
+          ],
+          [
+            -103.33465400018765,
+            32.66248400061104
+          ],
+          [
+            -103.33462100057571,
+            32.66241000057824
+          ],
+          [
+            -103.33459899993608,
+            32.66233600048425
+          ],
+          [
+            -103.33456799997394,
+            32.66224000067975
+          ],
+          [
+            -103.33454600023262,
+            32.6621930005173
+          ],
+          [
+            -103.33447000006466,
+            32.662025000522945
+          ],
+          [
+            -103.3344730004377,
+            32.662004000595985
+          ],
+          [
+            -103.33444700049843,
+            32.66193200048485
+          ],
+          [
+            -103.33442500075711,
+            32.66188200005841
+          ],
+          [
+            -103.33439899991953,
+            32.661805000178916
+          ],
+          [
+            -103.33435100023895,
+            32.66168100055762
+          ],
+          [
+            -103.33426800039828,
+            32.6614890001947
+          ],
+          [
+            -103.33426900022317,
+            32.661460000336405
+          ],
+          [
+            -103.33421899999448,
+            32.66137000058596
+          ],
+          [
+            -103.33421700034465,
+            32.661340000144826
+          ],
+          [
+            -103.33421399997161,
+            32.661316000692196
+          ],
+          [
+            -103.33418600038252,
+            32.66124200044865
+          ],
+          [
+            -103.33416600029103,
+            32.66119100060286
+          ],
+          [
+            -103.33415300077056,
+            32.66116600056399
+          ],
+          [
+            -103.33407100075479,
+            32.660909000485276
+          ],
+          [
+            -103.33404400009229,
+            32.660862000379126
+          ],
+          [
+            -103.33402100052608,
+            32.66078699996556
+          ],
+          [
+            -103.33398000051818,
+            32.6606870000725
+          ],
+          [
+            -103.3339240004417,
+            32.660517000678155
+          ],
+          [
+            -103.33382900000713,
+            32.66029700040372
+          ],
+          [
+            -103.33378900072248,
+            32.66016900024233
+          ],
+          [
+            -103.33370500015857,
+            32.65994800006402
+          ],
+          [
+            -103.33361100044725,
+            32.65971000036631
+          ],
+          [
+            -103.33342800014914,
+            32.65921700000291
+          ],
+          [
+            -103.33327300033845,
+            32.65877900046563
+          ],
+          [
+            -103.33320800004111,
+            32.65861800034668
+          ],
+          [
+            -103.33302200026829,
+            32.65815700042205
+          ],
+          [
+            -103.3328250006248,
+            32.65759900030881
+          ],
+          [
+            -103.33262300006011,
+            32.65705700013866
+          ],
+          [
+            -103.33240900069818,
+            32.65647300028499
+          ],
+          [
+            -103.33217900054441,
+            32.65588200069844
+          ],
+          [
+            -103.33197100013196,
+            32.65533500067474
+          ],
+          [
+            -103.33179700005468,
+            32.65484700044484
+          ],
+          [
+            -103.33173200065566,
+            32.65474000016855
+          ],
+          [
+            -103.3317290002826,
+            32.654667000394284
+          ],
+          [
+            -103.33157199992378,
+            32.65424900011427
+          ],
+          [
+            -103.33147600056263,
+            32.65399600005022
+          ],
+          [
+            -103.33135900038675,
+            32.6536120006897
+          ],
+          [
+            -103.33115900037022,
+            32.653141000356406
+          ],
+          [
+            -103.33102500047593,
+            32.652813000641885
+          ],
+          [
+            -103.33090600065022,
+            32.652473000322594
+          ],
+          [
+            -103.33079500032215,
+            32.65215800051911
+          ],
+          [
+            -103.3307220005272,
+            32.651952000109894
+          ],
+          [
+            -103.33066100042785,
+            32.651769000596595
+          ],
+          [
+            -103.33054200060215,
+            32.651519000015576
+          ],
+          [
+            -103.33049800022123,
+            32.65138700054621
+          ],
+          [
+            -103.3303470006085,
+            32.651008000087195
+          ],
+          [
+            -103.33032499996887,
+            32.65095700045362
+          ],
+          [
+            -103.33026000056985,
+            32.65076700031682
+          ],
+          [
+            -103.33018400040187,
+            32.650528000471084
+          ],
+          [
+            -103.33014800041687,
+            32.65044500042902
+          ],
+          [
+            -103.33010300021103,
+            32.650337000268074
+          ],
+          [
+            -103.32996300046894,
+            32.64996300022938
+          ],
+          [
+            -103.32980200081046,
+            32.64954900032806
+          ],
+          [
+            -103.3296860004595,
+            32.64924600064897
+          ],
+          [
+            -103.32961900051235,
+            32.64904300011491
+          ],
+          [
+            -103.32957099993347,
+            32.648904000526606
+          ],
+          [
+            -103.32949200029074,
+            32.64869300053743
+          ],
+          [
+            -103.32938099996265,
+            32.648387000428436
+          ],
+          [
+            -103.3293610007695,
+            32.648293000639505
+          ],
+          [
+            -103.3293060005179,
+            32.64819100051543
+          ],
+          [
+            -103.32921100008333,
+            32.64793700001223
+          ],
+          [
+            -103.3291150007222,
+            32.64769600028522
+          ],
+          [
+            -103.3290380007293,
+            32.64749100012867
+          ],
+          [
+            -103.32885500043119,
+            32.646996000562176
+          ],
+          [
+            -103.32877200059052,
+            32.64678299995142
+          ],
+          [
+            -103.32873300023246,
+            32.646669000193775
+          ],
+          [
+            -103.32866600028531,
+            32.64655300038414
+          ],
+          [
+            -103.32862400045252,
+            32.64637300027731
+          ],
+          [
+            -103.32839000010078,
+            32.64575599996471
+          ],
+          [
+            -103.3283200006789,
+            32.64558200030848
+          ],
+          [
+            -103.3282779999478,
+            32.6454640006707
+          ],
+          [
+            -103.32800000011343,
+            32.64471900054884
+          ],
+          [
+            -103.32797100069945,
+            32.64462800061126
+          ],
+          [
+            -103.32784699995257,
+            32.64433399994727
+          ],
+          [
+            -103.32773200032483,
+            32.64401500028975
+          ],
+          [
+            -103.32762900039268,
+            32.64374200031952
+          ],
+          [
+            -103.32753100048339,
+            32.643450000501375
+          ],
+          [
+            -103.3274000000638,
+            32.64314600058964
+          ],
+          [
+            -103.32734100051259,
+            32.64301300011431
+          ],
+          [
+            -103.32729700013165,
+            32.64287500022526
+          ],
+          [
+            -103.32722599998655,
+            32.64267500034805
+          ],
+          [
+            -103.32717100063329,
+            32.642460000038014
+          ],
+          [
+            -103.32705100008437,
+            32.64215000052831
+          ],
+          [
+            -103.32698900016008,
+            32.642032000144724
+          ],
+          [
+            -103.3269280000607,
+            32.64185700004559
+          ],
+          [
+            -103.32672900076739,
+            32.64136600035584
+          ],
+          [
+            -103.32668000036361,
+            32.64124000034903
+          ],
+          [
+            -103.32661500006627,
+            32.641051000006065
+          ],
+          [
+            -103.32650799993614,
+            32.6407710006971
+          ],
+          [
+            -103.3263770004149,
+            32.64045600052138
+          ],
+          [
+            -103.32631799996535,
+            32.64028000034123
+          ],
+          [
+            -103.32617400002532,
+            32.639946000190456
+          ],
+          [
+            -103.32606300059554,
+            32.63965600014428
+          ],
+          [
+            -103.3259270001531,
+            32.63930099996864
+          ],
+          [
+            -103.32586800060189,
+            32.639126000578194
+          ],
+          [
+            -103.32563500007507,
+            32.63852700022041
+          ],
+          [
+            -103.32540100062164,
+            32.637911000298935
+          ],
+          [
+            -103.32531500040791,
+            32.637676000348364
+          ],
+          [
+            -103.32497000062642,
+            32.63678400041542
+          ],
+          [
+            -103.32450699994583,
+            32.63557300040553
+          ],
+          [
+            -103.32446100081339,
+            32.635499000037775
+          ],
+          [
+            -103.32431900052316,
+            32.635077000614714
+          ],
+          [
+            -103.32420600054526,
+            32.63475100063338
+          ],
+          [
+            -103.32379100044358,
+            32.6337170002599
+          ],
+          [
+            -103.32359100042703,
+            32.63318200055132
+          ],
+          [
+            -103.32333100013602,
+            32.63249300042225
+          ],
+          [
+            -103.32309800050753,
+            32.63190800041595
+          ],
+          [
+            -103.32272200076389,
+            32.630958000650196
+          ],
+          [
+            -103.32266900016212,
+            32.63077400041676
+          ],
+          [
+            -103.32239900072369,
+            32.63006400003998
+          ],
+          [
+            -103.3221400002576,
+            32.629376000257196
+          ],
+          [
+            -103.32194300061411,
+            32.62891200044327
+          ],
+          [
+            -103.32175300064331,
+            32.628412000174826
+          ],
+          [
+            -103.32153800055816,
+            32.62784300030054
+          ],
+          [
+            -103.32128200046513,
+            32.62715900001129
+          ],
+          [
+            -103.32105600050932,
+            32.6265569999577
+          ],
+          [
+            -103.32079200002036,
+            32.62587000063485
+          ],
+          [
+            -103.32066300014893,
+            32.62554600001966
+          ],
+          [
+            -103.3206400005827,
+            32.62547400005987
+          ],
+          [
+            -103.32036800059615,
+            32.624752000665644
+          ],
+          [
+            -103.32031900019233,
+            32.62462100047931
+          ],
+          [
+            -103.32006000062458,
+            32.62400200029174
+          ],
+          [
+            -103.32000100017503,
+            32.623837000289136
+          ],
+          [
+            -103.31969800022631,
+            32.6230110000368
+          ],
+          [
+            -103.31951600065145,
+            32.62254900020081
+          ],
+          [
+            -103.31905100032104,
+            32.62135400045851
+          ],
+          [
+            -103.31901800070906,
+            32.621201000686156
+          ],
+          [
+            -103.31867000055453,
+            32.620341000274884
+          ],
+          [
+            -103.31861300065312,
+            32.62025600048067
+          ],
+          [
+            -103.3184500004465,
+            32.619788000043286
+          ],
+          [
+            -103.31838400032427,
+            32.619547000147406
+          ],
+          [
+            -103.31812300020836,
+            32.61875400005154
+          ],
+          [
+            -103.31601600081112,
+            32.613416000545264
+          ]
+        ]
+      },
+      "properties": {
+        "pipeline_id": "REF-PIPE-3-24658",
+        "source_feature_id": 24658,
+        "source_layer_id": 3,
+        "source_layer_name": "Natural Gas Interstate and Intrastate Pipelines",
+        "pipeline_type": "Natural Gas",
+        "product": "Natural Gas",
+        "operator_name": null,
+        "pipeline_name": null,
+        "source_reported_km": 6.44112955,
+        "source_reported_miles": 4.00233235,
+        "source_type": "public_reference",
+        "source_name": "U.S. DOE/NETL public EIA pipeline service",
+        "source_url": "https://arcgis.netl.doe.gov/server/rest/services/Hosted/EIA_pipeline_data/FeatureServer/3",
+        "accessed_on": "2026-10-07",
+        "geometry_note": "Public line geometry clipped to the Midland–Odessa study extent; source attributes are preserved only where published."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "REF-PIPE-3-24694",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -103.24512100080925,
+            32.394057000423565
+          ],
+          [
+            -103.24555900047716,
+            32.395303000220345
+          ],
+          [
+            -103.24573500020425,
+            32.39578500002256
+          ],
+          [
+            -103.2458160003951,
+            32.396025000006425
+          ],
+          [
+            -103.24590100078392,
+            32.3962130000918
+          ],
+          [
+            -103.2460690001151,
+            32.396673000038035
+          ],
+          [
+            -103.24611099994789,
+            32.39678700033509
+          ],
+          [
+            -103.24618500046604,
+            32.397005000462535
+          ],
+          [
+            -103.24650900033114,
+            32.39793700063212
+          ],
+          [
+            -103.24672100004325,
+            32.398557000374275
+          ],
+          [
+            -103.24681000063003,
+            32.3987970005751
+          ],
+          [
+            -103.24699400075305,
+            32.39933900012874
+          ],
+          [
+            -103.24739000058815,
+            32.400428000680364
+          ],
+          [
+            -103.24742800022301,
+            32.4005790003718
+          ],
+          [
+            -103.24777600037754,
+            32.40153000023412
+          ]
+        ]
+      },
+      "properties": {
+        "pipeline_id": "REF-PIPE-3-24694",
+        "source_feature_id": 24694,
+        "source_layer_id": 3,
+        "source_layer_name": "Natural Gas Interstate and Intrastate Pipelines",
+        "pipeline_type": "Natural Gas",
+        "product": "Natural Gas",
+        "operator_name": null,
+        "pipeline_name": null,
+        "source_reported_km": 0.8656835,
+        "source_reported_miles": 0.53791079,
+        "source_type": "public_reference",
+        "source_name": "U.S. DOE/NETL public EIA pipeline service",
+        "source_url": "https://arcgis.netl.doe.gov/server/rest/services/Hosted/EIA_pipeline_data/FeatureServer/3",
+        "accessed_on": "2026-10-07",
+        "geometry_note": "Public line geometry clipped to the Midland–Odessa study extent; source attributes are preserved only where published."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "REF-PIPE-3-26195",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -102.95423999992384,
+            32.961280000476066
+          ],
+          [
+            -102.95423999992384,
+            33.06137600037231
+          ]
+        ]
+      },
+      "properties": {
+        "pipeline_id": "REF-PIPE-3-26195",
+        "source_feature_id": 26195,
+        "source_layer_id": 3,
+        "source_layer_name": "Natural Gas Interstate and Intrastate Pipelines",
+        "pipeline_type": "Natural Gas",
+        "product": "Natural Gas",
+        "operator_name": null,
+        "pipeline_name": null,
+        "source_reported_km": 11.10111271,
+        "source_reported_miles": 6.89791164,
+        "source_type": "public_reference",
+        "source_name": "U.S. DOE/NETL public EIA pipeline service",
+        "source_url": "https://arcgis.netl.doe.gov/server/rest/services/Hosted/EIA_pipeline_data/FeatureServer/3",
+        "accessed_on": "2026-10-07",
+        "geometry_note": "Public line geometry clipped to the Midland–Odessa study extent; source attributes are preserved only where published."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "REF-PIPE-3-26243",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -101.86444800001892,
+            32.95718400067735
+          ],
+          [
+            -101.86444800001892,
+            33.13331200010614
+          ]
+        ]
+      },
+      "properties": {
+        "pipeline_id": "REF-PIPE-3-26243",
+        "source_feature_id": 26243,
+        "source_layer_id": 3,
+        "source_layer_name": "Natural Gas Interstate and Intrastate Pipelines",
+        "pipeline_type": "Natural Gas",
+        "product": "Natural Gas",
+        "operator_name": null,
+        "pipeline_name": null,
+        "source_reported_km": 19.53352206,
+        "source_reported_miles": 12.13756789,
+        "source_type": "public_reference",
+        "source_name": "U.S. DOE/NETL public EIA pipeline service",
+        "source_url": "https://arcgis.netl.doe.gov/server/rest/services/Hosted/EIA_pipeline_data/FeatureServer/3",
+        "accessed_on": "2026-10-07",
+        "geometry_note": "Public line geometry clipped to the Midland–Odessa study extent; source attributes are preserved only where published."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "REF-PIPE-3-26289",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -101.98758400075265,
+            32.332800000675796
+          ],
+          [
+            -101.68652800003635,
+            32.29670400021261
+          ]
+        ]
+      },
+      "properties": {
+        "pipeline_id": "REF-PIPE-3-26289",
+        "source_feature_id": 26289,
+        "source_layer_id": 3,
+        "source_layer_name": "Natural Gas Interstate and Intrastate Pipelines",
+        "pipeline_type": "Natural Gas",
+        "product": "Natural Gas",
+        "operator_name": null,
+        "pipeline_name": null,
+        "source_reported_km": 28.63129873,
+        "source_reported_miles": 17.79066423,
+        "source_type": "public_reference",
+        "source_name": "U.S. DOE/NETL public EIA pipeline service",
+        "source_url": "https://arcgis.netl.doe.gov/server/rest/services/Hosted/EIA_pipeline_data/FeatureServer/3",
+        "accessed_on": "2026-10-07",
+        "geometry_note": "Public line geometry clipped to the Midland–Odessa study extent; source attributes are preserved only where published."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "REF-PIPE-3-26331",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -101.89696000015662,
+            32.008448000655044
+          ],
+          [
+            -101.7774080007254,
+            32.084736000390315
+          ]
+        ]
+      },
+      "properties": {
+        "pipeline_id": "REF-PIPE-3-26331",
+        "source_feature_id": 26331,
+        "source_layer_id": 3,
+        "source_layer_name": "Natural Gas Interstate and Intrastate Pipelines",
+        "pipeline_type": "Natural Gas",
+        "product": "Natural Gas",
+        "operator_name": null,
+        "pipeline_name": null,
+        "source_reported_km": 14.10854044,
+        "source_reported_miles": 8.7666406,
+        "source_type": "public_reference",
+        "source_name": "U.S. DOE/NETL public EIA pipeline service",
+        "source_url": "https://arcgis.netl.doe.gov/server/rest/services/Hosted/EIA_pipeline_data/FeatureServer/3",
+        "accessed_on": "2026-10-07",
+        "geometry_note": "Public line geometry clipped to the Midland–Odessa study extent; source attributes are preserved only where published."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "REF-PIPE-3-26372",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -102.28864000057065,
+            31.89248000022481
+          ],
+          [
+            -102.1731839999331,
+            31.928576000205936
+          ]
+        ]
+      },
+      "properties": {
+        "pipeline_id": "REF-PIPE-3-26372",
+        "source_feature_id": 26372,
+        "source_layer_id": 3,
+        "source_layer_name": "Natural Gas Interstate and Intrastate Pipelines",
+        "pipeline_type": "Natural Gas",
+        "product": "Natural Gas",
+        "operator_name": null,
+        "pipeline_name": null,
+        "source_reported_km": 11.63077117,
+        "source_reported_miles": 7.22702615,
+        "source_type": "public_reference",
+        "source_name": "U.S. DOE/NETL public EIA pipeline service",
+        "source_url": "https://arcgis.netl.doe.gov/server/rest/services/Hosted/EIA_pipeline_data/FeatureServer/3",
+        "accessed_on": "2026-10-07",
+        "geometry_note": "Public line geometry clipped to the Midland–Odessa study extent; source attributes are preserved only where published."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "REF-PIPE-3-26425",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -102.77094400068242,
+            31.592192000137537
+          ],
+          [
+            -102.69644800055788,
+            31.648255999974303
+          ]
+        ]
+      },
+      "properties": {
+        "pipeline_id": "REF-PIPE-3-26425",
+        "source_feature_id": 26425,
+        "source_layer_id": 3,
+        "source_layer_name": "Natural Gas Interstate and Intrastate Pipelines",
+        "pipeline_type": "Natural Gas",
+        "product": "Natural Gas",
+        "operator_name": null,
+        "pipeline_name": null,
+        "source_reported_km": 9.41292807,
+        "source_reported_miles": 5.84892234,
+        "source_type": "public_reference",
+        "source_name": "U.S. DOE/NETL public EIA pipeline service",
+        "source_url": "https://arcgis.netl.doe.gov/server/rest/services/Hosted/EIA_pipeline_data/FeatureServer/3",
+        "accessed_on": "2026-10-07",
+        "geometry_note": "Public line geometry clipped to the Midland–Odessa study extent; source attributes are preserved only where published."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "REF-PIPE-3-26468",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -103.17491200017238,
+            31.39609600005313
+          ],
+          [
+            -103.15417600072115,
+            31.652352000335195
+          ]
+        ]
+      },
+      "properties": {
+        "pipeline_id": "REF-PIPE-3-26468",
+        "source_feature_id": 26468,
+        "source_layer_id": 3,
+        "source_layer_name": "Natural Gas Interstate and Intrastate Pipelines",
+        "pipeline_type": "Natural Gas",
+        "product": "Natural Gas",
+        "operator_name": null,
+        "pipeline_name": null,
+        "source_reported_km": 28.4814602,
+        "source_reported_miles": 17.69755888,
+        "source_type": "public_reference",
+        "source_name": "U.S. DOE/NETL public EIA pipeline service",
+        "source_url": "https://arcgis.netl.doe.gov/server/rest/services/Hosted/EIA_pipeline_data/FeatureServer/3",
+        "accessed_on": "2026-10-07",
+        "geometry_note": "Public line geometry clipped to the Midland–Odessa study extent; source attributes are preserved only where published."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "REF-PIPE-3-26508",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -103.45113599994887,
+            31.52025600045251
+          ],
+          [
+            -103.3394930000444,
+            31.676527000161567
+          ]
+        ]
+      },
+      "properties": {
+        "pipeline_id": "REF-PIPE-3-26508",
+        "source_feature_id": 26508,
+        "source_layer_id": 3,
+        "source_layer_name": "Natural Gas Interstate and Intrastate Pipelines",
+        "pipeline_type": "Natural Gas",
+        "product": "Natural Gas",
+        "operator_name": null,
+        "pipeline_name": null,
+        "source_reported_km": 20.30994659,
+        "source_reported_miles": 12.62001573,
+        "source_type": "public_reference",
+        "source_name": "U.S. DOE/NETL public EIA pipeline service",
+        "source_url": "https://arcgis.netl.doe.gov/server/rest/services/Hosted/EIA_pipeline_data/FeatureServer/3",
+        "accessed_on": "2026-10-07",
+        "geometry_note": "Public line geometry clipped to the Midland–Odessa study extent; source attributes are preserved only where published."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "REF-PIPE-3-26821",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -102.94230599995194,
+            31.343348000534096
+          ],
+          [
+            -102.93160000056668,
+            31.312921000023838
+          ]
+        ]
+      },
+      "properties": {
+        "pipeline_id": "REF-PIPE-3-26821",
+        "source_feature_id": 26821,
+        "source_layer_id": 3,
+        "source_layer_name": "Natural Gas Interstate and Intrastate Pipelines",
+        "pipeline_type": "Natural Gas",
+        "product": "Natural Gas",
+        "operator_name": null,
+        "pipeline_name": null,
+        "source_reported_km": 3.52411971,
+        "source_reported_miles": 2.18978646,
+        "source_type": "public_reference",
+        "source_name": "U.S. DOE/NETL public EIA pipeline service",
+        "source_url": "https://arcgis.netl.doe.gov/server/rest/services/Hosted/EIA_pipeline_data/FeatureServer/3",
+        "accessed_on": "2026-10-07",
+        "geometry_note": "Public line geometry clipped to the Midland–Odessa study extent; source attributes are preserved only where published."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "REF-PIPE-3-26843",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -103.08346600066719,
+            31.651114999964335
+          ],
+          [
+            -103.0561300006701,
+            31.62621700009316
+          ],
+          [
+            -103.02854000022981,
+            31.60108899997415
+          ]
+        ]
+      },
+      "properties": {
+        "pipeline_id": "REF-PIPE-3-26843",
+        "source_feature_id": 26843,
+        "source_layer_id": 3,
+        "source_layer_name": "Natural Gas Interstate and Intrastate Pipelines",
+        "pipeline_type": "Natural Gas",
+        "product": "Natural Gas",
+        "operator_name": null,
+        "pipeline_name": null,
+        "source_reported_km": 7.61074496,
+        "source_reported_miles": 4.72909767,
+        "source_type": "public_reference",
+        "source_name": "U.S. DOE/NETL public EIA pipeline service",
+        "source_url": "https://arcgis.netl.doe.gov/server/rest/services/Hosted/EIA_pipeline_data/FeatureServer/3",
+        "accessed_on": "2026-10-07",
+        "geometry_note": "Public line geometry clipped to the Midland–Odessa study extent; source attributes are preserved only where published."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "REF-PIPE-3-26945",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -103.42481700065125,
+            32.00023100059077
+          ],
+          [
+            -103.36235200058297,
+            31.945640000067005
+          ],
+          [
+            -103.32650500046141,
+            31.91117199999793
+          ]
+        ]
+      },
+      "properties": {
+        "pipeline_id": "REF-PIPE-3-26945",
+        "source_feature_id": 26945,
+        "source_layer_id": 3,
+        "source_layer_name": "Natural Gas Interstate and Intrastate Pipelines",
+        "pipeline_type": "Natural Gas",
+        "product": "Natural Gas",
+        "operator_name": null,
+        "pipeline_name": null,
+        "source_reported_km": 13.56473581,
+        "source_reported_miles": 8.42873606,
+        "source_type": "public_reference",
+        "source_name": "U.S. DOE/NETL public EIA pipeline service",
+        "source_url": "https://arcgis.netl.doe.gov/server/rest/services/Hosted/EIA_pipeline_data/FeatureServer/3",
+        "accessed_on": "2026-10-07",
+        "geometry_note": "Public line geometry clipped to the Midland–Odessa study extent; source attributes are preserved only where published."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "REF-PIPE-3-28601",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -103.08960000015942,
+            30.98880000008443
+          ],
+          [
+            -103.0180000005259,
+            31.035100000085944
+          ]
+        ]
+      },
+      "properties": {
+        "pipeline_id": "REF-PIPE-3-28601",
+        "source_feature_id": 28601,
+        "source_layer_id": 3,
+        "source_layer_name": "Natural Gas Interstate and Intrastate Pipelines",
+        "pipeline_type": "Natural Gas",
+        "product": "Natural Gas",
+        "operator_name": null,
+        "pipeline_name": null,
+        "source_reported_km": 8.54976217,
+        "source_reported_miles": 5.31257592,
+        "source_type": "public_reference",
+        "source_name": "U.S. DOE/NETL public EIA pipeline service",
+        "source_url": "https://arcgis.netl.doe.gov/server/rest/services/Hosted/EIA_pipeline_data/FeatureServer/3",
+        "accessed_on": "2026-10-07",
+        "geometry_note": "Public line geometry clipped to the Midland–Odessa study extent; source attributes are preserved only where published."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "REF-PIPE-3-30782",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -102.91657764654688,
+            31.089062121252393
+          ],
+          [
+            -102.13116827773864,
+            30.9130220903876
+          ],
+          [
+            -101.45409123433059,
+            30.85885592734226
+          ],
+          [
+            -101.40459875009782,
+            30.8
+          ]
+        ]
+      },
+      "properties": {
+        "pipeline_id": "REF-PIPE-3-30782",
+        "source_feature_id": 30782,
+        "source_layer_id": 3,
+        "source_layer_name": "Natural Gas Interstate and Intrastate Pipelines",
+        "pipeline_type": "Natural Gas",
+        "product": "Natural Gas",
+        "operator_name": null,
+        "pipeline_name": null,
+        "source_reported_km": 666.44289048,
+        "source_reported_miles": 414.10841341,
+        "source_type": "public_reference",
+        "source_name": "U.S. DOE/NETL public EIA pipeline service",
+        "source_url": "https://arcgis.netl.doe.gov/server/rest/services/Hosted/EIA_pipeline_data/FeatureServer/3",
+        "accessed_on": "2026-10-07",
+        "geometry_note": "Public line geometry clipped to the Midland–Odessa study extent; source attributes are preserved only where published."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "REF-PIPE-3-31496",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -101.34608900027143,
+            31.97739400064004
+          ],
+          [
+            -101.7234860005687,
+            31.86581100001284
+          ],
+          [
+            -101.82773300005911,
+            31.835979000593422
+          ],
+          [
+            -102.30476100047113,
+            31.621744000218253
+          ],
+          [
+            -102.37275700050726,
+            31.58027799998912
+          ]
+        ]
+      },
+      "properties": {
+        "pipeline_id": "REF-PIPE-3-31496",
+        "source_feature_id": 31496,
+        "source_layer_id": 3,
+        "source_layer_name": "Natural Gas Interstate and Intrastate Pipelines",
+        "pipeline_type": "Natural Gas",
+        "product": "Natural Gas",
+        "operator_name": null,
+        "pipeline_name": null,
+        "source_reported_km": 107.17417136,
+        "source_reported_miles": 66.59494263,
+        "source_type": "public_reference",
+        "source_name": "U.S. DOE/NETL public EIA pipeline service",
+        "source_url": "https://arcgis.netl.doe.gov/server/rest/services/Hosted/EIA_pipeline_data/FeatureServer/3",
+        "accessed_on": "2026-10-07",
+        "geometry_note": "Public line geometry clipped to the Midland–Odessa study extent; source attributes are preserved only where published."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "REF-PIPE-3-4594",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -103.11053800017531,
+            31.948649000640664
+          ],
+          [
+            -103.0996190003547,
+            31.947373000507532
+          ],
+          [
+            -102.88070700007208,
+            31.921784000186282
+          ]
+        ]
+      },
+      "properties": {
+        "pipeline_id": "REF-PIPE-3-4594",
+        "source_feature_id": 4594,
+        "source_layer_id": 3,
+        "source_layer_name": "Natural Gas Interstate and Intrastate Pipelines",
+        "pipeline_type": "Natural Gas",
+        "product": "Natural Gas",
+        "operator_name": null,
+        "pipeline_name": null,
+        "source_reported_km": 21.93592382,
+        "source_reported_miles": 13.63035114,
+        "source_type": "public_reference",
+        "source_name": "U.S. DOE/NETL public EIA pipeline service",
+        "source_url": "https://arcgis.netl.doe.gov/server/rest/services/Hosted/EIA_pipeline_data/FeatureServer/3",
+        "accessed_on": "2026-10-07",
+        "geometry_note": "Public line geometry clipped to the Midland–Odessa study extent; source attributes are preserved only where published."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "REF-PIPE-3-4612",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -102.39473000076597,
+            32.089829999988524
+          ],
+          [
+            -102.21927700003071,
+            32.17232900040393
+          ]
+        ]
+      },
+      "properties": {
+        "pipeline_id": "REF-PIPE-3-4612",
+        "source_feature_id": 4612,
+        "source_layer_id": 3,
+        "source_layer_name": "Natural Gas Interstate and Intrastate Pipelines",
+        "pipeline_type": "Natural Gas",
+        "product": "Natural Gas",
+        "operator_name": null,
+        "pipeline_name": null,
+        "source_reported_km": 18.91491543,
+        "source_reported_miles": 11.75318355,
+        "source_type": "public_reference",
+        "source_name": "U.S. DOE/NETL public EIA pipeline service",
+        "source_url": "https://arcgis.netl.doe.gov/server/rest/services/Hosted/EIA_pipeline_data/FeatureServer/3",
+        "accessed_on": "2026-10-07",
+        "geometry_note": "Public line geometry clipped to the Midland–Odessa study extent; source attributes are preserved only where published."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "REF-PIPE-3-4630",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -103.16938800077553,
+            31.65125100006879
+          ],
+          [
+            -103.17820400049855,
+            31.725629999978636
+          ],
+          [
+            -103.18250200075519,
+            31.761887000531026
+          ]
+        ]
+      },
+      "properties": {
+        "pipeline_id": "REF-PIPE-3-4630",
+        "source_feature_id": 4630,
+        "source_layer_id": 3,
+        "source_layer_name": "Natural Gas Interstate and Intrastate Pipelines",
+        "pipeline_type": "Natural Gas",
+        "product": "Natural Gas",
+        "operator_name": null,
+        "pipeline_name": null,
+        "source_reported_km": 12.33033027,
+        "source_reported_miles": 7.66171202,
+        "source_type": "public_reference",
+        "source_name": "U.S. DOE/NETL public EIA pipeline service",
+        "source_url": "https://arcgis.netl.doe.gov/server/rest/services/Hosted/EIA_pipeline_data/FeatureServer/3",
+        "accessed_on": "2026-10-07",
+        "geometry_note": "Public line geometry clipped to the Midland–Odessa study extent; source attributes are preserved only where published."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "REF-PIPE-3-4654",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -102.44076600006386,
+            31.538984000325307
+          ],
+          [
+            -102.44302600052026,
+            31.447765000334066
+          ],
+          [
+            -102.44815100060725,
+            31.240944000053926
+          ]
+        ]
+      },
+      "properties": {
+        "pipeline_id": "REF-PIPE-3-4654",
+        "source_feature_id": 4654,
+        "source_layer_id": 3,
+        "source_layer_name": "Natural Gas Interstate and Intrastate Pipelines",
+        "pipeline_type": "Natural Gas",
+        "product": "Natural Gas",
+        "operator_name": null,
+        "pipeline_name": null,
+        "source_reported_km": 33.05300466,
+        "source_reported_miles": 20.53818492,
+        "source_type": "public_reference",
+        "source_name": "U.S. DOE/NETL public EIA pipeline service",
+        "source_url": "https://arcgis.netl.doe.gov/server/rest/services/Hosted/EIA_pipeline_data/FeatureServer/3",
+        "accessed_on": "2026-10-07",
+        "geometry_note": "Public line geometry clipped to the Midland–Odessa study extent; source attributes are preserved only where published."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "REF-PIPE-3-4670",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -101.33358800076019,
+            31.95044200013525
+          ],
+          [
+            -101.26699100011663,
+            31.957236999948933
+          ]
+        ]
+      },
+      "properties": {
+        "pipeline_id": "REF-PIPE-3-4670",
+        "source_feature_id": 4670,
+        "source_layer_id": 3,
+        "source_layer_name": "Natural Gas Interstate and Intrastate Pipelines",
+        "pipeline_type": "Natural Gas",
+        "product": "Natural Gas",
+        "operator_name": null,
+        "pipeline_name": null,
+        "source_reported_km": 6.34103505,
+        "source_reported_miles": 3.94013651,
+        "source_type": "public_reference",
+        "source_name": "U.S. DOE/NETL public EIA pipeline service",
+        "source_url": "https://arcgis.netl.doe.gov/server/rest/services/Hosted/EIA_pipeline_data/FeatureServer/3",
+        "accessed_on": "2026-10-07",
+        "geometry_note": "Public line geometry clipped to the Midland–Odessa study extent; source attributes are preserved only where published."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "REF-PIPE-3-4686",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -102.22094700048325,
+            31.645636000443698
+          ],
+          [
+            -102.19099800075064,
+            31.6484679999586
+          ],
+          [
+            -101.8874050004668,
+            31.677179000002372
+          ]
+        ]
+      },
+      "properties": {
+        "pipeline_id": "REF-PIPE-3-4686",
+        "source_feature_id": 4686,
+        "source_layer_id": 3,
+        "source_layer_name": "Natural Gas Interstate and Intrastate Pipelines",
+        "pipeline_type": "Natural Gas",
+        "product": "Natural Gas",
+        "operator_name": null,
+        "pipeline_name": null,
+        "source_reported_km": 31.82546936,
+        "source_reported_miles": 19.77542984,
+        "source_type": "public_reference",
+        "source_name": "U.S. DOE/NETL public EIA pipeline service",
+        "source_url": "https://arcgis.netl.doe.gov/server/rest/services/Hosted/EIA_pipeline_data/FeatureServer/3",
+        "accessed_on": "2026-10-07",
+        "geometry_note": "Public line geometry clipped to the Midland–Odessa study extent; source attributes are preserved only where published."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "REF-PIPE-3-4704",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -102.57096100002946,
+            31.60793100063703
+          ],
+          [
+            -102.66658800051374,
+            31.65917000028754
+          ]
+        ]
+      },
+      "properties": {
+        "pipeline_id": "REF-PIPE-3-4704",
+        "source_feature_id": 4704,
+        "source_layer_id": 3,
+        "source_layer_name": "Natural Gas Interstate and Intrastate Pipelines",
+        "pipeline_type": "Natural Gas",
+        "product": "Natural Gas",
+        "operator_name": null,
+        "pipeline_name": null,
+        "source_reported_km": 10.70405376,
+        "source_reported_miles": 6.65119065,
+        "source_type": "public_reference",
+        "source_name": "U.S. DOE/NETL public EIA pipeline service",
+        "source_url": "https://arcgis.netl.doe.gov/server/rest/services/Hosted/EIA_pipeline_data/FeatureServer/3",
+        "accessed_on": "2026-10-07",
+        "geometry_note": "Public line geometry clipped to the Midland–Odessa study extent; source attributes are preserved only where published."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "REF-PIPE-3-4986",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -102.78884000061741,
+            32.67478700053196
+          ],
+          [
+            -102.69732400079202,
+            32.74874900030861
+          ],
+          [
+            -102.82806400055564,
+            32.43071500058557
+          ]
+        ]
+      },
+      "properties": {
+        "pipeline_id": "REF-PIPE-3-4986",
+        "source_feature_id": 4986,
+        "source_layer_id": 3,
+        "source_layer_name": "Natural Gas Interstate and Intrastate Pipelines",
+        "pipeline_type": "Natural Gas",
+        "product": "Natural Gas",
+        "operator_name": null,
+        "pipeline_name": null,
+        "source_reported_km": 49.2139151,
+        "source_reported_miles": 30.5801091,
+        "source_type": "public_reference",
+        "source_name": "U.S. DOE/NETL public EIA pipeline service",
+        "source_url": "https://arcgis.netl.doe.gov/server/rest/services/Hosted/EIA_pipeline_data/FeatureServer/3",
+        "accessed_on": "2026-10-07",
+        "geometry_note": "Public line geometry clipped to the Midland–Odessa study extent; source attributes are preserved only where published."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "REF-PIPE-3-5041",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -103.0642190001219,
+            32.42885300056795
+          ],
+          [
+            -102.82806400055564,
+            32.43071500058557
+          ],
+          [
+            -102.81063200022786,
+            32.39373400044132
+          ]
+        ]
+      },
+      "properties": {
+        "pipeline_id": "REF-PIPE-3-5041",
+        "source_feature_id": 5041,
+        "source_layer_id": 3,
+        "source_layer_name": "Natural Gas Interstate and Intrastate Pipelines",
+        "pipeline_type": "Natural Gas",
+        "product": "Natural Gas",
+        "operator_name": null,
+        "pipeline_name": null,
+        "source_reported_km": 26.62793026,
+        "source_reported_miles": 16.54582877,
+        "source_type": "public_reference",
+        "source_name": "U.S. DOE/NETL public EIA pipeline service",
+        "source_url": "https://arcgis.netl.doe.gov/server/rest/services/Hosted/EIA_pipeline_data/FeatureServer/3",
+        "accessed_on": "2026-10-07",
+        "geometry_note": "Public line geometry clipped to the Midland–Odessa study extent; source attributes are preserved only where published."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "REF-PIPE-3-5096",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -103.03792800041336,
+            32.707642000627345
+          ],
+          [
+            -103.01411900002078,
+            32.67015400044948
+          ],
+          [
+            -102.9998290002313,
+            32.64584100049962
+          ],
+          [
+            -102.98394599998218,
+            32.61942400044971
+          ],
+          [
+            -102.96791200012035,
+            32.592756000381144
+          ],
+          [
+            -102.95765699992349,
+            32.575698999942446
+          ],
+          [
+            -102.94944000042517,
+            32.56357000023099
+          ],
+          [
+            -102.93671600043285,
+            32.540869000649394
+          ],
+          [
+            -102.92828000065143,
+            32.522996999952426
+          ]
+        ]
+      },
+      "properties": {
+        "pipeline_id": "REF-PIPE-3-5096",
+        "source_feature_id": 5096,
+        "source_layer_id": 3,
+        "source_layer_name": "Natural Gas Interstate and Intrastate Pipelines",
+        "pipeline_type": "Natural Gas",
+        "product": "Natural Gas",
+        "operator_name": null,
+        "pipeline_name": null,
+        "source_reported_km": 22.92988632,
+        "source_reported_miles": 14.2479708,
+        "source_type": "public_reference",
+        "source_name": "U.S. DOE/NETL public EIA pipeline service",
+        "source_url": "https://arcgis.netl.doe.gov/server/rest/services/Hosted/EIA_pipeline_data/FeatureServer/3",
+        "accessed_on": "2026-10-07",
+        "geometry_note": "Public line geometry clipped to the Midland–Odessa study extent; source attributes are preserved only where published."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "REF-PIPE-3-5121",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -102.18628700004213,
+            31.672670000249074
+          ],
+          [
+            -102.19099800075064,
+            31.6484679999586
+          ]
+        ]
+      },
+      "properties": {
+        "pipeline_id": "REF-PIPE-3-5121",
+        "source_feature_id": 5121,
+        "source_layer_id": 3,
+        "source_layer_name": "Natural Gas Interstate and Intrastate Pipelines",
+        "pipeline_type": "Natural Gas",
+        "product": "Natural Gas",
+        "operator_name": null,
+        "pipeline_name": null,
+        "source_reported_km": 2.72047858,
+        "source_reported_miles": 1.69042702,
+        "source_type": "public_reference",
+        "source_name": "U.S. DOE/NETL public EIA pipeline service",
+        "source_url": "https://arcgis.netl.doe.gov/server/rest/services/Hosted/EIA_pipeline_data/FeatureServer/3",
+        "accessed_on": "2026-10-07",
+        "geometry_note": "Public line geometry clipped to the Midland–Odessa study extent; source attributes are preserved only where published."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "REF-PIPE-3-5134",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -103.5,
+            31.894731383149924
+          ],
+          [
+            -103.27168000030638,
+            31.870720000194318
+          ],
+          [
+            -103.131453000625,
+            31.859597000447746
+          ],
+          [
+            -102.93694400003847,
+            31.657769000429678
+          ],
+          [
+            -102.1480999999965,
+            31.11142800031235
+          ]
+        ]
+      },
+      "properties": {
+        "pipeline_id": "REF-PIPE-3-5134",
+        "source_feature_id": 5134,
+        "source_layer_id": 3,
+        "source_layer_name": "Natural Gas Interstate and Intrastate Pipelines",
+        "pipeline_type": "Natural Gas",
+        "product": "Natural Gas",
+        "operator_name": null,
+        "pipeline_name": null,
+        "source_reported_km": 291.51748671,
+        "source_reported_miles": 181.14056828,
+        "source_type": "public_reference",
+        "source_name": "U.S. DOE/NETL public EIA pipeline service",
+        "source_url": "https://arcgis.netl.doe.gov/server/rest/services/Hosted/EIA_pipeline_data/FeatureServer/3",
+        "accessed_on": "2026-10-07",
+        "geometry_note": "Public line geometry clipped to the Midland–Odessa study extent; source attributes are preserved only where published."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "REF-PIPE-3-5887",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -102.71884000021792,
+            30.901717000598282
+          ],
+          [
+            -102.80120200021149,
+            30.945026999961858
+          ],
+          [
+            -102.82899700069119,
+            30.967580000035284
+          ],
+          [
+            -102.83002700001282,
+            30.97105199995987
+          ],
+          [
+            -102.87120800045876,
+            31.01096300014054
+          ],
+          [
+            -102.89591600065171,
+            31.011786000376087
+          ],
+          [
+            -102.94533000048949,
+            31.007342000333082
+          ]
+        ]
+      },
+      "properties": {
+        "pipeline_id": "REF-PIPE-3-5887",
+        "source_feature_id": 5887,
+        "source_layer_id": 3,
+        "source_layer_name": "Natural Gas Interstate and Intrastate Pipelines",
+        "pipeline_type": "Natural Gas",
+        "product": "Natural Gas",
+        "operator_name": null,
+        "pipeline_name": null,
+        "source_reported_km": 26.29200217,
+        "source_reported_miles": 16.33709273,
+        "source_type": "public_reference",
+        "source_name": "U.S. DOE/NETL public EIA pipeline service",
+        "source_url": "https://arcgis.netl.doe.gov/server/rest/services/Hosted/EIA_pipeline_data/FeatureServer/3",
+        "accessed_on": "2026-10-07",
+        "geometry_note": "Public line geometry clipped to the Midland–Odessa study extent; source attributes are preserved only where published."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "REF-PIPE-3-5917",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -103.28679400045145,
+            31.492377000506075
+          ],
+          [
+            -103.28681800074091,
+            31.472394000289533
+          ],
+          [
+            -103.4225960005529,
+            31.507173000202222
+          ]
+        ]
+      },
+      "properties": {
+        "pipeline_id": "REF-PIPE-3-5917",
+        "source_feature_id": 5917,
+        "source_layer_id": 3,
+        "source_layer_name": "Natural Gas Interstate and Intrastate Pipelines",
+        "pipeline_type": "Natural Gas",
+        "product": "Natural Gas",
+        "operator_name": null,
+        "pipeline_name": null,
+        "source_reported_km": 15.68031638,
+        "source_reported_miles": 9.74329688,
+        "source_type": "public_reference",
+        "source_name": "U.S. DOE/NETL public EIA pipeline service",
+        "source_url": "https://arcgis.netl.doe.gov/server/rest/services/Hosted/EIA_pipeline_data/FeatureServer/3",
+        "accessed_on": "2026-10-07",
+        "geometry_note": "Public line geometry clipped to the Midland–Odessa study extent; source attributes are preserved only where published."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "REF-PIPE-3-8519",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -101.08331200056054,
+            32.062172000680555
+          ],
+          [
+            -100.74511200043736,
+            32.17054800042809
+          ]
+        ]
+      },
+      "properties": {
+        "pipeline_id": "REF-PIPE-3-8519",
+        "source_feature_id": 8519,
+        "source_layer_id": 3,
+        "source_layer_name": "Natural Gas Interstate and Intrastate Pipelines",
+        "pipeline_type": "Natural Gas",
+        "product": "Natural Gas",
+        "operator_name": null,
+        "pipeline_name": null,
+        "source_reported_km": 34.10468265,
+        "source_reported_miles": 21.19166732,
+        "source_type": "public_reference",
+        "source_name": "U.S. DOE/NETL public EIA pipeline service",
+        "source_url": "https://arcgis.netl.doe.gov/server/rest/services/Hosted/EIA_pipeline_data/FeatureServer/3",
+        "accessed_on": "2026-10-07",
+        "geometry_note": "Public line geometry clipped to the Midland–Odessa study extent; source attributes are preserved only where published."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "REF-PIPE-3-8543",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -101.23333100065653,
+            31.80519900035069
+          ],
+          [
+            -101.21622400001871,
+            31.76609400031024
+          ]
+        ]
+      },
+      "properties": {
+        "pipeline_id": "REF-PIPE-3-8543",
+        "source_feature_id": 8543,
+        "source_layer_id": 3,
+        "source_layer_name": "Natural Gas Interstate and Intrastate Pipelines",
+        "pipeline_type": "Natural Gas",
+        "product": "Natural Gas",
+        "operator_name": null,
+        "pipeline_name": null,
+        "source_reported_km": 4.62890903,
+        "source_reported_miles": 2.87627072,
+        "source_type": "public_reference",
+        "source_name": "U.S. DOE/NETL public EIA pipeline service",
+        "source_url": "https://arcgis.netl.doe.gov/server/rest/services/Hosted/EIA_pipeline_data/FeatureServer/3",
+        "accessed_on": "2026-10-07",
+        "geometry_note": "Public line geometry clipped to the Midland–Odessa study extent; source attributes are preserved only where published."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "REF-PIPE-3-8567",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -101.97261199999947,
+            31.782219000478662
+          ],
+          [
+            -102.01666600047193,
+            31.84364100017624
+          ]
+        ]
+      },
+      "properties": {
+        "pipeline_id": "REF-PIPE-3-8567",
+        "source_feature_id": 8567,
+        "source_layer_id": 3,
+        "source_layer_name": "Natural Gas Interstate and Intrastate Pipelines",
+        "pipeline_type": "Natural Gas",
+        "product": "Natural Gas",
+        "operator_name": null,
+        "pipeline_name": null,
+        "source_reported_km": 7.98652903,
+        "source_reported_miles": 4.96259906,
+        "source_type": "public_reference",
+        "source_name": "U.S. DOE/NETL public EIA pipeline service",
+        "source_url": "https://arcgis.netl.doe.gov/server/rest/services/Hosted/EIA_pipeline_data/FeatureServer/3",
+        "accessed_on": "2026-10-07",
+        "geometry_note": "Public line geometry clipped to the Midland–Odessa study extent; source attributes are preserved only where published."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "REF-PIPE-3-8591",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -102.93486700077848,
+            31.34549999998032
+          ],
+          [
+            -102.66883500055137,
+            31.461207000075778
+          ]
+        ]
+      },
+      "properties": {
+        "pipeline_id": "REF-PIPE-3-8591",
+        "source_feature_id": 8591,
+        "source_layer_id": 3,
+        "source_layer_name": "Natural Gas Interstate and Intrastate Pipelines",
+        "pipeline_type": "Natural Gas",
+        "product": "Natural Gas",
+        "operator_name": null,
+        "pipeline_name": null,
+        "source_reported_km": 28.36650017,
+        "source_reported_miles": 17.62612603,
+        "source_type": "public_reference",
+        "source_name": "U.S. DOE/NETL public EIA pipeline service",
+        "source_url": "https://arcgis.netl.doe.gov/server/rest/services/Hosted/EIA_pipeline_data/FeatureServer/3",
+        "accessed_on": "2026-10-07",
+        "geometry_note": "Public line geometry clipped to the Midland–Odessa study extent; source attributes are preserved only where published."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "REF-PIPE-3-8705",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -103.05347300055367,
+            31.48376200056024
+          ],
+          [
+            -102.93595400000152,
+            31.549192000032132
+          ]
+        ]
+      },
+      "properties": {
+        "pipeline_id": "REF-PIPE-3-8705",
+        "source_feature_id": 8705,
+        "source_layer_id": 3,
+        "source_layer_name": "Natural Gas Interstate and Intrastate Pipelines",
+        "pipeline_type": "Natural Gas",
+        "product": "Natural Gas",
+        "operator_name": null,
+        "pipeline_name": null,
+        "source_reported_km": 13.31299317,
+        "source_reported_miles": 8.27231044,
+        "source_type": "public_reference",
+        "source_name": "U.S. DOE/NETL public EIA pipeline service",
+        "source_url": "https://arcgis.netl.doe.gov/server/rest/services/Hosted/EIA_pipeline_data/FeatureServer/3",
+        "accessed_on": "2026-10-07",
+        "geometry_note": "Public line geometry clipped to the Midland–Odessa study extent; source attributes are preserved only where published."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "REF-PIPE-3-8729",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -103.08511900050296,
+            31.483870000658676
+          ],
+          [
+            -103.2683450003225,
+            31.48431499998312
+          ]
+        ]
+      },
+      "properties": {
+        "pipeline_id": "REF-PIPE-3-8729",
+        "source_feature_id": 8729,
+        "source_layer_id": 3,
+        "source_layer_name": "Natural Gas Interstate and Intrastate Pipelines",
+        "pipeline_type": "Natural Gas",
+        "product": "Natural Gas",
+        "operator_name": null,
+        "pipeline_name": null,
+        "source_reported_km": 17.40991172,
+        "source_reported_miles": 10.8180176,
+        "source_type": "public_reference",
+        "source_name": "U.S. DOE/NETL public EIA pipeline service",
+        "source_url": "https://arcgis.netl.doe.gov/server/rest/services/Hosted/EIA_pipeline_data/FeatureServer/3",
+        "accessed_on": "2026-10-07",
+        "geometry_note": "Public line geometry clipped to the Midland–Odessa study extent; source attributes are preserved only where published."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "REF-PIPE-3-8756",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -102.85034800026067,
+            30.903733000285907
+          ],
+          [
+            -102.86706800038586,
+            30.86061900055706
+          ]
+        ]
+      },
+      "properties": {
+        "pipeline_id": "REF-PIPE-3-8756",
+        "source_feature_id": 8756,
+        "source_layer_id": 3,
+        "source_layer_name": "Natural Gas Interstate and Intrastate Pipelines",
+        "pipeline_type": "Natural Gas",
+        "product": "Natural Gas",
+        "operator_name": null,
+        "pipeline_name": null,
+        "source_reported_km": 5.040233,
+        "source_reported_miles": 3.13185559,
+        "source_type": "public_reference",
+        "source_name": "U.S. DOE/NETL public EIA pipeline service",
+        "source_url": "https://arcgis.netl.doe.gov/server/rest/services/Hosted/EIA_pipeline_data/FeatureServer/3",
+        "accessed_on": "2026-10-07",
+        "geometry_note": "Public line geometry clipped to the Midland–Odessa study extent; source attributes are preserved only where published."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "REF-PIPE-3-8780",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -103.22498000048644,
+            31.091632999998634
+          ],
+          [
+            -103.28981300006784,
+            31.083393000075958
+          ]
+        ]
+      },
+      "properties": {
+        "pipeline_id": "REF-PIPE-3-8780",
+        "source_feature_id": 8780,
+        "source_layer_id": 3,
+        "source_layer_name": "Natural Gas Interstate and Intrastate Pipelines",
+        "pipeline_type": "Natural Gas",
+        "product": "Natural Gas",
+        "operator_name": null,
+        "pipeline_name": null,
+        "source_reported_km": 6.25326096,
+        "source_reported_miles": 3.88559622,
+        "source_type": "public_reference",
+        "source_name": "U.S. DOE/NETL public EIA pipeline service",
+        "source_url": "https://arcgis.netl.doe.gov/server/rest/services/Hosted/EIA_pipeline_data/FeatureServer/3",
+        "accessed_on": "2026-10-07",
+        "geometry_note": "Public line geometry clipped to the Midland–Odessa study extent; source attributes are preserved only where published."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "REF-PIPE-3-8828",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -102.69624796622898,
+            30.8
+          ],
+          [
+            -102.79673700044857,
+            30.909396999956662
+          ]
+        ]
+      },
+      "properties": {
+        "pipeline_id": "REF-PIPE-3-8828",
+        "source_feature_id": 8828,
+        "source_layer_id": 3,
+        "source_layer_name": "Natural Gas Interstate and Intrastate Pipelines",
+        "pipeline_type": "Natural Gas",
+        "product": "Natural Gas",
+        "operator_name": null,
+        "pipeline_name": null,
+        "source_reported_km": 51.75221792,
+        "source_reported_miles": 32.15733735,
+        "source_type": "public_reference",
+        "source_name": "U.S. DOE/NETL public EIA pipeline service",
+        "source_url": "https://arcgis.netl.doe.gov/server/rest/services/Hosted/EIA_pipeline_data/FeatureServer/3",
+        "accessed_on": "2026-10-07",
+        "geometry_note": "Public line geometry clipped to the Midland–Odessa study extent; source attributes are preserved only where published."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "REF-PIPE-3-9662",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -102.97327500075703,
+            31.572438000088273
+          ],
+          [
+            -102.9566450001452,
+            31.540086000677363
+          ]
+        ]
+      },
+      "properties": {
+        "pipeline_id": "REF-PIPE-3-9662",
+        "source_feature_id": 9662,
+        "source_layer_id": 3,
+        "source_layer_name": "Natural Gas Interstate and Intrastate Pipelines",
+        "pipeline_type": "Natural Gas",
+        "product": "Natural Gas",
+        "operator_name": null,
+        "pipeline_name": null,
+        "source_reported_km": 3.91928212,
+        "source_reported_miles": 2.435329,
+        "source_type": "public_reference",
+        "source_name": "U.S. DOE/NETL public EIA pipeline service",
+        "source_url": "https://arcgis.netl.doe.gov/server/rest/services/Hosted/EIA_pipeline_data/FeatureServer/3",
+        "accessed_on": "2026-10-07",
+        "geometry_note": "Public line geometry clipped to the Midland–Odessa study extent; source attributes are preserved only where published."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "REF-PIPE-3-9686",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -103.10294200064304,
+            30.95873800062263
+          ],
+          [
+            -103.02336500081242,
+            30.969966000621696
+          ],
+          [
+            -102.99301600014843,
+            30.977818000196688
+          ]
+        ]
+      },
+      "properties": {
+        "pipeline_id": "REF-PIPE-3-9686",
+        "source_feature_id": 9686,
+        "source_layer_id": 3,
+        "source_layer_name": "Natural Gas Interstate and Intrastate Pipelines",
+        "pipeline_type": "Natural Gas",
+        "product": "Natural Gas",
+        "operator_name": null,
+        "pipeline_name": null,
+        "source_reported_km": 10.7311307,
+        "source_reported_miles": 6.66801548,
+        "source_type": "public_reference",
+        "source_name": "U.S. DOE/NETL public EIA pipeline service",
+        "source_url": "https://arcgis.netl.doe.gov/server/rest/services/Hosted/EIA_pipeline_data/FeatureServer/3",
+        "accessed_on": "2026-10-07",
+        "geometry_note": "Public line geometry clipped to the Midland–Odessa study extent; source attributes are preserved only where published."
+      }
+    }
+  ]
+}

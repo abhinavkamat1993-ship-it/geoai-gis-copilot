@@ -1,0 +1,1271 @@
+{
+  "type": "FeatureCollection",
+  "name": "leak_events",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "LEAK-3001",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.01036335180704,
+          31.691137362669362
+        ]
+      },
+      "properties": {
+        "leak_id": "LEAK-3001",
+        "incident_id": "INC-2001",
+        "asset_id": "VAL-1001",
+        "pipeline_id": "PL-1001",
+        "detected_date": "2020-01-01",
+        "severity": "High",
+        "estimated_volume": 13.07,
+        "detection_method": "Pressure Anomaly",
+        "status": "Open",
+        "source_type": "synthetic_demo"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "LEAK-3002",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.95569805523256,
+          31.502805084389752
+        ]
+      },
+      "properties": {
+        "leak_id": "LEAK-3002",
+        "incident_id": "INC-2002",
+        "asset_id": "STA-2002",
+        "pipeline_id": "PL-1003",
+        "detected_date": "2021-02-02",
+        "severity": "High",
+        "estimated_volume": 12.98,
+        "detection_method": "Pressure Anomaly",
+        "status": "Investigating",
+        "source_type": "synthetic_demo"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "LEAK-3003",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.12832533239,
+          31.02517357177567
+        ]
+      },
+      "properties": {
+        "leak_id": "LEAK-3003",
+        "incident_id": "INC-2003",
+        "asset_id": "FAC-4003",
+        "pipeline_id": "PL-1007",
+        "detected_date": "2022-03-03",
+        "severity": "Moderate",
+        "estimated_volume": 13.26,
+        "detection_method": "Pressure Anomaly",
+        "status": "Investigating",
+        "source_type": "synthetic_demo"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "LEAK-3004",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.78412801669167,
+          32.23164028387204
+        ]
+      },
+      "properties": {
+        "leak_id": "LEAK-3004",
+        "incident_id": "INC-2004",
+        "asset_id": "TERM-3004",
+        "pipeline_id": "PL-1022",
+        "detected_date": "2023-04-04",
+        "severity": "Moderate",
+        "estimated_volume": 13.16,
+        "detection_method": "Pressure Anomaly",
+        "status": "Investigating",
+        "source_type": "synthetic_demo"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "LEAK-3005",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.10627508225315,
+          31.383608404714927
+        ]
+      },
+      "properties": {
+        "leak_id": "LEAK-3005",
+        "incident_id": "INC-2005",
+        "asset_id": "VAL-1005",
+        "pipeline_id": "PL-1005",
+        "detected_date": "2024-05-05",
+        "severity": "Low",
+        "estimated_volume": 13.45,
+        "detection_method": "Pressure Anomaly",
+        "status": "Investigating",
+        "source_type": "synthetic_demo"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "LEAK-3006",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.15983158024518,
+          32.52232852467004
+        ]
+      },
+      "properties": {
+        "leak_id": "LEAK-3006",
+        "incident_id": "INC-2006",
+        "asset_id": "STA-2006",
+        "pipeline_id": "PL-1011",
+        "detected_date": "2025-06-06",
+        "severity": "Low",
+        "estimated_volume": 13.35,
+        "detection_method": "Pressure Anomaly",
+        "status": "Investigating",
+        "source_type": "synthetic_demo"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "LEAK-3007",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.29546862516281,
+          31.821354082975038
+        ]
+      },
+      "properties": {
+        "leak_id": "LEAK-3007",
+        "incident_id": "INC-2007",
+        "asset_id": "FAC-4007",
+        "pipeline_id": "PL-1019",
+        "detected_date": "2020-07-07",
+        "severity": "Low",
+        "estimated_volume": 13.63,
+        "detection_method": "Pressure Anomaly",
+        "status": "Resolved",
+        "source_type": "synthetic_demo"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "LEAK-3008",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.83456600652303,
+          32.442015166218525
+        ]
+      },
+      "properties": {
+        "leak_id": "LEAK-3008",
+        "incident_id": "INC-2008",
+        "asset_id": "TERM-3008",
+        "pipeline_id": "PL-1050",
+        "detected_date": "2021-08-08",
+        "severity": "Low",
+        "estimated_volume": 13.54,
+        "detection_method": "Pressure Anomaly",
+        "status": "Investigating",
+        "source_type": "synthetic_demo"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "LEAK-3009",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.69136000545208,
+          32.170540935738984
+        ]
+      },
+      "properties": {
+        "leak_id": "LEAK-3009",
+        "incident_id": "INC-2009",
+        "asset_id": "VAL-1009",
+        "pipeline_id": "PL-1009",
+        "detected_date": "2022-09-01",
+        "severity": "Moderate",
+        "estimated_volume": 12.32,
+        "detection_method": "Pressure Anomaly",
+        "status": "Investigating",
+        "source_type": "synthetic_demo"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "LEAK-3010",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.23093396012014,
+          31.821524941442124
+        ]
+      },
+      "properties": {
+        "leak_id": "LEAK-3010",
+        "incident_id": "INC-2010",
+        "asset_id": "STA-2010",
+        "pipeline_id": "PL-1019",
+        "detected_date": "2023-01-02",
+        "severity": "Moderate",
+        "estimated_volume": 12.23,
+        "detection_method": "Pressure Anomaly",
+        "status": "Investigating",
+        "source_type": "synthetic_demo"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "LEAK-3011",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.95929896852608,
+          30.97238638983904
+        ]
+      },
+      "properties": {
+        "leak_id": "LEAK-3011",
+        "incident_id": "INC-2011",
+        "asset_id": "FAC-4011",
+        "pipeline_id": "PL-1031",
+        "detected_date": "2024-02-03",
+        "severity": "Moderate",
+        "estimated_volume": 7.97,
+        "detection_method": "Operational Alert",
+        "status": "Open",
+        "source_type": "synthetic_demo"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "LEAK-3012",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.30200449266336,
+          31.095010706138357
+        ]
+      },
+      "properties": {
+        "leak_id": "LEAK-3012",
+        "incident_id": "INC-2012",
+        "asset_id": "TERM-3012",
+        "pipeline_id": "PL-1078",
+        "detected_date": "2025-03-04",
+        "severity": "Critical",
+        "estimated_volume": 8.06,
+        "detection_method": "Operational Alert",
+        "status": "Investigating",
+        "source_type": "synthetic_demo"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "LEAK-3013",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.38783179536588,
+          31.780321898494318
+        ]
+      },
+      "properties": {
+        "leak_id": "LEAK-3013",
+        "incident_id": "INC-2013",
+        "asset_id": "VAL-1013",
+        "pipeline_id": "PL-1013",
+        "detected_date": "2020-04-05",
+        "severity": "Critical",
+        "estimated_volume": 8.16,
+        "detection_method": "Operational Alert",
+        "status": "Open",
+        "source_type": "synthetic_demo"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "LEAK-3014",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.6743431768357,
+          32.144776045564
+        ]
+      },
+      "properties": {
+        "leak_id": "LEAK-3014",
+        "incident_id": "INC-2014",
+        "asset_id": "STA-2014",
+        "pipeline_id": "PL-1027",
+        "detected_date": "2021-05-06",
+        "severity": "Critical",
+        "estimated_volume": 8.25,
+        "detection_method": "Operational Alert",
+        "status": "Resolved",
+        "source_type": "synthetic_demo"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "LEAK-3015",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.39437420908949,
+          32.226164345282896
+        ]
+      },
+      "properties": {
+        "leak_id": "LEAK-3015",
+        "incident_id": "INC-2015",
+        "asset_id": "FAC-4015",
+        "pipeline_id": "PL-1043",
+        "detected_date": "2022-06-07",
+        "severity": "Critical",
+        "estimated_volume": 8.34,
+        "detection_method": "Operational Alert",
+        "status": "Open",
+        "source_type": "synthetic_demo"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "LEAK-3016",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.78412801669167,
+          32.23164028387204
+        ]
+      },
+      "properties": {
+        "leak_id": "LEAK-3016",
+        "incident_id": "INC-2016",
+        "asset_id": "TERM-3004",
+        "pipeline_id": "PL-1022",
+        "detected_date": "2023-07-08",
+        "severity": "Moderate",
+        "estimated_volume": 8.44,
+        "detection_method": "Operational Alert",
+        "status": "Open",
+        "source_type": "synthetic_demo"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "LEAK-3017",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.21384900757626,
+          31.87066699791295
+        ]
+      },
+      "properties": {
+        "leak_id": "LEAK-3017",
+        "incident_id": "INC-2017",
+        "asset_id": "VAL-1017",
+        "pipeline_id": "PL-1017",
+        "detected_date": "2024-08-01",
+        "severity": "High",
+        "estimated_volume": 8.53,
+        "detection_method": "Operational Alert",
+        "status": "Investigating",
+        "source_type": "synthetic_demo"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "LEAK-3018",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.71858632014761,
+          30.84457640872902
+        ]
+      },
+      "properties": {
+        "leak_id": "LEAK-3018",
+        "incident_id": "INC-2018",
+        "asset_id": "STA-2018",
+        "pipeline_id": "PL-1035",
+        "detected_date": "2025-09-02",
+        "severity": "Low",
+        "estimated_volume": 8.62,
+        "detection_method": "Operational Alert",
+        "status": "Resolved",
+        "source_type": "synthetic_demo"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "LEAK-3019",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.93079722063115,
+          32.34934121559836
+        ]
+      },
+      "properties": {
+        "leak_id": "LEAK-3019",
+        "incident_id": "INC-2019",
+        "asset_id": "FAC-4019",
+        "pipeline_id": "PL-1055",
+        "detected_date": "2020-01-03",
+        "severity": "Moderate",
+        "estimated_volume": 7.22,
+        "detection_method": "Operational Alert",
+        "status": "Open",
+        "source_type": "synthetic_demo"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "LEAK-3020",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.83456600652303,
+          32.442015166218525
+        ]
+      },
+      "properties": {
+        "leak_id": "LEAK-3020",
+        "incident_id": "INC-2020",
+        "asset_id": "TERM-3008",
+        "pipeline_id": "PL-1050",
+        "detected_date": "2021-02-04",
+        "severity": "Critical",
+        "estimated_volume": 7.31,
+        "detection_method": "Operational Alert",
+        "status": "Open",
+        "source_type": "synthetic_demo"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "LEAK-3021",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.25329966765761,
+          32.27687302407824
+        ]
+      },
+      "properties": {
+        "leak_id": "LEAK-3021",
+        "incident_id": "INC-2021",
+        "asset_id": "VAL-1021",
+        "pipeline_id": "PL-1021",
+        "detected_date": "2022-03-05",
+        "severity": "Moderate",
+        "estimated_volume": 18.66,
+        "detection_method": "Flow Imbalance",
+        "status": "Open",
+        "source_type": "synthetic_demo"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "LEAK-3022",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.31873902962958,
+          31.969969592880982
+        ]
+      },
+      "properties": {
+        "leak_id": "LEAK-3022",
+        "incident_id": "INC-2022",
+        "asset_id": "STA-2022",
+        "pipeline_id": "PL-1043",
+        "detected_date": "2023-04-06",
+        "severity": "Moderate",
+        "estimated_volume": 18.56,
+        "detection_method": "Flow Imbalance",
+        "status": "Resolved",
+        "source_type": "synthetic_demo"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "LEAK-3023",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.51077050071417,
+          31.005184000250864
+        ]
+      },
+      "properties": {
+        "leak_id": "LEAK-3023",
+        "incident_id": "INC-2023",
+        "asset_id": "FAC-4023",
+        "pipeline_id": "PL-1067",
+        "detected_date": "2024-05-07",
+        "severity": "Critical",
+        "estimated_volume": 18.85,
+        "detection_method": "Flow Imbalance",
+        "status": "Open",
+        "source_type": "synthetic_demo"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "LEAK-3024",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.30200449266336,
+          31.095010706138357
+        ]
+      },
+      "properties": {
+        "leak_id": "LEAK-3024",
+        "incident_id": "INC-2024",
+        "asset_id": "TERM-3012",
+        "pipeline_id": "PL-1078",
+        "detected_date": "2025-06-08",
+        "severity": "Critical",
+        "estimated_volume": 18.75,
+        "detection_method": "Flow Imbalance",
+        "status": "Investigating",
+        "source_type": "synthetic_demo"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "LEAK-3025",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.9823825645544,
+          32.92370123374096
+        ]
+      },
+      "properties": {
+        "leak_id": "LEAK-3025",
+        "incident_id": "INC-2025",
+        "asset_id": "VAL-1025",
+        "pipeline_id": "PL-1025",
+        "detected_date": "2020-07-01",
+        "severity": "High",
+        "estimated_volume": 19.03,
+        "detection_method": "Flow Imbalance",
+        "status": "Investigating",
+        "source_type": "synthetic_demo"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "LEAK-3026",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.90616743100378,
+          31.662557385437534
+        ]
+      },
+      "properties": {
+        "leak_id": "LEAK-3026",
+        "incident_id": "INC-2026",
+        "asset_id": "STA-2026",
+        "pipeline_id": "PL-1051",
+        "detected_date": "2021-08-02",
+        "severity": "Critical",
+        "estimated_volume": 18.94,
+        "detection_method": "Flow Imbalance",
+        "status": "Investigating",
+        "source_type": "synthetic_demo"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "LEAK-3027",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.47740212771049,
+          30.968448743654875
+        ]
+      },
+      "properties": {
+        "leak_id": "LEAK-3027",
+        "incident_id": "INC-2027",
+        "asset_id": "FAC-4027",
+        "pipeline_id": "PL-1079",
+        "detected_date": "2022-09-03",
+        "severity": "Critical",
+        "estimated_volume": 19.22,
+        "detection_method": "Flow Imbalance",
+        "status": "Resolved",
+        "source_type": "synthetic_demo"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "LEAK-3028",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.78412801669167,
+          32.23164028387204
+        ]
+      },
+      "properties": {
+        "leak_id": "LEAK-3028",
+        "incident_id": "INC-2028",
+        "asset_id": "TERM-3004",
+        "pipeline_id": "PL-1022",
+        "detected_date": "2023-01-04",
+        "severity": "High",
+        "estimated_volume": 19.13,
+        "detection_method": "Flow Imbalance",
+        "status": "Investigating",
+        "source_type": "synthetic_demo"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "LEAK-3029",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.23502886605283,
+          32.13653622498091
+        ]
+      },
+      "properties": {
+        "leak_id": "LEAK-3029",
+        "incident_id": "INC-2029",
+        "asset_id": "VAL-1029",
+        "pipeline_id": "PL-1029",
+        "detected_date": "2024-02-05",
+        "severity": "Critical",
+        "estimated_volume": 19.41,
+        "detection_method": "Reported Observation",
+        "status": "Resolved",
+        "source_type": "synthetic_demo"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "LEAK-3030",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.05613446021547,
+          31.62031917255677
+        ]
+      },
+      "properties": {
+        "leak_id": "LEAK-3030",
+        "incident_id": "INC-2030",
+        "asset_id": "STA-2030",
+        "pipeline_id": "PL-1059",
+        "detected_date": "2025-03-06",
+        "severity": "High",
+        "estimated_volume": 19.31,
+        "detection_method": "Flow Imbalance",
+        "status": "Open",
+        "source_type": "synthetic_demo"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "LEAK-3031",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.94045554751835,
+          31.687967438268913
+        ]
+      },
+      "properties": {
+        "leak_id": "LEAK-3031",
+        "incident_id": "INC-2031",
+        "asset_id": "FAC-4001",
+        "pipeline_id": "PL-1001",
+        "detected_date": "2020-04-07",
+        "severity": "Critical",
+        "estimated_volume": 21.09,
+        "detection_method": "Reported Observation",
+        "status": "Resolved",
+        "source_type": "synthetic_demo"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "LEAK-3032",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.83456600652303,
+          32.442015166218525
+        ]
+      },
+      "properties": {
+        "leak_id": "LEAK-3032",
+        "incident_id": "INC-2032",
+        "asset_id": "TERM-3008",
+        "pipeline_id": "PL-1050",
+        "detected_date": "2021-05-08",
+        "severity": "Moderate",
+        "estimated_volume": 21.19,
+        "detection_method": "Reported Observation",
+        "status": "Resolved",
+        "source_type": "synthetic_demo"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "LEAK-3033",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.56034939658866,
+          32.468372970326655
+        ]
+      },
+      "properties": {
+        "leak_id": "LEAK-3033",
+        "incident_id": "INC-2033",
+        "asset_id": "VAL-1033",
+        "pipeline_id": "PL-1033",
+        "detected_date": "2022-06-01",
+        "severity": "High",
+        "estimated_volume": 20.91,
+        "detection_method": "Reported Observation",
+        "status": "Investigating",
+        "source_type": "synthetic_demo"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "LEAK-3034",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.51769995148474,
+          31.005184000250864
+        ]
+      },
+      "properties": {
+        "leak_id": "LEAK-3034",
+        "incident_id": "INC-2034",
+        "asset_id": "STA-2034",
+        "pipeline_id": "PL-1067",
+        "detected_date": "2023-07-02",
+        "severity": "High",
+        "estimated_volume": 21,
+        "detection_method": "Reported Observation",
+        "status": "Investigating",
+        "source_type": "synthetic_demo"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "LEAK-3035",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.65408462738014,
+          32.078129241457894
+        ]
+      },
+      "properties": {
+        "leak_id": "LEAK-3035",
+        "incident_id": "INC-2035",
+        "asset_id": "FAC-4005",
+        "pipeline_id": "PL-1013",
+        "detected_date": "2024-08-03",
+        "severity": "Critical",
+        "estimated_volume": 20.72,
+        "detection_method": "Reported Observation",
+        "status": "Investigating",
+        "source_type": "synthetic_demo"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "LEAK-3036",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.30200449266336,
+          31.095010706138357
+        ]
+      },
+      "properties": {
+        "leak_id": "LEAK-3036",
+        "incident_id": "INC-2036",
+        "asset_id": "TERM-3012",
+        "pipeline_id": "PL-1078",
+        "detected_date": "2025-09-04",
+        "severity": "Moderate",
+        "estimated_volume": 20.81,
+        "detection_method": "Reported Observation",
+        "status": "Resolved",
+        "source_type": "synthetic_demo"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "LEAK-3037",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.75704232972805,
+          31.991649068697956
+        ]
+      },
+      "properties": {
+        "leak_id": "LEAK-3037",
+        "incident_id": "INC-2037",
+        "asset_id": "VAL-1037",
+        "pipeline_id": "PL-1037",
+        "detected_date": "2020-01-05",
+        "severity": "Low",
+        "estimated_volume": 20.53,
+        "detection_method": "Reported Observation",
+        "status": "Investigating",
+        "source_type": "synthetic_demo"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "LEAK-3038",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.18561689219587,
+          31.429627068694575
+        ]
+      },
+      "properties": {
+        "leak_id": "LEAK-3038",
+        "incident_id": "INC-2038",
+        "asset_id": "STA-2038",
+        "pipeline_id": "PL-1075",
+        "detected_date": "2021-02-06",
+        "severity": "Low",
+        "estimated_volume": 20.63,
+        "detection_method": "Reported Observation",
+        "status": "Resolved",
+        "source_type": "synthetic_demo"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "LEAK-3039",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.71445316848876,
+          32.73831455626089
+        ]
+      },
+      "properties": {
+        "leak_id": "LEAK-3039",
+        "incident_id": "INC-2039",
+        "asset_id": "FAC-4009",
+        "pipeline_id": "PL-1025",
+        "detected_date": "2022-03-07",
+        "severity": "Moderate",
+        "estimated_volume": 20.34,
+        "detection_method": "Reported Observation",
+        "status": "Open",
+        "source_type": "synthetic_demo"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "LEAK-3040",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.78412801669167,
+          32.23164028387204
+        ]
+      },
+      "properties": {
+        "leak_id": "LEAK-3040",
+        "incident_id": "INC-2040",
+        "asset_id": "TERM-3004",
+        "pipeline_id": "PL-1022",
+        "detected_date": "2023-04-08",
+        "severity": "Low",
+        "estimated_volume": 20.44,
+        "detection_method": "Reported Observation",
+        "status": "Investigating",
+        "source_type": "synthetic_demo"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "LEAK-3041",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.17628127199717,
+          32.088994921207544
+        ]
+      },
+      "properties": {
+        "leak_id": "LEAK-3041",
+        "incident_id": "INC-2041",
+        "asset_id": "VAL-1041",
+        "pipeline_id": "PL-1041",
+        "detected_date": "2024-05-01",
+        "severity": "Low",
+        "estimated_volume": 7.78,
+        "detection_method": "Operational Alert",
+        "status": "Open",
+        "source_type": "synthetic_demo"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "LEAK-3042",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.86444800001892,
+          33.09906045695771
+        ]
+      },
+      "properties": {
+        "leak_id": "LEAK-3042",
+        "incident_id": "INC-2042",
+        "asset_id": "STA-2042",
+        "pipeline_id": "PL-1083",
+        "detected_date": "2025-06-02",
+        "severity": "High",
+        "estimated_volume": 7.69,
+        "detection_method": "Operational Alert",
+        "status": "Investigating",
+        "source_type": "synthetic_demo"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "LEAK-3043",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.71543059993927,
+          31.989523574628638
+        ]
+      },
+      "properties": {
+        "leak_id": "LEAK-3043",
+        "incident_id": "INC-2043",
+        "asset_id": "FAC-4013",
+        "pipeline_id": "PL-1037",
+        "detected_date": "2020-07-03",
+        "severity": "Critical",
+        "estimated_volume": 7.6,
+        "detection_method": "Operational Alert",
+        "status": "Resolved",
+        "source_type": "synthetic_demo"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "LEAK-3044",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.83456600652303,
+          32.442015166218525
+        ]
+      },
+      "properties": {
+        "leak_id": "LEAK-3044",
+        "incident_id": "INC-2044",
+        "asset_id": "TERM-3008",
+        "pipeline_id": "PL-1050",
+        "detected_date": "2021-08-04",
+        "severity": "Moderate",
+        "estimated_volume": 7.5,
+        "detection_method": "Operational Alert",
+        "status": "Resolved",
+        "source_type": "synthetic_demo"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "LEAK-3045",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.78415103592832,
+          32.54289371368957
+        ]
+      },
+      "properties": {
+        "leak_id": "LEAK-3045",
+        "incident_id": "INC-2045",
+        "asset_id": "VAL-1045",
+        "pipeline_id": "PL-1045",
+        "detected_date": "2022-09-05",
+        "severity": "Critical",
+        "estimated_volume": 7.41,
+        "detection_method": "Operational Alert",
+        "status": "Open",
+        "source_type": "synthetic_demo"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "LEAK-3046",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.07567818836611,
+          31.64402175480449
+        ]
+      },
+      "properties": {
+        "leak_id": "LEAK-3046",
+        "incident_id": "INC-2046",
+        "asset_id": "STA-2046",
+        "pipeline_id": "PL-1091",
+        "detected_date": "2023-01-06",
+        "severity": "Critical",
+        "estimated_volume": 7.32,
+        "detection_method": "Operational Alert",
+        "status": "Investigating",
+        "source_type": "synthetic_demo"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "LEAK-3047",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.11317449577923,
+          33.1159558155603
+        ]
+      },
+      "properties": {
+        "leak_id": "LEAK-3047",
+        "incident_id": "INC-2047",
+        "asset_id": "FAC-4017",
+        "pipeline_id": "PL-1049",
+        "detected_date": "2024-02-07",
+        "severity": "Critical",
+        "estimated_volume": 7.22,
+        "detection_method": "Operational Alert",
+        "status": "Resolved",
+        "source_type": "synthetic_demo"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "LEAK-3048",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.30200449266336,
+          31.095010706138357
+        ]
+      },
+      "properties": {
+        "leak_id": "LEAK-3048",
+        "incident_id": "INC-2048",
+        "asset_id": "TERM-3012",
+        "pipeline_id": "PL-1078",
+        "detected_date": "2025-03-08",
+        "severity": "Low",
+        "estimated_volume": 7.13,
+        "detection_method": "Operational Alert",
+        "status": "Investigating",
+        "source_type": "synthetic_demo"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "LEAK-3049",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.11417860601101,
+          33.04950815708243
+        ]
+      },
+      "properties": {
+        "leak_id": "LEAK-3049",
+        "incident_id": "INC-2049",
+        "asset_id": "VAL-1049",
+        "pipeline_id": "PL-1049",
+        "detected_date": "2020-04-01",
+        "severity": "Low",
+        "estimated_volume": 8.53,
+        "detection_method": "Operational Alert",
+        "status": "Open",
+        "source_type": "synthetic_demo"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "LEAK-3050",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.95569805523256,
+          31.502805084389752
+        ]
+      },
+      "properties": {
+        "leak_id": "LEAK-3050",
+        "incident_id": "INC-2050",
+        "asset_id": "STA-2002",
+        "pipeline_id": "PL-1003",
+        "detected_date": "2021-05-02",
+        "severity": "Moderate",
+        "estimated_volume": 8.44,
+        "detection_method": "Operational Alert",
+        "status": "Resolved",
+        "source_type": "synthetic_demo"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "LEAK-3051",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.54670562043785,
+          31.77614533608996
+        ]
+      },
+      "properties": {
+        "leak_id": "LEAK-3051",
+        "incident_id": "INC-2051",
+        "asset_id": "FAC-4021",
+        "pipeline_id": "PL-1061",
+        "detected_date": "2022-06-03",
+        "severity": "Moderate",
+        "estimated_volume": 7.22,
+        "detection_method": "Operational Alert",
+        "status": "Investigating",
+        "source_type": "synthetic_demo"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "LEAK-3052",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.78412801669167,
+          32.23164028387204
+        ]
+      },
+      "properties": {
+        "leak_id": "LEAK-3052",
+        "incident_id": "INC-2052",
+        "asset_id": "TERM-3004",
+        "pipeline_id": "PL-1022",
+        "detected_date": "2023-07-04",
+        "severity": "Low",
+        "estimated_volume": 7.32,
+        "detection_method": "Operational Alert",
+        "status": "Open",
+        "source_type": "synthetic_demo"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "LEAK-3053",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.4731718768279,
+          31.923971014500783
+        ]
+      },
+      "properties": {
+        "leak_id": "LEAK-3053",
+        "incident_id": "INC-2053",
+        "asset_id": "VAL-1053",
+        "pipeline_id": "PL-1053",
+        "detected_date": "2024-08-05",
+        "severity": "Low",
+        "estimated_volume": 7.41,
+        "detection_method": "Operational Alert",
+        "status": "Open",
+        "source_type": "synthetic_demo"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "LEAK-3054",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.15983158024518,
+          32.52232852467004
+        ]
+      },
+      "properties": {
+        "leak_id": "LEAK-3054",
+        "incident_id": "INC-2054",
+        "asset_id": "STA-2006",
+        "pipeline_id": "PL-1011",
+        "detected_date": "2025-09-06",
+        "severity": "Moderate",
+        "estimated_volume": 7.5,
+        "detection_method": "Operational Alert",
+        "status": "Resolved",
+        "source_type": "synthetic_demo"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "LEAK-3055",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.24009106935061,
+          32.82131948851578
+        ]
+      },
+      "properties": {
+        "leak_id": "LEAK-3055",
+        "incident_id": "INC-2055",
+        "asset_id": "FAC-4025",
+        "pipeline_id": "PL-1073",
+        "detected_date": "2020-01-07",
+        "severity": "Low",
+        "estimated_volume": 6.85,
+        "detection_method": "Operational Alert",
+        "status": "Resolved",
+        "source_type": "synthetic_demo"
+      }
+    }
+  ]
+}

@@ -1,0 +1,2646 @@
+{
+  "type": "FeatureCollection",
+  "name": "corrosion_records",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "COR-6001",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.01036335180704,
+          31.691137362669362
+        ]
+      },
+      "properties": {
+        "corrosion_id": "COR-6001",
+        "asset_id": "VAL-1001",
+        "pipeline_id": "PL-1001",
+        "inspection_id": "INSP-5001",
+        "corrosion_type": "External Corrosion",
+        "severity": "Low",
+        "depth_percent": 33.8,
+        "inspection_date": "2020-01-08",
+        "status": "Open",
+        "recommended_action": "Reinspect",
+        "source_type": "synthetic_demo"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "COR-6002",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.7849108027871,
+          32.71588813425893
+        ]
+      },
+      "properties": {
+        "corrosion_id": "COR-6002",
+        "asset_id": "VAL-1014",
+        "pipeline_id": "PL-1014",
+        "inspection_id": "INSP-5002",
+        "corrosion_type": "External Corrosion",
+        "severity": "High",
+        "depth_percent": 48,
+        "inspection_date": "2021-02-08",
+        "status": "Open",
+        "recommended_action": "Reinspect",
+        "source_type": "synthetic_demo"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "COR-6003",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.91870237318827,
+          32.05442428058731
+        ]
+      },
+      "properties": {
+        "corrosion_id": "COR-6003",
+        "asset_id": "VAL-1027",
+        "pipeline_id": "PL-1027",
+        "inspection_id": "INSP-5003",
+        "corrosion_type": "External Corrosion",
+        "severity": "Low",
+        "depth_percent": 37.8,
+        "inspection_date": "2022-03-08",
+        "status": "Open",
+        "recommended_action": "Reinspect",
+        "source_type": "synthetic_demo"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "COR-6004",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.03774179111015,
+          31.312357529324725
+        ]
+      },
+      "properties": {
+        "corrosion_id": "COR-6004",
+        "asset_id": "VAL-1040",
+        "pipeline_id": "PL-1040",
+        "inspection_id": "INSP-5004",
+        "corrosion_type": "External Corrosion",
+        "severity": "Low",
+        "depth_percent": 75.7,
+        "inspection_date": "2023-04-08",
+        "status": "Mitigated",
+        "recommended_action": "Reinspect",
+        "source_type": "synthetic_demo"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "COR-6005",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.4731718768279,
+          31.923971014500783
+        ]
+      },
+      "properties": {
+        "corrosion_id": "COR-6005",
+        "asset_id": "VAL-1053",
+        "pipeline_id": "PL-1053",
+        "inspection_id": "INSP-5005",
+        "corrosion_type": "External Corrosion",
+        "severity": "Moderate",
+        "depth_percent": 57.4,
+        "inspection_date": "2024-05-08",
+        "status": "Open",
+        "recommended_action": "Reinspect",
+        "source_type": "synthetic_demo"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "COR-6006",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.07392000017904,
+          31.555631699004653
+        ]
+      },
+      "properties": {
+        "corrosion_id": "COR-6006",
+        "asset_id": "VAL-1066",
+        "pipeline_id": "PL-1066",
+        "inspection_id": "INSP-5006",
+        "corrosion_type": "External Corrosion",
+        "severity": "Moderate",
+        "depth_percent": 76,
+        "inspection_date": "2025-06-08",
+        "status": "Mitigated",
+        "recommended_action": "Reinspect",
+        "source_type": "synthetic_demo"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "COR-6007",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.39906423455017,
+          30.999866578714464
+        ]
+      },
+      "properties": {
+        "corrosion_id": "COR-6007",
+        "asset_id": "VAL-1079",
+        "pipeline_id": "PL-1079",
+        "inspection_id": "INSP-5007",
+        "corrosion_type": "External Corrosion",
+        "severity": "High",
+        "depth_percent": 58,
+        "inspection_date": "2020-07-08",
+        "status": "Open",
+        "recommended_action": "Reinspect",
+        "source_type": "synthetic_demo"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "COR-6008",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.40660036786143,
+          31.984310657853506
+        ]
+      },
+      "properties": {
+        "corrosion_id": "COR-6008",
+        "asset_id": "VAL-1092",
+        "pipeline_id": "PL-1092",
+        "inspection_id": "INSP-5008",
+        "corrosion_type": "External Corrosion",
+        "severity": "Moderate",
+        "depth_percent": 23.3,
+        "inspection_date": "2021-08-08",
+        "status": "Monitoring",
+        "recommended_action": "Reinspect",
+        "source_type": "synthetic_demo"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "COR-6009",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.34073037497687,
+          31.54645404304542
+        ]
+      },
+      "properties": {
+        "corrosion_id": "COR-6009",
+        "asset_id": "VAL-1105",
+        "pipeline_id": "PL-1005",
+        "inspection_id": "INSP-5009",
+        "corrosion_type": "Internal Corrosion",
+        "severity": "Moderate",
+        "depth_percent": 60.6,
+        "inspection_date": "2022-09-08",
+        "status": "Open",
+        "recommended_action": "Coating repair",
+        "source_type": "synthetic_demo"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "COR-6010",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.95556302163081,
+          31.822253998552725
+        ]
+      },
+      "properties": {
+        "corrosion_id": "COR-6010",
+        "asset_id": "VAL-1119",
+        "pipeline_id": "PL-1019",
+        "inspection_id": "INSP-5010",
+        "corrosion_type": "Internal Corrosion",
+        "severity": "Moderate",
+        "depth_percent": 63.8,
+        "inspection_date": "2023-01-08",
+        "status": "Open",
+        "recommended_action": "Coating repair",
+        "source_type": "synthetic_demo"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "COR-6011",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.79220939153798,
+          32.32822522281371
+        ]
+      },
+      "properties": {
+        "corrosion_id": "COR-6011",
+        "asset_id": "VAL-1132",
+        "pipeline_id": "PL-1032",
+        "inspection_id": "INSP-5011",
+        "corrosion_type": "External Corrosion",
+        "severity": "Low",
+        "depth_percent": 26.5,
+        "inspection_date": "2024-02-08",
+        "status": "Monitoring",
+        "recommended_action": "Reinspect",
+        "source_type": "synthetic_demo"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "COR-6012",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.7013447473459,
+          32.56864207320852
+        ]
+      },
+      "properties": {
+        "corrosion_id": "COR-6012",
+        "asset_id": "VAL-1145",
+        "pipeline_id": "PL-1045",
+        "inspection_id": "INSP-5012",
+        "corrosion_type": "External Corrosion",
+        "severity": "Low",
+        "depth_percent": 8,
+        "inspection_date": "2025-03-08",
+        "status": "Monitoring",
+        "recommended_action": "Reinspect",
+        "source_type": "synthetic_demo"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "COR-6013",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.3918493593246,
+          32.929890912957575
+        ]
+      },
+      "properties": {
+        "corrosion_id": "COR-6013",
+        "asset_id": "VAL-1158",
+        "pipeline_id": "PL-1058",
+        "inspection_id": "INSP-5013",
+        "corrosion_type": "External Corrosion",
+        "severity": "High",
+        "depth_percent": 12.6,
+        "inspection_date": "2020-04-08",
+        "status": "Monitoring",
+        "recommended_action": "Reinspect",
+        "source_type": "synthetic_demo"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "COR-6014",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.31344412677402,
+          32.58476764375687
+        ]
+      },
+      "properties": {
+        "corrosion_id": "COR-6014",
+        "asset_id": "VAL-1171",
+        "pipeline_id": "PL-1071",
+        "inspection_id": "INSP-5014",
+        "corrosion_type": "External Corrosion",
+        "severity": "High",
+        "depth_percent": 40.9,
+        "inspection_date": "2021-05-08",
+        "status": "Open",
+        "recommended_action": "Reinspect",
+        "source_type": "synthetic_demo"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "COR-6015",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.7937492001158,
+          32.2476322702053
+        ]
+      },
+      "properties": {
+        "corrosion_id": "COR-6015",
+        "asset_id": "STA-2004",
+        "pipeline_id": "PL-1007",
+        "inspection_id": "INSP-5015",
+        "corrosion_type": "External Corrosion",
+        "severity": "High",
+        "depth_percent": 67.9,
+        "inspection_date": "2022-06-08",
+        "status": "Open",
+        "recommended_action": "Reinspect",
+        "source_type": "synthetic_demo"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "COR-6016",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.68566714334273,
+          32.49611129585051
+        ]
+      },
+      "properties": {
+        "corrosion_id": "COR-6016",
+        "asset_id": "STA-2017",
+        "pipeline_id": "PL-1033",
+        "inspection_id": "INSP-5016",
+        "corrosion_type": "External Corrosion",
+        "severity": "High",
+        "depth_percent": 41.4,
+        "inspection_date": "2023-07-08",
+        "status": "Monitoring",
+        "recommended_action": "Reinspect",
+        "source_type": "synthetic_demo"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "COR-6017",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.05613446021547,
+          31.62031917255677
+        ]
+      },
+      "properties": {
+        "corrosion_id": "COR-6017",
+        "asset_id": "STA-2030",
+        "pipeline_id": "PL-1059",
+        "inspection_id": "INSP-5017",
+        "corrosion_type": "External Corrosion",
+        "severity": "Moderate",
+        "depth_percent": 73.7,
+        "inspection_date": "2024-08-08",
+        "status": "Open",
+        "recommended_action": "Reinspect",
+        "source_type": "synthetic_demo"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "COR-6018",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.88062009052143,
+          32.01887475242711
+        ]
+      },
+      "properties": {
+        "corrosion_id": "COR-6018",
+        "asset_id": "STA-2043",
+        "pipeline_id": "PL-1085",
+        "inspection_id": "INSP-5018",
+        "corrosion_type": "External Corrosion",
+        "severity": "Low",
+        "depth_percent": 16.3,
+        "inspection_date": "2025-09-08",
+        "status": "Open",
+        "recommended_action": "Reinspect",
+        "source_type": "synthetic_demo"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "COR-6019",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.83456600652303,
+          32.442015166218525
+        ]
+      },
+      "properties": {
+        "corrosion_id": "COR-6019",
+        "asset_id": "TERM-3008",
+        "pipeline_id": "PL-1050",
+        "inspection_id": "INSP-5019",
+        "corrosion_type": "External Corrosion",
+        "severity": "Moderate",
+        "depth_percent": 34.8,
+        "inspection_date": "2020-01-08",
+        "status": "Open",
+        "recommended_action": "Reinspect",
+        "source_type": "synthetic_demo"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "COR-6020",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.71445316848876,
+          32.73831455626089
+        ]
+      },
+      "properties": {
+        "corrosion_id": "COR-6020",
+        "asset_id": "FAC-4009",
+        "pipeline_id": "PL-1025",
+        "inspection_id": "INSP-5020",
+        "corrosion_type": "External Corrosion",
+        "severity": "High",
+        "depth_percent": 33.2,
+        "inspection_date": "2021-02-08",
+        "status": "Open",
+        "recommended_action": "Reinspect",
+        "source_type": "synthetic_demo"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "COR-6021",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.27466684317336,
+          31.053495538862276
+        ]
+      },
+      "properties": {
+        "corrosion_id": "COR-6021",
+        "asset_id": "FAC-4022",
+        "pipeline_id": "PL-1064",
+        "inspection_id": "INSP-5021",
+        "corrosion_type": "MIC",
+        "severity": "High",
+        "depth_percent": 9.5,
+        "inspection_date": "2022-03-08",
+        "status": "Mitigated",
+        "recommended_action": "Engineering review",
+        "source_type": "synthetic_demo"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "COR-6022",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.10627508225315,
+          31.383608404714927
+        ]
+      },
+      "properties": {
+        "corrosion_id": "COR-6022",
+        "asset_id": "VAL-1005",
+        "pipeline_id": "PL-1005",
+        "inspection_id": "INSP-5022",
+        "corrosion_type": "MIC",
+        "severity": "High",
+        "depth_percent": 55.6,
+        "inspection_date": "2023-04-08",
+        "status": "Monitoring",
+        "recommended_action": "Engineering review",
+        "source_type": "synthetic_demo"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "COR-6023",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.42806826024132,
+          31.52914259737182
+        ]
+      },
+      "properties": {
+        "corrosion_id": "COR-6023",
+        "asset_id": "VAL-1018",
+        "pipeline_id": "PL-1018",
+        "inspection_id": "INSP-5023",
+        "corrosion_type": "MIC",
+        "severity": "High",
+        "depth_percent": 22.7,
+        "inspection_date": "2024-05-08",
+        "status": "Open",
+        "recommended_action": "Engineering review",
+        "source_type": "synthetic_demo"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "COR-6024",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.0924558326167,
+          31.098110396337045
+        ]
+      },
+      "properties": {
+        "corrosion_id": "COR-6024",
+        "asset_id": "VAL-1031",
+        "pipeline_id": "PL-1031",
+        "inspection_id": "INSP-5024",
+        "corrosion_type": "MIC",
+        "severity": "High",
+        "depth_percent": 62.8,
+        "inspection_date": "2025-06-08",
+        "status": "Monitoring",
+        "recommended_action": "Engineering review",
+        "source_type": "synthetic_demo"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "COR-6025",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.80676314871577,
+          32.09142917369935
+        ]
+      },
+      "properties": {
+        "corrosion_id": "COR-6025",
+        "asset_id": "VAL-1044",
+        "pipeline_id": "PL-1044",
+        "inspection_id": "INSP-5025",
+        "corrosion_type": "MIC",
+        "severity": "High",
+        "depth_percent": 23.1,
+        "inspection_date": "2020-07-08",
+        "status": "Mitigated",
+        "recommended_action": "Engineering review",
+        "source_type": "synthetic_demo"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "COR-6026",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.34069120027095,
+          32.774474142838045
+        ]
+      },
+      "properties": {
+        "corrosion_id": "COR-6026",
+        "asset_id": "VAL-1057",
+        "pipeline_id": "PL-1057",
+        "inspection_id": "INSP-5026",
+        "corrosion_type": "MIC",
+        "severity": "High",
+        "depth_percent": 38.5,
+        "inspection_date": "2021-08-08",
+        "status": "Mitigated",
+        "recommended_action": "Engineering review",
+        "source_type": "synthetic_demo"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "COR-6027",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.4891054407695,
+          32.94346907003185
+        ]
+      },
+      "properties": {
+        "corrosion_id": "COR-6027",
+        "asset_id": "VAL-1070",
+        "pipeline_id": "PL-1070",
+        "inspection_id": "INSP-5027",
+        "corrosion_type": "MIC",
+        "severity": "High",
+        "depth_percent": 25.6,
+        "inspection_date": "2022-09-08",
+        "status": "Mitigated",
+        "recommended_action": "Engineering review",
+        "source_type": "synthetic_demo"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "COR-6028",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.86444800001892,
+          32.96636605354869
+        ]
+      },
+      "properties": {
+        "corrosion_id": "COR-6028",
+        "asset_id": "VAL-1083",
+        "pipeline_id": "PL-1083",
+        "inspection_id": "INSP-5028",
+        "corrosion_type": "MIC",
+        "severity": "High",
+        "depth_percent": 24.3,
+        "inspection_date": "2023-01-08",
+        "status": "Open",
+        "recommended_action": "Engineering review",
+        "source_type": "synthetic_demo"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "COR-6029",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.06966823532194,
+          31.94387200405665
+        ]
+      },
+      "properties": {
+        "corrosion_id": "COR-6029",
+        "asset_id": "VAL-1096",
+        "pipeline_id": "PL-1096",
+        "inspection_id": "INSP-5029",
+        "corrosion_type": "MIC",
+        "severity": "Moderate",
+        "depth_percent": 28.8,
+        "inspection_date": "2024-02-08",
+        "status": "Mitigated",
+        "recommended_action": "Engineering review",
+        "source_type": "synthetic_demo"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "COR-6030",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.63775171779295,
+          32.13530113924943
+        ]
+      },
+      "properties": {
+        "corrosion_id": "COR-6030",
+        "asset_id": "VAL-1110",
+        "pipeline_id": "PL-1010",
+        "inspection_id": "INSP-5030",
+        "corrosion_type": "MIC",
+        "severity": "High",
+        "depth_percent": 14.5,
+        "inspection_date": "2025-03-08",
+        "status": "Mitigated",
+        "recommended_action": "Engineering review",
+        "source_type": "synthetic_demo"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "COR-6031",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.52563757668005,
+          32.034879461140434
+        ]
+      },
+      "properties": {
+        "corrosion_id": "COR-6031",
+        "asset_id": "VAL-1123",
+        "pipeline_id": "PL-1023",
+        "inspection_id": "INSP-5031",
+        "corrosion_type": "External Corrosion",
+        "severity": "Moderate",
+        "depth_percent": 76.2,
+        "inspection_date": "2020-04-08",
+        "status": "Open",
+        "recommended_action": "Reinspect",
+        "source_type": "synthetic_demo"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "COR-6032",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.80481575847126,
+          31.34964313542201
+        ]
+      },
+      "properties": {
+        "corrosion_id": "COR-6032",
+        "asset_id": "VAL-1136",
+        "pipeline_id": "PL-1036",
+        "inspection_id": "INSP-5032",
+        "corrosion_type": "External Corrosion",
+        "severity": "Low",
+        "depth_percent": 20.1,
+        "inspection_date": "2021-05-08",
+        "status": "Open",
+        "recommended_action": "Reinspect",
+        "source_type": "synthetic_demo"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "COR-6033",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.11338687506658,
+          33.1019014758012
+        ]
+      },
+      "properties": {
+        "corrosion_id": "COR-6033",
+        "asset_id": "VAL-1149",
+        "pipeline_id": "PL-1049",
+        "inspection_id": "INSP-5033",
+        "corrosion_type": "External Corrosion",
+        "severity": "Low",
+        "depth_percent": 66.9,
+        "inspection_date": "2022-06-08",
+        "status": "Monitoring",
+        "recommended_action": "Reinspect",
+        "source_type": "synthetic_demo"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "COR-6034",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.20722136041557,
+          31.271945513679842
+        ]
+      },
+      "properties": {
+        "corrosion_id": "COR-6034",
+        "asset_id": "VAL-1162",
+        "pipeline_id": "PL-1062",
+        "inspection_id": "INSP-5034",
+        "corrosion_type": "External Corrosion",
+        "severity": "Moderate",
+        "depth_percent": 53.1,
+        "inspection_date": "2023-07-08",
+        "status": "Open",
+        "recommended_action": "Reinspect",
+        "source_type": "synthetic_demo"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "COR-6035",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.2018730204416,
+          31.430958382789463
+        ]
+      },
+      "properties": {
+        "corrosion_id": "COR-6035",
+        "asset_id": "VAL-1175",
+        "pipeline_id": "PL-1075",
+        "inspection_id": "INSP-5035",
+        "corrosion_type": "External Corrosion",
+        "severity": "Moderate",
+        "depth_percent": 37.6,
+        "inspection_date": "2024-08-08",
+        "status": "Open",
+        "recommended_action": "Reinspect",
+        "source_type": "synthetic_demo"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "COR-6036",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.76657274103559,
+          33.028848578495925
+        ]
+      },
+      "properties": {
+        "corrosion_id": "COR-6036",
+        "asset_id": "STA-2008",
+        "pipeline_id": "PL-1015",
+        "inspection_id": "INSP-5036",
+        "corrosion_type": "External Corrosion",
+        "severity": "High",
+        "depth_percent": 61.9,
+        "inspection_date": "2025-09-08",
+        "status": "Monitoring",
+        "recommended_action": "Reinspect",
+        "source_type": "synthetic_demo"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "COR-6037",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.02493668570094,
+          32.297804602919946
+        ]
+      },
+      "properties": {
+        "corrosion_id": "COR-6037",
+        "asset_id": "STA-2021",
+        "pipeline_id": "PL-1041",
+        "inspection_id": "INSP-5037",
+        "corrosion_type": "External Corrosion",
+        "severity": "High",
+        "depth_percent": 68.8,
+        "inspection_date": "2020-01-08",
+        "status": "Mitigated",
+        "recommended_action": "Reinspect",
+        "source_type": "synthetic_demo"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "COR-6038",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.51769995148474,
+          31.005184000250864
+        ]
+      },
+      "properties": {
+        "corrosion_id": "COR-6038",
+        "asset_id": "STA-2034",
+        "pipeline_id": "PL-1067",
+        "inspection_id": "INSP-5038",
+        "corrosion_type": "External Corrosion",
+        "severity": "Moderate",
+        "depth_percent": 34.1,
+        "inspection_date": "2021-02-08",
+        "status": "Monitoring",
+        "recommended_action": "Reinspect",
+        "source_type": "synthetic_demo"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "COR-6039",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.05573848140239,
+          31.01069648509179
+        ]
+      },
+      "properties": {
+        "corrosion_id": "COR-6039",
+        "asset_id": "STA-2047",
+        "pipeline_id": "PL-1093",
+        "inspection_id": "INSP-5039",
+        "corrosion_type": "External Corrosion",
+        "severity": "Moderate",
+        "depth_percent": 12.9,
+        "inspection_date": "2022-03-08",
+        "status": "Open",
+        "recommended_action": "Reinspect",
+        "source_type": "synthetic_demo"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "COR-6040",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.30200449266336,
+          31.095010706138357
+        ]
+      },
+      "properties": {
+        "corrosion_id": "COR-6040",
+        "asset_id": "TERM-3012",
+        "pipeline_id": "PL-1078",
+        "inspection_id": "INSP-5040",
+        "corrosion_type": "External Corrosion",
+        "severity": "Moderate",
+        "depth_percent": 23.6,
+        "inspection_date": "2023-04-08",
+        "status": "Open",
+        "recommended_action": "Reinspect",
+        "source_type": "synthetic_demo"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "COR-6041",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.71543059993927,
+          31.989523574628638
+        ]
+      },
+      "properties": {
+        "corrosion_id": "COR-6041",
+        "asset_id": "FAC-4013",
+        "pipeline_id": "PL-1037",
+        "inspection_id": "INSP-5041",
+        "corrosion_type": "MIC",
+        "severity": "Moderate",
+        "depth_percent": 31.2,
+        "inspection_date": "2024-05-08",
+        "status": "Monitoring",
+        "recommended_action": "Engineering review",
+        "source_type": "synthetic_demo"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "COR-6042",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.11292263644086,
+          31.304510619912644
+        ]
+      },
+      "properties": {
+        "corrosion_id": "COR-6042",
+        "asset_id": "FAC-4026",
+        "pipeline_id": "PL-1076",
+        "inspection_id": "INSP-5042",
+        "corrosion_type": "MIC",
+        "severity": "Moderate",
+        "depth_percent": 37.9,
+        "inspection_date": "2025-06-08",
+        "status": "Mitigated",
+        "recommended_action": "Engineering review",
+        "source_type": "synthetic_demo"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "COR-6043",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.69136000545208,
+          32.170540935738984
+        ]
+      },
+      "properties": {
+        "corrosion_id": "COR-6043",
+        "asset_id": "VAL-1009",
+        "pipeline_id": "PL-1009",
+        "inspection_id": "INSP-5043",
+        "corrosion_type": "MIC",
+        "severity": "Low",
+        "depth_percent": 5.1,
+        "inspection_date": "2020-07-08",
+        "status": "Open",
+        "recommended_action": "Engineering review",
+        "source_type": "synthetic_demo"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "COR-6044",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.91243266111992,
+          32.44490366632095
+        ]
+      },
+      "properties": {
+        "corrosion_id": "COR-6044",
+        "asset_id": "VAL-1022",
+        "pipeline_id": "PL-1022",
+        "inspection_id": "INSP-5044",
+        "corrosion_type": "MIC",
+        "severity": "High",
+        "depth_percent": 58.2,
+        "inspection_date": "2021-08-08",
+        "status": "Mitigated",
+        "recommended_action": "Engineering review",
+        "source_type": "synthetic_demo"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "COR-6045",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.02108500423849,
+          31.140828217907426
+        ]
+      },
+      "properties": {
+        "corrosion_id": "COR-6045",
+        "asset_id": "VAL-1035",
+        "pipeline_id": "PL-1035",
+        "inspection_id": "INSP-5045",
+        "corrosion_type": "MIC",
+        "severity": "High",
+        "depth_percent": 25.4,
+        "inspection_date": "2022-09-08",
+        "status": "Monitoring",
+        "recommended_action": "Engineering review",
+        "source_type": "synthetic_demo"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "COR-6046",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.28496328228877,
+          33.02975753753485
+        ]
+      },
+      "properties": {
+        "corrosion_id": "COR-6046",
+        "asset_id": "VAL-1048",
+        "pipeline_id": "PL-1048",
+        "inspection_id": "INSP-5046",
+        "corrosion_type": "MIC",
+        "severity": "High",
+        "depth_percent": 46.2,
+        "inspection_date": "2023-01-08",
+        "status": "Monitoring",
+        "recommended_action": "Engineering review",
+        "source_type": "synthetic_demo"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "COR-6047",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.58605492421943,
+          31.747863024053107
+        ]
+      },
+      "properties": {
+        "corrosion_id": "COR-6047",
+        "asset_id": "VAL-1061",
+        "pipeline_id": "PL-1061",
+        "inspection_id": "INSP-5047",
+        "corrosion_type": "MIC",
+        "severity": "Moderate",
+        "depth_percent": 26.1,
+        "inspection_date": "2024-02-08",
+        "status": "Monitoring",
+        "recommended_action": "Engineering review",
+        "source_type": "synthetic_demo"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "COR-6048",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.31577012133395,
+          32.93690906042946
+        ]
+      },
+      "properties": {
+        "corrosion_id": "COR-6048",
+        "asset_id": "VAL-1074",
+        "pipeline_id": "PL-1074",
+        "inspection_id": "INSP-5048",
+        "corrosion_type": "MIC",
+        "severity": "Moderate",
+        "depth_percent": 53.3,
+        "inspection_date": "2025-03-08",
+        "status": "Open",
+        "recommended_action": "Engineering review",
+        "source_type": "synthetic_demo"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "COR-6049",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.7673551996867,
+          31.59489285035905
+        ]
+      },
+      "properties": {
+        "corrosion_id": "COR-6049",
+        "asset_id": "VAL-1087",
+        "pipeline_id": "PL-1087",
+        "inspection_id": "INSP-5049",
+        "corrosion_type": "MIC",
+        "severity": "Moderate",
+        "depth_percent": 6.8,
+        "inspection_date": "2020-04-08",
+        "status": "Monitoring",
+        "recommended_action": "Engineering review",
+        "source_type": "synthetic_demo"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "COR-6050",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.32095475592226,
+          31.951730990562602
+        ]
+      },
+      "properties": {
+        "corrosion_id": "COR-6050",
+        "asset_id": "VAL-1100",
+        "pipeline_id": "PL-1100",
+        "inspection_id": "INSP-5050",
+        "corrosion_type": "MIC",
+        "severity": "Low",
+        "depth_percent": 39.2,
+        "inspection_date": "2021-05-08",
+        "status": "Mitigated",
+        "recommended_action": "Engineering review",
+        "source_type": "synthetic_demo"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "COR-6051",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.79474400287476,
+          32.328142794340835
+        ]
+      },
+      "properties": {
+        "corrosion_id": "COR-6051",
+        "asset_id": "VAL-1114",
+        "pipeline_id": "PL-1014",
+        "inspection_id": "INSP-5051",
+        "corrosion_type": "MIC",
+        "severity": "Moderate",
+        "depth_percent": 45.9,
+        "inspection_date": "2022-06-08",
+        "status": "Open",
+        "recommended_action": "Engineering review",
+        "source_type": "synthetic_demo"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "COR-6052",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.73324038539705,
+          32.12299881423754
+        ]
+      },
+      "properties": {
+        "corrosion_id": "COR-6052",
+        "asset_id": "VAL-1127",
+        "pipeline_id": "PL-1027",
+        "inspection_id": "INSP-5052",
+        "corrosion_type": "MIC",
+        "severity": "Moderate",
+        "depth_percent": 11.2,
+        "inspection_date": "2023-07-08",
+        "status": "Open",
+        "recommended_action": "Engineering review",
+        "source_type": "synthetic_demo"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "COR-6053",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.50980666014426,
+          31.115708433465567
+        ]
+      },
+      "properties": {
+        "corrosion_id": "COR-6053",
+        "asset_id": "VAL-1140",
+        "pipeline_id": "PL-1040",
+        "inspection_id": "INSP-5053",
+        "corrosion_type": "MIC",
+        "severity": "High",
+        "depth_percent": 14.7,
+        "inspection_date": "2024-08-08",
+        "status": "Open",
+        "recommended_action": "Engineering review",
+        "source_type": "synthetic_demo"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "COR-6054",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.26807087947883,
+          32.008632986366166
+        ]
+      },
+      "properties": {
+        "corrosion_id": "COR-6054",
+        "asset_id": "VAL-1153",
+        "pipeline_id": "PL-1053",
+        "inspection_id": "INSP-5054",
+        "corrosion_type": "MIC",
+        "severity": "High",
+        "depth_percent": 13.8,
+        "inspection_date": "2025-09-08",
+        "status": "Monitoring",
+        "recommended_action": "Engineering review",
+        "source_type": "synthetic_demo"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "COR-6055",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.07392000017904,
+          31.540980097742978
+        ]
+      },
+      "properties": {
+        "corrosion_id": "COR-6055",
+        "asset_id": "VAL-1166",
+        "pipeline_id": "PL-1066",
+        "inspection_id": "INSP-5055",
+        "corrosion_type": "MIC",
+        "severity": "Moderate",
+        "depth_percent": 43.7,
+        "inspection_date": "2020-01-08",
+        "status": "Open",
+        "recommended_action": "Engineering review",
+        "source_type": "synthetic_demo"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "COR-6056",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.44933982470165,
+          30.977040508968656
+        ]
+      },
+      "properties": {
+        "corrosion_id": "COR-6056",
+        "asset_id": "VAL-1179",
+        "pipeline_id": "PL-1079",
+        "inspection_id": "INSP-5056",
+        "corrosion_type": "MIC",
+        "severity": "Low",
+        "depth_percent": 62.2,
+        "inspection_date": "2021-02-08",
+        "status": "Mitigated",
+        "recommended_action": "Engineering review",
+        "source_type": "synthetic_demo"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "COR-6057",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.27270697637736,
+          32.075943838434554
+        ]
+      },
+      "properties": {
+        "corrosion_id": "COR-6057",
+        "asset_id": "STA-2012",
+        "pipeline_id": "PL-1023",
+        "inspection_id": "INSP-5057",
+        "corrosion_type": "MIC",
+        "severity": "High",
+        "depth_percent": 6.2,
+        "inspection_date": "2022-03-08",
+        "status": "Mitigated",
+        "recommended_action": "Engineering review",
+        "source_type": "synthetic_demo"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "COR-6058",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.11428527060187,
+          33.0424495572581
+        ]
+      },
+      "properties": {
+        "corrosion_id": "COR-6058",
+        "asset_id": "STA-2025",
+        "pipeline_id": "PL-1049",
+        "inspection_id": "INSP-5058",
+        "corrosion_type": "MIC",
+        "severity": "Moderate",
+        "depth_percent": 10.1,
+        "inspection_date": "2023-04-08",
+        "status": "Mitigated",
+        "recommended_action": "Engineering review",
+        "source_type": "synthetic_demo"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "COR-6059",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.18561689219587,
+          31.429627068694575
+        ]
+      },
+      "properties": {
+        "corrosion_id": "COR-6059",
+        "asset_id": "STA-2038",
+        "pipeline_id": "PL-1075",
+        "inspection_id": "INSP-5059",
+        "corrosion_type": "MIC",
+        "severity": "Low",
+        "depth_percent": 50.1,
+        "inspection_date": "2024-05-08",
+        "status": "Open",
+        "recommended_action": "Engineering review",
+        "source_type": "synthetic_demo"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "COR-6060",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.68639369298289,
+          33.16206769450562
+        ]
+      },
+      "properties": {
+        "corrosion_id": "COR-6060",
+        "asset_id": "TERM-3003",
+        "pipeline_id": "PL-1015",
+        "inspection_id": "INSP-5060",
+        "corrosion_type": "MIC",
+        "severity": "Low",
+        "depth_percent": 20,
+        "inspection_date": "2025-06-08",
+        "status": "Open",
+        "recommended_action": "Engineering review",
+        "source_type": "synthetic_demo"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "COR-6061",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.7750444217073,
+          32.213970575907844
+        ]
+      },
+      "properties": {
+        "corrosion_id": "COR-6061",
+        "asset_id": "FAC-4004",
+        "pipeline_id": "PL-1010",
+        "inspection_id": "INSP-5061",
+        "corrosion_type": "External Corrosion",
+        "severity": "Moderate",
+        "depth_percent": 75.2,
+        "inspection_date": "2020-07-08",
+        "status": "Monitoring",
+        "recommended_action": "Reinspect",
+        "source_type": "synthetic_demo"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "COR-6062",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.11317449577923,
+          33.1159558155603
+        ]
+      },
+      "properties": {
+        "corrosion_id": "COR-6062",
+        "asset_id": "FAC-4017",
+        "pipeline_id": "PL-1049",
+        "inspection_id": "INSP-5062",
+        "corrosion_type": "External Corrosion",
+        "severity": "Low",
+        "depth_percent": 29.7,
+        "inspection_date": "2021-08-08",
+        "status": "Open",
+        "recommended_action": "Reinspect",
+        "source_type": "synthetic_demo"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "COR-6063",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.15681540928837,
+          31.61973412319184
+        ]
+      },
+      "properties": {
+        "corrosion_id": "COR-6063",
+        "asset_id": "FAC-4030",
+        "pipeline_id": "PL-1088",
+        "inspection_id": "INSP-5063",
+        "corrosion_type": "External Corrosion",
+        "severity": "Moderate",
+        "depth_percent": 50,
+        "inspection_date": "2022-09-08",
+        "status": "Open",
+        "recommended_action": "Reinspect",
+        "source_type": "synthetic_demo"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "COR-6064",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.38783179536588,
+          31.780321898494318
+        ]
+      },
+      "properties": {
+        "corrosion_id": "COR-6064",
+        "asset_id": "VAL-1013",
+        "pipeline_id": "PL-1013",
+        "inspection_id": "INSP-5064",
+        "corrosion_type": "External Corrosion",
+        "severity": "High",
+        "depth_percent": 35.5,
+        "inspection_date": "2023-01-08",
+        "status": "Mitigated",
+        "recommended_action": "Reinspect",
+        "source_type": "synthetic_demo"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "COR-6065",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.62154786844128,
+          32.871542586697586
+        ]
+      },
+      "properties": {
+        "corrosion_id": "COR-6065",
+        "asset_id": "VAL-1026",
+        "pipeline_id": "PL-1026",
+        "inspection_id": "INSP-5065",
+        "corrosion_type": "External Corrosion",
+        "severity": "High",
+        "depth_percent": 41.7,
+        "inspection_date": "2024-02-08",
+        "status": "Open",
+        "recommended_action": "Reinspect",
+        "source_type": "synthetic_demo"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "COR-6066",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.43462589276535,
+          31.820454589377746
+        ]
+      },
+      "properties": {
+        "corrosion_id": "COR-6066",
+        "asset_id": "VAL-1039",
+        "pipeline_id": "PL-1039",
+        "inspection_id": "INSP-5066",
+        "corrosion_type": "External Corrosion",
+        "severity": "High",
+        "depth_percent": 60.2,
+        "inspection_date": "2025-03-08",
+        "status": "Monitoring",
+        "recommended_action": "Reinspect",
+        "source_type": "synthetic_demo"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "COR-6067",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.89531664669494,
+          31.18981987948204
+        ]
+      },
+      "properties": {
+        "corrosion_id": "COR-6067",
+        "asset_id": "VAL-1052",
+        "pipeline_id": "PL-1052",
+        "inspection_id": "INSP-5067",
+        "corrosion_type": "External Corrosion",
+        "severity": "Low",
+        "depth_percent": 74.7,
+        "inspection_date": "2020-04-08",
+        "status": "Open",
+        "recommended_action": "Reinspect",
+        "source_type": "synthetic_demo"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "COR-6068",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.19674372048469,
+          31.477969622913463
+        ]
+      },
+      "properties": {
+        "corrosion_id": "COR-6068",
+        "asset_id": "VAL-1065",
+        "pipeline_id": "PL-1065",
+        "inspection_id": "INSP-5068",
+        "corrosion_type": "External Corrosion",
+        "severity": "Low",
+        "depth_percent": 46.4,
+        "inspection_date": "2021-05-08",
+        "status": "Monitoring",
+        "recommended_action": "Reinspect",
+        "source_type": "synthetic_demo"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "COR-6069",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.84205324382732,
+          31.207900474464285
+        ]
+      },
+      "properties": {
+        "corrosion_id": "COR-6069",
+        "asset_id": "VAL-1078",
+        "pipeline_id": "PL-1078",
+        "inspection_id": "INSP-5069",
+        "corrosion_type": "External Corrosion",
+        "severity": "Low",
+        "depth_percent": 68.1,
+        "inspection_date": "2022-06-08",
+        "status": "Open",
+        "recommended_action": "Reinspect",
+        "source_type": "synthetic_demo"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "COR-6070",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.07342670647103,
+          31.641971074531604
+        ]
+      },
+      "properties": {
+        "corrosion_id": "COR-6070",
+        "asset_id": "VAL-1091",
+        "pipeline_id": "PL-1091",
+        "inspection_id": "INSP-5070",
+        "corrosion_type": "External Corrosion",
+        "severity": "Moderate",
+        "depth_percent": 24,
+        "inspection_date": "2023-07-08",
+        "status": "Mitigated",
+        "recommended_action": "Reinspect",
+        "source_type": "synthetic_demo"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "COR-6071",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.52821737886802,
+          31.939239849006327
+        ]
+      },
+      "properties": {
+        "corrosion_id": "COR-6071",
+        "asset_id": "VAL-1104",
+        "pipeline_id": "PL-1004",
+        "inspection_id": "INSP-5071",
+        "corrosion_type": "MIC",
+        "severity": "Moderate",
+        "depth_percent": 6.8,
+        "inspection_date": "2024-08-08",
+        "status": "Mitigated",
+        "recommended_action": "Engineering review",
+        "source_type": "synthetic_demo"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "COR-6072",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.97242845785362,
+          31.48265606950172
+        ]
+      },
+      "properties": {
+        "corrosion_id": "COR-6072",
+        "asset_id": "VAL-1118",
+        "pipeline_id": "PL-1018",
+        "inspection_id": "INSP-5072",
+        "corrosion_type": "MIC",
+        "severity": "Low",
+        "depth_percent": 55.2,
+        "inspection_date": "2025-09-08",
+        "status": "Monitoring",
+        "recommended_action": "Engineering review",
+        "source_type": "synthetic_demo"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "COR-6073",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.9967307934557,
+          30.99617098898022
+        ]
+      },
+      "properties": {
+        "corrosion_id": "COR-6073",
+        "asset_id": "VAL-1131",
+        "pipeline_id": "PL-1031",
+        "inspection_id": "INSP-5073",
+        "corrosion_type": "MIC",
+        "severity": "High",
+        "depth_percent": 14.7,
+        "inspection_date": "2020-01-08",
+        "status": "Monitoring",
+        "recommended_action": "Engineering review",
+        "source_type": "synthetic_demo"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "COR-6074",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.50398106713249,
+          32.28013459585264
+        ]
+      },
+      "properties": {
+        "corrosion_id": "COR-6074",
+        "asset_id": "VAL-1144",
+        "pipeline_id": "PL-1044",
+        "inspection_id": "INSP-5074",
+        "corrosion_type": "MIC",
+        "severity": "High",
+        "depth_percent": 9.1,
+        "inspection_date": "2021-02-08",
+        "status": "Monitoring",
+        "recommended_action": "Engineering review",
+        "source_type": "synthetic_demo"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "COR-6075",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.4229591778984,
+          32.79990415203776
+        ]
+      },
+      "properties": {
+        "corrosion_id": "COR-6075",
+        "asset_id": "VAL-1157",
+        "pipeline_id": "PL-1057",
+        "inspection_id": "INSP-5075",
+        "corrosion_type": "MIC",
+        "severity": "High",
+        "depth_percent": 50.8,
+        "inspection_date": "2022-03-08",
+        "status": "Monitoring",
+        "recommended_action": "Engineering review",
+        "source_type": "synthetic_demo"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "COR-6076",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.46592676117322,
+          32.9201765965902
+        ]
+      },
+      "properties": {
+        "corrosion_id": "COR-6076",
+        "asset_id": "VAL-1170",
+        "pipeline_id": "PL-1070",
+        "inspection_id": "INSP-5076",
+        "corrosion_type": "MIC",
+        "severity": "High",
+        "depth_percent": 56.8,
+        "inspection_date": "2023-04-08",
+        "status": "Mitigated",
+        "recommended_action": "Engineering review",
+        "source_type": "synthetic_demo"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "COR-6077",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.46760007347844,
+          31.674990172652464
+        ]
+      },
+      "properties": {
+        "corrosion_id": "COR-6077",
+        "asset_id": "STA-2003",
+        "pipeline_id": "PL-1005",
+        "inspection_id": "INSP-5077",
+        "corrosion_type": "MIC",
+        "severity": "Moderate",
+        "depth_percent": 73.5,
+        "inspection_date": "2024-05-08",
+        "status": "Mitigated",
+        "recommended_action": "Engineering review",
+        "source_type": "synthetic_demo"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "COR-6078",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.06736547752844,
+          31.09578401627278
+        ]
+      },
+      "properties": {
+        "corrosion_id": "COR-6078",
+        "asset_id": "STA-2016",
+        "pipeline_id": "PL-1031",
+        "inspection_id": "INSP-5078",
+        "corrosion_type": "MIC",
+        "severity": "Low",
+        "depth_percent": 47.7,
+        "inspection_date": "2025-06-08",
+        "status": "Monitoring",
+        "recommended_action": "Engineering review",
+        "source_type": "synthetic_demo"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "COR-6079",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.39602542889021,
+          32.79157861025572
+        ]
+      },
+      "properties": {
+        "corrosion_id": "COR-6079",
+        "asset_id": "STA-2029",
+        "pipeline_id": "PL-1057",
+        "inspection_id": "INSP-5079",
+        "corrosion_type": "MIC",
+        "severity": "Low",
+        "depth_percent": 23.8,
+        "inspection_date": "2020-07-08",
+        "status": "Open",
+        "recommended_action": "Engineering review",
+        "source_type": "synthetic_demo"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "COR-6080",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.86444800001892,
+          33.09906045695771
+        ]
+      },
+      "properties": {
+        "corrosion_id": "COR-6080",
+        "asset_id": "STA-2042",
+        "pipeline_id": "PL-1083",
+        "inspection_id": "INSP-5080",
+        "corrosion_type": "MIC",
+        "severity": "High",
+        "depth_percent": 74.9,
+        "inspection_date": "2021-08-08",
+        "status": "Open",
+        "recommended_action": "Engineering review",
+        "source_type": "synthetic_demo"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "COR-6081",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.3164037919918,
+          32.005434372548834
+        ]
+      },
+      "properties": {
+        "corrosion_id": "COR-6081",
+        "asset_id": "TERM-3007",
+        "pipeline_id": "PL-1043",
+        "inspection_id": "INSP-5081",
+        "corrosion_type": "External Corrosion",
+        "severity": "Moderate",
+        "depth_percent": 75.2,
+        "inspection_date": "2022-09-08",
+        "status": "Open",
+        "recommended_action": "Reinspect",
+        "source_type": "synthetic_demo"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "COR-6082",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.83592203173137,
+          31.876226730935706
+        ]
+      },
+      "properties": {
+        "corrosion_id": "COR-6082",
+        "asset_id": "FAC-4008",
+        "pipeline_id": "PL-1022",
+        "inspection_id": "INSP-5082",
+        "corrosion_type": "External Corrosion",
+        "severity": "Low",
+        "depth_percent": 41.7,
+        "inspection_date": "2023-01-08",
+        "status": "Open",
+        "recommended_action": "Reinspect",
+        "source_type": "synthetic_demo"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "COR-6083",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.54670562043785,
+          31.77614533608996
+        ]
+      },
+      "properties": {
+        "corrosion_id": "COR-6083",
+        "asset_id": "FAC-4021",
+        "pipeline_id": "PL-1061",
+        "inspection_id": "INSP-5083",
+        "corrosion_type": "External Corrosion",
+        "severity": "Low",
+        "depth_percent": 72.6,
+        "inspection_date": "2024-02-08",
+        "status": "Open",
+        "recommended_action": "Reinspect",
+        "source_type": "synthetic_demo"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "COR-6084",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.63075566210397,
+          31.499375979495074
+        ]
+      },
+      "properties": {
+        "corrosion_id": "COR-6084",
+        "asset_id": "VAL-1004",
+        "pipeline_id": "PL-1004",
+        "inspection_id": "INSP-5084",
+        "corrosion_type": "External Corrosion",
+        "severity": "High",
+        "depth_percent": 28.5,
+        "inspection_date": "2025-03-08",
+        "status": "Mitigated",
+        "recommended_action": "Reinspect",
+        "source_type": "synthetic_demo"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "COR-6085",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.21384900757626,
+          31.87066699791295
+        ]
+      },
+      "properties": {
+        "corrosion_id": "COR-6085",
+        "asset_id": "VAL-1017",
+        "pipeline_id": "PL-1017",
+        "inspection_id": "INSP-5085",
+        "corrosion_type": "External Corrosion",
+        "severity": "Low",
+        "depth_percent": 13.4,
+        "inspection_date": "2020-04-08",
+        "status": "Open",
+        "recommended_action": "Reinspect",
+        "source_type": "synthetic_demo"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "COR-6086",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.76025376932331,
+          32.5395928160912
+        ]
+      },
+      "properties": {
+        "corrosion_id": "COR-6086",
+        "asset_id": "VAL-1030",
+        "pipeline_id": "PL-1030",
+        "inspection_id": "INSP-5086",
+        "corrosion_type": "External Corrosion",
+        "severity": "Low",
+        "depth_percent": 27.9,
+        "inspection_date": "2021-05-08",
+        "status": "Open",
+        "recommended_action": "Reinspect",
+        "source_type": "synthetic_demo"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "COR-6087",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.31795837539907,
+          31.98260320896633
+        ]
+      },
+      "properties": {
+        "corrosion_id": "COR-6087",
+        "asset_id": "VAL-1043",
+        "pipeline_id": "PL-1043",
+        "inspection_id": "INSP-5087",
+        "corrosion_type": "External Corrosion",
+        "severity": "Moderate",
+        "depth_percent": 71.4,
+        "inspection_date": "2022-06-08",
+        "status": "Monitoring",
+        "recommended_action": "Reinspect",
+        "source_type": "synthetic_demo"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "COR-6088",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.21625810160312,
+          31.581022490224953
+        ]
+      },
+      "properties": {
+        "corrosion_id": "COR-6088",
+        "asset_id": "VAL-1056",
+        "pipeline_id": "PL-1056",
+        "inspection_id": "INSP-5088",
+        "corrosion_type": "External Corrosion",
+        "severity": "Low",
+        "depth_percent": 73,
+        "inspection_date": "2023-07-08",
+        "status": "Open",
+        "recommended_action": "Reinspect",
+        "source_type": "synthetic_demo"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "COR-6089",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.23079505792387,
+          31.16547571812813
+        ]
+      },
+      "properties": {
+        "corrosion_id": "COR-6089",
+        "asset_id": "VAL-1069",
+        "pipeline_id": "PL-1069",
+        "inspection_id": "INSP-5089",
+        "corrosion_type": "External Corrosion",
+        "severity": "High",
+        "depth_percent": 54.5,
+        "inspection_date": "2024-08-08",
+        "status": "Open",
+        "recommended_action": "Reinspect",
+        "source_type": "synthetic_demo"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "COR-6090",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.95423999992384,
+          32.96639923354345
+        ]
+      },
+      "properties": {
+        "corrosion_id": "COR-6090",
+        "asset_id": "VAL-1082",
+        "pipeline_id": "PL-1082",
+        "inspection_id": "INSP-5090",
+        "corrosion_type": "External Corrosion",
+        "severity": "High",
+        "depth_percent": 40,
+        "inspection_date": "2025-09-08",
+        "status": "Open",
+        "recommended_action": "Reinspect",
+        "source_type": "synthetic_demo"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "COR-6091",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.5376121430535,
+          31.920767352986932
+        ]
+      },
+      "properties": {
+        "corrosion_id": "COR-6091",
+        "asset_id": "VAL-1095",
+        "pipeline_id": "PL-1095",
+        "inspection_id": "INSP-5091",
+        "corrosion_type": "MIC",
+        "severity": "High",
+        "depth_percent": 37.3,
+        "inspection_date": "2020-01-08",
+        "status": "Open",
+        "recommended_action": "Engineering review",
+        "source_type": "synthetic_demo"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "COR-6092",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.26803326672498,
+          32.089275434567156
+        ]
+      },
+      "properties": {
+        "corrosion_id": "COR-6092",
+        "asset_id": "VAL-1109",
+        "pipeline_id": "PL-1009",
+        "inspection_id": "INSP-5092",
+        "corrosion_type": "MIC",
+        "severity": "High",
+        "depth_percent": 43,
+        "inspection_date": "2021-02-08",
+        "status": "Mitigated",
+        "recommended_action": "Engineering review",
+        "source_type": "synthetic_demo"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "COR-6093",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.98777597261329,
+          31.915201660310466
+        ]
+      },
+      "properties": {
+        "corrosion_id": "COR-6093",
+        "asset_id": "VAL-1122",
+        "pipeline_id": "PL-1022",
+        "inspection_id": "INSP-5093",
+        "corrosion_type": "MIC",
+        "severity": "High",
+        "depth_percent": 66.8,
+        "inspection_date": "2022-03-08",
+        "status": "Monitoring",
+        "recommended_action": "Engineering review",
+        "source_type": "synthetic_demo"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "COR-6094",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.91059979609483,
+          31.023806771615458
+        ]
+      },
+      "properties": {
+        "corrosion_id": "COR-6094",
+        "asset_id": "VAL-1135",
+        "pipeline_id": "PL-1035",
+        "inspection_id": "INSP-5094",
+        "corrosion_type": "MIC",
+        "severity": "High",
+        "depth_percent": 75,
+        "inspection_date": "2023-04-08",
+        "status": "Monitoring",
+        "recommended_action": "Engineering review",
+        "source_type": "synthetic_demo"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "COR-6095",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.96658064046231,
+          32.9707075108895
+        ]
+      },
+      "properties": {
+        "corrosion_id": "COR-6095",
+        "asset_id": "VAL-1148",
+        "pipeline_id": "PL-1048",
+        "inspection_id": "INSP-5095",
+        "corrosion_type": "MIC",
+        "severity": "High",
+        "depth_percent": 39.9,
+        "inspection_date": "2024-05-08",
+        "status": "Monitoring",
+        "recommended_action": "Engineering review",
+        "source_type": "synthetic_demo"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "COR-6096",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.5619031831582,
+          31.765222087906402
+        ]
+      },
+      "properties": {
+        "corrosion_id": "COR-6096",
+        "asset_id": "VAL-1161",
+        "pipeline_id": "PL-1061",
+        "inspection_id": "INSP-5096",
+        "corrosion_type": "MIC",
+        "severity": "Moderate",
+        "depth_percent": 64.7,
+        "inspection_date": "2025-06-08",
+        "status": "Mitigated",
+        "recommended_action": "Engineering review",
+        "source_type": "synthetic_demo"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "COR-6097",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.31582548693855,
+          32.94105728555231
+        ]
+      },
+      "properties": {
+        "corrosion_id": "COR-6097",
+        "asset_id": "VAL-1174",
+        "pipeline_id": "PL-1074",
+        "inspection_id": "INSP-5097",
+        "corrosion_type": "MIC",
+        "severity": "Moderate",
+        "depth_percent": 28.3,
+        "inspection_date": "2020-07-08",
+        "status": "Monitoring",
+        "recommended_action": "Engineering review",
+        "source_type": "synthetic_demo"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "COR-6098",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.120314335142,
+          31.911207265870008
+        ]
+      },
+      "properties": {
+        "corrosion_id": "COR-6098",
+        "asset_id": "STA-2007",
+        "pipeline_id": "PL-1013",
+        "inspection_id": "INSP-5098",
+        "corrosion_type": "MIC",
+        "severity": "High",
+        "depth_percent": 7.4,
+        "inspection_date": "2021-08-08",
+        "status": "Monitoring",
+        "recommended_action": "Engineering review",
+        "source_type": "synthetic_demo"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "COR-6099",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.30501623959053,
+          31.78872746358129
+        ]
+      },
+      "properties": {
+        "corrosion_id": "COR-6099",
+        "asset_id": "STA-2020",
+        "pipeline_id": "PL-1039",
+        "inspection_id": "INSP-5099",
+        "corrosion_type": "MIC",
+        "severity": "High",
+        "depth_percent": 6,
+        "inspection_date": "2022-09-08",
+        "status": "Open",
+        "recommended_action": "Engineering review",
+        "source_type": "synthetic_demo"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "COR-6100",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.18658674757812,
+          31.388957604255232
+        ]
+      },
+      "properties": {
+        "corrosion_id": "COR-6100",
+        "asset_id": "STA-2033",
+        "pipeline_id": "PL-1065",
+        "inspection_id": "INSP-5100",
+        "corrosion_type": "MIC",
+        "severity": "Moderate",
+        "depth_percent": 52.2,
+        "inspection_date": "2023-01-08",
+        "status": "Mitigated",
+        "recommended_action": "Engineering review",
+        "source_type": "synthetic_demo"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "COR-6101",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.07567818836611,
+          31.64402175480449
+        ]
+      },
+      "properties": {
+        "corrosion_id": "COR-6101",
+        "asset_id": "STA-2046",
+        "pipeline_id": "PL-1091",
+        "inspection_id": "INSP-5101",
+        "corrosion_type": "Atmospheric Corrosion",
+        "severity": "Moderate",
+        "depth_percent": 28.8,
+        "inspection_date": "2024-02-08",
+        "status": "Open",
+        "recommended_action": "No immediate action",
+        "source_type": "synthetic_demo"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "COR-6102",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.3132987902379,
+          32.586904104833785
+        ]
+      },
+      "properties": {
+        "corrosion_id": "COR-6102",
+        "asset_id": "TERM-3011",
+        "pipeline_id": "PL-1071",
+        "inspection_id": "INSP-5102",
+        "corrosion_type": "MIC",
+        "severity": "Moderate",
+        "depth_percent": 68.4,
+        "inspection_date": "2025-03-08",
+        "status": "Mitigated",
+        "recommended_action": "Engineering review",
+        "source_type": "synthetic_demo"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "COR-6103",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.33898708748704,
+          30.962316152841623
+        ]
+      },
+      "properties": {
+        "corrosion_id": "COR-6103",
+        "asset_id": "FAC-4012",
+        "pipeline_id": "PL-1034",
+        "inspection_id": "INSP-5103",
+        "corrosion_type": "MIC",
+        "severity": "High",
+        "depth_percent": 34.3,
+        "inspection_date": "2020-04-08",
+        "status": "Monitoring",
+        "recommended_action": "Engineering review",
+        "source_type": "synthetic_demo"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "COR-6104",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.24009106935061,
+          32.82131948851578
+        ]
+      },
+      "properties": {
+        "corrosion_id": "COR-6104",
+        "asset_id": "FAC-4025",
+        "pipeline_id": "PL-1073",
+        "inspection_id": "INSP-5104",
+        "corrosion_type": "MIC",
+        "severity": "Low",
+        "depth_percent": 59.5,
+        "inspection_date": "2021-05-08",
+        "status": "Open",
+        "recommended_action": "Engineering review",
+        "source_type": "synthetic_demo"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "COR-6105",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.96095229739154,
+          32.781101219996074
+        ]
+      },
+      "properties": {
+        "corrosion_id": "COR-6105",
+        "asset_id": "VAL-1008",
+        "pipeline_id": "PL-1008",
+        "inspection_id": "INSP-5105",
+        "corrosion_type": "MIC",
+        "severity": "Moderate",
+        "depth_percent": 62.9,
+        "inspection_date": "2022-06-08",
+        "status": "Open",
+        "recommended_action": "Engineering review",
+        "source_type": "synthetic_demo"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "COR-6106",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.25329966765761,
+          32.27687302407824
+        ]
+      },
+      "properties": {
+        "corrosion_id": "COR-6106",
+        "asset_id": "VAL-1021",
+        "pipeline_id": "PL-1021",
+        "inspection_id": "INSP-5106",
+        "corrosion_type": "MIC",
+        "severity": "Low",
+        "depth_percent": 10.8,
+        "inspection_date": "2023-07-08",
+        "status": "Mitigated",
+        "recommended_action": "Engineering review",
+        "source_type": "synthetic_demo"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "COR-6107",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.99873619539709,
+          31.332848151500468
+        ]
+      },
+      "properties": {
+        "corrosion_id": "COR-6107",
+        "asset_id": "VAL-1034",
+        "pipeline_id": "PL-1034",
+        "inspection_id": "INSP-5107",
+        "corrosion_type": "MIC",
+        "severity": "High",
+        "depth_percent": 24.3,
+        "inspection_date": "2024-08-08",
+        "status": "Mitigated",
+        "recommended_action": "Engineering review",
+        "source_type": "synthetic_demo"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "COR-6108",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.98260918265632,
+          32.98182838161931
+        ]
+      },
+      "properties": {
+        "corrosion_id": "COR-6108",
+        "asset_id": "VAL-1047",
+        "pipeline_id": "PL-1047",
+        "inspection_id": "INSP-5108",
+        "corrosion_type": "MIC",
+        "severity": "High",
+        "depth_percent": 55.7,
+        "inspection_date": "2025-09-08",
+        "status": "Mitigated",
+        "recommended_action": "Engineering review",
+        "source_type": "synthetic_demo"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "COR-6109",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.23066881159102,
+          32.434693206936835
+        ]
+      },
+      "properties": {
+        "corrosion_id": "COR-6109",
+        "asset_id": "VAL-1060",
+        "pipeline_id": "PL-1060",
+        "inspection_id": "INSP-5109",
+        "corrosion_type": "MIC",
+        "severity": "High",
+        "depth_percent": 27.5,
+        "inspection_date": "2020-01-08",
+        "status": "Open",
+        "recommended_action": "Engineering review",
+        "source_type": "synthetic_demo"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "COR-6110",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.23868601736707,
+          32.81989495855444
+        ]
+      },
+      "properties": {
+        "corrosion_id": "COR-6110",
+        "asset_id": "VAL-1073",
+        "pipeline_id": "PL-1073",
+        "inspection_id": "INSP-5110",
+        "corrosion_type": "MIC",
+        "severity": "High",
+        "depth_percent": 20.8,
+        "inspection_date": "2021-02-08",
+        "status": "Mitigated",
+        "recommended_action": "Engineering review",
+        "source_type": "synthetic_demo"
+      }
+    }
+  ]
+}

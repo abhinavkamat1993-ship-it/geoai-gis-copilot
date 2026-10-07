@@ -7,7 +7,9 @@
     "dev": "vite",
     "build": "tsc -b && vite build",
     "lint": "eslint .",
-    "preview": "vite preview"
+    "preview": "vite preview",
+    "data:build": "node scripts/build-midstream-data.mjs",
+    "data:validate": "node scripts/validate-midstream-data.mjs"
   },
   "dependencies": {
     "@arcgis/core": "^5.1.26",

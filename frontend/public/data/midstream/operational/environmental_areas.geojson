@@ -1,0 +1,590 @@
+{
+  "type": "FeatureCollection",
+  "name": "environmental_areas",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "ENV-9001",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -101.97273019968114,
+              31.829651443916738
+            ],
+            [
+              -101.97008397363494,
+              31.829048986124207
+            ],
+            [
+              -101.96814688344332,
+              31.827403060871532
+            ],
+            [
+              -101.9674379708468,
+              31.825154732588572
+            ],
+            [
+              -101.96814710668063,
+              31.822906459060366
+            ],
+            [
+              -101.97008419687226,
+              31.82126064331725
+            ],
+            [
+              -101.97273019968114,
+              31.820658240279485
+            ],
+            [
+              -101.97537620249,
+              31.82126064331725
+            ],
+            [
+              -101.97731329268164,
+              31.822906459060366
+            ],
+            [
+              -101.97802242851549,
+              31.825154732588572
+            ],
+            [
+              -101.97731351591895,
+              31.827403060871532
+            ],
+            [
+              -101.97537642572732,
+              31.829048986124207
+            ],
+            [
+              -101.97273019968114,
+              31.829651443916738
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "environmental_area_id": "ENV-9001",
+        "area_name": "Demo Sensitive Area 01",
+        "designation": "Wetland Demonstration",
+        "status": "Illustrative Only",
+        "operating_area": "South East Area",
+        "related_pipeline_id": "PL-1001",
+        "source_type": "synthetic_demo",
+        "geometry_note": "Illustrative 500 m scenario polygon around a synthetic pipeline; not an environmental inventory."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ENV-9002",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -102.17450141558939,
+              31.62936964336085
+            ],
+            [
+              -102.17138561412392,
+              31.628658737647694
+            ],
+            [
+              -102.16910480180408,
+              31.626716534814847
+            ],
+            [
+              -102.16827012042968,
+              31.624063501925622
+            ],
+            [
+              -102.16910510954172,
+              31.62141054468103
+            ],
+            [
+              -102.17138592186153,
+              31.619468493137425
+            ],
+            [
+              -102.17450141558939,
+              31.618757663068898
+            ],
+            [
+              -102.17761690931724,
+              31.619468493137425
+            ],
+            [
+              -102.17989772163705,
+              31.62141054468103
+            ],
+            [
+              -102.18073271074908,
+              31.624063501925622
+            ],
+            [
+              -102.17989802937468,
+              31.626716534814847
+            ],
+            [
+              -102.17761721705484,
+              31.628658737647694
+            ],
+            [
+              -102.17450141558939,
+              31.62936964336085
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "environmental_area_id": "ENV-9002",
+        "area_name": "Demo Sensitive Area 02",
+        "designation": "Wetland Demonstration",
+        "status": "Illustrative Only",
+        "operating_area": "South West Area",
+        "related_pipeline_id": "PL-1012",
+        "source_type": "synthetic_demo",
+        "geometry_note": "Illustrative 600 m scenario polygon around a synthetic pipeline; not an environmental inventory."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ENV-9003",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -102.50464909374823,
+              32.043918852776
+            ],
+            [
+              -102.5010418360493,
+              32.043099496351225
+            ],
+            [
+              -102.4984012929076,
+              32.04086101035696
+            ],
+            [
+              -102.49743499569507,
+              32.03780327007213
+            ],
+            [
+              -102.49840171019956,
+              32.03474563190257
+            ],
+            [
+              -102.50104225334128,
+              32.03250735013884
+            ],
+            [
+              -102.50464909374823,
+              32.03168809582934
+            ],
+            [
+              -102.50825593415519,
+              32.03250735013884
+            ],
+            [
+              -102.51089647729691,
+              32.03474563190257
+            ],
+            [
+              -102.5118631918014,
+              32.03780327007213
+            ],
+            [
+              -102.51089689458887,
+              32.04086101035696
+            ],
+            [
+              -102.50825635144716,
+              32.043099496351225
+            ],
+            [
+              -102.50464909374823,
+              32.043918852776
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "environmental_area_id": "ENV-9003",
+        "area_name": "Demo Sensitive Area 03",
+        "designation": "Wetland Demonstration",
+        "status": "Illustrative Only",
+        "operating_area": "North West Area",
+        "related_pipeline_id": "PL-1023",
+        "source_type": "synthetic_demo",
+        "geometry_note": "Illustrative 700 m scenario polygon around a synthetic pipeline; not an environmental inventory."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ENV-9004",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -102.11618976794807,
+              31.503547171575217
+            ],
+            [
+              -102.11212887503567,
+              31.502619364631233
+            ],
+            [
+              -102.1091562857807,
+              31.500084595860777
+            ],
+            [
+              -102.10806850303067,
+              31.496622148373653
+            ],
+            [
+              -102.10915680661392,
+              31.49315982908698
+            ],
+            [
+              -102.11212939586888,
+              31.490625316717413
+            ],
+            [
+              -102.11618976794807,
+              31.489697637973865
+            ],
+            [
+              -102.12025014002725,
+              31.490625316717413
+            ],
+            [
+              -102.12322272928222,
+              31.49315982908698
+            ],
+            [
+              -102.12431103286548,
+              31.496622148373653
+            ],
+            [
+              -102.12322325011543,
+              31.500084595860777
+            ],
+            [
+              -102.12025066086049,
+              31.502619364631233
+            ],
+            [
+              -102.11618976794807,
+              31.503547171575217
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "environmental_area_id": "ENV-9004",
+        "area_name": "Demo Sensitive Area 04",
+        "designation": "Wetland Demonstration",
+        "status": "Illustrative Only",
+        "operating_area": "South West Area",
+        "related_pipeline_id": "PL-1034",
+        "source_type": "synthetic_demo",
+        "geometry_note": "Illustrative 800 m scenario polygon around a synthetic pipeline; not an environmental inventory."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ENV-9005",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -100.68960845379003,
+              32.58002559254631
+            ],
+            [
+              -100.6850192673341,
+              32.57898932885482
+            ],
+            [
+              -100.68166000062371,
+              32.576158264853184
+            ],
+            [
+              -100.68043076639749,
+              32.57229110393892
+            ],
+            [
+              -100.68166068603298,
+              32.568424109764344
+            ],
+            [
+              -100.68501995274336,
+              32.56559337924208
+            ],
+            [
+              -100.68960845379003,
+              32.56455728229026
+            ],
+            [
+              -100.69419695483667,
+              32.56559337924208
+            ],
+            [
+              -100.69755622154709,
+              32.568424109764344
+            ],
+            [
+              -100.69878614118257,
+              32.57229110393892
+            ],
+            [
+              -100.69755690695635,
+              32.576158264853184
+            ],
+            [
+              -100.69419764024597,
+              32.57898932885482
+            ],
+            [
+              -100.68960845379003,
+              32.58002559254631
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "environmental_area_id": "ENV-9005",
+        "area_name": "Demo Sensitive Area 05",
+        "designation": "Wetland Demonstration",
+        "status": "Illustrative Only",
+        "operating_area": "North East Area",
+        "related_pipeline_id": "PL-1045",
+        "source_type": "synthetic_demo",
+        "geometry_note": "Illustrative 900 m scenario polygon around a synthetic pipeline; not an environmental inventory."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ENV-9006",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -103.17929606728613,
+              31.514499320586406
+            ],
+            [
+              -103.17428529926468,
+              31.513354605179433
+            ],
+            [
+              -103.17061745288913,
+              31.510227256010346
+            ],
+            [
+              -103.16927532455321,
+              31.50595538670021
+            ],
+            [
+              -103.17061824605969,
+              31.501683712605477
+            ],
+            [
+              -103.17428609243525,
+              31.4985567538672
+            ],
+            [
+              -103.17929606728613,
+              31.497412233675643
+            ],
+            [
+              -103.184306042137,
+              31.4985567538672
+            ],
+            [
+              -103.18797388851259,
+              31.501683712605477
+            ],
+            [
+              -103.18931681001905,
+              31.50595538670021
+            ],
+            [
+              -103.18797468168314,
+              31.510227256010346
+            ],
+            [
+              -103.18430683530758,
+              31.513354605179433
+            ],
+            [
+              -103.17929606728613,
+              31.514499320586406
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "environmental_area_id": "ENV-9006",
+        "area_name": "Demo Sensitive Area 06",
+        "designation": "Wetland Demonstration",
+        "status": "Illustrative Only",
+        "operating_area": "South West Area",
+        "related_pipeline_id": "PL-1056",
+        "source_type": "synthetic_demo",
+        "geometry_note": "Illustrative 1000 m scenario polygon around a synthetic pipeline; not an environmental inventory."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ENV-9007",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -100.51150400014299,
+              31.0145369320336
+            ],
+            [
+              -100.50604751859775,
+              31.013283762060528
+            ],
+            [
+              -100.50205343631904,
+              31.00986012202384
+            ],
+            [
+              -100.50059196432535,
+              31.005183541469624
+            ],
+            [
+              -100.50205436341416,
+              31.000507190306024
+            ],
+            [
+              -100.50604844569287,
+              30.997084009050578
+            ],
+            [
+              -100.51150400014299,
+              30.995831068468128
+            ],
+            [
+              -100.51695955459309,
+              30.997084009050578
+            ],
+            [
+              -100.52095363687181,
+              31.000507190306024
+            ],
+            [
+              -100.52241603596062,
+              31.005183541469624
+            ],
+            [
+              -100.52095456396692,
+              31.00986012202384
+            ],
+            [
+              -100.51696048168822,
+              31.013283762060528
+            ],
+            [
+              -100.51150400014299,
+              31.0145369320336
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "environmental_area_id": "ENV-9007",
+        "area_name": "Demo Sensitive Area 07",
+        "designation": "Wetland Demonstration",
+        "status": "Illustrative Only",
+        "operating_area": "South East Area",
+        "related_pipeline_id": "PL-1067",
+        "source_type": "synthetic_demo",
+        "geometry_note": "Illustrative 1000 m scenario polygon around a synthetic pipeline; not an environmental inventory."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ENV-9008",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -102.53276620660935,
+              31.131537365547164
+            ],
+            [
+              -102.52683023679563,
+              31.130175736761604
+            ],
+            [
+              -102.52248520838016,
+              31.12645579736615
+            ],
+            [
+              -102.52089536808542,
+              31.121374501324887
+            ],
+            [
+              -102.52248630925415,
+              31.116293477339717
+            ],
+            [
+              -102.52683133766965,
+              31.11257408205645
+            ],
+            [
+              -102.53276620660935,
+              31.111212725326997
+            ],
+            [
+              -102.53870107554904,
+              31.11257408205645
+            ],
+            [
+              -102.54304610396454,
+              31.116293477339717
+            ],
+            [
+              -102.54463704513327,
+              31.121374501324887
+            ],
+            [
+              -102.54304720483853,
+              31.12645579736615
+            ],
+            [
+              -102.53870217642306,
+              31.130175736761604
+            ],
+            [
+              -102.53276620660935,
+              31.131537365547164
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "environmental_area_id": "ENV-9008",
+        "area_name": "Demo Sensitive Area 08",
+        "designation": "Wetland Demonstration",
+        "status": "Illustrative Only",
+        "operating_area": "South West Area",
+        "related_pipeline_id": "PL-1078",
+        "source_type": "synthetic_demo",
+        "geometry_note": "Illustrative 1100 m scenario polygon around a synthetic pipeline; not an environmental inventory."
+      }
+    }
+  ]
+}

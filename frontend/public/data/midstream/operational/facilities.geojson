@@ -1,0 +1,786 @@
+{
+  "type": "FeatureCollection",
+  "name": "facilities",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "FAC-4001",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.94045554751835,
+          31.687967438268913
+        ]
+      },
+      "properties": {
+        "asset_id": "FAC-4001",
+        "asset_type": "Facility",
+        "status": "Active",
+        "pipeline_id": "PL-1001",
+        "segment_id": "SEG-1001-1",
+        "operating_area": "South West Area",
+        "criticality": "Critical",
+        "source_type": "synthetic_demo",
+        "latitude": 31.6879674,
+        "longitude": -102.9404555,
+        "facility_id": "FAC-4001",
+        "facility_name": "Demo Operations Facility 01",
+        "facility_type": "Metering Facility"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "FAC-4002",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.77433668752883,
+          31.870873374427664
+        ]
+      },
+      "properties": {
+        "asset_id": "FAC-4002",
+        "asset_type": "Facility",
+        "status": "Active",
+        "pipeline_id": "PL-1004",
+        "segment_id": "SEG-1004-2",
+        "operating_area": "South East Area",
+        "criticality": "High",
+        "source_type": "synthetic_demo",
+        "latitude": 31.8708734,
+        "longitude": -101.7743367,
+        "facility_id": "FAC-4002",
+        "facility_name": "Demo Operations Facility 02",
+        "facility_type": "Metering Facility"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "FAC-4003",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.12832533239,
+          31.02517357177567
+        ]
+      },
+      "properties": {
+        "asset_id": "FAC-4003",
+        "asset_type": "Facility",
+        "status": "Active",
+        "pipeline_id": "PL-1007",
+        "segment_id": "SEG-1007-3",
+        "operating_area": "South East Area",
+        "criticality": "Critical",
+        "source_type": "synthetic_demo",
+        "latitude": 31.0251736,
+        "longitude": -101.1283253,
+        "facility_id": "FAC-4003",
+        "facility_name": "Demo Operations Facility 03",
+        "facility_type": "Metering Facility"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "FAC-4004",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.7750444217073,
+          32.213970575907844
+        ]
+      },
+      "properties": {
+        "asset_id": "FAC-4004",
+        "asset_type": "Facility",
+        "status": "Active",
+        "pipeline_id": "PL-1010",
+        "segment_id": "SEG-1010-1",
+        "operating_area": "North West Area",
+        "criticality": "Low",
+        "source_type": "synthetic_demo",
+        "latitude": 32.2139706,
+        "longitude": -102.7750444,
+        "facility_id": "FAC-4004",
+        "facility_name": "Demo Operations Facility 04",
+        "facility_type": "Metering Facility"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "FAC-4005",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.65408462738014,
+          32.078129241457894
+        ]
+      },
+      "properties": {
+        "asset_id": "FAC-4005",
+        "asset_type": "Facility",
+        "status": "Active",
+        "pipeline_id": "PL-1013",
+        "segment_id": "SEG-1013-2",
+        "operating_area": "North West Area",
+        "criticality": "High",
+        "source_type": "synthetic_demo",
+        "latitude": 32.0781292,
+        "longitude": -102.6540846,
+        "facility_id": "FAC-4005",
+        "facility_name": "Demo Operations Facility 05",
+        "facility_type": "Metering Facility"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "FAC-4006",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.49430565221381,
+          31.031409348492023
+        ]
+      },
+      "properties": {
+        "asset_id": "FAC-4006",
+        "asset_type": "Facility",
+        "status": "Active",
+        "pipeline_id": "PL-1016",
+        "segment_id": "SEG-1016-3",
+        "operating_area": "South East Area",
+        "criticality": "Critical",
+        "source_type": "synthetic_demo",
+        "latitude": 31.0314093,
+        "longitude": -101.4943057,
+        "facility_id": "FAC-4006",
+        "facility_name": "Demo Operations Facility 06",
+        "facility_type": "Metering Facility"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "FAC-4007",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.29546862516281,
+          31.821354082975038
+        ]
+      },
+      "properties": {
+        "asset_id": "FAC-4007",
+        "asset_type": "Facility",
+        "status": "Active",
+        "pipeline_id": "PL-1019",
+        "segment_id": "SEG-1019-1",
+        "operating_area": "South West Area",
+        "criticality": "Moderate",
+        "source_type": "synthetic_demo",
+        "latitude": 31.8213541,
+        "longitude": -103.2954686,
+        "facility_id": "FAC-4007",
+        "facility_name": "Demo Operations Facility 07",
+        "facility_type": "Metering Facility"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "FAC-4008",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.83592203173137,
+          31.876226730935706
+        ]
+      },
+      "properties": {
+        "asset_id": "FAC-4008",
+        "asset_type": "Facility",
+        "status": "Active",
+        "pipeline_id": "PL-1022",
+        "segment_id": "SEG-1022-2",
+        "operating_area": "South East Area",
+        "criticality": "Low",
+        "source_type": "synthetic_demo",
+        "latitude": 31.8762267,
+        "longitude": -101.835922,
+        "facility_id": "FAC-4008",
+        "facility_name": "Demo Operations Facility 08",
+        "facility_type": "Metering Facility"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "FAC-4009",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.71445316848876,
+          32.73831455626089
+        ]
+      },
+      "properties": {
+        "asset_id": "FAC-4009",
+        "asset_type": "Facility",
+        "status": "Active",
+        "pipeline_id": "PL-1025",
+        "segment_id": "SEG-1025-3",
+        "operating_area": "North West Area",
+        "criticality": "High",
+        "source_type": "synthetic_demo",
+        "latitude": 32.7383146,
+        "longitude": -102.7144532,
+        "facility_id": "FAC-4009",
+        "facility_name": "Demo Operations Facility 09",
+        "facility_type": "Metering Facility"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "FAC-4010",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.90167914298449,
+          32.667117941731966
+        ]
+      },
+      "properties": {
+        "asset_id": "FAC-4010",
+        "asset_type": "Facility",
+        "status": "Active",
+        "pipeline_id": "PL-1028",
+        "segment_id": "SEG-1028-1",
+        "operating_area": "North East Area",
+        "criticality": "Low",
+        "source_type": "synthetic_demo",
+        "latitude": 32.6671179,
+        "longitude": -100.9016791,
+        "facility_id": "FAC-4010",
+        "facility_name": "Demo Operations Facility 10",
+        "facility_type": "Metering Facility"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "FAC-4011",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.95929896852608,
+          30.97238638983904
+        ]
+      },
+      "properties": {
+        "asset_id": "FAC-4011",
+        "asset_type": "Facility",
+        "status": "Active",
+        "pipeline_id": "PL-1031",
+        "segment_id": "SEG-1031-2",
+        "operating_area": "South East Area",
+        "criticality": "Critical",
+        "source_type": "synthetic_demo",
+        "latitude": 30.9723864,
+        "longitude": -101.959299,
+        "facility_id": "FAC-4011",
+        "facility_name": "Demo Operations Facility 11",
+        "facility_type": "Storage Area"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "FAC-4012",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.33898708748704,
+          30.962316152841623
+        ]
+      },
+      "properties": {
+        "asset_id": "FAC-4012",
+        "asset_type": "Facility",
+        "status": "Active",
+        "pipeline_id": "PL-1034",
+        "segment_id": "SEG-1034-3",
+        "operating_area": "South East Area",
+        "criticality": "Low",
+        "source_type": "synthetic_demo",
+        "latitude": 30.9623162,
+        "longitude": -101.3389871,
+        "facility_id": "FAC-4012",
+        "facility_name": "Demo Operations Facility 12",
+        "facility_type": "Storage Area"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "FAC-4013",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.71543059993927,
+          31.989523574628638
+        ]
+      },
+      "properties": {
+        "asset_id": "FAC-4013",
+        "asset_type": "Facility",
+        "status": "Active",
+        "pipeline_id": "PL-1037",
+        "segment_id": "SEG-1037-1",
+        "operating_area": "South East Area",
+        "criticality": "Critical",
+        "source_type": "synthetic_demo",
+        "latitude": 31.9895236,
+        "longitude": -101.7154306,
+        "facility_id": "FAC-4013",
+        "facility_name": "Demo Operations Facility 13",
+        "facility_type": "Storage Area"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "FAC-4014",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.39286487655937,
+          31.054873828551013
+        ]
+      },
+      "properties": {
+        "asset_id": "FAC-4014",
+        "asset_type": "Facility",
+        "status": "Active",
+        "pipeline_id": "PL-1040",
+        "segment_id": "SEG-1040-2",
+        "operating_area": "South East Area",
+        "criticality": "Critical",
+        "source_type": "synthetic_demo",
+        "latitude": 31.0548738,
+        "longitude": -101.3928649,
+        "facility_id": "FAC-4014",
+        "facility_name": "Demo Operations Facility 14",
+        "facility_type": "Storage Area"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "FAC-4015",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.39437420908949,
+          32.226164345282896
+        ]
+      },
+      "properties": {
+        "asset_id": "FAC-4015",
+        "asset_type": "Facility",
+        "status": "Active",
+        "pipeline_id": "PL-1043",
+        "segment_id": "SEG-1043-3",
+        "operating_area": "North East Area",
+        "criticality": "High",
+        "source_type": "synthetic_demo",
+        "latitude": 32.2261643,
+        "longitude": -101.3943742,
+        "facility_id": "FAC-4015",
+        "facility_name": "Demo Operations Facility 15",
+        "facility_type": "Storage Area"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "FAC-4016",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.8462204756766,
+          32.517272680221794
+        ]
+      },
+      "properties": {
+        "asset_id": "FAC-4016",
+        "asset_type": "Facility",
+        "status": "Active",
+        "pipeline_id": "PL-1046",
+        "segment_id": "SEG-1046-1",
+        "operating_area": "North East Area",
+        "criticality": "Critical",
+        "source_type": "synthetic_demo",
+        "latitude": 32.5172727,
+        "longitude": -100.8462205,
+        "facility_id": "FAC-4016",
+        "facility_name": "Demo Operations Facility 16",
+        "facility_type": "Storage Area"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "FAC-4017",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.11317449577923,
+          33.1159558155603
+        ]
+      },
+      "properties": {
+        "asset_id": "FAC-4017",
+        "asset_type": "Facility",
+        "status": "Active",
+        "pipeline_id": "PL-1049",
+        "segment_id": "SEG-1049-2",
+        "operating_area": "North West Area",
+        "criticality": "Critical",
+        "source_type": "synthetic_demo",
+        "latitude": 33.1159558,
+        "longitude": -103.1131745,
+        "facility_id": "FAC-4017",
+        "facility_name": "Demo Operations Facility 17",
+        "facility_type": "Storage Area"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "FAC-4018",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.93806414343551,
+          30.98772073802374
+        ]
+      },
+      "properties": {
+        "asset_id": "FAC-4018",
+        "asset_type": "Facility",
+        "status": "Active",
+        "pipeline_id": "PL-1052",
+        "segment_id": "SEG-1052-3",
+        "operating_area": "South West Area",
+        "criticality": "High",
+        "source_type": "synthetic_demo",
+        "latitude": 30.9877207,
+        "longitude": -102.9380641,
+        "facility_id": "FAC-4018",
+        "facility_name": "Demo Operations Facility 18",
+        "facility_type": "Storage Area"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "FAC-4019",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.93079722063115,
+          32.34934121559836
+        ]
+      },
+      "properties": {
+        "asset_id": "FAC-4019",
+        "asset_type": "Facility",
+        "status": "Active",
+        "pipeline_id": "PL-1055",
+        "segment_id": "SEG-1055-1",
+        "operating_area": "North East Area",
+        "criticality": "Critical",
+        "source_type": "synthetic_demo",
+        "latitude": 32.3493412,
+        "longitude": -100.9307972,
+        "facility_id": "FAC-4019",
+        "facility_name": "Demo Operations Facility 19",
+        "facility_type": "Storage Area"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "FAC-4020",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.40089822572665,
+          32.93375104445879
+        ]
+      },
+      "properties": {
+        "asset_id": "FAC-4020",
+        "asset_type": "Facility",
+        "status": "Active",
+        "pipeline_id": "PL-1058",
+        "segment_id": "SEG-1058-2",
+        "operating_area": "North West Area",
+        "criticality": "Critical",
+        "source_type": "synthetic_demo",
+        "latitude": 32.933751,
+        "longitude": -102.4008982,
+        "facility_id": "FAC-4020",
+        "facility_name": "Demo Operations Facility 20",
+        "facility_type": "Storage Area"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "FAC-4021",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.54670562043785,
+          31.77614533608996
+        ]
+      },
+      "properties": {
+        "asset_id": "FAC-4021",
+        "asset_type": "Facility",
+        "status": "Active",
+        "pipeline_id": "PL-1061",
+        "segment_id": "SEG-1061-3",
+        "operating_area": "South East Area",
+        "criticality": "Critical",
+        "source_type": "synthetic_demo",
+        "latitude": 31.7761453,
+        "longitude": -101.5467056,
+        "facility_id": "FAC-4021",
+        "facility_name": "Demo Operations Facility 21",
+        "facility_type": "Storage Area"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "FAC-4022",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.27466684317336,
+          31.053495538862276
+        ]
+      },
+      "properties": {
+        "asset_id": "FAC-4022",
+        "asset_type": "Facility",
+        "status": "Active",
+        "pipeline_id": "PL-1064",
+        "segment_id": "SEG-1064-1",
+        "operating_area": "South West Area",
+        "criticality": "Critical",
+        "source_type": "synthetic_demo",
+        "latitude": 31.0534955,
+        "longitude": -102.2746668,
+        "facility_id": "FAC-4022",
+        "facility_name": "Demo Operations Facility 22",
+        "facility_type": "Storage Area"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "FAC-4023",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.51077050071417,
+          31.005184000250864
+        ]
+      },
+      "properties": {
+        "asset_id": "FAC-4023",
+        "asset_type": "Facility",
+        "status": "Active",
+        "pipeline_id": "PL-1067",
+        "segment_id": "SEG-1067-2",
+        "operating_area": "South East Area",
+        "criticality": "High",
+        "source_type": "synthetic_demo",
+        "latitude": 31.005184,
+        "longitude": -100.5107705,
+        "facility_id": "FAC-4023",
+        "facility_name": "Demo Operations Facility 23",
+        "facility_type": "Storage Area"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "FAC-4024",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.4503292580092,
+          32.904502518750924
+        ]
+      },
+      "properties": {
+        "asset_id": "FAC-4024",
+        "asset_type": "Facility",
+        "status": "Active",
+        "pipeline_id": "PL-1070",
+        "segment_id": "SEG-1070-3",
+        "operating_area": "North West Area",
+        "criticality": "Critical",
+        "source_type": "synthetic_demo",
+        "latitude": 32.9045025,
+        "longitude": -103.4503293,
+        "facility_id": "FAC-4024",
+        "facility_name": "Demo Operations Facility 24",
+        "facility_type": "Storage Area"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "FAC-4025",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.24009106935061,
+          32.82131948851578
+        ]
+      },
+      "properties": {
+        "asset_id": "FAC-4025",
+        "asset_type": "Facility",
+        "status": "Active",
+        "pipeline_id": "PL-1073",
+        "segment_id": "SEG-1073-1",
+        "operating_area": "North West Area",
+        "criticality": "Critical",
+        "source_type": "synthetic_demo",
+        "latitude": 32.8213195,
+        "longitude": -103.2400911,
+        "facility_id": "FAC-4025",
+        "facility_name": "Demo Operations Facility 25",
+        "facility_type": "Storage Area"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "FAC-4026",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.11292263644086,
+          31.304510619912644
+        ]
+      },
+      "properties": {
+        "asset_id": "FAC-4026",
+        "asset_type": "Facility",
+        "status": "Active",
+        "pipeline_id": "PL-1076",
+        "segment_id": "SEG-1076-2",
+        "operating_area": "South West Area",
+        "criticality": "Low",
+        "source_type": "synthetic_demo",
+        "latitude": 31.3045106,
+        "longitude": -103.1129226,
+        "facility_id": "FAC-4026",
+        "facility_name": "Demo Operations Facility 26",
+        "facility_type": "Storage Area"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "FAC-4027",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.47740212771049,
+          30.968448743654875
+        ]
+      },
+      "properties": {
+        "asset_id": "FAC-4027",
+        "asset_type": "Facility",
+        "status": "Active",
+        "pipeline_id": "PL-1079",
+        "segment_id": "SEG-1079-3",
+        "operating_area": "South West Area",
+        "criticality": "High",
+        "source_type": "synthetic_demo",
+        "latitude": 30.9684487,
+        "longitude": -102.4774021,
+        "facility_id": "FAC-4027",
+        "facility_name": "Demo Operations Facility 27",
+        "facility_type": "Storage Area"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "FAC-4028",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.95423999992384,
+          32.98073666997136
+        ]
+      },
+      "properties": {
+        "asset_id": "FAC-4028",
+        "asset_type": "Facility",
+        "status": "Active",
+        "pipeline_id": "PL-1082",
+        "segment_id": "SEG-1082-1",
+        "operating_area": "North West Area",
+        "criticality": "Low",
+        "source_type": "synthetic_demo",
+        "latitude": 32.9807367,
+        "longitude": -102.95424,
+        "facility_id": "FAC-4028",
+        "facility_name": "Demo Operations Facility 28",
+        "facility_type": "Storage Area"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "FAC-4029",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.83237636934867,
+          32.04965982507806
+        ]
+      },
+      "properties": {
+        "asset_id": "FAC-4029",
+        "asset_type": "Facility",
+        "status": "Active",
+        "pipeline_id": "PL-1085",
+        "segment_id": "SEG-1085-2",
+        "operating_area": "North East Area",
+        "criticality": "Critical",
+        "source_type": "synthetic_demo",
+        "latitude": 32.0496598,
+        "longitude": -101.8323764,
+        "facility_id": "FAC-4029",
+        "facility_name": "Demo Operations Facility 29",
+        "facility_type": "Storage Area"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "FAC-4030",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.15681540928837,
+          31.61973412319184
+        ]
+      },
+      "properties": {
+        "asset_id": "FAC-4030",
+        "asset_type": "Facility",
+        "status": "Active",
+        "pipeline_id": "PL-1088",
+        "segment_id": "SEG-1088-3",
+        "operating_area": "South West Area",
+        "criticality": "High",
+        "source_type": "synthetic_demo",
+        "latitude": 31.6197341,
+        "longitude": -103.1568154,
+        "facility_id": "FAC-4030",
+        "facility_name": "Demo Operations Facility 30",
+        "facility_type": "Storage Area"
+      }
+    }
+  ]
+}

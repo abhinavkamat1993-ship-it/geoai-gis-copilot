@@ -1,0 +1,2627 @@
+{
+  "type": "FeatureCollection",
+  "name": "incidents",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "INC-2001",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.01036335180704,
+          31.691137362669362
+        ]
+      },
+      "properties": {
+        "incident_id": "INC-2001",
+        "incident_type": "Corrosion",
+        "severity": "High",
+        "status": "Open",
+        "reported_date": "2020-01-01",
+        "resolved_date": null,
+        "asset_id": "VAL-1001",
+        "pipeline_id": "PL-1001",
+        "segment_id": "SEG-1001-1",
+        "operating_area": "South West Area",
+        "description": "Corrosion reported during a synthetic operational exercise.",
+        "root_cause_category": "Corrosion",
+        "source_type": "synthetic_demo"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "INC-2002",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.95569805523256,
+          31.502805084389752
+        ]
+      },
+      "properties": {
+        "incident_id": "INC-2002",
+        "incident_type": "Corrosion",
+        "severity": "High",
+        "status": "Investigating",
+        "reported_date": "2021-02-02",
+        "resolved_date": "2021-12-10",
+        "asset_id": "STA-2002",
+        "pipeline_id": "PL-1003",
+        "segment_id": "SEG-1003-2",
+        "operating_area": "South West Area",
+        "description": "Corrosion reported during a synthetic operational exercise.",
+        "root_cause_category": "Corrosion",
+        "source_type": "synthetic_demo"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "INC-2003",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.12832533239,
+          31.02517357177567
+        ]
+      },
+      "properties": {
+        "incident_id": "INC-2003",
+        "incident_type": "Corrosion",
+        "severity": "Moderate",
+        "status": "Investigating",
+        "reported_date": "2022-03-03",
+        "resolved_date": "2022-11-10",
+        "asset_id": "FAC-4003",
+        "pipeline_id": "PL-1007",
+        "segment_id": "SEG-1007-3",
+        "operating_area": "South East Area",
+        "description": "Corrosion reported during a synthetic operational exercise.",
+        "root_cause_category": "Corrosion",
+        "source_type": "synthetic_demo"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "INC-2004",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.78412801669167,
+          32.23164028387204
+        ]
+      },
+      "properties": {
+        "incident_id": "INC-2004",
+        "incident_type": "Corrosion",
+        "severity": "Moderate",
+        "status": "Investigating",
+        "reported_date": "2023-04-04",
+        "resolved_date": null,
+        "asset_id": "TERM-3004",
+        "pipeline_id": "PL-1022",
+        "segment_id": "SEG-1022-1",
+        "operating_area": "North West Area",
+        "description": "Corrosion reported during a synthetic operational exercise.",
+        "root_cause_category": "Corrosion",
+        "source_type": "synthetic_demo"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "INC-2005",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.10627508225315,
+          31.383608404714927
+        ]
+      },
+      "properties": {
+        "incident_id": "INC-2005",
+        "incident_type": "Corrosion",
+        "severity": "Low",
+        "status": "Investigating",
+        "reported_date": "2024-05-05",
+        "resolved_date": "2024-11-10",
+        "asset_id": "VAL-1005",
+        "pipeline_id": "PL-1005",
+        "segment_id": "SEG-1005-1",
+        "operating_area": "South West Area",
+        "description": "Corrosion reported during a synthetic operational exercise.",
+        "root_cause_category": "Corrosion",
+        "source_type": "synthetic_demo"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "INC-2006",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.15983158024518,
+          32.52232852467004
+        ]
+      },
+      "properties": {
+        "incident_id": "INC-2006",
+        "incident_type": "Corrosion",
+        "severity": "Low",
+        "status": "Investigating",
+        "reported_date": "2025-06-06",
+        "resolved_date": "2025-12-10",
+        "asset_id": "STA-2006",
+        "pipeline_id": "PL-1011",
+        "segment_id": "SEG-1011-3",
+        "operating_area": "North West Area",
+        "description": "Corrosion reported during a synthetic operational exercise.",
+        "root_cause_category": "Corrosion",
+        "source_type": "synthetic_demo"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "INC-2007",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.29546862516281,
+          31.821354082975038
+        ]
+      },
+      "properties": {
+        "incident_id": "INC-2007",
+        "incident_type": "Corrosion",
+        "severity": "Low",
+        "status": "Resolved",
+        "reported_date": "2020-07-07",
+        "resolved_date": null,
+        "asset_id": "FAC-4007",
+        "pipeline_id": "PL-1019",
+        "segment_id": "SEG-1019-1",
+        "operating_area": "South West Area",
+        "description": "Corrosion reported during a synthetic operational exercise.",
+        "root_cause_category": "Corrosion",
+        "source_type": "synthetic_demo"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "INC-2008",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.83456600652303,
+          32.442015166218525
+        ]
+      },
+      "properties": {
+        "incident_id": "INC-2008",
+        "incident_type": "Corrosion",
+        "severity": "Low",
+        "status": "Investigating",
+        "reported_date": "2021-08-08",
+        "resolved_date": "2021-12-10",
+        "asset_id": "TERM-3008",
+        "pipeline_id": "PL-1050",
+        "segment_id": "SEG-1050-2",
+        "operating_area": "North West Area",
+        "description": "Corrosion reported during a synthetic operational exercise.",
+        "root_cause_category": "Corrosion",
+        "source_type": "synthetic_demo"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "INC-2009",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.69136000545208,
+          32.170540935738984
+        ]
+      },
+      "properties": {
+        "incident_id": "INC-2009",
+        "incident_type": "Corrosion",
+        "severity": "Moderate",
+        "status": "Investigating",
+        "reported_date": "2022-09-01",
+        "resolved_date": "2022-11-10",
+        "asset_id": "VAL-1009",
+        "pipeline_id": "PL-1009",
+        "segment_id": "SEG-1009-1",
+        "operating_area": "North East Area",
+        "description": "Corrosion reported during a synthetic operational exercise.",
+        "root_cause_category": "Corrosion",
+        "source_type": "synthetic_demo"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "INC-2010",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.23093396012014,
+          31.821524941442124
+        ]
+      },
+      "properties": {
+        "incident_id": "INC-2010",
+        "incident_type": "Corrosion",
+        "severity": "Moderate",
+        "status": "Investigating",
+        "reported_date": "2023-01-02",
+        "resolved_date": null,
+        "asset_id": "STA-2010",
+        "pipeline_id": "PL-1019",
+        "segment_id": "SEG-1019-1",
+        "operating_area": "South West Area",
+        "description": "Corrosion reported during a synthetic operational exercise.",
+        "root_cause_category": "Corrosion",
+        "source_type": "synthetic_demo"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "INC-2011",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.95929896852608,
+          30.97238638983904
+        ]
+      },
+      "properties": {
+        "incident_id": "INC-2011",
+        "incident_type": "Corrosion",
+        "severity": "Moderate",
+        "status": "Open",
+        "reported_date": "2024-02-03",
+        "resolved_date": "2024-11-10",
+        "asset_id": "FAC-4011",
+        "pipeline_id": "PL-1031",
+        "segment_id": "SEG-1031-2",
+        "operating_area": "South East Area",
+        "description": "Corrosion reported during a synthetic operational exercise.",
+        "root_cause_category": "Corrosion",
+        "source_type": "synthetic_demo"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "INC-2012",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.30200449266336,
+          31.095010706138357
+        ]
+      },
+      "properties": {
+        "incident_id": "INC-2012",
+        "incident_type": "Corrosion",
+        "severity": "Critical",
+        "status": "Investigating",
+        "reported_date": "2025-03-04",
+        "resolved_date": "2025-12-10",
+        "asset_id": "TERM-3012",
+        "pipeline_id": "PL-1078",
+        "segment_id": "SEG-1078-3",
+        "operating_area": "South West Area",
+        "description": "Corrosion reported during a synthetic operational exercise.",
+        "root_cause_category": "Corrosion",
+        "source_type": "synthetic_demo"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "INC-2013",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.38783179536588,
+          31.780321898494318
+        ]
+      },
+      "properties": {
+        "incident_id": "INC-2013",
+        "incident_type": "Corrosion",
+        "severity": "Critical",
+        "status": "Open",
+        "reported_date": "2020-04-05",
+        "resolved_date": null,
+        "asset_id": "VAL-1013",
+        "pipeline_id": "PL-1013",
+        "segment_id": "SEG-1013-1",
+        "operating_area": "South West Area",
+        "description": "Corrosion reported during a synthetic operational exercise.",
+        "root_cause_category": "Corrosion",
+        "source_type": "synthetic_demo"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "INC-2014",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.6743431768357,
+          32.144776045564
+        ]
+      },
+      "properties": {
+        "incident_id": "INC-2014",
+        "incident_type": "Corrosion",
+        "severity": "Critical",
+        "status": "Resolved",
+        "reported_date": "2021-05-06",
+        "resolved_date": "2021-12-10",
+        "asset_id": "STA-2014",
+        "pipeline_id": "PL-1027",
+        "segment_id": "SEG-1027-2",
+        "operating_area": "North East Area",
+        "description": "Corrosion reported during a synthetic operational exercise.",
+        "root_cause_category": "Corrosion",
+        "source_type": "synthetic_demo"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "INC-2015",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.39437420908949,
+          32.226164345282896
+        ]
+      },
+      "properties": {
+        "incident_id": "INC-2015",
+        "incident_type": "Corrosion",
+        "severity": "Critical",
+        "status": "Open",
+        "reported_date": "2022-06-07",
+        "resolved_date": "2022-11-10",
+        "asset_id": "FAC-4015",
+        "pipeline_id": "PL-1043",
+        "segment_id": "SEG-1043-3",
+        "operating_area": "North East Area",
+        "description": "Corrosion reported during a synthetic operational exercise.",
+        "root_cause_category": "Corrosion",
+        "source_type": "synthetic_demo"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "INC-2016",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.78412801669167,
+          32.23164028387204
+        ]
+      },
+      "properties": {
+        "incident_id": "INC-2016",
+        "incident_type": "Corrosion",
+        "severity": "Moderate",
+        "status": "Open",
+        "reported_date": "2023-07-08",
+        "resolved_date": null,
+        "asset_id": "TERM-3004",
+        "pipeline_id": "PL-1022",
+        "segment_id": "SEG-1022-1",
+        "operating_area": "North West Area",
+        "description": "Corrosion reported during a synthetic operational exercise.",
+        "root_cause_category": "Corrosion",
+        "source_type": "synthetic_demo"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "INC-2017",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.21384900757626,
+          31.87066699791295
+        ]
+      },
+      "properties": {
+        "incident_id": "INC-2017",
+        "incident_type": "Corrosion",
+        "severity": "High",
+        "status": "Investigating",
+        "reported_date": "2024-08-01",
+        "resolved_date": "2024-11-10",
+        "asset_id": "VAL-1017",
+        "pipeline_id": "PL-1017",
+        "segment_id": "SEG-1017-1",
+        "operating_area": "South West Area",
+        "description": "Corrosion reported during a synthetic operational exercise.",
+        "root_cause_category": "Corrosion",
+        "source_type": "synthetic_demo"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "INC-2018",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.71858632014761,
+          30.84457640872902
+        ]
+      },
+      "properties": {
+        "incident_id": "INC-2018",
+        "incident_type": "Corrosion",
+        "severity": "Low",
+        "status": "Resolved",
+        "reported_date": "2025-09-02",
+        "resolved_date": "2025-12-10",
+        "asset_id": "STA-2018",
+        "pipeline_id": "PL-1035",
+        "segment_id": "SEG-1035-3",
+        "operating_area": "South East Area",
+        "description": "Corrosion reported during a synthetic operational exercise.",
+        "root_cause_category": "Corrosion",
+        "source_type": "synthetic_demo"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "INC-2019",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.93079722063115,
+          32.34934121559836
+        ]
+      },
+      "properties": {
+        "incident_id": "INC-2019",
+        "incident_type": "Corrosion",
+        "severity": "Moderate",
+        "status": "Open",
+        "reported_date": "2020-01-03",
+        "resolved_date": null,
+        "asset_id": "FAC-4019",
+        "pipeline_id": "PL-1055",
+        "segment_id": "SEG-1055-1",
+        "operating_area": "North East Area",
+        "description": "Corrosion reported during a synthetic operational exercise.",
+        "root_cause_category": "Corrosion",
+        "source_type": "synthetic_demo"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "INC-2020",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.83456600652303,
+          32.442015166218525
+        ]
+      },
+      "properties": {
+        "incident_id": "INC-2020",
+        "incident_type": "Unauthorized Activity",
+        "severity": "Critical",
+        "status": "Open",
+        "reported_date": "2021-02-04",
+        "resolved_date": "2021-12-10",
+        "asset_id": "TERM-3008",
+        "pipeline_id": "PL-1050",
+        "segment_id": "SEG-1050-2",
+        "operating_area": "North West Area",
+        "description": "Unauthorized Activity reported during a synthetic operational exercise.",
+        "root_cause_category": "Environmental",
+        "source_type": "synthetic_demo"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "INC-2021",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.25329966765761,
+          32.27687302407824
+        ]
+      },
+      "properties": {
+        "incident_id": "INC-2021",
+        "incident_type": "Unauthorized Activity",
+        "severity": "Moderate",
+        "status": "Open",
+        "reported_date": "2022-03-05",
+        "resolved_date": "2022-11-10",
+        "asset_id": "VAL-1021",
+        "pipeline_id": "PL-1021",
+        "segment_id": "SEG-1021-1",
+        "operating_area": "North East Area",
+        "description": "Unauthorized Activity reported during a synthetic operational exercise.",
+        "root_cause_category": "Environmental",
+        "source_type": "synthetic_demo"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "INC-2022",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.31873902962958,
+          31.969969592880982
+        ]
+      },
+      "properties": {
+        "incident_id": "INC-2022",
+        "incident_type": "Unauthorized Activity",
+        "severity": "Moderate",
+        "status": "Resolved",
+        "reported_date": "2023-04-06",
+        "resolved_date": null,
+        "asset_id": "STA-2022",
+        "pipeline_id": "PL-1043",
+        "segment_id": "SEG-1043-1",
+        "operating_area": "South East Area",
+        "description": "Unauthorized Activity reported during a synthetic operational exercise.",
+        "root_cause_category": "Environmental",
+        "source_type": "synthetic_demo"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "INC-2023",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.51077050071417,
+          31.005184000250864
+        ]
+      },
+      "properties": {
+        "incident_id": "INC-2023",
+        "incident_type": "Unauthorized Activity",
+        "severity": "Critical",
+        "status": "Open",
+        "reported_date": "2024-05-07",
+        "resolved_date": "2024-11-10",
+        "asset_id": "FAC-4023",
+        "pipeline_id": "PL-1067",
+        "segment_id": "SEG-1067-2",
+        "operating_area": "South East Area",
+        "description": "Unauthorized Activity reported during a synthetic operational exercise.",
+        "root_cause_category": "Environmental",
+        "source_type": "synthetic_demo"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "INC-2024",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.30200449266336,
+          31.095010706138357
+        ]
+      },
+      "properties": {
+        "incident_id": "INC-2024",
+        "incident_type": "Unauthorized Activity",
+        "severity": "Critical",
+        "status": "Investigating",
+        "reported_date": "2025-06-08",
+        "resolved_date": "2025-12-10",
+        "asset_id": "TERM-3012",
+        "pipeline_id": "PL-1078",
+        "segment_id": "SEG-1078-3",
+        "operating_area": "South West Area",
+        "description": "Unauthorized Activity reported during a synthetic operational exercise.",
+        "root_cause_category": "Environmental",
+        "source_type": "synthetic_demo"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "INC-2025",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.9823825645544,
+          32.92370123374096
+        ]
+      },
+      "properties": {
+        "incident_id": "INC-2025",
+        "incident_type": "Unauthorized Activity",
+        "severity": "High",
+        "status": "Investigating",
+        "reported_date": "2020-07-01",
+        "resolved_date": null,
+        "asset_id": "VAL-1025",
+        "pipeline_id": "PL-1025",
+        "segment_id": "SEG-1025-1",
+        "operating_area": "North West Area",
+        "description": "Unauthorized Activity reported during a synthetic operational exercise.",
+        "root_cause_category": "Environmental",
+        "source_type": "synthetic_demo"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "INC-2026",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.90616743100378,
+          31.662557385437534
+        ]
+      },
+      "properties": {
+        "incident_id": "INC-2026",
+        "incident_type": "Unauthorized Activity",
+        "severity": "Critical",
+        "status": "Investigating",
+        "reported_date": "2021-08-02",
+        "resolved_date": "2021-12-10",
+        "asset_id": "STA-2026",
+        "pipeline_id": "PL-1051",
+        "segment_id": "SEG-1051-2",
+        "operating_area": "South West Area",
+        "description": "Unauthorized Activity reported during a synthetic operational exercise.",
+        "root_cause_category": "Environmental",
+        "source_type": "synthetic_demo"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "INC-2027",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.47740212771049,
+          30.968448743654875
+        ]
+      },
+      "properties": {
+        "incident_id": "INC-2027",
+        "incident_type": "Unauthorized Activity",
+        "severity": "Critical",
+        "status": "Resolved",
+        "reported_date": "2022-09-03",
+        "resolved_date": "2022-11-10",
+        "asset_id": "FAC-4027",
+        "pipeline_id": "PL-1079",
+        "segment_id": "SEG-1079-3",
+        "operating_area": "South West Area",
+        "description": "Unauthorized Activity reported during a synthetic operational exercise.",
+        "root_cause_category": "Environmental",
+        "source_type": "synthetic_demo"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "INC-2028",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.78412801669167,
+          32.23164028387204
+        ]
+      },
+      "properties": {
+        "incident_id": "INC-2028",
+        "incident_type": "Unauthorized Activity",
+        "severity": "High",
+        "status": "Investigating",
+        "reported_date": "2023-01-04",
+        "resolved_date": null,
+        "asset_id": "TERM-3004",
+        "pipeline_id": "PL-1022",
+        "segment_id": "SEG-1022-1",
+        "operating_area": "North West Area",
+        "description": "Unauthorized Activity reported during a synthetic operational exercise.",
+        "root_cause_category": "Operations",
+        "source_type": "synthetic_demo"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "INC-2029",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.23502886605283,
+          32.13653622498091
+        ]
+      },
+      "properties": {
+        "incident_id": "INC-2029",
+        "incident_type": "Unauthorized Activity",
+        "severity": "Critical",
+        "status": "Resolved",
+        "reported_date": "2024-02-05",
+        "resolved_date": "2024-11-10",
+        "asset_id": "VAL-1029",
+        "pipeline_id": "PL-1029",
+        "segment_id": "SEG-1029-1",
+        "operating_area": "North West Area",
+        "description": "Unauthorized Activity reported during a synthetic operational exercise.",
+        "root_cause_category": "Operations",
+        "source_type": "synthetic_demo"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "INC-2030",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.05613446021547,
+          31.62031917255677
+        ]
+      },
+      "properties": {
+        "incident_id": "INC-2030",
+        "incident_type": "Unauthorized Activity",
+        "severity": "High",
+        "status": "Open",
+        "reported_date": "2025-03-06",
+        "resolved_date": "2025-12-10",
+        "asset_id": "STA-2030",
+        "pipeline_id": "PL-1059",
+        "segment_id": "SEG-1059-3",
+        "operating_area": "South West Area",
+        "description": "Unauthorized Activity reported during a synthetic operational exercise.",
+        "root_cause_category": "Environmental",
+        "source_type": "synthetic_demo"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "INC-2031",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.94045554751835,
+          31.687967438268913
+        ]
+      },
+      "properties": {
+        "incident_id": "INC-2031",
+        "incident_type": "Unauthorized Activity",
+        "severity": "Critical",
+        "status": "Resolved",
+        "reported_date": "2020-04-07",
+        "resolved_date": null,
+        "asset_id": "FAC-4001",
+        "pipeline_id": "PL-1001",
+        "segment_id": "SEG-1001-1",
+        "operating_area": "South West Area",
+        "description": "Unauthorized Activity reported during a synthetic operational exercise.",
+        "root_cause_category": "Environmental",
+        "source_type": "synthetic_demo"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "INC-2032",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.83456600652303,
+          32.442015166218525
+        ]
+      },
+      "properties": {
+        "incident_id": "INC-2032",
+        "incident_type": "Unauthorized Activity",
+        "severity": "Moderate",
+        "status": "Resolved",
+        "reported_date": "2021-05-08",
+        "resolved_date": "2021-12-10",
+        "asset_id": "TERM-3008",
+        "pipeline_id": "PL-1050",
+        "segment_id": "SEG-1050-2",
+        "operating_area": "North West Area",
+        "description": "Unauthorized Activity reported during a synthetic operational exercise.",
+        "root_cause_category": "Environmental",
+        "source_type": "synthetic_demo"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "INC-2033",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.56034939658866,
+          32.468372970326655
+        ]
+      },
+      "properties": {
+        "incident_id": "INC-2033",
+        "incident_type": "Unauthorized Activity",
+        "severity": "High",
+        "status": "Investigating",
+        "reported_date": "2022-06-01",
+        "resolved_date": "2022-11-10",
+        "asset_id": "VAL-1033",
+        "pipeline_id": "PL-1033",
+        "segment_id": "SEG-1033-1",
+        "operating_area": "North East Area",
+        "description": "Unauthorized Activity reported during a synthetic operational exercise.",
+        "root_cause_category": "Environmental",
+        "source_type": "synthetic_demo"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "INC-2034",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.51769995148474,
+          31.005184000250864
+        ]
+      },
+      "properties": {
+        "incident_id": "INC-2034",
+        "incident_type": "Unauthorized Activity",
+        "severity": "High",
+        "status": "Investigating",
+        "reported_date": "2023-07-02",
+        "resolved_date": null,
+        "asset_id": "STA-2034",
+        "pipeline_id": "PL-1067",
+        "segment_id": "SEG-1067-1",
+        "operating_area": "South East Area",
+        "description": "Unauthorized Activity reported during a synthetic operational exercise.",
+        "root_cause_category": "Environmental",
+        "source_type": "synthetic_demo"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "INC-2035",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.65408462738014,
+          32.078129241457894
+        ]
+      },
+      "properties": {
+        "incident_id": "INC-2035",
+        "incident_type": "Unauthorized Activity",
+        "severity": "Critical",
+        "status": "Investigating",
+        "reported_date": "2024-08-03",
+        "resolved_date": "2024-11-10",
+        "asset_id": "FAC-4005",
+        "pipeline_id": "PL-1013",
+        "segment_id": "SEG-1013-2",
+        "operating_area": "North West Area",
+        "description": "Unauthorized Activity reported during a synthetic operational exercise.",
+        "root_cause_category": "Environmental",
+        "source_type": "synthetic_demo"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "INC-2036",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.30200449266336,
+          31.095010706138357
+        ]
+      },
+      "properties": {
+        "incident_id": "INC-2036",
+        "incident_type": "Unauthorized Activity",
+        "severity": "Moderate",
+        "status": "Resolved",
+        "reported_date": "2025-09-04",
+        "resolved_date": "2025-12-10",
+        "asset_id": "TERM-3012",
+        "pipeline_id": "PL-1078",
+        "segment_id": "SEG-1078-3",
+        "operating_area": "South West Area",
+        "description": "Unauthorized Activity reported during a synthetic operational exercise.",
+        "root_cause_category": "Environmental",
+        "source_type": "synthetic_demo"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "INC-2037",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.75704232972805,
+          31.991649068697956
+        ]
+      },
+      "properties": {
+        "incident_id": "INC-2037",
+        "incident_type": "Unauthorized Activity",
+        "severity": "Low",
+        "status": "Investigating",
+        "reported_date": "2020-01-05",
+        "resolved_date": null,
+        "asset_id": "VAL-1037",
+        "pipeline_id": "PL-1037",
+        "segment_id": "SEG-1037-1",
+        "operating_area": "South East Area",
+        "description": "Unauthorized Activity reported during a synthetic operational exercise.",
+        "root_cause_category": "Environmental",
+        "source_type": "synthetic_demo"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "INC-2038",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.18561689219587,
+          31.429627068694575
+        ]
+      },
+      "properties": {
+        "incident_id": "INC-2038",
+        "incident_type": "Unauthorized Activity",
+        "severity": "Low",
+        "status": "Resolved",
+        "reported_date": "2021-02-06",
+        "resolved_date": "2021-12-10",
+        "asset_id": "STA-2038",
+        "pipeline_id": "PL-1075",
+        "segment_id": "SEG-1075-2",
+        "operating_area": "South West Area",
+        "description": "Unauthorized Activity reported during a synthetic operational exercise.",
+        "root_cause_category": "Environmental",
+        "source_type": "synthetic_demo"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "INC-2039",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.71445316848876,
+          32.73831455626089
+        ]
+      },
+      "properties": {
+        "incident_id": "INC-2039",
+        "incident_type": "Unauthorized Activity",
+        "severity": "Moderate",
+        "status": "Open",
+        "reported_date": "2022-03-07",
+        "resolved_date": "2022-11-10",
+        "asset_id": "FAC-4009",
+        "pipeline_id": "PL-1025",
+        "segment_id": "SEG-1025-3",
+        "operating_area": "North West Area",
+        "description": "Unauthorized Activity reported during a synthetic operational exercise.",
+        "root_cause_category": "Environmental",
+        "source_type": "synthetic_demo"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "INC-2040",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.78412801669167,
+          32.23164028387204
+        ]
+      },
+      "properties": {
+        "incident_id": "INC-2040",
+        "incident_type": "Unauthorized Activity",
+        "severity": "Low",
+        "status": "Investigating",
+        "reported_date": "2023-04-08",
+        "resolved_date": null,
+        "asset_id": "TERM-3004",
+        "pipeline_id": "PL-1022",
+        "segment_id": "SEG-1022-1",
+        "operating_area": "North West Area",
+        "description": "Unauthorized Activity reported during a synthetic operational exercise.",
+        "root_cause_category": "Environmental",
+        "source_type": "synthetic_demo"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "INC-2041",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.17628127199717,
+          32.088994921207544
+        ]
+      },
+      "properties": {
+        "incident_id": "INC-2041",
+        "incident_type": "Unauthorized Activity",
+        "severity": "Low",
+        "status": "Open",
+        "reported_date": "2024-05-01",
+        "resolved_date": "2024-11-10",
+        "asset_id": "VAL-1041",
+        "pipeline_id": "PL-1041",
+        "segment_id": "SEG-1041-1",
+        "operating_area": "North West Area",
+        "description": "Unauthorized Activity reported during a synthetic operational exercise.",
+        "root_cause_category": "Environmental",
+        "source_type": "synthetic_demo"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "INC-2042",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.86444800001892,
+          33.09906045695771
+        ]
+      },
+      "properties": {
+        "incident_id": "INC-2042",
+        "incident_type": "Unauthorized Activity",
+        "severity": "High",
+        "status": "Investigating",
+        "reported_date": "2025-06-02",
+        "resolved_date": "2025-12-10",
+        "asset_id": "STA-2042",
+        "pipeline_id": "PL-1083",
+        "segment_id": "SEG-1083-3",
+        "operating_area": "North East Area",
+        "description": "Unauthorized Activity reported during a synthetic operational exercise.",
+        "root_cause_category": "Environmental",
+        "source_type": "synthetic_demo"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "INC-2043",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.71543059993927,
+          31.989523574628638
+        ]
+      },
+      "properties": {
+        "incident_id": "INC-2043",
+        "incident_type": "Unauthorized Activity",
+        "severity": "Critical",
+        "status": "Resolved",
+        "reported_date": "2020-07-03",
+        "resolved_date": null,
+        "asset_id": "FAC-4013",
+        "pipeline_id": "PL-1037",
+        "segment_id": "SEG-1037-1",
+        "operating_area": "South East Area",
+        "description": "Unauthorized Activity reported during a synthetic operational exercise.",
+        "root_cause_category": "Environmental",
+        "source_type": "synthetic_demo"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "INC-2044",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.83456600652303,
+          32.442015166218525
+        ]
+      },
+      "properties": {
+        "incident_id": "INC-2044",
+        "incident_type": "Unauthorized Activity",
+        "severity": "Moderate",
+        "status": "Resolved",
+        "reported_date": "2021-08-04",
+        "resolved_date": "2021-12-10",
+        "asset_id": "TERM-3008",
+        "pipeline_id": "PL-1050",
+        "segment_id": "SEG-1050-2",
+        "operating_area": "North West Area",
+        "description": "Unauthorized Activity reported during a synthetic operational exercise.",
+        "root_cause_category": "Environmental",
+        "source_type": "synthetic_demo"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "INC-2045",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.78415103592832,
+          32.54289371368957
+        ]
+      },
+      "properties": {
+        "incident_id": "INC-2045",
+        "incident_type": "Unauthorized Activity",
+        "severity": "Critical",
+        "status": "Open",
+        "reported_date": "2022-09-05",
+        "resolved_date": "2022-11-10",
+        "asset_id": "VAL-1045",
+        "pipeline_id": "PL-1045",
+        "segment_id": "SEG-1045-1",
+        "operating_area": "North East Area",
+        "description": "Unauthorized Activity reported during a synthetic operational exercise.",
+        "root_cause_category": "Environmental",
+        "source_type": "synthetic_demo"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "INC-2046",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.07567818836611,
+          31.64402175480449
+        ]
+      },
+      "properties": {
+        "incident_id": "INC-2046",
+        "incident_type": "Unauthorized Activity",
+        "severity": "Critical",
+        "status": "Investigating",
+        "reported_date": "2023-01-06",
+        "resolved_date": null,
+        "asset_id": "STA-2046",
+        "pipeline_id": "PL-1091",
+        "segment_id": "SEG-1091-1",
+        "operating_area": "South West Area",
+        "description": "Unauthorized Activity reported during a synthetic operational exercise.",
+        "root_cause_category": "Environmental",
+        "source_type": "synthetic_demo"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "INC-2047",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.11317449577923,
+          33.1159558155603
+        ]
+      },
+      "properties": {
+        "incident_id": "INC-2047",
+        "incident_type": "Unauthorized Activity",
+        "severity": "Critical",
+        "status": "Resolved",
+        "reported_date": "2024-02-07",
+        "resolved_date": "2024-11-10",
+        "asset_id": "FAC-4017",
+        "pipeline_id": "PL-1049",
+        "segment_id": "SEG-1049-2",
+        "operating_area": "North West Area",
+        "description": "Unauthorized Activity reported during a synthetic operational exercise.",
+        "root_cause_category": "Environmental",
+        "source_type": "synthetic_demo"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "INC-2048",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.30200449266336,
+          31.095010706138357
+        ]
+      },
+      "properties": {
+        "incident_id": "INC-2048",
+        "incident_type": "Equipment Failure",
+        "severity": "Low",
+        "status": "Investigating",
+        "reported_date": "2025-03-08",
+        "resolved_date": "2025-12-10",
+        "asset_id": "TERM-3012",
+        "pipeline_id": "PL-1078",
+        "segment_id": "SEG-1078-3",
+        "operating_area": "South West Area",
+        "description": "Equipment Failure reported during a synthetic operational exercise.",
+        "root_cause_category": "Operations",
+        "source_type": "synthetic_demo"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "INC-2049",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.11417860601101,
+          33.04950815708243
+        ]
+      },
+      "properties": {
+        "incident_id": "INC-2049",
+        "incident_type": "Unauthorized Activity",
+        "severity": "Low",
+        "status": "Open",
+        "reported_date": "2020-04-01",
+        "resolved_date": null,
+        "asset_id": "VAL-1049",
+        "pipeline_id": "PL-1049",
+        "segment_id": "SEG-1049-1",
+        "operating_area": "North West Area",
+        "description": "Unauthorized Activity reported during a synthetic operational exercise.",
+        "root_cause_category": "Operations",
+        "source_type": "synthetic_demo"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "INC-2050",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.95569805523256,
+          31.502805084389752
+        ]
+      },
+      "properties": {
+        "incident_id": "INC-2050",
+        "incident_type": "Unauthorized Activity",
+        "severity": "Moderate",
+        "status": "Resolved",
+        "reported_date": "2021-05-02",
+        "resolved_date": "2021-12-10",
+        "asset_id": "STA-2002",
+        "pipeline_id": "PL-1003",
+        "segment_id": "SEG-1003-2",
+        "operating_area": "South West Area",
+        "description": "Unauthorized Activity reported during a synthetic operational exercise.",
+        "root_cause_category": "Environmental",
+        "source_type": "synthetic_demo"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "INC-2051",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.54670562043785,
+          31.77614533608996
+        ]
+      },
+      "properties": {
+        "incident_id": "INC-2051",
+        "incident_type": "Unauthorized Activity",
+        "severity": "Moderate",
+        "status": "Investigating",
+        "reported_date": "2022-06-03",
+        "resolved_date": "2022-11-10",
+        "asset_id": "FAC-4021",
+        "pipeline_id": "PL-1061",
+        "segment_id": "SEG-1061-3",
+        "operating_area": "South East Area",
+        "description": "Unauthorized Activity reported during a synthetic operational exercise.",
+        "root_cause_category": "Environmental",
+        "source_type": "synthetic_demo"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "INC-2052",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.78412801669167,
+          32.23164028387204
+        ]
+      },
+      "properties": {
+        "incident_id": "INC-2052",
+        "incident_type": "Unauthorized Activity",
+        "severity": "Low",
+        "status": "Open",
+        "reported_date": "2023-07-04",
+        "resolved_date": null,
+        "asset_id": "TERM-3004",
+        "pipeline_id": "PL-1022",
+        "segment_id": "SEG-1022-1",
+        "operating_area": "North West Area",
+        "description": "Unauthorized Activity reported during a synthetic operational exercise.",
+        "root_cause_category": "Environmental",
+        "source_type": "synthetic_demo"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "INC-2053",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.4731718768279,
+          31.923971014500783
+        ]
+      },
+      "properties": {
+        "incident_id": "INC-2053",
+        "incident_type": "Unauthorized Activity",
+        "severity": "Low",
+        "status": "Open",
+        "reported_date": "2024-08-05",
+        "resolved_date": "2024-11-10",
+        "asset_id": "VAL-1053",
+        "pipeline_id": "PL-1053",
+        "segment_id": "SEG-1053-1",
+        "operating_area": "South East Area",
+        "description": "Unauthorized Activity reported during a synthetic operational exercise.",
+        "root_cause_category": "Environmental",
+        "source_type": "synthetic_demo"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "INC-2054",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.15983158024518,
+          32.52232852467004
+        ]
+      },
+      "properties": {
+        "incident_id": "INC-2054",
+        "incident_type": "Unauthorized Activity",
+        "severity": "Moderate",
+        "status": "Resolved",
+        "reported_date": "2025-09-06",
+        "resolved_date": "2025-12-10",
+        "asset_id": "STA-2006",
+        "pipeline_id": "PL-1011",
+        "segment_id": "SEG-1011-3",
+        "operating_area": "North West Area",
+        "description": "Unauthorized Activity reported during a synthetic operational exercise.",
+        "root_cause_category": "Environmental",
+        "source_type": "synthetic_demo"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "INC-2055",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.24009106935061,
+          32.82131948851578
+        ]
+      },
+      "properties": {
+        "incident_id": "INC-2055",
+        "incident_type": "Unauthorized Activity",
+        "severity": "Low",
+        "status": "Resolved",
+        "reported_date": "2020-01-07",
+        "resolved_date": null,
+        "asset_id": "FAC-4025",
+        "pipeline_id": "PL-1073",
+        "segment_id": "SEG-1073-1",
+        "operating_area": "North West Area",
+        "description": "Unauthorized Activity reported during a synthetic operational exercise.",
+        "root_cause_category": "Environmental",
+        "source_type": "synthetic_demo"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "INC-2056",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.83456600652303,
+          32.442015166218525
+        ]
+      },
+      "properties": {
+        "incident_id": "INC-2056",
+        "incident_type": "Unauthorized Activity",
+        "severity": "Critical",
+        "status": "Open",
+        "reported_date": "2021-02-08",
+        "resolved_date": "2021-12-10",
+        "asset_id": "TERM-3008",
+        "pipeline_id": "PL-1050",
+        "segment_id": "SEG-1050-2",
+        "operating_area": "North West Area",
+        "description": "Unauthorized Activity reported during a synthetic operational exercise.",
+        "root_cause_category": "Environmental",
+        "source_type": "synthetic_demo"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "INC-2057",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.34069120027095,
+          32.774474142838045
+        ]
+      },
+      "properties": {
+        "incident_id": "INC-2057",
+        "incident_type": "Unauthorized Activity",
+        "severity": "Critical",
+        "status": "Resolved",
+        "reported_date": "2022-03-01",
+        "resolved_date": "2022-11-10",
+        "asset_id": "VAL-1057",
+        "pipeline_id": "PL-1057",
+        "segment_id": "SEG-1057-1",
+        "operating_area": "North West Area",
+        "description": "Unauthorized Activity reported during a synthetic operational exercise.",
+        "root_cause_category": "Environmental",
+        "source_type": "synthetic_demo"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "INC-2058",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.23093396012014,
+          31.821524941442124
+        ]
+      },
+      "properties": {
+        "incident_id": "INC-2058",
+        "incident_type": "Unauthorized Activity",
+        "severity": "Critical",
+        "status": "Open",
+        "reported_date": "2023-04-02",
+        "resolved_date": null,
+        "asset_id": "STA-2010",
+        "pipeline_id": "PL-1019",
+        "segment_id": "SEG-1019-1",
+        "operating_area": "South West Area",
+        "description": "Unauthorized Activity reported during a synthetic operational exercise.",
+        "root_cause_category": "Operations",
+        "source_type": "synthetic_demo"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "INC-2059",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.83237636934867,
+          32.04965982507806
+        ]
+      },
+      "properties": {
+        "incident_id": "INC-2059",
+        "incident_type": "Unauthorized Activity",
+        "severity": "Low",
+        "status": "Resolved",
+        "reported_date": "2024-05-03",
+        "resolved_date": "2024-11-10",
+        "asset_id": "FAC-4029",
+        "pipeline_id": "PL-1085",
+        "segment_id": "SEG-1085-2",
+        "operating_area": "North East Area",
+        "description": "Unauthorized Activity reported during a synthetic operational exercise.",
+        "root_cause_category": "Operations",
+        "source_type": "synthetic_demo"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "INC-2060",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.30200449266336,
+          31.095010706138357
+        ]
+      },
+      "properties": {
+        "incident_id": "INC-2060",
+        "incident_type": "Unauthorized Activity",
+        "severity": "Moderate",
+        "status": "Open",
+        "reported_date": "2025-06-04",
+        "resolved_date": "2025-12-10",
+        "asset_id": "TERM-3012",
+        "pipeline_id": "PL-1078",
+        "segment_id": "SEG-1078-3",
+        "operating_area": "South West Area",
+        "description": "Unauthorized Activity reported during a synthetic operational exercise.",
+        "root_cause_category": "Environmental",
+        "source_type": "synthetic_demo"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "INC-2061",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.58605492421943,
+          31.747863024053107
+        ]
+      },
+      "properties": {
+        "incident_id": "INC-2061",
+        "incident_type": "Unauthorized Activity",
+        "severity": "Moderate",
+        "status": "Open",
+        "reported_date": "2020-07-05",
+        "resolved_date": null,
+        "asset_id": "VAL-1061",
+        "pipeline_id": "PL-1061",
+        "segment_id": "SEG-1061-1",
+        "operating_area": "South East Area",
+        "description": "Unauthorized Activity reported during a synthetic operational exercise.",
+        "root_cause_category": "Environmental",
+        "source_type": "synthetic_demo"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "INC-2062",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.6743431768357,
+          32.144776045564
+        ]
+      },
+      "properties": {
+        "incident_id": "INC-2062",
+        "incident_type": "Unauthorized Activity",
+        "severity": "High",
+        "status": "Resolved",
+        "reported_date": "2021-08-06",
+        "resolved_date": "2021-12-10",
+        "asset_id": "STA-2014",
+        "pipeline_id": "PL-1027",
+        "segment_id": "SEG-1027-2",
+        "operating_area": "North East Area",
+        "description": "Unauthorized Activity reported during a synthetic operational exercise.",
+        "root_cause_category": "Environmental",
+        "source_type": "synthetic_demo"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "INC-2063",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.12832533239,
+          31.02517357177567
+        ]
+      },
+      "properties": {
+        "incident_id": "INC-2063",
+        "incident_type": "Unauthorized Activity",
+        "severity": "Moderate",
+        "status": "Investigating",
+        "reported_date": "2022-09-07",
+        "resolved_date": "2022-11-10",
+        "asset_id": "FAC-4003",
+        "pipeline_id": "PL-1007",
+        "segment_id": "SEG-1007-3",
+        "operating_area": "South East Area",
+        "description": "Unauthorized Activity reported during a synthetic operational exercise.",
+        "root_cause_category": "Environmental",
+        "source_type": "synthetic_demo"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "INC-2064",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.78412801669167,
+          32.23164028387204
+        ]
+      },
+      "properties": {
+        "incident_id": "INC-2064",
+        "incident_type": "Unauthorized Activity",
+        "severity": "High",
+        "status": "Resolved",
+        "reported_date": "2023-01-08",
+        "resolved_date": null,
+        "asset_id": "TERM-3004",
+        "pipeline_id": "PL-1022",
+        "segment_id": "SEG-1022-1",
+        "operating_area": "North West Area",
+        "description": "Unauthorized Activity reported during a synthetic operational exercise.",
+        "root_cause_category": "Environmental",
+        "source_type": "synthetic_demo"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "INC-2065",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.19674372048469,
+          31.477969622913463
+        ]
+      },
+      "properties": {
+        "incident_id": "INC-2065",
+        "incident_type": "Unauthorized Activity",
+        "severity": "High",
+        "status": "Resolved",
+        "reported_date": "2024-02-01",
+        "resolved_date": "2024-11-10",
+        "asset_id": "VAL-1065",
+        "pipeline_id": "PL-1065",
+        "segment_id": "SEG-1065-1",
+        "operating_area": "South West Area",
+        "description": "Unauthorized Activity reported during a synthetic operational exercise.",
+        "root_cause_category": "Environmental",
+        "source_type": "synthetic_demo"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "INC-2066",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.71858632014761,
+          30.84457640872902
+        ]
+      },
+      "properties": {
+        "incident_id": "INC-2066",
+        "incident_type": "Unauthorized Activity",
+        "severity": "High",
+        "status": "Resolved",
+        "reported_date": "2025-03-02",
+        "resolved_date": "2025-12-10",
+        "asset_id": "STA-2018",
+        "pipeline_id": "PL-1035",
+        "segment_id": "SEG-1035-3",
+        "operating_area": "South East Area",
+        "description": "Unauthorized Activity reported during a synthetic operational exercise.",
+        "root_cause_category": "Environmental",
+        "source_type": "synthetic_demo"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "INC-2067",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.29546862516281,
+          31.821354082975038
+        ]
+      },
+      "properties": {
+        "incident_id": "INC-2067",
+        "incident_type": "Unauthorized Activity",
+        "severity": "High",
+        "status": "Resolved",
+        "reported_date": "2020-04-03",
+        "resolved_date": null,
+        "asset_id": "FAC-4007",
+        "pipeline_id": "PL-1019",
+        "segment_id": "SEG-1019-1",
+        "operating_area": "South West Area",
+        "description": "Unauthorized Activity reported during a synthetic operational exercise.",
+        "root_cause_category": "Environmental",
+        "source_type": "synthetic_demo"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "INC-2068",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.83456600652303,
+          32.442015166218525
+        ]
+      },
+      "properties": {
+        "incident_id": "INC-2068",
+        "incident_type": "Unauthorized Activity",
+        "severity": "Critical",
+        "status": "Investigating",
+        "reported_date": "2021-05-04",
+        "resolved_date": "2021-12-10",
+        "asset_id": "TERM-3008",
+        "pipeline_id": "PL-1050",
+        "segment_id": "SEG-1050-2",
+        "operating_area": "North West Area",
+        "description": "Unauthorized Activity reported during a synthetic operational exercise.",
+        "root_cause_category": "Environmental",
+        "source_type": "synthetic_demo"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "INC-2069",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.23079505792387,
+          31.16547571812813
+        ]
+      },
+      "properties": {
+        "incident_id": "INC-2069",
+        "incident_type": "Unauthorized Activity",
+        "severity": "Low",
+        "status": "Resolved",
+        "reported_date": "2022-06-05",
+        "resolved_date": "2022-11-10",
+        "asset_id": "VAL-1069",
+        "pipeline_id": "PL-1069",
+        "segment_id": "SEG-1069-1",
+        "operating_area": "South West Area",
+        "description": "Unauthorized Activity reported during a synthetic operational exercise.",
+        "root_cause_category": "Environmental",
+        "source_type": "synthetic_demo"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "INC-2070",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.31873902962958,
+          31.969969592880982
+        ]
+      },
+      "properties": {
+        "incident_id": "INC-2070",
+        "incident_type": "Corrosion",
+        "severity": "Low",
+        "status": "Open",
+        "reported_date": "2023-07-06",
+        "resolved_date": null,
+        "asset_id": "STA-2022",
+        "pipeline_id": "PL-1043",
+        "segment_id": "SEG-1043-1",
+        "operating_area": "South East Area",
+        "description": "Corrosion reported during a synthetic operational exercise.",
+        "root_cause_category": "Corrosion",
+        "source_type": "synthetic_demo"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "INC-2071",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.95929896852608,
+          30.97238638983904
+        ]
+      },
+      "properties": {
+        "incident_id": "INC-2071",
+        "incident_type": "Corrosion",
+        "severity": "Moderate",
+        "status": "Investigating",
+        "reported_date": "2024-08-07",
+        "resolved_date": "2024-11-10",
+        "asset_id": "FAC-4011",
+        "pipeline_id": "PL-1031",
+        "segment_id": "SEG-1031-2",
+        "operating_area": "South East Area",
+        "description": "Corrosion reported during a synthetic operational exercise.",
+        "root_cause_category": "Corrosion",
+        "source_type": "synthetic_demo"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "INC-2072",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.30200449266336,
+          31.095010706138357
+        ]
+      },
+      "properties": {
+        "incident_id": "INC-2072",
+        "incident_type": "Corrosion",
+        "severity": "Critical",
+        "status": "Resolved",
+        "reported_date": "2025-09-08",
+        "resolved_date": "2025-12-10",
+        "asset_id": "TERM-3012",
+        "pipeline_id": "PL-1078",
+        "segment_id": "SEG-1078-3",
+        "operating_area": "South West Area",
+        "description": "Corrosion reported during a synthetic operational exercise.",
+        "root_cause_category": "Corrosion",
+        "source_type": "synthetic_demo"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "INC-2073",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.23868601736707,
+          32.81989495855444
+        ]
+      },
+      "properties": {
+        "incident_id": "INC-2073",
+        "incident_type": "Corrosion",
+        "severity": "Critical",
+        "status": "Open",
+        "reported_date": "2020-01-01",
+        "resolved_date": null,
+        "asset_id": "VAL-1073",
+        "pipeline_id": "PL-1073",
+        "segment_id": "SEG-1073-1",
+        "operating_area": "North West Area",
+        "description": "Corrosion reported during a synthetic operational exercise.",
+        "root_cause_category": "Corrosion",
+        "source_type": "synthetic_demo"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "INC-2074",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.90616743100378,
+          31.662557385437534
+        ]
+      },
+      "properties": {
+        "incident_id": "INC-2074",
+        "incident_type": "Corrosion",
+        "severity": "Critical",
+        "status": "Resolved",
+        "reported_date": "2021-02-02",
+        "resolved_date": "2021-12-10",
+        "asset_id": "STA-2026",
+        "pipeline_id": "PL-1051",
+        "segment_id": "SEG-1051-2",
+        "operating_area": "South West Area",
+        "description": "Corrosion reported during a synthetic operational exercise.",
+        "root_cause_category": "Corrosion",
+        "source_type": "synthetic_demo"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "INC-2075",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.39437420908949,
+          32.226164345282896
+        ]
+      },
+      "properties": {
+        "incident_id": "INC-2075",
+        "incident_type": "Corrosion",
+        "severity": "Moderate",
+        "status": "Resolved",
+        "reported_date": "2022-03-03",
+        "resolved_date": "2022-11-10",
+        "asset_id": "FAC-4015",
+        "pipeline_id": "PL-1043",
+        "segment_id": "SEG-1043-3",
+        "operating_area": "North East Area",
+        "description": "Corrosion reported during a synthetic operational exercise.",
+        "root_cause_category": "Corrosion",
+        "source_type": "synthetic_demo"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "INC-2076",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.78412801669167,
+          32.23164028387204
+        ]
+      },
+      "properties": {
+        "incident_id": "INC-2076",
+        "incident_type": "Corrosion",
+        "severity": "High",
+        "status": "Resolved",
+        "reported_date": "2023-04-04",
+        "resolved_date": null,
+        "asset_id": "TERM-3004",
+        "pipeline_id": "PL-1022",
+        "segment_id": "SEG-1022-1",
+        "operating_area": "North West Area",
+        "description": "Corrosion reported during a synthetic operational exercise.",
+        "root_cause_category": "Corrosion",
+        "source_type": "synthetic_demo"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "INC-2077",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.80302891997853,
+          31.18408922032715
+        ]
+      },
+      "properties": {
+        "incident_id": "INC-2077",
+        "incident_type": "Corrosion",
+        "severity": "Moderate",
+        "status": "Investigating",
+        "reported_date": "2024-05-05",
+        "resolved_date": "2024-11-10",
+        "asset_id": "VAL-1077",
+        "pipeline_id": "PL-1077",
+        "segment_id": "SEG-1077-1",
+        "operating_area": "South West Area",
+        "description": "Corrosion reported during a synthetic operational exercise.",
+        "root_cause_category": "Corrosion",
+        "source_type": "synthetic_demo"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "INC-2078",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.05613446021547,
+          31.62031917255677
+        ]
+      },
+      "properties": {
+        "incident_id": "INC-2078",
+        "incident_type": "Corrosion",
+        "severity": "Critical",
+        "status": "Resolved",
+        "reported_date": "2025-06-06",
+        "resolved_date": "2025-12-10",
+        "asset_id": "STA-2030",
+        "pipeline_id": "PL-1059",
+        "segment_id": "SEG-1059-3",
+        "operating_area": "South West Area",
+        "description": "Corrosion reported during a synthetic operational exercise.",
+        "root_cause_category": "Corrosion",
+        "source_type": "synthetic_demo"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "INC-2079",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.93079722063115,
+          32.34934121559836
+        ]
+      },
+      "properties": {
+        "incident_id": "INC-2079",
+        "incident_type": "Corrosion",
+        "severity": "Low",
+        "status": "Resolved",
+        "reported_date": "2020-07-07",
+        "resolved_date": null,
+        "asset_id": "FAC-4019",
+        "pipeline_id": "PL-1055",
+        "segment_id": "SEG-1055-1",
+        "operating_area": "North East Area",
+        "description": "Corrosion reported during a synthetic operational exercise.",
+        "root_cause_category": "Corrosion",
+        "source_type": "synthetic_demo"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "INC-2080",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.83456600652303,
+          32.442015166218525
+        ]
+      },
+      "properties": {
+        "incident_id": "INC-2080",
+        "incident_type": "Third Party Damage",
+        "severity": "Moderate",
+        "status": "Open",
+        "reported_date": "2021-08-08",
+        "resolved_date": "2021-12-10",
+        "asset_id": "TERM-3008",
+        "pipeline_id": "PL-1050",
+        "segment_id": "SEG-1050-2",
+        "operating_area": "North West Area",
+        "description": "Third Party Damage reported during a synthetic operational exercise.",
+        "root_cause_category": "Corrosion",
+        "source_type": "synthetic_demo"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "INC-2081",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.24525288783208,
+          32.39443218610447
+        ]
+      },
+      "properties": {
+        "incident_id": "INC-2081",
+        "incident_type": "Third Party Damage",
+        "severity": "Low",
+        "status": "Open",
+        "reported_date": "2022-09-01",
+        "resolved_date": "2022-11-10",
+        "asset_id": "VAL-1081",
+        "pipeline_id": "PL-1081",
+        "segment_id": "SEG-1081-1",
+        "operating_area": "North West Area",
+        "description": "Third Party Damage reported during a synthetic operational exercise.",
+        "root_cause_category": "Corrosion",
+        "source_type": "synthetic_demo"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "INC-2082",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.51769995148474,
+          31.005184000250864
+        ]
+      },
+      "properties": {
+        "incident_id": "INC-2082",
+        "incident_type": "Third Party Damage",
+        "severity": "Moderate",
+        "status": "Resolved",
+        "reported_date": "2023-01-02",
+        "resolved_date": null,
+        "asset_id": "STA-2034",
+        "pipeline_id": "PL-1067",
+        "segment_id": "SEG-1067-1",
+        "operating_area": "South East Area",
+        "description": "Third Party Damage reported during a synthetic operational exercise.",
+        "root_cause_category": "Corrosion",
+        "source_type": "synthetic_demo"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "INC-2083",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.51077050071417,
+          31.005184000250864
+        ]
+      },
+      "properties": {
+        "incident_id": "INC-2083",
+        "incident_type": "Third Party Damage",
+        "severity": "High",
+        "status": "Resolved",
+        "reported_date": "2024-02-03",
+        "resolved_date": "2024-11-10",
+        "asset_id": "FAC-4023",
+        "pipeline_id": "PL-1067",
+        "segment_id": "SEG-1067-2",
+        "operating_area": "South East Area",
+        "description": "Third Party Damage reported during a synthetic operational exercise.",
+        "root_cause_category": "Corrosion",
+        "source_type": "synthetic_demo"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "INC-2084",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.30200449266336,
+          31.095010706138357
+        ]
+      },
+      "properties": {
+        "incident_id": "INC-2084",
+        "incident_type": "Corrosion",
+        "severity": "Moderate",
+        "status": "Open",
+        "reported_date": "2025-03-04",
+        "resolved_date": "2025-12-10",
+        "asset_id": "TERM-3012",
+        "pipeline_id": "PL-1078",
+        "segment_id": "SEG-1078-3",
+        "operating_area": "South West Area",
+        "description": "Corrosion reported during a synthetic operational exercise.",
+        "root_cause_category": "Corrosion",
+        "source_type": "synthetic_demo"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "INC-2085",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.89143727190712,
+          32.011972139885174
+        ]
+      },
+      "properties": {
+        "incident_id": "INC-2085",
+        "incident_type": "Corrosion",
+        "severity": "Critical",
+        "status": "Investigating",
+        "reported_date": "2020-04-05",
+        "resolved_date": null,
+        "asset_id": "VAL-1085",
+        "pipeline_id": "PL-1085",
+        "segment_id": "SEG-1085-1",
+        "operating_area": "North East Area",
+        "description": "Corrosion reported during a synthetic operational exercise.",
+        "root_cause_category": "Corrosion",
+        "source_type": "synthetic_demo"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "INC-2086",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.18561689219587,
+          31.429627068694575
+        ]
+      },
+      "properties": {
+        "incident_id": "INC-2086",
+        "incident_type": "Corrosion",
+        "severity": "High",
+        "status": "Open",
+        "reported_date": "2021-05-06",
+        "resolved_date": "2021-12-10",
+        "asset_id": "STA-2038",
+        "pipeline_id": "PL-1075",
+        "segment_id": "SEG-1075-2",
+        "operating_area": "South West Area",
+        "description": "Corrosion reported during a synthetic operational exercise.",
+        "root_cause_category": "Corrosion",
+        "source_type": "synthetic_demo"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "INC-2087",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.47740212771049,
+          30.968448743654875
+        ]
+      },
+      "properties": {
+        "incident_id": "INC-2087",
+        "incident_type": "Third Party Damage",
+        "severity": "High",
+        "status": "Open",
+        "reported_date": "2022-06-07",
+        "resolved_date": "2022-11-10",
+        "asset_id": "FAC-4027",
+        "pipeline_id": "PL-1079",
+        "segment_id": "SEG-1079-3",
+        "operating_area": "South West Area",
+        "description": "Third Party Damage reported during a synthetic operational exercise.",
+        "root_cause_category": "Corrosion",
+        "source_type": "synthetic_demo"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "INC-2088",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.78412801669167,
+          32.23164028387204
+        ]
+      },
+      "properties": {
+        "incident_id": "INC-2088",
+        "incident_type": "Corrosion",
+        "severity": "Low",
+        "status": "Resolved",
+        "reported_date": "2023-07-08",
+        "resolved_date": null,
+        "asset_id": "TERM-3004",
+        "pipeline_id": "PL-1022",
+        "segment_id": "SEG-1022-1",
+        "operating_area": "North West Area",
+        "description": "Corrosion reported during a synthetic operational exercise.",
+        "root_cause_category": "Corrosion",
+        "source_type": "synthetic_demo"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "INC-2089",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.44465283702631,
+          31.529330732876872
+        ]
+      },
+      "properties": {
+        "incident_id": "INC-2089",
+        "incident_type": "Corrosion",
+        "severity": "Low",
+        "status": "Open",
+        "reported_date": "2024-08-01",
+        "resolved_date": "2024-11-10",
+        "asset_id": "VAL-1089",
+        "pipeline_id": "PL-1089",
+        "segment_id": "SEG-1089-1",
+        "operating_area": "South West Area",
+        "description": "Corrosion reported during a synthetic operational exercise.",
+        "root_cause_category": "Corrosion",
+        "source_type": "synthetic_demo"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "INC-2090",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.86444800001892,
+          33.09906045695771
+        ]
+      },
+      "properties": {
+        "incident_id": "INC-2090",
+        "incident_type": "Third Party Damage",
+        "severity": "Moderate",
+        "status": "Open",
+        "reported_date": "2025-09-02",
+        "resolved_date": "2025-12-10",
+        "asset_id": "STA-2042",
+        "pipeline_id": "PL-1083",
+        "segment_id": "SEG-1083-3",
+        "operating_area": "North East Area",
+        "description": "Third Party Damage reported during a synthetic operational exercise.",
+        "root_cause_category": "Corrosion",
+        "source_type": "synthetic_demo"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "INC-2091",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.94045554751835,
+          31.687967438268913
+        ]
+      },
+      "properties": {
+        "incident_id": "INC-2091",
+        "incident_type": "Third Party Damage",
+        "severity": "Critical",
+        "status": "Investigating",
+        "reported_date": "2020-01-03",
+        "resolved_date": null,
+        "asset_id": "FAC-4001",
+        "pipeline_id": "PL-1001",
+        "segment_id": "SEG-1001-1",
+        "operating_area": "South West Area",
+        "description": "Third Party Damage reported during a synthetic operational exercise.",
+        "root_cause_category": "Corrosion",
+        "source_type": "synthetic_demo"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "INC-2092",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.83456600652303,
+          32.442015166218525
+        ]
+      },
+      "properties": {
+        "incident_id": "INC-2092",
+        "incident_type": "Third Party Damage",
+        "severity": "Low",
+        "status": "Resolved",
+        "reported_date": "2021-02-04",
+        "resolved_date": "2021-12-10",
+        "asset_id": "TERM-3008",
+        "pipeline_id": "PL-1050",
+        "segment_id": "SEG-1050-2",
+        "operating_area": "North West Area",
+        "description": "Third Party Damage reported during a synthetic operational exercise.",
+        "root_cause_category": "Corrosion",
+        "source_type": "synthetic_demo"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "INC-2093",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.07665540471693,
+          30.997170597459775
+        ]
+      },
+      "properties": {
+        "incident_id": "INC-2093",
+        "incident_type": "Third Party Damage",
+        "severity": "High",
+        "status": "Open",
+        "reported_date": "2022-03-05",
+        "resolved_date": "2022-11-10",
+        "asset_id": "VAL-1093",
+        "pipeline_id": "PL-1093",
+        "segment_id": "SEG-1093-1",
+        "operating_area": "South West Area",
+        "description": "Third Party Damage reported during a synthetic operational exercise.",
+        "root_cause_category": "Corrosion",
+        "source_type": "synthetic_demo"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "INC-2094",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.07567818836611,
+          31.64402175480449
+        ]
+      },
+      "properties": {
+        "incident_id": "INC-2094",
+        "incident_type": "Third Party Damage",
+        "severity": "Critical",
+        "status": "Investigating",
+        "reported_date": "2023-04-06",
+        "resolved_date": null,
+        "asset_id": "STA-2046",
+        "pipeline_id": "PL-1091",
+        "segment_id": "SEG-1091-1",
+        "operating_area": "South West Area",
+        "description": "Third Party Damage reported during a synthetic operational exercise.",
+        "root_cause_category": "Corrosion",
+        "source_type": "synthetic_demo"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "INC-2095",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.65408462738014,
+          32.078129241457894
+        ]
+      },
+      "properties": {
+        "incident_id": "INC-2095",
+        "incident_type": "Third Party Damage",
+        "severity": "Moderate",
+        "status": "Resolved",
+        "reported_date": "2024-05-07",
+        "resolved_date": "2024-11-10",
+        "asset_id": "FAC-4005",
+        "pipeline_id": "PL-1013",
+        "segment_id": "SEG-1013-2",
+        "operating_area": "North West Area",
+        "description": "Third Party Damage reported during a synthetic operational exercise.",
+        "root_cause_category": "Corrosion",
+        "source_type": "synthetic_demo"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "INC-2096",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.30200449266336,
+          31.095010706138357
+        ]
+      },
+      "properties": {
+        "incident_id": "INC-2096",
+        "incident_type": "Third Party Damage",
+        "severity": "High",
+        "status": "Open",
+        "reported_date": "2025-06-08",
+        "resolved_date": "2025-12-10",
+        "asset_id": "TERM-3012",
+        "pipeline_id": "PL-1078",
+        "segment_id": "SEG-1078-3",
+        "operating_area": "South West Area",
+        "description": "Third Party Damage reported during a synthetic operational exercise.",
+        "root_cause_category": "Corrosion",
+        "source_type": "synthetic_demo"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "INC-2097",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.36370429369589,
+          32.10441846419111
+        ]
+      },
+      "properties": {
+        "incident_id": "INC-2097",
+        "incident_type": "Third Party Damage",
+        "severity": "Critical",
+        "status": "Resolved",
+        "reported_date": "2020-07-01",
+        "resolved_date": null,
+        "asset_id": "VAL-1097",
+        "pipeline_id": "PL-1097",
+        "segment_id": "SEG-1097-1",
+        "operating_area": "North West Area",
+        "description": "Third Party Damage reported during a synthetic operational exercise.",
+        "root_cause_category": "Corrosion",
+        "source_type": "synthetic_demo"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "INC-2098",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.95569805523256,
+          31.502805084389752
+        ]
+      },
+      "properties": {
+        "incident_id": "INC-2098",
+        "incident_type": "Corrosion",
+        "severity": "Moderate",
+        "status": "Resolved",
+        "reported_date": "2021-08-02",
+        "resolved_date": "2021-12-10",
+        "asset_id": "STA-2002",
+        "pipeline_id": "PL-1003",
+        "segment_id": "SEG-1003-2",
+        "operating_area": "South West Area",
+        "description": "Corrosion reported during a synthetic operational exercise.",
+        "root_cause_category": "Corrosion",
+        "source_type": "synthetic_demo"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "INC-2099",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.71445316848876,
+          32.73831455626089
+        ]
+      },
+      "properties": {
+        "incident_id": "INC-2099",
+        "incident_type": "Corrosion",
+        "severity": "Low",
+        "status": "Investigating",
+        "reported_date": "2022-09-03",
+        "resolved_date": "2022-11-10",
+        "asset_id": "FAC-4009",
+        "pipeline_id": "PL-1025",
+        "segment_id": "SEG-1025-3",
+        "operating_area": "North West Area",
+        "description": "Corrosion reported during a synthetic operational exercise.",
+        "root_cause_category": "Corrosion",
+        "source_type": "synthetic_demo"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "INC-2100",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.78412801669167,
+          32.23164028387204
+        ]
+      },
+      "properties": {
+        "incident_id": "INC-2100",
+        "incident_type": "Equipment Failure",
+        "severity": "High",
+        "status": "Open",
+        "reported_date": "2023-01-04",
+        "resolved_date": null,
+        "asset_id": "TERM-3004",
+        "pipeline_id": "PL-1022",
+        "segment_id": "SEG-1022-1",
+        "operating_area": "North West Area",
+        "description": "Equipment Failure reported during a synthetic operational exercise.",
+        "root_cause_category": "Operations",
+        "source_type": "synthetic_demo"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "INC-2101",
+      "geometry": null,
+      "properties": {
+        "incident_id": "INC-2101",
+        "incident_type": "Environmental Concern",
+        "severity": "Moderate",
+        "status": "Open",
+        "reported_date": "2026-10-07",
+        "resolved_date": null,
+        "asset_id": "ASSET-DOES-NOT-EXIST",
+        "pipeline_id": "PL-1001",
+        "segment_id": "SEG-1001-1",
+        "operating_area": "North West Area",
+        "description": "Controlled QA case: incident has a missing asset reference and null geometry.",
+        "root_cause_category": "Environmental",
+        "source_type": "synthetic_demo",
+        "qa_expected_issue": "INVALID_ASSET_REFERENCE"
+      }
+    }
+  ]
+}

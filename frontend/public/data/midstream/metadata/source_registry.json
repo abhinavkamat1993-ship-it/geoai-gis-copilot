@@ -1,0 +1,186 @@
+{
+  "as_of": "2026-10-07",
+  "study_area": {
+    "name": "Midland–Odessa, Permian Basin, Texas",
+    "bbox_wgs84": [
+      -103.5,
+      30.8,
+      -100.5,
+      33.2
+    ]
+  },
+  "sources": [
+    {
+      "dataset": "reference/pipelines.geojson",
+      "source_type": "public_reference",
+      "source_name": "U.S. DOE/NETL EIA pipeline Feature Service",
+      "source_url": "https://arcgis.netl.doe.gov/server/rest/services/Hosted/EIA_pipeline_data/FeatureServer",
+      "usage": "Clipped reference geography only; no restricted operational data is inferred.",
+      "last_updated": null,
+      "retrieved_on": "2026-10-07",
+      "notes": "Service layers 0–3: HGL, petroleum products, crude oil trunk, and natural gas interstate/intrastate. The public service exposes route geometry and limited fields. Local pipeline_id is a stable key derived from service layer/object ID."
+    },
+    {
+      "dataset": "reference/roads",
+      "source_type": "public_reference",
+      "source_name": "TIGERweb Primary Roads",
+      "source_url": "https://tigerweb.geo.census.gov/arcgis/rest/services/TIGERweb/Transportation/MapServer/2",
+      "usage": "Live public reference service, loaded on demand in the current map extent.",
+      "last_updated": null,
+      "notes": "Public reference road geography; not a dispatch-grade routing network."
+    },
+    {
+      "dataset": "reference/rivers",
+      "source_type": "public_reference",
+      "source_name": "3D Hydrography Program Flowlines",
+      "source_url": "https://3dhp.nationalmap.gov/arcgis/rest/services/usgs_3dhp_all/FeatureServer/50",
+      "usage": "Live public reference service, loaded on demand in the current map extent.",
+      "last_updated": null,
+      "notes": "Public hydrography context; coverage blends 3DHP and legacy NHD."
+    },
+    {
+      "dataset": "reference/water_bodies",
+      "source_type": "public_reference",
+      "source_name": "3D Hydrography Program Waterbodies",
+      "source_url": "https://3dhp.nationalmap.gov/arcgis/rest/services/usgs_3dhp_all/FeatureServer/60",
+      "usage": "Live public reference service, loaded on demand in the current map extent.",
+      "last_updated": null,
+      "notes": "Public hydrography context; not survey-grade or a regulatory determination."
+    },
+    {
+      "dataset": "reference/administrative_areas",
+      "source_type": "public_reference",
+      "source_name": "TIGERweb Counties",
+      "source_url": "https://tigerweb.geo.census.gov/arcgis/rest/services/TIGERweb/State_County/MapServer/1",
+      "usage": "Live public reference service, loaded on demand in the current map extent.",
+      "last_updated": null,
+      "notes": "Public county reference boundaries."
+    },
+    {
+      "dataset": "operational/pipelines.geojson",
+      "source_type": "synthetic_demo",
+      "source_name": "Generated GeoAI Copilot demonstration data",
+      "source_url": null,
+      "usage": "For software demos, QA, training, and GIS workflow prototyping only.",
+      "last_updated": "2026-10-07",
+      "notes": "All operational attributes and records are synthetic; not operator, dispatch, integrity, environmental, SCADA, or safety data."
+    },
+    {
+      "dataset": "operational/pipeline_segments.geojson",
+      "source_type": "synthetic_demo",
+      "source_name": "Generated GeoAI Copilot demonstration data",
+      "source_url": null,
+      "usage": "For software demos, QA, training, and GIS workflow prototyping only.",
+      "last_updated": "2026-10-07",
+      "notes": "All operational attributes and records are synthetic; not operator, dispatch, integrity, environmental, SCADA, or safety data."
+    },
+    {
+      "dataset": "operational/valves.geojson",
+      "source_type": "synthetic_demo",
+      "source_name": "Generated GeoAI Copilot demonstration data",
+      "source_url": null,
+      "usage": "For software demos, QA, training, and GIS workflow prototyping only.",
+      "last_updated": "2026-10-07",
+      "notes": "All operational attributes and records are synthetic; not operator, dispatch, integrity, environmental, SCADA, or safety data."
+    },
+    {
+      "dataset": "operational/stations.geojson",
+      "source_type": "synthetic_demo",
+      "source_name": "Generated GeoAI Copilot demonstration data",
+      "source_url": null,
+      "usage": "For software demos, QA, training, and GIS workflow prototyping only.",
+      "last_updated": "2026-10-07",
+      "notes": "All operational attributes and records are synthetic; not operator, dispatch, integrity, environmental, SCADA, or safety data."
+    },
+    {
+      "dataset": "operational/terminals.geojson",
+      "source_type": "synthetic_demo",
+      "source_name": "Generated GeoAI Copilot demonstration data",
+      "source_url": null,
+      "usage": "For software demos, QA, training, and GIS workflow prototyping only.",
+      "last_updated": "2026-10-07",
+      "notes": "All operational attributes and records are synthetic; not operator, dispatch, integrity, environmental, SCADA, or safety data."
+    },
+    {
+      "dataset": "operational/facilities.geojson",
+      "source_type": "synthetic_demo",
+      "source_name": "Generated GeoAI Copilot demonstration data",
+      "source_url": null,
+      "usage": "For software demos, QA, training, and GIS workflow prototyping only.",
+      "last_updated": "2026-10-07",
+      "notes": "All operational attributes and records are synthetic; not operator, dispatch, integrity, environmental, SCADA, or safety data."
+    },
+    {
+      "dataset": "operational/incidents.geojson",
+      "source_type": "synthetic_demo",
+      "source_name": "Generated GeoAI Copilot demonstration data",
+      "source_url": null,
+      "usage": "For software demos, QA, training, and GIS workflow prototyping only.",
+      "last_updated": "2026-10-07",
+      "notes": "All operational attributes and records are synthetic; not operator, dispatch, integrity, environmental, SCADA, or safety data."
+    },
+    {
+      "dataset": "operational/leak_events.geojson",
+      "source_type": "synthetic_demo",
+      "source_name": "Generated GeoAI Copilot demonstration data",
+      "source_url": null,
+      "usage": "For software demos, QA, training, and GIS workflow prototyping only.",
+      "last_updated": "2026-10-07",
+      "notes": "All operational attributes and records are synthetic; not operator, dispatch, integrity, environmental, SCADA, or safety data."
+    },
+    {
+      "dataset": "operational/work_orders.geojson",
+      "source_type": "synthetic_demo",
+      "source_name": "Generated GeoAI Copilot demonstration data",
+      "source_url": null,
+      "usage": "For software demos, QA, training, and GIS workflow prototyping only.",
+      "last_updated": "2026-10-07",
+      "notes": "All operational attributes and records are synthetic; not operator, dispatch, integrity, environmental, SCADA, or safety data."
+    },
+    {
+      "dataset": "operational/inspections.geojson",
+      "source_type": "synthetic_demo",
+      "source_name": "Generated GeoAI Copilot demonstration data",
+      "source_url": null,
+      "usage": "For software demos, QA, training, and GIS workflow prototyping only.",
+      "last_updated": "2026-10-07",
+      "notes": "All operational attributes and records are synthetic; not operator, dispatch, integrity, environmental, SCADA, or safety data."
+    },
+    {
+      "dataset": "operational/corrosion_records.geojson",
+      "source_type": "synthetic_demo",
+      "source_name": "Generated GeoAI Copilot demonstration data",
+      "source_url": null,
+      "usage": "For software demos, QA, training, and GIS workflow prototyping only.",
+      "last_updated": "2026-10-07",
+      "notes": "All operational attributes and records are synthetic; not operator, dispatch, integrity, environmental, SCADA, or safety data."
+    },
+    {
+      "dataset": "operational/row_records.geojson",
+      "source_type": "synthetic_demo",
+      "source_name": "Generated GeoAI Copilot demonstration data",
+      "source_url": null,
+      "usage": "For software demos, QA, training, and GIS workflow prototyping only.",
+      "last_updated": "2026-10-07",
+      "notes": "All operational attributes and records are synthetic; not operator, dispatch, integrity, environmental, SCADA, or safety data."
+    },
+    {
+      "dataset": "operational/operating_areas.geojson",
+      "source_type": "synthetic_demo",
+      "source_name": "Generated GeoAI Copilot demonstration data",
+      "source_url": null,
+      "usage": "For software demos, QA, training, and GIS workflow prototyping only.",
+      "last_updated": "2026-10-07",
+      "notes": "All operational attributes and records are synthetic; not operator, dispatch, integrity, environmental, SCADA, or safety data."
+    },
+    {
+      "dataset": "operational/environmental_areas.geojson",
+      "source_type": "synthetic_demo",
+      "source_name": "Generated GeoAI Copilot demonstration data",
+      "source_url": null,
+      "usage": "For software demos, QA, training, and GIS workflow prototyping only.",
+      "last_updated": "2026-10-07",
+      "notes": "All operational attributes and records are synthetic; not operator, dispatch, integrity, environmental, SCADA, or safety data."
+    }
+  ]
+}

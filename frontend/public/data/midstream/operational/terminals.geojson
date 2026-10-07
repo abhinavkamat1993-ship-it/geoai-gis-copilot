@@ -1,0 +1,342 @@
+{
+  "type": "FeatureCollection",
+  "name": "terminals",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "TERM-3001",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.76558345070289,
+          31.689521037115693
+        ]
+      },
+      "properties": {
+        "asset_id": "TERM-3001",
+        "asset_type": "Terminal",
+        "status": "Active",
+        "pipeline_id": "PL-1001",
+        "segment_id": "SEG-1001-1",
+        "operating_area": "South West Area",
+        "criticality": "Critical",
+        "source_type": "synthetic_demo",
+        "latitude": 31.689521,
+        "longitude": -102.7655835,
+        "terminal_id": "TERM-3001",
+        "terminal_name": "Permian Demo Terminal 01",
+        "terminal_type": "Gas Processing Terminal",
+        "capacity": "2 million barrels",
+        "pipeline_connections": "PL-1001"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "TERM-3002",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.93429428041672,
+          32.09578924804243
+        ]
+      },
+      "properties": {
+        "asset_id": "TERM-3002",
+        "asset_type": "Terminal",
+        "status": "Active",
+        "pipeline_id": "PL-1008",
+        "segment_id": "SEG-1008-2",
+        "operating_area": "North East Area",
+        "criticality": "Low",
+        "source_type": "synthetic_demo",
+        "latitude": 32.0957892,
+        "longitude": -101.9342943,
+        "terminal_id": "TERM-3002",
+        "terminal_name": "Permian Demo Terminal 02",
+        "terminal_type": "Gas Processing Terminal",
+        "capacity": "3 million barrels",
+        "pipeline_connections": "PL-1008"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "TERM-3003",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.68639369298289,
+          33.16206769450562
+        ]
+      },
+      "properties": {
+        "asset_id": "TERM-3003",
+        "asset_type": "Terminal",
+        "status": "Active",
+        "pipeline_id": "PL-1015",
+        "segment_id": "SEG-1015-3",
+        "operating_area": "North West Area",
+        "criticality": "Low",
+        "source_type": "synthetic_demo",
+        "latitude": 33.1620677,
+        "longitude": -102.6863937,
+        "terminal_id": "TERM-3003",
+        "terminal_name": "Permian Demo Terminal 03",
+        "terminal_type": "Gas Processing Terminal",
+        "capacity": "4 million barrels",
+        "pipeline_connections": "PL-1015"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "TERM-3004",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.78412801669167,
+          32.23164028387204
+        ]
+      },
+      "properties": {
+        "asset_id": "TERM-3004",
+        "asset_type": "Terminal",
+        "status": "Active",
+        "pipeline_id": "PL-1022",
+        "segment_id": "SEG-1022-1",
+        "operating_area": "North West Area",
+        "criticality": "Moderate",
+        "source_type": "synthetic_demo",
+        "latitude": 32.2316403,
+        "longitude": -102.784128,
+        "terminal_id": "TERM-3004",
+        "terminal_name": "Permian Demo Terminal 04",
+        "terminal_type": "Gas Processing Terminal",
+        "capacity": "5 million barrels",
+        "pipeline_connections": "PL-1022"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "TERM-3005",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.35929124109266,
+          32.28890765305066
+        ]
+      },
+      "properties": {
+        "asset_id": "TERM-3005",
+        "asset_type": "Terminal",
+        "status": "Active",
+        "pipeline_id": "PL-1029",
+        "segment_id": "SEG-1029-2",
+        "operating_area": "North West Area",
+        "criticality": "Moderate",
+        "source_type": "synthetic_demo",
+        "latitude": 32.2889077,
+        "longitude": -103.3592912,
+        "terminal_id": "TERM-3005",
+        "terminal_name": "Permian Demo Terminal 05",
+        "terminal_type": "Gas Processing Terminal",
+        "capacity": "6 million barrels",
+        "pipeline_connections": "PL-1029"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "TERM-3006",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.1768288049241,
+          31.42429436993296
+        ]
+      },
+      "properties": {
+        "asset_id": "TERM-3006",
+        "asset_type": "Terminal",
+        "status": "Active",
+        "pipeline_id": "PL-1036",
+        "segment_id": "SEG-1036-3",
+        "operating_area": "South West Area",
+        "criticality": "Low",
+        "source_type": "synthetic_demo",
+        "latitude": 31.4242944,
+        "longitude": -103.1768288,
+        "terminal_id": "TERM-3006",
+        "terminal_name": "Permian Demo Terminal 06",
+        "terminal_type": "Gas Processing Terminal",
+        "capacity": "7 million barrels",
+        "pipeline_connections": "PL-1036"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "TERM-3007",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.3164037919918,
+          32.005434372548834
+        ]
+      },
+      "properties": {
+        "asset_id": "TERM-3007",
+        "asset_type": "Terminal",
+        "status": "Active",
+        "pipeline_id": "PL-1043",
+        "segment_id": "SEG-1043-1",
+        "operating_area": "North East Area",
+        "criticality": "Moderate",
+        "source_type": "synthetic_demo",
+        "latitude": 32.0054344,
+        "longitude": -101.3164038,
+        "terminal_id": "TERM-3007",
+        "terminal_name": "Permian Demo Terminal 07",
+        "terminal_type": "Gas Processing Terminal",
+        "capacity": "8 million barrels",
+        "pipeline_connections": "PL-1043"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "TERM-3008",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.83456600652303,
+          32.442015166218525
+        ]
+      },
+      "properties": {
+        "asset_id": "TERM-3008",
+        "asset_type": "Terminal",
+        "status": "Active",
+        "pipeline_id": "PL-1050",
+        "segment_id": "SEG-1050-2",
+        "operating_area": "North West Area",
+        "criticality": "Moderate",
+        "source_type": "synthetic_demo",
+        "latitude": 32.4420152,
+        "longitude": -102.834566,
+        "terminal_id": "TERM-3008",
+        "terminal_name": "Permian Demo Terminal 08",
+        "terminal_type": "Gas Processing Terminal",
+        "capacity": "9 million barrels",
+        "pipeline_connections": "PL-1050"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "TERM-3009",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.48285453857906,
+          32.81841851956028
+        ]
+      },
+      "properties": {
+        "asset_id": "TERM-3009",
+        "asset_type": "Terminal",
+        "status": "Active",
+        "pipeline_id": "PL-1057",
+        "segment_id": "SEG-1057-3",
+        "operating_area": "North West Area",
+        "criticality": "Moderate",
+        "source_type": "synthetic_demo",
+        "latitude": 32.8184185,
+        "longitude": -103.4828545,
+        "terminal_id": "TERM-3009",
+        "terminal_name": "Permian Demo Terminal 09",
+        "terminal_type": "Gas Processing Terminal",
+        "capacity": "10 million barrels",
+        "pipeline_connections": "PL-1057"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "TERM-3010",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.27433394910832,
+          31.05508867477255
+        ]
+      },
+      "properties": {
+        "asset_id": "TERM-3010",
+        "asset_type": "Terminal",
+        "status": "Active",
+        "pipeline_id": "PL-1064",
+        "segment_id": "SEG-1064-1",
+        "operating_area": "South West Area",
+        "criticality": "Critical",
+        "source_type": "synthetic_demo",
+        "latitude": 31.0550887,
+        "longitude": -102.2743339,
+        "terminal_id": "TERM-3010",
+        "terminal_name": "Permian Demo Terminal 10",
+        "terminal_type": "Gas Processing Terminal",
+        "capacity": "11 million barrels",
+        "pipeline_connections": "PL-1064"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "TERM-3011",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.3132987902379,
+          32.586904104833785
+        ]
+      },
+      "properties": {
+        "asset_id": "TERM-3011",
+        "asset_type": "Terminal",
+        "status": "Active",
+        "pipeline_id": "PL-1071",
+        "segment_id": "SEG-1071-2",
+        "operating_area": "North West Area",
+        "criticality": "Critical",
+        "source_type": "synthetic_demo",
+        "latitude": 32.5869041,
+        "longitude": -103.3132988,
+        "terminal_id": "TERM-3011",
+        "terminal_name": "Permian Demo Terminal 11",
+        "terminal_type": "Products Terminal",
+        "capacity": "12 million barrels",
+        "pipeline_connections": "PL-1071"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "TERM-3012",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.30200449266336,
+          31.095010706138357
+        ]
+      },
+      "properties": {
+        "asset_id": "TERM-3012",
+        "asset_type": "Terminal",
+        "status": "Active",
+        "pipeline_id": "PL-1078",
+        "segment_id": "SEG-1078-3",
+        "operating_area": "South West Area",
+        "criticality": "Low",
+        "source_type": "synthetic_demo",
+        "latitude": 31.0950107,
+        "longitude": -102.3020045,
+        "terminal_id": "TERM-3012",
+        "terminal_name": "Permian Demo Terminal 12",
+        "terminal_type": "Products Terminal",
+        "capacity": "13 million barrels",
+        "pipeline_connections": "PL-1078"
+      }
+    }
+  ]
+}

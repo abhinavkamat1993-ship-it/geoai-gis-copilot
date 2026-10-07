@@ -1,0 +1,162 @@
+{
+  "type": "FeatureCollection",
+  "name": "operating_areas",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "AREA-01",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -103.5,
+              32
+            ],
+            [
+              -102,
+              32
+            ],
+            [
+              -102,
+              33.2
+            ],
+            [
+              -103.5,
+              33.2
+            ],
+            [
+              -103.5,
+              32
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "area_id": "AREA-01",
+        "area_name": "North West Area",
+        "region": "Permian Basin",
+        "manager": "Demo Area Manager 01",
+        "status": "Active",
+        "source_type": "synthetic_demo"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "AREA-02",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -102,
+              32
+            ],
+            [
+              -100.5,
+              32
+            ],
+            [
+              -100.5,
+              33.2
+            ],
+            [
+              -102,
+              33.2
+            ],
+            [
+              -102,
+              32
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "area_id": "AREA-02",
+        "area_name": "North East Area",
+        "region": "Permian Basin",
+        "manager": "Demo Area Manager 02",
+        "status": "Active",
+        "source_type": "synthetic_demo"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "AREA-03",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -103.5,
+              30.8
+            ],
+            [
+              -102,
+              30.8
+            ],
+            [
+              -102,
+              32
+            ],
+            [
+              -103.5,
+              32
+            ],
+            [
+              -103.5,
+              30.8
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "area_id": "AREA-03",
+        "area_name": "South West Area",
+        "region": "Permian Basin",
+        "manager": "Demo Area Manager 03",
+        "status": "Active",
+        "source_type": "synthetic_demo"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "AREA-04",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -102,
+              30.8
+            ],
+            [
+              -100.5,
+              30.8
+            ],
+            [
+              -100.5,
+              32
+            ],
+            [
+              -102,
+              32
+            ],
+            [
+              -102,
+              30.8
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "area_id": "AREA-04",
+        "area_name": "South East Area",
+        "region": "Permian Basin",
+        "manager": "Demo Area Manager 04",
+        "status": "Active",
+        "source_type": "synthetic_demo"
+      }
+    }
+  ]
+}

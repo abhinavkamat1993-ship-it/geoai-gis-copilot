@@ -1,0 +1,156 @@
+{
+  "version": 1,
+  "expected_cases": [
+    {
+      "dataset": "operational/valves.geojson",
+      "feature_id": "VAL-1105",
+      "rule_id": "VALVE_PIPELINE_DISTANCE",
+      "note": "45 m away from assigned pipeline; threshold 25 m."
+    },
+    {
+      "dataset": "operational/valves.geojson",
+      "feature_id": "VAL-1106",
+      "rule_id": "MISSING_REQUIRED_ATTRIBUTE",
+      "field": "status"
+    },
+    {
+      "dataset": "operational/valves.geojson",
+      "feature_id": "VAL-1107",
+      "rule_id": "MISSING_REQUIRED_ATTRIBUTE",
+      "field": "pipeline_id"
+    },
+    {
+      "dataset": "operational/valves.geojson",
+      "feature_id": "VAL-1001",
+      "rule_id": "DUPLICATE_ASSET_ID",
+      "note": "A duplicate feature with this ID is appended intentionally."
+    },
+    {
+      "dataset": "operational/pipeline_segments.geojson",
+      "feature_id": "SEG-1010-2",
+      "rule_id": "PIPELINE_SEGMENT_GAP",
+      "note": "Segment start shifted 80 m from the previous segment end."
+    },
+    {
+      "dataset": "operational/incidents.geojson",
+      "feature_id": "INC-2101",
+      "rule_id": "INVALID_GEOMETRY",
+      "note": "Null geometry is allowed by GeoJSON and intentionally used as a QA case."
+    },
+    {
+      "dataset": "operational/incidents.geojson",
+      "feature_id": "INC-2101",
+      "rule_id": "INVALID_ASSET_REFERENCE"
+    },
+    {
+      "dataset": "operational/work_orders.geojson",
+      "feature_id": "WO-7270",
+      "rule_id": "ORPHAN_WORK_ORDER"
+    },
+    {
+      "dataset": "operational/inspections.geojson",
+      "feature_id": "INSP-5330",
+      "rule_id": "ORPHAN_INSPECTION"
+    },
+    {
+      "dataset": "snapshots/change_manifest.json",
+      "feature_id": "VAL-1003",
+      "rule_id": "RELATIONSHIP_CHANGE"
+    }
+  ],
+  "rules": [
+    {
+      "rule_id": "VALVE_PIPELINE_DISTANCE",
+      "name": "Valve to assigned pipeline distance",
+      "description": "Flag a valve geometry farther from its assigned pipeline than the configured tolerance.",
+      "severity": "error",
+      "layer": "valves",
+      "parameters": {
+        "maximum_distance_m": 25
+      }
+    },
+    {
+      "rule_id": "DUPLICATE_ASSET_ID",
+      "name": "Duplicate asset identifier",
+      "description": "Asset identifiers should be unique within an asset layer.",
+      "severity": "error",
+      "layer": "valves",
+      "parameters": {
+        "key": "asset_id"
+      }
+    },
+    {
+      "rule_id": "MISSING_REQUIRED_ATTRIBUTE",
+      "name": "Required attribute missing",
+      "description": "Required operational attributes such as status and pipeline_id should be present.",
+      "severity": "warning",
+      "layer": "valves",
+      "parameters": {
+        "fields": [
+          "status",
+          "pipeline_id"
+        ]
+      }
+    },
+    {
+      "rule_id": "INVALID_GEOMETRY",
+      "name": "Missing or invalid geometry",
+      "description": "Operational features require a valid geometry of the declared layer type.",
+      "severity": "error",
+      "layer": "incidents",
+      "parameters": {
+        "allow_null_only_when_documented": true
+      }
+    },
+    {
+      "rule_id": "PIPELINE_SEGMENT_GAP",
+      "name": "Pipeline segment network gap",
+      "description": "Adjacent segments for a pipeline should meet at the same node coordinate.",
+      "severity": "warning",
+      "layer": "pipeline_segments",
+      "parameters": {
+        "endpoint_tolerance_m": 5
+      }
+    },
+    {
+      "rule_id": "INVALID_ASSET_REFERENCE",
+      "name": "Invalid asset reference",
+      "description": "Incident, work, and inspection references must resolve to a known asset.",
+      "severity": "error",
+      "layer": "incidents",
+      "parameters": {
+        "foreign_key": "asset_id"
+      }
+    },
+    {
+      "rule_id": "ORPHAN_WORK_ORDER",
+      "name": "Work order references unknown asset",
+      "description": "Every work order asset_id should resolve to an asset record.",
+      "severity": "error",
+      "layer": "work_orders",
+      "parameters": {
+        "foreign_key": "asset_id"
+      }
+    },
+    {
+      "rule_id": "ORPHAN_INSPECTION",
+      "name": "Inspection references unknown asset",
+      "description": "Every inspection asset_id should resolve to an asset record.",
+      "severity": "error",
+      "layer": "inspections",
+      "parameters": {
+        "foreign_key": "asset_id"
+      }
+    },
+    {
+      "rule_id": "RELATIONSHIP_CHANGE",
+      "name": "Relationship changed between snapshots",
+      "description": "A changed foreign-key relationship should appear in the snapshot change manifest.",
+      "severity": "info",
+      "layer": "snapshots",
+      "parameters": {
+        "compare": "previous/current"
+      }
+    }
+  ]
+}

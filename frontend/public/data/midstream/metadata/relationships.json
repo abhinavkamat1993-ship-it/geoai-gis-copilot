@@ -1,0 +1,90 @@
+{
+  "primary_and_foreign_keys": [
+    {
+      "from": "operational/pipelines.pipeline_id",
+      "to": "operational/pipeline_segments.pipeline_id",
+      "cardinality": "1:M"
+    },
+    {
+      "from": "operational/pipeline_segments.segment_id",
+      "to": "operational/valves.segment_id",
+      "cardinality": "1:M"
+    },
+    {
+      "from": "operational/pipelines.pipeline_id",
+      "to": "operational/valves.pipeline_id",
+      "cardinality": "1:M"
+    },
+    {
+      "from": "operational/pipelines.pipeline_id",
+      "to": "operational/stations.pipeline_id",
+      "cardinality": "1:M"
+    },
+    {
+      "from": "operational/pipelines.pipeline_id",
+      "to": "operational/terminals.pipeline_id",
+      "cardinality": "1:M"
+    },
+    {
+      "from": "operational/pipelines.pipeline_id",
+      "to": "operational/facilities.pipeline_id",
+      "cardinality": "1:M"
+    },
+    {
+      "from": "operational/pipelines.pipeline_id",
+      "to": "operational/incidents.pipeline_id",
+      "cardinality": "1:M"
+    },
+    {
+      "from": "operational/pipelines.pipeline_id",
+      "to": "operational/work_orders.pipeline_id",
+      "cardinality": "1:M"
+    },
+    {
+      "from": "operational/pipelines.pipeline_id",
+      "to": "operational/inspections.pipeline_id",
+      "cardinality": "1:M"
+    },
+    {
+      "from": "operational/pipelines.pipeline_id",
+      "to": "operational/corrosion_records.pipeline_id",
+      "cardinality": "1:M"
+    },
+    {
+      "from": "operational/pipelines.pipeline_id",
+      "to": "operational/row_records.pipeline_id",
+      "cardinality": "1:1"
+    },
+    {
+      "from": "operational/operating_areas.area_name",
+      "to": "operational/pipelines.operating_area",
+      "cardinality": "1:M"
+    },
+    {
+      "from": "operational/valves.asset_id (and other asset layers)",
+      "to": "operational/inspections.asset_id",
+      "cardinality": "1:M"
+    },
+    {
+      "from": "operational/valves.asset_id (and other asset layers)",
+      "to": "operational/work_orders.asset_id",
+      "cardinality": "1:M"
+    },
+    {
+      "from": "operational/incidents.incident_id",
+      "to": "operational/leak_events.incident_id",
+      "cardinality": "1:M"
+    },
+    {
+      "from": "operational/inspections.inspection_id",
+      "to": "operational/corrosion_records.inspection_id",
+      "cardinality": "1:M"
+    },
+    {
+      "from": "reference/pipelines.pipeline_id",
+      "to": "operational/pipelines.reference_pipeline_id",
+      "cardinality": "1:1"
+    }
+  ],
+  "note": "Except for records explicitly marked qa_expected_issue, synthetic operational references resolve to records in the corresponding parent dataset. Feature geometry is WGS 84 GeoJSON; generated distance values use geodesic calculations, not raw degree distances."
+}

@@ -1,0 +1,43 @@
+{
+  "as_of": "2026-10-07",
+  "dataset": "valves",
+  "changes": [
+    {
+      "change_id": "CHG-001",
+      "asset_id": "VAL-1001",
+      "change_type": "attribute_updated",
+      "field": "status",
+      "previous": "Inactive",
+      "current": "Active",
+      "note": "Controlled status change."
+    },
+    {
+      "change_id": "CHG-002",
+      "asset_id": "VAL-1002",
+      "change_type": "geometry_moved",
+      "displacement_m": 35,
+      "note": "Controlled geometry movement."
+    },
+    {
+      "change_id": "CHG-003",
+      "asset_id": "VAL-1003",
+      "change_type": "relationship_updated",
+      "field": "pipeline_id",
+      "previous": "PL-1003",
+      "current": "PL-1002",
+      "note": "Controlled relationship change."
+    },
+    {
+      "change_id": "CHG-004",
+      "asset_id": "VAL-1004",
+      "change_type": "deleted",
+      "note": "Controlled deletion."
+    },
+    {
+      "change_id": "CHG-005",
+      "asset_id": "VAL-1013",
+      "change_type": "added",
+      "note": "Controlled addition."
+    }
+  ]
+}
